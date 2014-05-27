@@ -1,0 +1,11 @@
+n $pcch 7(F+-R 6/@3j barrier#cycle_barrier
+n $pcfY 7(F-Sc 6/@8v barrier#cycle_barrier
+n 'A&b* 7(F,&p 6/?KZ crossing#island
+n 'A9%r 7(F,$I 6/?dI barrier#gate bicycle#yes foot#yes
+n 'T1Rb 7(F*|^ 6/?]D barrier#gate bicycle#yes foot#yes
+n 'T1Rs 7(F+&E 6/?\4 barrier#gate bicycle#yes foot#yes
+n 'T1S] 7(F+n5 6/?\+ barrier#gate bicycle#yes foot#yes
+n 'T1Wl 7(F(?| 6/?[: barrier#bollard bicycle#yes foot#yes
+n 4fW^W 7(F(C` 6/?TM addr:housenumber#2 addr:street#Södra_Fjädermolnsgatan
+n 4fW^X 7(F([K 6/?UC addr:housenumber#4 addr:street#Södra_Fjädermolnsgatan
+n 4fW^^ 7(F(s= 6/?V9 addr:housenumber#6 addr:street#Södra_Fjädermolnsgatan

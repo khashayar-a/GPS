@@ -1,0 +1,247 @@
+w "M&F( highway#service
+d 1\1&( 7(EXmG 6/IF.
+d 1\1'G 7(EXtj 6/IHO
+d 1\1'/ 7(EXuk 6/IHj
+d 1\1&K 7(EY-d 6/IFH
+w "(s0C highway#service
+d -XP$- 7(EZj/ 6/IRf
+d 1_lSy 7(EZsZ 6/IQ3
+d -XP#G 7(E[0$ 6/IM9
+w .(S& foot#yes highway#steps name#Högåstrappan
+d "75%g 7(E\{b 5"JXP
+d 1c?%o 7(E]4B 6/HrJ
+d "75,c 7(E]:V 6/HrI
+w "O9a+ highway#footway
+d 1n"OW 7(EZaP 6/HIj
+d 1n"Ns 5'yy9 6/HY6
+d 1n"QW 7(EZ~k 6/HY.
+d 1n"OE 7(E[&) 6/HZ^
+w "M}6$ highway#service service#parking_aisle
+d E_S, 7(E])x 6/I@m
+d 1c?%L 6fL[( 6/IAt
+d 1c?%V 6fL\9 6/IFk
+d 1c?'G 7(E]:V 6/IGW
+d 1c?'( 7(E]:V 6/II`
+d 1c?&[ 7(E]4Y 5"J]R
+w C-`h bicycle#yes foot#yes highway#cycleway
+d $}ts# 7(E^X_ 6/Hzs
+d "75!< 7(E^0* 6/I"[
+d "75!= 7(E]c0 6/I*_
+d "75!> 7(E]Cq 5"JZy
+d "75!? 6fLZH 6/I47
+d 1c?&Z 7(E]!T 6/I5@
+d "75!@ 6fLX% 6/I6y
+d $w#Oj 6fLV\ 4.Us
+d "75!A 7(E\W[ 6/I9?
+d "75!B 7(E\Bp 6/I:O
+d 1c?&; 7(E\%' 6/I;V
+d "75!C 7(E[|8 6/I;m
+d "75!D 6fLMQ 6/I=\
+d "75!E 7(E[V_ 6/I?>
+d "75!F 7(E[II 6/IB>
+d -XP$? 7(E[9y 6/IGI
+d "75!H 7(E[.> 6/IJ3
+w "M}6' highway#footway
+d 1c?&; 7(E\%' 6/I;V
+d 1c?&# 7(E\%l 6/I<_
+w ONV} highway#footway
+d 1c?&Z 7(E]!T 6/I5@
+d 1c?'' 5'y{D 5"J[{
+d '$T0" 7(E]2y 6/I<&
+d 1c?&a 7(E]HP 6/I?"
+d &qYu) 7(E]_^ 5"J\r
+w BQzb bicycle#yes foot#yes highway#path
+d $w#Oj 6fLV\ 4.Us
+d $w#Oq 7(E\ZD 6/I8*
+d $w#Oo 7(E\L& 6/I7D
+d $w#Ov 7(E\B# 6/I6<
+d $w#Os 7(E\(e 6/I5j
+d $w#P" 6fLP" 6/I26
+d $w#P& 7(E[{3 6/I-y
+d $w#Ox 7(E[}V 6/I+J
+d $w#O| 7(E\!h 6/I%A
+w "'Kug bicycle#yes foot#yes highway#path wheelchair#yes
+d "fHUw 7(EXVB 6/I&8
+d *(7h7 7(EXS8 6/I)8
+d 1[To{ 7(EXT& 6/I*O
+d 516Ga 7(EXS_ 6/I,9
+d 516Gf 7(EXVS 6/I-,
+d *(7j9 7(EX_u 6/I-S
+d 516Gj 7(EXkO 5"JZh
+d *(7j; 7(EX{q 6/I1W
+d *(7j> 7(EY(} 6/I5.
+d 516Gn 7(EY-\ 6/I8T
+d *(7j@ 7(EY/Y 6/I9~
+d *(7jB 7(EY0* 6/I@H
+d *(7jD 7(EY/9 6/IBW
+d 516Gl 7(EY'@ 6/ICP
+w "(s0F foot#yes highway#cycleway
+d -XP#= 7(EZrg 6/IN?
+d *kRzX 7(EZW= 6/IR*
+d 1^s%\ 7(EZIn 6/IT"
+d "75!L 7(EZ;0 6/IU[
+d "75!M 7(EZ(x 6/IW.
+d *<[iU 7(EY~. 6/IX&
+w BQzg highway#footway name#Bernhard_Karlgrens_gångväg
+d $w#NP 7(E[C= 6/I7`
+d $w#NV 7(E[<! 6/I7-
+d $w#NZ 7(E[0h 6/I7t
+d $w#N^ 7(E[,G 6/I8r
+d $w#Nc 7(E[,G 6/I9c
+d $w#Ng 6fLGj 6/I;f
+d $w#Nl 6fLGj 6/I>>
+d $w#Np 7(E["| 6/I@D
+d $w#Nu 6fLDz 6/IBf
+d $w#Nz 7(EZjN 6/IEK
+d $w#O# 7(EZYk 6/IH1
+d $w#O& 6fL@R 6/IIz
+d $w#O+ 7(EZ,K 6/IKe
+d $w#O/ 7(EYmI 6/IMT
+d $w#O5 7(EYXE 6/IMb
+d $w#O? 7(EYN7 6/IML
+d &qCp< 7(EYIs 6/IME
+w "p<*& highway#footway
+d 516FR 7(EYeR 6/I<9
+d 516Gz 7(EY`, 6/I<&
+d 516Gx 7(EY^q 6/I:z
+d 516Gv 7(EYY' 6/I::
+d 516Gs 7(EYM{ 6/I9b
+d 516Gr 7(EYC% 5"J[r
+d 516Gp 7(EY;L 6/I9?
+d 516Gn 7(EY-\ 6/I8T
+w 293t foot#yes highway#steps
+d 1n"OO 6fL>= 6/HZ/
+d 1^s$? 7(EZ+S 6/HYF
+d 1^s#& 7(EZ%h 6/HY.
+d 1n"QP 7(EZ#m 6/HXC
+w "O9a' highway#footway
+d 1n"QM 7(EXj| 6/H\T
+d 1n"Pd 7(EY6* 6/Hjf
+d 1n"O" 7(EY9w 6/Hk.
+d 1n"Op 7(EY>' 6/Hj}
+d -L[yj 7(EY@X 6/Hke
+d -L[z$ 7(EYD} 5"JWY
+d 1n"Nk 6fL7a 6/Hmo
+w ONV= highway#steps
+d '$U$} 7(E\j& 5"JV]
+d &qYqr 6fLYE 6/HaX
+d &qYqs 6fL\f 6/H_9
+d '$U#+ 7(E]P^ 6/H\U
+w "O9aI highway#footway
+d 1n"P< 7(EZlr 6/HY@
+d 1n"Pb 7(EZpA 6/HY:
+d 1n"Ns 5'yy9 6/HY6
+w "O0ds highway#footway
+d 1m4+@ 7(EXZK 6/H]<
+d 1m4*z 7(EX_! 6/H]4
+d 1m4+i 7(EXbp 6/H]M
+d 1m4+. 7(EY.4 6/HkB
+d 1m4,5 6fL55 5"JWR
+d 1m4+T 7(EY-p 6/Hl_
+d 1m4+1 7(EXb] 6/Hqv
+d 1m4,) 7(EXYM 6/Hrq
+d 1m4+L 7(EX(R 6/Hxt
+d 1n"O' 6fL*U 6/HyY
+d 1[_a7 6fL)y 6/Hz@
+d 1m4,' 7(EWr\ 4.UY
+d 1m4+F 7(EW]# 6/I!H
+d 1m4*y 7(EW?a 6/I%V
+d 1m4+h 7(EW2Q 6/I'C
+d 1m4+, 7(EW/y 5"JZ%
+d 1m4,4 7(EW-5 6/I',
+d 1m4+n 7(EW(j 6/I%c
+d 1m4+N 7(EVt@ 6/H}o
+w ONVt highway#steps
+d '$U#+ 7(E]P^ 6/H\U
+d &qYt0 7(E]_{ 6/HZ)
+d &qYt4 7(E]pU 6/HZ1
+d &qYt6 7(E^)} 6/HVl
+d *<[LN 7(E^4W 6/HTe
+d ?}GE 7(E^8N 6/HT+
+w "O9a$ highway#footway
+d 1_lWj 6fLJ< 5"JSd
+d 1n"QY 7(E[Cf 6/HFF
+d 1n"OZ 7(E[T! 6/HK+
+d 1n"P? 7(E[B+ 6/HML
+d 1n"QF 7(E[X0 6/HS[
+d 1n"OE 7(E[&) 6/HZ^
+w BQzh bicycle#yes foot#yes highway#cycleway
+d "74zA 7(E[7q 6/I0.
+d $w#NP 7(E[C= 6/I7`
+d $w#OH 7(E[Q_ 6/I>"
+d "75!E 7(E[V_ 6/I?>
+w ONW< highway#steps
+d -XP$Z 7(E\?R 6/IGR
+d &qYvJ 7(E\EZ 6/IG~
+w "O9a. highway#footway
+d 1n"ON 7(EYjB 6/HQS
+d 1n"PS 7(EY{A 5"JUZ
+d 1n"QP 7(EZ#m 6/HXC
+d 1n"O$ 7(EZ*Q 5"JUL
+d 1n"Or 7(EZ$3 6/HOI
+w "(s0D bicycle#yes foot#yes highway#cycleway layer#-1 tunnel#yes
+d "75!H 7(E[.> 6/IJ3
+d -XP#= 7(EZrg 6/IN?
+w "MVCm highway#service service#parking_aisle
+d 1`?^@ 7(EXA| 6/I"2
+d 1`?^L 7(EXNy 6/H~J
+d 1`?^J 7(EY2s 6/Hv:
+w OLG{ highway#steps name#Carlandersstigen
+d $w#O9 7(EYB] 6/IM^
+d &qD%7 7(EY>G 6/IK*
+d &qD%< 7(EY<y 6/IF\
+d 1\1'9 6fL65 6/IEJ
+w "'Zl" highway#service
+d "fHQG 7(EYl* 5"JXx
+d -L[zD 7(EYmN 6/H|J
+d -L[z9 7(EY]k 6/H~\
+w OLJ$ bicycle#yes foot#yes highway#cycleway
+d "75!E 7(E[V_ 6/I?>
+d &qDD< 7(E[f: 6/I@i
+d &qDD= 7(E[p% 6/I?n
+d -XP#N 7(E[|S 6/I>s
+d 1c?&{ 7(E\'o 6/I?+
+d &qDD> 7(E\.8 6/I?:
+d &qDD? 7(E\7+ 6/I@M
+d E_S- 7(E\EX 6/IEN
+w "M&F3 highway#footway
+d 1\1&K 7(EY-d 6/IFH
+d 1\1'C 7(EY5J 6/IEV
+d 1\1'9 6fL65 6/IEJ
+d &qD%A 7(EY28 6/IC7
+d *(7jD 7(EY/9 6/IBW
+w "(s0@ highway#steps
+d -XP#6 7(E\KE 5"J]T
+d 1c?&} 7(E\FY 6/IJr
+d -XP$/ 7(E\@~ 6/IKz
+d -XP#J 7(E\;T 6/IMt
+d -XP#: 7(E\8] 6/IOh
+w "(s0E highway#steps tunnel#yes
+d &qYvJ 7(E\EZ 6/IG~
+d -XP#6 7(E\KE 5"J]T
+w "'Zk} highway#steps
+d -L[yo 7(E\7y 6/H\N
+d -L[z/ 7(E\)` 6/HY%
+w "M}6# highway#steps
+d 1c?&# 7(E\%l 6/I<_
+d 1c?%h 7(E\'G 6/I>I
+w "O9a0 highway#footway
+d 1n"Q/ 7(EZ[1 6/HJQ
+d 1n"P< 7(EZlr 6/HY@
+d 1n"OO 6fL>= 6/HZ/
+w "M}5x highway#footway
+d 1c?%h 7(E\'G 6/I>I
+d 1c?&{ 7(E\'o 6/I?+
+w "M}5w highway#steps name#Lundgrens_trappor
+d (11he 7(E\UJ 6/IZi
+d 1c?&g 7(E\Q_ 6/IVc
+d 'MO3' 7(E\Nt 6/IVG
+d $r2/% 7(E\G{ 6/IOR
+w OLF? highway#steps name#Carlandersstigen
+d &qCp< 7(EYIs 6/IME
+d &qCpH 7(EYYf 6/IR-
+d &qCpK 7(EYt) 6/IT.
+d "75!M 7(EZ(x 6/IW.
+w "(s0G highway#footway
+d E_S- 7(E\EX 6/IEN
+d -XP$Z 7(E\?R 6/IGR

@@ -1,0 +1,28 @@
+n 5I9) 7(EiO& 6/C=v highway#mini_roundabout
+n 5I9r 7(Ep~w 6/E#~ highway#traffic_signals
+n 5I9u 7(Enk* 6/DbJ highway#traffic_signals
+n 5I9x 7(EnN{ 6/D]] highway#traffic_signals
+n j&b] 7(Ek8c 6/C'F highway#traffic_signals
+n $8A^. 6fM~9 5"J*] highway#traffic_signals
+n $_I9b 6fM}5 6/C8w highway#bus_stop name#Sannegårdshamnen
+n $hZ.h 7(Ek=@ 5"J+e highway#crossing
+n $hZ.i 6fN&Q 6/D(t highway#crossing
+n $hZ0U 7(Ejq2 6/Ch6 highway#crossing
+n $hZ0W 7(Ej^( 6/Cgh highway#crossing
+n %"to{ 7(Eo\w 6/DpM highway#traffic_signals
+n %ahxw 7(EhXZ 5"J"d barrier#gate
+n %ahxx 7(EhRe 5"J!x barrier#gate
+n (7hn' 7(Eig[ 6/C}* amenity#cafe
+n (7hn( 7(Eju0 5"J*o name#Pressbyrån shop#kiosk
+n (7hn+ 7(Ek*i 6/C~r highway#crossing
+n (7hn, 7(Eji\ 6/D%7 highway#crossing
+n (7hn1 7(Ek*( 6/CdH highway#crossing
+n (8}TL 7(EjxP 6/D%, amenity#post_box
+n (o7}( 7(Eh6v 6/CX@ amenity#fast_food
+n (o7}* 7(Eh@_ 5"J&4 amenity#restaurant
+n )V2$v 7(EgCM 6/D!+ amenity#restaurant name#Restaurang_Äran opening_hours#Mo-Fr_11:00-14:00 phone#+46317792320 website#http://rams.se/
+n )V2$w 7(Eh=< 5"J)b amenity#cafe
+n ,rhyC 7(En?< 6/D[! highway#bus_stop name#Regnbågsgatan
+n ,rhyJ 7(EpIL 6/D}T highway#bus_stop name#Pumpgatan
+n -(,/T 7(Ek$" 6/D#3 highway#bus_stop name#Lindholmen
+n -Zycm 7(EilX 6/C[0 is_in#Hisingen,_Göteborg,_Sverige name#Lindholmen place#suburb

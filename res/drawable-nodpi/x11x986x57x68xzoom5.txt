@@ -1,0 +1,34 @@
+n ?ziF 7(ESS# 6/Jhm highway#traffic_signals
+n w5Ue 7(ESIG 6/Je@ highway#traffic_signals
+n "1Qa\ 7(EO}" 5"J_D traffic_calming#hump
+n "6g{@ 7(EKE2 6/IZI traffic_calming#hump
+n "6g{I 7(EJ0P 6/ILy traffic_calming#hump
+n "6g{Q 7(EI*7 6/IJw bicycle#yes crossing#uncontrolled;island foot#yes highway#crossing
+n "7U@5 7(EOIq 5"Jeu crossing#uncontrolled highway#crossing
+n #+ur9 7(EM*f 6/J0R is_in#Göteborg name#Krokslätt place#suburb
+n %1:?+ 7(EM%$ 6/IR" addr:housenumber#86 addr:street#Gibraltargatan
+n %1:?1 7(ELhk 6/IUU addr:housenumber#88 addr:street#Gibraltargatan
+n %1:?9 7(ELF" 6/IW$ addr:housenumber#90 addr:street#Gibraltargatan
+n %1:?= 7(EL'P 6/IVm addr:housenumber#92 addr:street#Gibraltargatan
+n %TYPm 7(EM+. 6/IUd leisure#playground
+n &$MhR 7(ER0N 6/I9B crossing#traffic_signals;island highway#crossing
+n &$MhU 7(EPW> 6/IGt bicycle#yes crossing#uncontrolled highway#crossing
+n &$MhV 7(EOot 6/IP& bicycle#yes crossing#uncontrolled highway#crossing
+n &$MhZ 7(ENJU 5"J_| bicycle#yes crossing#uncontrolled;island highway#crossing
+n --5A? 7(EJA- 6/JG] bicycle#yes crossing#uncontrolled foot#yes highway#crossing
+n -.O+# 7(EN,8 6/IbL bus#yes highway#bus_stop name#Framnäsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 1d!%n 7(EP=2 6/IcE traffic_calming#hump
+n 1eHM@ 7(EQM1 6/J(j traffic_calming#hump
+n 1fKF4 7(EMb: 6/Iam crossing#uncontrolled;island highway#crossing
+n 1fKF_ 7(EN9a 6/I`g crossing#uncontrolled;island highway#crossing
+n 1fKFu 7(ENp@ 6/J#l crossing#uncontrolled highway#crossing
+n 1fKH# 7(ENo> 6/J"| traffic_calming#hump
+n 1fKHg 7(EN{' 6/J-J traffic_calming#hump
+n 1fKI* 7(ENP9 6/I_/ crossing#uncontrolled;island highway#crossing
+n 1kg63 7(ELVD 6/Id% crossing#uncontrolled;island highway#crossing
+n 1kg6U 7(ELAM 6/IcC crossing#uncontrolled;island highway#crossing
+n 1kg;U 7(EK8# 6/IXh bicycle#yes crossing#uncontrolled foot#yes highway#crossing
+n 1kg=b 7(EJ$X 6/JJ| bicycle#yes crossing#uncontrolled foot#yes highway#crossing
+n 1kg=i 7(ELgb 6/IwQ highway#turning_circle
+n 1kg@/ 7(EMF4 6/IYU highway#turning_circle
+n 2Ub:c 6fK/T 6/I]" bus#yes highway#bus_stop name#Framnäsgatan operator#Västtrafik public_transport#stop_position shelter#no

@@ -1,0 +1,14 @@
+n EcrK 6fNK. 6/C;8 highway#traffic_signals
+n $io8' 7(Eu_[ 6/C2d highway#crossing
+n $io:] 7(Ewux 6/CVL highway#crossing
+n $k>83 6fNq] 6/Atj barrier#gate
+n $}HmC 7(Esaa 6/Bq2 barrier#gate
+n %F{ZG 7(Ep_E 6/Bik barrier#gate
+n %F{vW 7(Eqt\ 6/BnT highway#crossing
+n %F{v[ 7(Er7i 6/Bn9 highway#crossing
+n %F{yP 7(Er8J 6/Bt3 highway#crossing
+n &#eM~ 7(Es`O 6/C(u amenity#waste_basket
+n &#eNQ 7(Es}e 6/C%s amenity#waste_basket
+n &#eNZ 7(EsXj 6/Bf" amenity#recycling
+n &.GAT 7(Esy. 6/B~Z name#Serviceboden shop#convenience
+n &.GAU 7(Eszt 6/C!* amenity#waste_basket

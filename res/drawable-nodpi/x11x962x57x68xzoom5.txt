@@ -1,0 +1,35 @@
+n @@B_ 7(EP1% 6/Fzy highway#traffic_signals
+n @u[K 7(EP=* 6/FwN highway#traffic_signals
+n r3/" 7(EMEL 6/G]* highway#turning_circle
+n r3/> 7(EMI8 6/G<N highway#turning_circle
+n "4K:M 7(ESQp 6/G6w bicycle#yes railway#crossing
+n "4K:R 7(EQ:_ 6/G"W name#Medicinaregatan railway#tram_stop
+n "4K:X 7(EOUj 6/Fc< name#Sahlgrenska railway#tram_stop
+n $|-FC 7(EM(! 6/G.! highway#traffic_signals
+n %VDLx 7(EKdJ 5"JLx amenity#cafe layer#1 man_made#water_tower name#Guldhedstornets_Café website#http://www.guldhedstornet.se/
+n &00Wr 7(EO*S 6/Fk+ addr:housenumber#2 addr:street#Gula_stråket
+n &00Ww 7(EO;$ 6/Fnb addr:housenumber#2B addr:street#Gula_stråket
+n &00X" 7(EO#F 6/Fp< addr:housenumber#4 addr:street#Gula_stråket
+n &00X' 7(EOH" 5"JEn addr:housenumber#6 addr:street#Gula_stråket
+n &00X, 7(EO([ 6/F~e addr:housenumber#8 addr:street#Gula_stråket
+n &00Y" 7(ENek 6/G"* addr:housenumber#10A addr:street#Gula_stråket
+n &00Y( 7(EN_: 6/G"w addr:housenumber#10 addr:street#Gula_stråket
+n &00Y3 7(EN`d 6/FzJ addr:housenumber#5 addr:street#Gula_stråket
+n &00Y8 7(ENC; 6/FxN addr:housenumber#7 addr:street#Gula_stråket
+n &00Y> 6fK/F 6/Frm addr:housenumber#6 addr:street#Blå_stråket
+n &00YF 6fK,] 6/F~X addr:housenumber#12 addr:street#Gula_stråket
+n &00YJ 7(EM~v 6/F{L addr:housenumber#10 addr:street#Blå_stråket
+n &00YN 7(EMt? 6/Fz0 amenity#restaurant name#Restaurang_Gastronomen
+n &00YS 7(EM`0 6/G#B addr:housenumber#14 addr:street#Blå_stråket
+n &00YW 7(EMQz 6/G#p addr:housenumber#12 addr:street#Blå_stråket
+n &2(Jw 7(EOd* 6/F|M addr:housenumber#8A addr:street#Gula_stråket
+n 'PWS9 7(EM=^ 6/G`, addr:city#Göteborg addr:country#SE addr:housenumber#13 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PWS: 7(EMXP 6/G[w addr:city#Göteborg addr:country#SE addr:housenumber#6 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PzP} 7(EMI& 6/GIR addr:city#Göteborg addr:country#SE addr:housenumber#1 addr:postcode#413_25 addr:street#Doktor_Lindhs_gata
+n 'PzQ> 7(EMW4 5"JIQ addr:city#Göteborg addr:country#SE addr:housenumber#3 addr:postcode#413_25 addr:street#Doktor_Lindhs_gata
+n 'PzQI 7(EL|W 6/G<D addr:city#Göteborg addr:country#SE addr:housenumber#6 addr:postcode#413_25 addr:street#Doktor_Lindhs_gata
+n 'PzQW 7(ELV~ 6/GE. addr:city#Göteborg addr:country#SE addr:housenumber#4 addr:postcode#413_25 addr:street#Doktor_Lindhs_gata
+n .J"9L 7(EKHp 5"JLu amenity#parking name#Guldhedens_vattentorn
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing

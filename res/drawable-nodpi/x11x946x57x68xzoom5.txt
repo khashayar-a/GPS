@@ -1,0 +1,115 @@
+n ?t:p 7(EIUz 6/D\B highway#motorway_junction name#Margretebergsmotet
+n ?tt- 7(EP{$ 6/EYl highway#traffic_signals
+n @@#7 7(ENI, 6/E9u highway#motorway_junction name#Margretebergsmotet
+n imCK 6fJ~# 6/DxJ name#Botaniska_trädgården railway#tram_stop
+n $}>Z* 7(EOvD 6/E\@ highway#turning_circle
+n %!;:y 7(EF'_ 6/D;j highway#traffic_signals
+n &p%5Q 7(EO22 6/E*6 amenity#restaurant name#Villa_Belparc wheelchair#limited
+n )%mXc 7(ELop 6/D|a highway#bus_stop
+n .J,z/ 7(ENf` 6/EFt amenity#post_box
+n .J-%S 7(EN|, 6/EKs name#Butiken shop#gift
+n .J/aV 7(EMT2 6/Eo9 name#Köksträdgården
+n .J/b_ 7(ELv5 5"J:F name#Örtagården
+n .J/br 7(EL4> 5"J;{ name#Perennträdgården
+n 1~q`6 7(EJNg 6/D~{ traffic_calming#chicane
+n 5%x0R 7(EKU[ 6/E!j addr:housenumber#1 addr:street#Storängsgatan
+n 5%x3` 7(EKPm 6/E#$ addr:housenumber#3 addr:street#Storängsgatan
+n 5%x51 6fJpP 6/E$= addr:housenumber#5 addr:street#Storängsgatan
+n 5%x6O 6fJq] 6/D}z addr:housenumber#86 addr:street#Carl_Skottsbergs_gata
+n 5%x6R 7(EKNS 6/D|l addr:housenumber#88 addr:street#Carl_Skottsbergs_gata
+n 5&!yz 7(EK|V 6/ED* addr:housenumber#10 addr:street#Fyradalersgatan
+n 5&!y~ 6fJtk 6/EM% addr:housenumber#11 addr:street#Thorild_Wulffsgatan
+n 5&!z" 7(EKkg 5"J7; addr:housenumber#12 addr:street#Fyradalersgatan
+n 5&!z% 6fJt$ 6/ELv addr:housenumber#13 addr:street#Thorild_Wulffsgatan
+n 5&!z. 6fJs( 6/EC] addr:housenumber#14 addr:street#Fyradalersgatan
+n 5&!z0 6fJs; 6/ELi addr:housenumber#15 addr:street#Thorild_Wulffsgatan
+n 5&!z2 7(EK_h 6/ECQ addr:housenumber#16 addr:street#Fyradalersgatan
+n 5&!z5 6fJrR 6/EL\ addr:housenumber#17 addr:street#Thorild_Wulffsgatan
+n 5&!z6 7(EKYh 6/ECE addr:housenumber#18 addr:street#Fyradalersgatan
+n 5&!z9 6fJqi 5"J8/ addr:housenumber#19 addr:street#Thorild_Wulffsgatan
+n 5&!zG 7(ELDP 6/EF4 addr:housenumber#2 addr:street#Fyradalersgatan
+n 5&!zK 6fJq; 6/EC9 addr:housenumber#20 addr:street#Fyradalersgatan
+n 5&!zO 7(EKQ, 6/ELB addr:housenumber#21 addr:street#Thorild_Wulffsgatan
+n 5&!zQ 7(EKMi 5"J75 addr:housenumber#22 addr:street#Fyradalersgatan
+n 5&!zR 7(EKIV 6/EL5 addr:housenumber#23 addr:street#Thorild_Wulffsgatan
+n 5&!zi 7(EL@( 5"J7I addr:housenumber#4 addr:street#Fyradalersgatan
+n 5&!zp 7(EL*o 6/EDC addr:housenumber#6 addr:street#Fyradalersgatan
+n 5&!zv 7(EL$P 6/ED5 addr:housenumber#8 addr:street#Fyradalersgatan
+n 5+"Sf 7(EL8r 6/E:1 addr:housenumber#1 addr:street#Älvaleken
+n 5+"Sh 7(ELs6 6/E=7 addr:housenumber#1 addr:street#Änggårdsgatan
+n 5+"Sj 7(EKa> 6/E+# addr:housenumber#10 addr:street#Storängsgatan
+n 5+"Sm 7(EKq4 4.R) addr:housenumber#10 addr:street#Änggårdsgatan
+n 5+"Sv 7(EKN| 6/E=K addr:housenumber#11 addr:street#Fyradalersgatan
+n 5+"Sw 7(EKks 6/E4k addr:housenumber#12 addr:street#Änggårdsgatan
+n 5+"Sx 7(EKJn 6/E/y addr:housenumber#14 addr:street#Storängsgatan
+n 5+"Sz 7(EKfT 6/E4' addr:housenumber#14 addr:street#Änggårdsgatan
+n 5+"T) 7(ELE* 6/E5x addr:housenumber#15 addr:street#Änggårdsgatan
+n 5+"T+ 7(EKa5 6/E3A addr:housenumber#16 addr:street#Änggårdsgatan
+n 5+"T5 7(EL?9 6/E50 addr:housenumber#17 addr:street#Änggårdsgatan
+n 5+"T= 7(EL9G 6/E4E addr:housenumber#19 addr:street#Änggårdsgatan
+n 5+"TC 7(EM7` 5"J6) addr:housenumber#1A addr:street#Thorild_Wulffsgatan
+n 5+"TE 7(EM6H 6/E4m addr:housenumber#1B addr:street#Thorild_Wulffsgatan
+n 5+"TH 7(ELx< 6/E5O addr:housenumber#1D addr:street#Thorild_Wulffsgatan
+n 5+"TK 7(EKuM 6/E%h addr:housenumber#2 addr:street#Storängsgatan
+n 5+"TN 7(EL5Q 6/E;S addr:housenumber#2 addr:street#Älvaleken
+n 5+"TV 7(EL3V 6/E3[ addr:housenumber#21 addr:street#Änggårdsgatan
+n 5+"T` 7(EL"M 6/E1E addr:housenumber#23 addr:street#Änggårdsgatan
+n 5+"Ta 7(EN0- 6/EA6 addr:housenumber#24 addr:street#Carl_Skottsbergs_gata
+n 5+"Tn 7(EK{, 6/E0] addr:housenumber#25 addr:street#Änggårdsgatan
+n 5+"Tp 6fK+@ 6/E@G addr:housenumber#26 addr:street#Carl_Skottsbergs_gata
+n 5+"Tq 7(EKuh 6/E/u addr:housenumber#27 addr:street#Änggårdsgatan
+n 5+"Tr 7(EN$L 6/E?X addr:housenumber#28 addr:street#Carl_Skottsbergs_gata
+n 5+"Tz 7(EKpG 6/E// addr:housenumber#29 addr:street#Änggårdsgatan
+n 5+"T} 7(EKqg 6/E?J addr:housenumber#3 addr:street#Fyradalersgatan
+n 5+"U" 7(EL2/ 6/E<u addr:housenumber#3 addr:street#Älvaleken
+n 5+"U% 7(ELk| 6/E<& addr:housenumber#3 addr:street#Änggårdsgatan
+n 5+"U( 7(EM|\ 5"J6j addr:housenumber#30 addr:street#Carl_Skottsbergs_gata
+n 5+"U+ 7(EK\: 6/E,A addr:housenumber#31 addr:street#Änggårdsgatan
+n 5+"U. 7(EMms 5"J6W addr:housenumber#32 addr:street#Carl_Skottsbergs_gata
+n 5+"U1 6fK() 6/E;v addr:housenumber#34 addr:street#Carl_Skottsbergs_gata
+n 5+"U4 7(EMap 6/E;& addr:housenumber#36 addr:street#Carl_Skottsbergs_gata
+n 5+"U8 7(EM[n 6/E:5 addr:housenumber#38A addr:street#Carl_Skottsbergs_gata
+n 5+"U; 7(EMUl 6/E9D addr:housenumber#38B addr:street#Carl_Skottsbergs_gata
+n 5+"U> 7(EKpI 6/E'' addr:housenumber#4 addr:street#Storängsgatan
+n 5+"UA 7(EL.l 6/E>9 addr:housenumber#4 addr:street#Älvaleken
+n 5+"UG 6fJun 6/E7b addr:housenumber#4 addr:street#Änggårdsgatan
+n 5+"UH 7(EM&X 6/E2l addr:housenumber#40 addr:street#Carl_Skottsbergs_gata
+n 5+"UJ 7(ELnO 6/E1" addr:housenumber#42 addr:street#Carl_Skottsbergs_gata
+n 5+"UM 6fJ}$ 6/E0X addr:housenumber#44 addr:street#Carl_Skottsbergs_gata
+n 5+"UW 7(ELh. 6/E00 addr:housenumber#46 addr:street#Carl_Skottsbergs_gata
+n 5+"UX 7(ELd| 6/E/e addr:housenumber#48 addr:street#Carl_Skottsbergs_gata
+n 5+"UY 7(EKkz 6/E?> addr:housenumber#5 addr:street#Fyradalersgatan
+n 5+"UZ 7(EL+K 6/E?\ addr:housenumber#5 addr:street#Älvaleken
+n 5+"Uc 7(ELdc 6/E:r addr:housenumber#5 addr:street#Änggårdsgatan
+n 5+"Uf 7(ELak 6/E/= addr:housenumber#50 addr:street#Carl_Skottsbergs_gata
+n 5+"Uh 7(EL^[ 6/E.s addr:housenumber#52 addr:street#Carl_Skottsbergs_gata
+n 5+"Uk 7(EL[J 6/E.K addr:housenumber#54 addr:street#Carl_Skottsbergs_gata
+n 5+"Ul 7(ELX: 6/E.# addr:housenumber#56 addr:street#Carl_Skottsbergs_gata
+n 5+"Up 6fJzm 6/E-Y addr:housenumber#58 addr:street#Carl_Skottsbergs_gata
+n 5+"Us 5'yk' 6/E(E addr:housenumber#6 addr:street#Storängsgatan
+n 5+"Uv 7(EK{r 6/E6| addr:housenumber#6 addr:street#Änggårdsgatan
+n 5+"Uy 7(ELQw 6/E-1 addr:housenumber#60 addr:street#Carl_Skottsbergs_gata
+n 5+"U} 7(ELNf 6/E,g addr:housenumber#62 addr:street#Carl_Skottsbergs_gata
+n 5+"V! 7(ELKV 6/E,? addr:housenumber#64 addr:street#Carl_Skottsbergs_gata
+n 5+"V$ 7(ELHE 6/E+t addr:housenumber#66 addr:street#Carl_Skottsbergs_gata
+n 5+"V& 7(ELE5 6/E+L addr:housenumber#68 addr:street#Carl_Skottsbergs_gata
+n 5+"V1 7(EKf/ 5"J6n addr:housenumber#7 addr:street#Fyradalersgatan
+n 5+"V2 7(EL]K 6/E9a addr:housenumber#7 addr:street#Änggårdsgatan
+n 5+"V3 7(ELB$ 6/E+$ addr:housenumber#70 addr:street#Carl_Skottsbergs_gata
+n 5+"V4 7(EL>r 6/E*Z addr:housenumber#72 addr:street#Carl_Skottsbergs_gata
+n 5+"V< 7(EL;a 6/E*2 addr:housenumber#74 addr:street#Carl_Skottsbergs_gata
+n 5+"V? 7(EL8Q 6/E)h addr:housenumber#76 addr:street#Carl_Skottsbergs_gata
+n 5+"VB 7(EL5@ 6/E)@ addr:housenumber#78 addr:street#Carl_Skottsbergs_gata
+n 5+"VD 7(EKfA 5"J4` addr:housenumber#8 addr:street#Storängsgatan
+n 5+"VE 7(EKvS 6/E68 addr:housenumber#8 addr:street#Änggårdsgatan
+n 5+"VK 7(EL20 6/E(v addr:housenumber#80 addr:street#Carl_Skottsbergs_gata
+n 5+"VM 7(EL(H 5"J4? addr:housenumber#82 addr:street#Carl_Skottsbergs_gata
+n 5+"VP 7(EK}I 6/E%' addr:housenumber#84 addr:street#Carl_Skottsbergs_gata
+n 5+"VS 7(EK`B 6/E?( addr:housenumber#9 addr:street#Fyradalersgatan
+n 5+"VW 7(ELV3 5"J6/ addr:housenumber#9 addr:street#Änggårdsgatan
+n 5\;U; 6fJpF 6/E*B natural#tree
+n 5\;U? 7(EKNa 6/E)3 natural#tree
+n 5\;UC 7(EKSn 6/E'~ natural#tree
+n 5\;UF 7(EK`r 6/E$X natural#tree
+n 5\;UM 7(EKf? 6/E#C natural#tree
+n 5\;UN 7(EKjF 6/E"2 natural#tree

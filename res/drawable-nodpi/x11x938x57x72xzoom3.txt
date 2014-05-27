@@ -1,0 +1,360 @@
+w 1der highway#unclassified
+d "`;C4 7(Ez]L 6/E0"
+d $dI!= 7(Ez_a 6/E!P
+d "`;Wb 7(EzaB 6/Dt\
+w @Uvk amenity#parking area#yes
+d $`ZVR 7(E|5h 6/D--
+d $`ZYc 7(E|4Y 6/D/g
+d $`ZYd 7(E|A4 6/D/m
+d $`ZYe 6fOf1 6/D-<
+d $`ZVR 7(E|5h 6/D--
+w ">K<M leisure#pitch sport#soccer
+d 00atf 6fOq^ 6/DV0
+d 00ata 7(E}RZ 6/Dh`
+d 00atT 7(E|.t 6/Dh>
+d 00atR 7(E|2L 6/DW9
+d 00ath 7(E|Vs 6/DWP
+d 00atX 7(E|V6 6/DXd
+d 00atM 7(E|z| 6/DXp
+d 00atk 7(E|z| 6/DUI
+d 00atd 7(E}RZ 6/DU`
+d 00atf 6fOq^ 6/DV0
+w "e+Qy construction#residential end_date#2014 landuse#construction name#Kvillebäcken operator#NCC,_Veidekke ref#http://kvillebacken.se/
+d 3{%CI 7(E|}k 6/Dw)
+d 3{%C> 7(E|pB 6/EI$
+d 3{%CL 6fOUX 6/EDL
+d 3{%CE 7(EzXw 6/E1<
+d 3{%C? 7(Ezc5 6/E0d
+d 3{%CG 6fOV\ 6/E-}
+d 3{%CJ 7(EzgT 6/Dv'
+d 3{%CI 7(E|}k 6/Dw)
+w "#3.! building#yes
+d ,y}09 6fOov 6/DQb
+d ,y}0: 7(E}&B 5"J/7
+d ,y}0< 7(E}&B 6/DSq
+d ,y}0? 7(E}F^ 6/DT>
+d ,y}09 6fOov 6/DQb
+w "@$+4 building#yes
+d 0BD;m 7(E{BR 6/D@X
+d 0BD<@ 7(E{G. 6/DBT
+d 0BD<u 5'z9J 6/DEf
+d 0BD=G 7(Ezz! 6/DCj
+d 0BD;m 7(E{BR 6/D@X
+w "@$+: building#yes
+d 0BD;l 7(EzcL 6/D^o
+d 0BD<> 7(Eza& 5"J1Q
+d 0BD<n 5'z81 6/Dg6
+d 0BD;N 7(Ey`I 6/D]z
+d 0BD;l 7(EzcL 6/D^o
+w ",3&t building#yes
+d .":8+ 7(E{z$ 6/D&K
+d .":8, 7(E{TK 6/D)Q
+d .":6I 7(E{Y, 6/D+Q
+d .":6F 7(E{~b 6/D(K
+d .":8+ 7(E{z$ 6/D&K
+w "@$+? building#yes
+d 0BD=> 7(Ezli 6/D2B
+d 0BD=b 7(Ezj_ 6/D;L
+d 0BD;t 7(Eyh% 5"J,|
+d 0BD<z 6fOMw 6/D1W
+d 0BD=> 7(Ezli 6/D2B
+w "@$+< building#yes
+d 0BD<F 7(E|GT 6/DA?
+d 0BD<| 7(E|L4 6/DC<
+d 0BD;[ 7(E|&V 6/DFH
+d 0BD<& 7(E|!w 6/DDK
+d 0BD<F 7(E|GT 6/DA?
+w ",3&u building#yes
+d .":74 7(E{G5 6/D,u
+d .":6t 7(E{!1 6/D0&
+d .":7I 7(E{&< 6/D26
+d .":6e 6fO]f 6/D/&
+d .":74 7(E{G5 6/D,u
+w "@$+@ building#yes
+d 0BD<i 7(E{@* 5"J.9
+d 0BD=B 7(E{D_ 6/DIS
+d 0BD;T 7(Ez|K 6/DL[
+d 0BD<% 7(Ezwt 5"J.V
+d 0BD<i 7(E{@* 5"J.9
+w EJ\U building#yes
+d %:^D. 7(E})i 6/Dl#
+d .0Ne} 7(E}({ 6/Dqw
+d .0Nf3 7(E}$< 5"J2O
+d %:^D/ 7(E}#~ 6/Dt*
+d %:^D0 7(E}E, 6/Dt9
+d %:^D2 7(E}F7 6/Dl0
+d %:^D. 7(E})i 6/Dl#
+w 1dds highway#unclassified name#Rundbäcksgatan
+d E@Rv 7(E{to 6/Du:
+d "`;C( 7(E{r% 6/E*d
+d "`;<\ 7(E{je 6/EFM
+w ",3&q building#yes
+d .":7# 7(E|M^ 6/D&n
+d .":7% 7(E|'I 6/D)p
+d .":79 7(E|,3 6/D+{
+d .":80 7(E|RH 6/D(y
+d .":7# 7(E|M^ 6/D&n
+w "#3'V building#yes
+d ,y|rj 7(Ey8g 6/D8R
+d ,y|rl 7(Ey*P 6/D8J
+d ,y|rn 7(Ey)w 6/D;c
+d ,y|rr 7(Ey$* 6/D;`
+d ,y|rt 6fOFk 6/DBM
+d ,y|rv 7(Ey6z 6/DBY
+d ,y|rj 7(Ey8g 6/D8R
+w ".|<" amenity#parking
+d .>;1' 7(Ez!e 6/Dlg
+d .>;1o 7(Ez39 6/Dly
+d .>;2X 7(Ez41 6/Did
+d .>;1a 7(Ez%> 6/Di^
+d .>;1- 7(Ez"e 6/Di]
+d .>;1' 7(Ez!e 6/Dlg
+w "-SXm building#yes
+d .0Nfg 7(E{&^ 6/DT~
+d .0Ner 7(Ezx( 6/DTr
+d .0Nen 6fOXO 6/D]$
+d .0Ng2 7(E{$L 5"J0H
+d .0Nfg 7(E{&^ 6/DT~
+w "@$+3 building#yes
+d 0BD;d 6fOax 6/D:E
+d 0BD<1 7(E{zZ 6/D<:
+d 0BD<6 7(E{TO 6/D?B
+d 0BD<g 7(E{P. 6/D=M
+d 0BD;d 6fOax 6/D:E
+w "-RJg building#yes
+d .0G~s 7(Ex}y 6/DZX
+d .0G|R 7(Exnm 6/DZN
+d .0G{: 7(Exo) 6/DY)
+d .0G{K 7(Exi: 6/DY%
+d .0G}\ 7(Exic 6/DVw
+d .0G|E 7(Ey)z 6/DW-
+d .0G}K 7(Ey)[ 6/DXh
+d .0G}G 5'z7U 5"J/|
+d .0G~s 7(Ex}y 6/DZX
+w "@$+0 building#yes
+d 0BD=@ 7(E|I6 6/D:i
+d 0BD=c 7(E|Mq 6/D<f
+d 0BD<" 7(E|(2 6/D?q
+d 0BD=" 7(E|#T 6/D=t
+d 0BD=@ 7(E|I6 6/D:i
+w "-SXl building#yes
+d .0NfQ 7(E{Jv 6/D]F
+d .0Ng@ 7(E{>\ 4.QT
+d .0NfS 7(E{A= 6/DU%
+d .0NfE 7(E{MX 6/DU2
+d .0NfQ 7(E{Jv 6/D]F
+w "@$+* building#yes
+d 0BD<~ 7(EzOk 6/DSR
+d 0BD=J 7(EzMT 6/D\d
+d 0BD;c 7(Ey`} 6/D\(
+d 0BD;h 6fOM6 6/DRt
+d 0BD<~ 7(EzOk 6/DSR
+w "@$+9 building#yes
+d 0BD<W 7(E{sG 6/DA(
+d 0BD=4 7(E{wv 5"J-l
+d 0BD=[ 7(E{Rn 6/DF%
+d 0BD=_ 7(E{N> 6/DD.
+d 0BD<W 7(E{sG 6/DA(
+w ".|<$ building#yes
+d .>;13 7(EytK 6/Dl`
+d .>;1d 7(Eyq9 6/Dm;
+d .>;1r 7(EyqG 6/Dn8
+d .>;1& 7(Eya* 6/Dn+
+d .>;1} 7(Eyb" 6/Dk(
+d .>;14 7(Eytv 6/Dk;
+d .>;13 7(EytK 6/Dl`
+w "@$+5 building#yes
+d 0BD=, 7(Ezj_ 6/D=I
+d 0BD=N 7(Ezhr 6/DFa
+d 0BD;g 7(Eyf) 6/DF"
+d 0BD;k 7(Eygt 6/D<i
+d 0BD=, 7(Ezj_ 6/D=I
+w "@$+1 building#yes
+d 0BD;~ 7(E|>Q 6/DPW
+d 0BD;o 7(E|@' 6/DH<
+d 0BD=; 7(E|K# 6/DHC
+d 0BD<} 7(E|II 6/DPx
+d 0BD<J 7(E|Eo 6/DPu
+d 0BD<+ 7(E|EP 6/DR`
+d 0BD=a 7(Ezy! 6/DQj
+d 0BD=< 7(EzyE 6/DOe
+d 0BD;~ 7(E|>Q 6/DPW
+w @t"g highway#unclassified name#Fjärdingsgatan
+d .0Nf` 7(E|~* 6/Duu
+d .0Nf| 7(E}![ 6/Dpp
+d $dHxA 5'z;? 6/DjO
+w 4&a( highway#unclassified name#Fjärdingsgatan
+d #$R{A 7(EyS. 6/Dk9
+d $|KOB 7(Ey]0 5"J1`
+d .>;2B 7(Eybv 6/Dhk
+d .>;2) 7(Ez%r 6/Dhl
+d .>;2# 7(EzE. 4.Q_
+d .>;2* 7(Ez_' 6/Di6
+d #$R{J 7(Ezf? 6/Di9
+d .>;2L 7(EzvF 6/Di/
+d .>;2V 7(E{<6 6/Di?
+d .>;2$ 7(E{UI 6/DiK
+d .>;2S 7(E{mt 6/DiV
+d #$R{O 7(E|/R 6/Dit
+d $dHxA 5'z;? 6/DjO
+w "-SXw building#yes
+d .0Nf+ 7(Ezv@ 6/De`
+d .0NgB 7(Ezuc 6/Dgm
+d .0Neo 7(E{mi 6/Dhb
+d .0Nf* 7(E{sJ 6/DU>
+d .0Ng) 7(E{f- 5"J/[
+d .0NfV 6fO_m 6/DfH
+d .0Nf+ 7(Ezv@ 6/De`
+w ['}@ highway#unclassified name#Färgfabriksgatan oneway#yes
+d "`;-9 7(E}"j 6/E'}
+d .0Ng& 6fOlV 6/Dx?
+d "`;-= 7(E}%8 6/Duv
+w "-SXj building#yes
+d .0Nf- 7(E{NF 6/Db>
+d .0Nfx 7(Ezu. 6/Dan
+d .0Ng" 7(Ezu` 6/D_g
+d .0Nf] 7(E{Nw 6/D`6
+d .0Nf- 7(E{NF 6/Db>
+w "-RJ] building#yes
+d .0Gzx 6fOBr 6/DhN
+d .0G|$ 6fOA- 5"J1S
+d .0G{R 7(ExH] 6/Dfz
+d .0G|m 7(ExCe 6/Dfu
+d .0Gzz 7(ExD@ 6/DdU
+d .0G}* 7(Excf 6/Ddp
+d .0H!3 7(Exc8 6/Dfb
+d .0G|l 7(ExZ+ 6/DfZ
+d .0Gzx 6fOBr 6/DhN
+w "-RJo building#yes
+d .0G}O 7(Ey2~ 6/DJn
+d .0G}P 7(Exr# 6/DJc
+d .0Gz[ 7(Exqm 5"J.h
+d .0G{[ 7(Exw2 6/DLW
+d .0Gzo 7(Exv~ 6/DN:
+d .0G|\ 6fOGS 6/DN@
+d .0G|2 7(Ey*T 6/DLO
+d .0G|h 7(Ey2k 6/DLR
+d .0G}O 7(Ey2~ 6/DJn
+w @t"v highway#unclassified name#Fjärdingsgatan
+d $dHxA 5'z;? 6/DjO
+d $dHz} 6fOpx 6/DjQ
+d $dH{! 7(E}LH 5"J2x
+w "@$+B building#yes
+d 0BD<Q 7(E{r_ 6/DGw
+d 0BD=L 7(E{w* 6/DIy
+d 0BD;e 7(E{P8 6/DLx
+d 0BD<2 6fO]a 6/DJv
+d 0BD<Q 7(E{r_ 6/DGw
+w "@$+> building#yes
+d 0BD=Y 7(E|IN 6/D6Y
+d 0BD== 7(E|I% 6/D8L
+d 0BD<# 7(E{!p 6/D7B
+d 0BD;q 7(E{"J 6/D4p
+d 0BD=1 7(E|DE 6/D5v
+d 0BD=# 7(E|F7 6/D.+
+d 0BD<H 7(E|Px 6/D.4
+d 0BD;f 7(E|Nx 6/D6^
+d 0BD=Y 7(E|IN 6/D6Y
+w CQ[D building#yes
+d %$@*^ 7(ExRz 6/DwN
+d %$@*` 7(ExQz 6/E""
+d %$@*a 7(ExrY 6/E"#
+d ..8tN 7(Exsf 6/Dy$
+d %$@*b 7(Exl* 6/DwP
+d %$@*^ 7(ExRz 6/DwN
+w "-SXd building#yes
+d .0NgK 7(E}OO 6/Dwu
+d .0Nf^ 7(E}+o 6/DwZ
+d .0Ne{ 7(E}*Z 6/D~9
+d .0Nf} 7(E}6P 6/D~F
+d .0NgA 7(E}6^ 6/D}+
+d .0Ng- 7(E}<Y 6/D}9
+d .0Nfi 7(E}<Y 5"J3q
+d .0NfD 7(E}*L 5"J3n
+d .0Nf8 7(E}(y 6/E&+
+d .0Neq 7(E}+D 6/E&`
+d .0Nem 7(E}L< 6/E&@
+d .0NgK 7(E}OO 6/Dwu
+w ",3&v building#yes
+d .":7m 7(E{Gt 6/D&,
+d .":7j 6fOYR 6/D).
+d .":7W 7(E{&e 6/D++
+d .":84 7(E{LG 6/D()
+d .":7m 7(E{Gt 6/D&,
+w "-RJY amenity#parking fee#yes parking#surface
+d .0G{j 6fOF` 6/Dg|
+d .0G~J 7(Ey!* 6/Di)
+d .0H!! 7(Exvd 6/Dl(
+d .0G~p 7(Extf 6/Dl&
+d .0Gzj 7(Exn$ 4.Qc
+d .0G~S 7(ExiZ 6/Dn{
+d .0G|@ 7(Exel 6/Do5
+d .0G|4 7(Exap 6/Do8
+d .0G}7 7(Ex[. 6/Do=
+d .0G{O 7(ExUA 6/Do[
+d .0G{E 7(ExN] 5"J29
+d .0G{A 7(ExO9 6/Dn0
+d .0G{n 7(ExOr 5"J1}
+d .0G{^ 7(ExS` 6/Dk{
+d .0G~5 7(ExqS 6/Dh1
+d .0GzW 7(Ext; 6/Dh\
+d .0G~- 7(ExvS 6/DhA
+d .0G}b 7(Exyw 6/Dgw
+d .0G{j 6fOF` 6/Dg|
+w "0<?( building#yes
+d .O[.B 7(Ez5T 6/Dw_
+d .O[.; 7(Eyz8 6/DwG
+d .O[-o 7(Eyl~ 6/D}D
+d .O[.4 6fONB 6/D}^
+d .O[.A 7(Eyu` 6/D}d
+d .O[.$ 7(Ez!W 6/Dy4
+d .O[.D 7(Ez5T 6/DyG
+d .O[.B 7(Ez5T 6/Dw_
+w ",3'w building#yes
+d .":Iy 7(E}O$ 6/D%1
+d .":J6 7(E}-X 6/D$q
+d .":Iz 7(E}-_ 5"J*h
+d .":I~ 7(E}%- 6/D$I
+d .":J: 7(E}$D 6/D&F
+d .":Ix 7(E}(* 6/D&L
+d .":I| 7(E}(* 6/D':
+d .":J> 7(E}NW 6/D'`
+d .":Iy 7(E}O$ 6/D%1
+w ",3&r building#yes
+d .":7= 7(E{yg 6/D-J
+d .":6Y 7(E{S8 6/D0m
+d .":7] 6fO^w 6/D2j
+d .":6L 7(E{~^ 5"J+p
+d .":7= 7(E{yg 6/D-J
+w "@$+8 building#yes
+d 0BD;R 6fO\q 6/D9{
+d 0BD<P 7(E{H1 6/D;p
+d 0BD=/ 7(E{"a 6/D?*
+d 0BD=P 7(Ez|# 6/D=4
+d 0BD;R 6fO\q 6/D9{
+w "@$+- building#yes
+d 0BD;n 7(Ezh: 6/DHP
+d 0BD<D 7(EzfL 6/DQm
+d 0BD<x 7(Eyc& 6/DQ/
+d 0BD;V 7(Eydq 6/DGp
+d 0BD;n 7(Ezh: 6/DHP
+w "-RJf building#yes
+d .0GzR 6fOD> 6/DOL
+d .0G|. 7(ExJR 6/DOL
+d .0G|- 7(ExJ6 6/DQQ
+d .0G{| 7(ExOc 6/DQQ
+d .0H!1 6fOAp 6/DS+
+d .0H!- 7(ExYi 6/DS+
+d .0G|1 7(ExYi 6/DSQ
+d .0H!$ 7(Ex^@ 6/DSK
+d .0H!, 7(Ex^$ 6/DS#
+d .0H!% 6fOCS 6/DS#
+d .0G{= 7(Ex`[ 6/DQ>
+d .0G{+ 7(Exgk 6/DQ<
+d .0GzR 6fOD> 6/DOL
+w "@$+, building#yes
+d 0BD=W 7(EzoM 6/D'6
+d 0BD;j 7(EzmC 6/D0P
+d 0BD<7 7(Eyjo 6/D/f
+d 0BD<A 7(Eyly 6/D&K
+d 0BD=W 7(EzoM 6/D'6

@@ -1,0 +1,27 @@
+n "77N~ 7(ExnP 6/>}* name#Önskevädersgatan railway#tram_stop
+n "77O' 7(E|^} 6/?!8 name#Friskväderstorget railway#tram_stop
+n "77O+ 7(F"5S 6/?"z name#Väderilsgatan railway#tram_stop
+n "77OI 7(F-Z* 6/??\ name#Varmfrontsgatan railway#tram_stop
+n %H<7f 7(Esdz 6/>fz name#Mildvädersgatan railway#tram_stop
+n &8@)N 6fPm8 6/?7S name#Temperaturgatan railway#tram_stop
+n 'T1R5 7(F)\* 5"I\3 crossing#island crossing_ref#zebra highway#crossing traffic_calming#hump
+n 'c+p} 7(F&am 6/?"\ barrier#gate bicycle#no foot#no motorcar#yes motorcycle#yes
+n *gloT 7(F$RM 5"I]+ barrier#cycle_barrier
+n *gloj 7(Exvr 6/>}l crossing#uncontrolled highway#crossing
+n 3`4f' 6fP:* 6/?B4 addr:housenumber#58 addr:street#Väderilsgatan
+n 3`4f( 7(F#nB 6/?B| addr:housenumber#59 addr:street#Väderilsgatan
+n 3`4f) 7(F#|h 6/?Cg addr:housenumber#60 addr:street#Väderilsgatan
+n 3`4f* 6fP>H 6/?DQ addr:housenumber#61 addr:street#Väderilsgatan
+n 3`4f+ 7(F$Ik 6/?C| addr:housenumber#62 addr:street#Väderilsgatan
+n 3`4f, 7(F$NO 5"I\Z addr:housenumber#63 addr:street#Väderilsgatan
+n 3`4f- 7(F$S& 6/?>9 addr:housenumber#64 addr:street#Väderilsgatan
+n 4!,-v 7(F&xy 6/?NN addr:housenumber#1 addr:street#Stackmolnsgatan
+n 4!,-w 7(F%Sq 6/?H{ addr:housenumber#11 addr:street#Stackmolnsgatan
+n 4!,-x 7(F%0Z 6/?LX addr:housenumber#13 addr:street#Stackmolnsgatan
+n 4!,-y 7(F$xd 6/?Ke addr:housenumber#15 addr:street#Stackmolnsgatan
+n 4!,-~ 7(F$c% 6/?Jr addr:housenumber#17 addr:street#Stackmolnsgatan
+n 4!,.! 7(F&dc 6/?Mf addr:housenumber#3 addr:street#Stackmolnsgatan
+n 4!,." 7(F&Es 6/?LZ addr:housenumber#5 addr:street#Stackmolnsgatan
+n 4!,.# 7(F%~} 5"I]U addr:housenumber#7 addr:street#Stackmolnsgatan
+n 4!,.% 7(F%i/ 6/?If addr:housenumber#9 addr:street#Stackmolnsgatan
+n 4UGda 6fPoJ 6/?;m bench#no highway#bus_stop name#Temperaturgatan shelter#no

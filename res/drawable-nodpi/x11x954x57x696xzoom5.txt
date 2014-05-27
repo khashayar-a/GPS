@@ -1,0 +1,31 @@
+n ?lnq 7(Ee6q 5"JPD highway#traffic_signals
+n ?tt0 7(EW'~ 6/Ej0 highway#traffic_signals
+n Hmqk 7(E[@* 6/F8~ highway#traffic_signals
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n "iX<1 7(EXpz 6/EzC highway#traffic_signals
+n #?sV" 7(E[;W 6/F:h highway#traffic_signals
+n #?sVF 7(EW"G 6/Em) highway#traffic_signals
+n #?sVM 7(EXo. 6/E|e highway#traffic_signals
+n #?s{! 7(EY"T 6/F!/ highway#traffic_signals
+n #?s{# 7(EY'Z 6/E}B highway#traffic_signals
+n #Hq~q 6fLuv 6/F(P name#Haga place#suburb
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $~P?< 7(EYS@ 6/F(5 highway#traffic_signals
+n %%U3/ 7(EaRj 6/Fa` name#Hagakyrkan railway#tram_stop
+n (m1jH 7(E_be 6/Fhw amenity#library name#Kurs_och_Tidningsbiblioteket
+n *i:TN 7(E^j} 6/FLG name#Ica_Nära_Haga shop#supermarket
+n *i:TR 7(E^gl 6/FLj amenity#atm
+n *i:TU 7(E]yb 6/FXQ amenity#bank operator#SEB
+n +_9+4 7(E`8E 6/FW? amenity#cafe name#Café_Nöller wheelchair#no
+n .M@H> 7(EaW5 5"J@. addr:housenumber#6 addr:street#Södra_Allégatan amenity#hospital name#Capio_Axess
+n 1E%SJ 7(E_w+ 6/FB; name#Igor_the_dog shop#clothes website#http://igorthedog.jetshop.se/
+n 1e*%u 7(Egw@ 6/HS% bicycle#yes crossing#uncontrolled highway#crossing
+n 1e*&d 7(Ei}V 6/HV' bicycle#yes crossing#uncontrolled highway#crossing
+n 4"J.; 7(E`"x 5"JD@ amenity#fountain
+n 5^J!= 5'y~: 6/FfB historic#memorial name#Göteborgs_Stads_minnesmärke_över_Raoul_Wallenberg wikipedia#http://sv.wikipedia.org/wiki/G%C3%B6teborgs_Stads_minnesm%C3%A4rke_%C3%B6ver_Raoul_Wallenberg
+n 6#Jaq 7(EalJ 6/E{# amenity#theatre name#Hagateatern
+n 6#Jd" 7(EaiS 6/F!] name#Deco_flora shop#florist
+n 6#JmZ 7(Ea_@ 6/F-| amenity#swimming_pool name#Hagabadet

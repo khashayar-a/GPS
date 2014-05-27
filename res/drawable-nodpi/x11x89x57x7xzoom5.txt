@@ -1,0 +1,15 @@
+n 5I7X 7(Ebsu 5"IZ^ highway#motorway_junction name#Bräckemotet
+n $lwPR 7(EbC" 6/?pN highway#turning_circle
+n $lwWf 7(EdOb 6/?Nj barrier#gate
+n $lwXc 7(Eclh 5"I^, highway#turning_circle
+n /8h#7 7(EfN4 6/?H` traffic_calming#yes
+n /8h$^ 7(EgAG 6/?.! traffic_calming#yes
+n /8h$f 7(Eet^ 6/?QJ traffic_calming#yes
+n /8h$y 6fMYJ 6/?9% traffic_calming#yes
+n 0{v\B 7(EfN_ 6/?OG addr:housenumber#28 addr:street#Fornminnesvägen
+n 0{v`x 7(Ef+[ 6/?Q2 addr:housenumber#39 addr:street#Utmarksgatan
+n 0{vb3 7(Ef>v 6/?NB addr:housenumber#41 addr:street#Utmarksgatan
+n 0{vbV 6fMQ9 5"I^P addr:housenumber#27 addr:street#Stamrotesvägen
+n 0~%M7 7(Eb=` 5"I^L addr:housenumber#26 addr:street#Dysiksgatan
+n 0~%MP 7(Eb;\ 5"I^Z addr:housenumber#25 addr:street#Draggensgatan
+n 0~%P& 7(Eb7+ 6/?S: addr:housenumber#105 addr:street#Londongatan

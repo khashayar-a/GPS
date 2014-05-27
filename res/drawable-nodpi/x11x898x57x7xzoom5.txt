@@ -1,0 +1,158 @@
+n $H31B 7(EcQi 6/@]L railway#switch
+n $H31C 7(Ecc> 6/@cR railway#switch
+n $H33t 6fL{u 6/?H$ railway#switch
+n $H36v 7(E`Mb 6/>vD railway#switch
+n $H3:h 7(Eaf~ 5"I>( railway#switch
+n $kUDr 7(Ehug 6/@C; highway#turning_circle
+n $lwPR 7(EbC" 6/?pN highway#turning_circle
+n $lwWf 7(EdOb 6/?Nj barrier#gate
+n $lwXc 7(Eclh 5"I^, highway#turning_circle
+n $lwiv 7(EeK- 6/@8u highway#turning_circle
+n $lwn6 7(EfM5 6/@J] highway#turning_circle
+n $lwtN 7(EhH: 6/@J= highway#turning_circle
+n $lwtO 7(EhSB 5"Ig# barrier#gate
+n %&jku 7(E^*0 6/9:x railway#switch
+n %&jkw 7(E]u9 6/9*l railway#switch
+n .-_mg 7(E^'l 6/992 railway#switch
+n .-`)b 7(E]xu 6/9/> railway#switch
+n .-`-B 7(E^-8 6/9<8 railway#switch
+n .-`4= 6fM"k 6/;Wp railway#switch
+n .-`5: 7(E`=y 6/:R4 railway#switch
+n .-`H\ 7(E`I> 6/:Xy railway#switch
+n /8h#7 7(EfN4 6/?H` traffic_calming#yes
+n /8h$^ 7(EgAG 6/?.! traffic_calming#yes
+n /8h$f 7(Eet^ 6/?QJ traffic_calming#yes
+n /8h$y 6fMYJ 6/?9% traffic_calming#yes
+n 0{v`x 7(Ef+[ 6/?Q2 addr:housenumber#39 addr:street#Utmarksgatan
+n 0{vbV 6fMQ9 5"I^P addr:housenumber#27 addr:street#Stamrotesvägen
+n 0{vd/ 7(Ee|J 6/?VV addr:housenumber#28 addr:street#Stamrotesvägen
+n 0{vin 5'z%X 5"I^a addr:housenumber#37 addr:street#Utmarksgatan
+n 0~%Jq 6fM<% 6/?[@ addr:housenumber#8 addr:street#Dysiksgatan
+n 0~%Js 7(EdSM 6/?dG addr:housenumber#1 addr:street#Draggensgatan
+n 0~%Jt 7(EcC] 6/?YP addr:housenumber#14 addr:street#Dysiksgatan
+n 0~%J} 7(Ed1Y 6/?hA addr:housenumber#1 addr:street#Köpenhamnsgatan
+n 0~%K! 7(EdIf 6/?`o addr:housenumber#5A addr:street#Köpenhamnsgatan
+n 0~%K5 7(EdD! 6/?_L name#Hisingen_Fastighetsförmedling phone#+46317881900 shop#estate_agent
+n 0~%KR 7(Ec{` 6/?i@ addr:housenumber#5 addr:street#Tyska_gatan
+n 0~%Ka 7(EbCz 6/?ew addr:housenumber#99 addr:street#Londongatan
+n 0~%L# 7(Ed,b 6/?cQ addr:housenumber#4 addr:street#Köpenhamnsgatan
+n 0~%L4 7(EcxR 6/?^E addr:housenumber#5 addr:street#Draggensgatan
+n 0~%L6 7(EdQ" 6/?a9 addr:housenumber#5B addr:street#Köpenhamnsgatan
+n 0~%L> 7(Ed&+ 5"I`S addr:housenumber#2 addr:street#Köpenhamnsgatan
+n 0~%LE 7(Ed7} 6/?d) addr:housenumber#3 addr:street#Köpenhamnsgatan
+n 0~%LG 7(Ec:N 6/?Ze addr:housenumber#13 addr:street#Draggensgatan
+n 0~%LK 7(Ed#Z 6/?a% addr:housenumber#4 addr:street#Draggensgatan
+n 0~%LQ 7(EbKr 6/?Xl addr:housenumber#24 addr:street#Draggensgatan
+n 0~%LS 7(Ed)m 6/?_B addr:housenumber#3 addr:street#Draggensgatan
+n 0~%LZ 7(EbC~ 6/?an addr:housenumber#25 addr:street#Tyska_gatan
+n 0~%Ls 7(EcI~ 6/?[b addr:housenumber#11 addr:street#Draggensgatan
+n 0~%Lx 7(EbQ0 6/?T` addr:housenumber#24 addr:street#Dysiksgatan
+n 0~%M7 7(Eb=` 5"I^L addr:housenumber#26 addr:street#Dysiksgatan
+n 0~%M? 7(Ec$] 6/?Wc addr:housenumber#18 addr:street#Dysiksgatan
+n 0~%ME 7(EbO9 6/?V: addr:housenumber#23 addr:street#Draggensgatan
+n 0~%MO 7(Ebs# 5"I^j addr:housenumber#20 addr:street#Dysiksgatan
+n 0~%MP 7(Eb;\ 5"I^Z addr:housenumber#25 addr:street#Draggensgatan
+n 0~%MX 7(Ed3Q 6/?]f addr:housenumber#6 addr:street#Köpenhamnsgatan
+n 0~%M] 7(Ecc[ 5"I_0 addr:housenumber#10 addr:street#Dysiksgatan
+n 0~%Me 7(Ebar 6/?WT addr:housenumber#21 addr:street#Draggensgatan
+n 0~%Mz 7(EcSm 6/?Yk addr:housenumber#12 addr:street#Dysiksgatan
+n 0~%N. 7(Ed,% 6/?]J addr:housenumber#4 addr:street#Dysiksgatan
+n 0~%N; 7(EdX< 6/?aa addr:housenumber#1 addr:street#Draggensgatan
+n 0~%NO 7(Ed9< 6/?jY addr:housenumber#3 addr:street#Tyska_gatan
+n 0~%NY 7(EbMc 6/?dF addr:housenumber#24 addr:street#Tyska_gatan
+n 0~%N} 7(EbCT 6/?Yk addr:housenumber#103 addr:street#Londongatan
+n 0~%O+ 7(Echn 6/?]G addr:housenumber#7 addr:street#Draggensgatan
+n 0~%O= 7(Eb?Z 6/?`5 addr:housenumber#101 addr:street#Londongatan
+n 0~%OB 7(Ec+6 6/?Yn addr:housenumber#15 addr:street#Draggensgatan
+n 0~%O[ 7(Eby] 6/?Xo addr:housenumber#17 addr:street#Draggensgatan
+n 0~%O^ 7(EdW3 6/?]X amenity#post_box operator#Posten
+n 0~%Ov 7(EcYS 6/?\U addr:housenumber#9 addr:street#Draggensgatan
+n 0~%Oy 7(Ebcx 6/?V! addr:housenumber#22 addr:street#Dysiksgatan
+n 0~%P! 7(EdQY 6/?_$ amenity#fast_food cuisine#pizza name#Roma phone#+4631536253
+n 0~%P& 7(Eb7+ 6/?S: addr:housenumber#105 addr:street#Londongatan
+n 0~%P/ 7(Ec4; 6/?XX addr:housenumber#16 addr:street#Dysiksgatan
+n 0~%P8 7(Ed#Y 6/?]5 addr:housenumber#6 addr:street#Dysiksgatan
+n 0~%P> 7(Ebq! 6/?XG addr:housenumber#19 addr:street#Draggensgatan
+n 1&\-N 7(E`~P 6/?UR railway#switch
+n 1&\." 7(EcOH 5"Ihg railway#switch
+n 1&\.8 7(E`k\ 5"I]f railway#switch
+n 10:`A 7(EdZ- 6/@(2 addr:housenumber#2 addr:street#Jyllandsgatan
+n 10:`M 6fMB# 6/@.P addr:housenumber#66B addr:street#Londongatan
+n 10:`f 7(EcUV 6/@3B addr:housenumber#70D addr:street#Londongatan
+n 10:aF 6fMIw 6/@'m addr:housenumber#57 addr:street#Londongatan
+n 10:b* 7(EeN~ 5"Ibz addr:housenumber#5 addr:street#Kronotorpsgatan
+n 10:b3 7(Ednb 6/@1@ addr:housenumber#64E addr:street#Londongatan
+n 10:d. 7(Ebk4 6/@&b addr:housenumber#95 addr:street#Londongatan
+n 10:d3 7(EeC/ 6/@"7 addr:housenumber#9 addr:street#Kronotorpsgatan
+n 10:d: 7(EbmP 6/@"^ addr:housenumber#27 addr:street#Jyllandsgatan
+n 10:da 7(EdV* 6/@-a addr:housenumber#66A addr:street#Londongatan
+n 10:eU 6fMGp 6/@(i addr:housenumber#63 addr:street#Londongatan
+n 10:f@ 7(EeH} 6/@"3 addr:housenumber#7 addr:street#Kronotorpsgatan
+n 10:g/ 7(Edi{ 6/@'P addr:housenumber#1 addr:street#Jyllandsgatan
+n 10:g2 7(EdSN 5"Ic` addr:housenumber#73 addr:street#Londongatan
+n 10:hS 6fMIP 6/@'w addr:housenumber#59 addr:street#Londongatan
+n 10:i* 7(Ee{- 6/@>' addr:housenumber#12 addr:street#Oslogatan
+n 10:il 7(Ee8n 6/@(% addr:housenumber#61 addr:street#Londongatan
+n 10:kQ 7(Ee(W 6/@"x addr:housenumber#15 addr:street#Kronotorpsgatan
+n 10:kY 7(EdcO 6/@"( addr:housenumber#3 addr:street#Jyllandsgatan
+n 10:kz 7(EdGy 6/@1< addr:housenumber#66D addr:street#Londongatan
+n 10:mP 7(Ee{H 6/@@j addr:housenumber#2 addr:street#Trondheimsgatan
+n 10:mU 7(EcY@ 6/@17 addr:housenumber#70B addr:street#Londongatan
+n 10:n? 6fM2H 5"Ic5 addr:housenumber#24 addr:street#Jyllandsgatan
+n 10:ns 7(EeTc 6/@!| addr:housenumber#3 addr:street#Kronotorpsgatan
+n 10:pL 7(Ee4% 6/@3@ highway#turning_circle
+n 10:q$ 7(Edp, 6/@/y addr:housenumber#64D addr:street#Londongatan
+n 10:qM 7(Ebdx 6/@!8 addr:housenumber#97 addr:street#Londongatan
+n 10:rC 7(Ee`y 6/@!f addr:housenumber#1 addr:street#Kronotorpsgatan
+n 10:sD 7(Ee<K 6/@"b addr:housenumber#11 addr:street#Kronotorpsgatan
+n 1I=#k 7(EeZ- 6/@'^ addr:housenumber#53 addr:street#Londongatan
+n 1I=#m 7(Ee2? 6/@"n addr:housenumber#13 addr:street#Kronotorpsgatan
+n 1I=#w 7(Ec-3 6/@3p addr:housenumber#72D addr:street#Londongatan
+n 1I=#z 7(Ec\k 6/@0, addr:housenumber#70A addr:street#Londongatan
+n 1I=$7 7(EeC$ 6/@,= addr:housenumber#1 addr:street#Skagengatan
+n 1I=$B 7(Ed}G 6/@(u addr:housenumber#65 addr:street#Londongatan
+n 1I=$H 7(Ed&o 6/@0$ addr:housenumber#68B addr:street#Londongatan
+n 1I=$a 7(Ec5| 6/@12 addr:housenumber#72A addr:street#Londongatan
+n 1I=$f 7(EdtZ 6/@"z addr:housenumber#19 addr:street#Kronotorpsgatan
+n 1I=$n 7(EdvC 6/@-w addr:housenumber#64B addr:street#Londongatan
+n 1I=$| 7(Ee=I 6/@.& addr:housenumber#5 addr:street#Skagengatan
+n 1I=$} 7(EdLW 6/@/u addr:housenumber#66C addr:street#Londongatan
+n 1I=%% 7(EdrF 5"Ic[ addr:housenumber#69 addr:street#Londongatan
+n 1I=%( 7(Ec~h 6/@1y addr:housenumber#68D addr:street#Londongatan
+n 1I=%. 7(Ee/A 6/@2/ addr:housenumber#11 addr:street#Skagengatan
+n 1I=%6 7(Ee_f 6/@'P addr:housenumber#51 addr:street#Londongatan
+n 1I=%> 7(Ec0, 5"IdY addr:housenumber#72C addr:street#Londongatan
+n 1I=%D 7(Edi) 6/@#0 addr:housenumber#23 addr:street#Kronotorpsgatan
+n 1I=%L 7(EcQ: 6/@3q addr:housenumber#70E addr:street#Londongatan
+n 1I=%Q 7(Ee'$ 6/@5, addr:housenumber#17 addr:street#Skagengatan
+n 1I=%U 7(Ed)s 6/@/) addr:housenumber#68A addr:street#Londongatan
+n 1I=%_ 7(Ee7n 6/@/n addr:housenumber#9 addr:street#Skagengatan
+n 1I=%n 7(EeT\ 5"IcN addr:housenumber#55 addr:street#Londongatan
+n 1I=%o 7(EdzC 6/@"o addr:housenumber#17 addr:street#Kronotorpsgatan
+n 1I=%z 7(Eds\ 6/@.l addr:housenumber#64C addr:street#Londongatan
+n 1I=%| 7(Ec*: 6/@4f addr:housenumber#72E addr:street#Londongatan
+n 1I=&! 7(EcY' 5"IdR addr:housenumber#70C addr:street#Londongatan
+n 1I=&/ 7(Ee@6 6/@-2 addr:housenumber#3 addr:street#Skagengatan
+n 1I=&1 7(Edwu 6/@)$ addr:housenumber#67 addr:street#Londongatan
+n 1I=&3 7(Ed#l 6/@0} addr:housenumber#68C addr:street#Londongatan
+n 1I=&A 7(Eedx 6/@'D addr:housenumber#49 addr:street#Londongatan
+n 1I=&L 7(Ec3% 6/@2' addr:housenumber#72B addr:street#Londongatan
+n 1I=&R 7(Ednp 6/@#& addr:housenumber#21 addr:street#Kronotorpsgatan
+n 1I=&^ 7(Edy* 6/@-$ addr:housenumber#64A addr:street#Londongatan
+n 1I=&_ 7(Ee)l 5"Idd addr:housenumber#15 addr:street#Skagengatan
+n 1I=&o 7(Ee:\ 6/@.y addr:housenumber#7 addr:street#Skagengatan
+n 1I=&s 7(Edlt 6/@)> addr:housenumber#71 addr:street#Londongatan
+n 1I=&u 7(Ec{d 6/@2t addr:housenumber#68E addr:street#Londongatan
+n 1I=&z 7(Ee,W 6/@3. addr:housenumber#13 addr:street#Skagengatan
+n 2xXr. 7(E^&q 6/8H: railway#buffer_stop
+n 5e5{- 7(EfJM 6/@(Z addr:housenumber#47B addr:street#Londongatan building#yes
+n 5e5{3 7(EfEp 6/@(8 addr:housenumber#47C addr:street#Londongatan building#yes
+n 5e5{B 7(EfAV 6/@'l addr:housenumber#47D addr:street#Londongatan building#yes
+n 5e5{C 7(Ef=0 6/@'P addr:housenumber#47E addr:street#Londongatan building#yes
+n 5e5{F 7(Ef8S 6/@'< addr:housenumber#47F addr:street#Londongatan building#yes
+n 5e5{L 7(Ef41 6/@'* addr:housenumber#47G addr:street#Londongatan building#yes
+n 5e5{Q 7(Ef,a 6/@&r addr:housenumber#47H addr:street#Londongatan building#yes
+n 5e5{a 7(Ef'v 6/@&i addr:housenumber#47J addr:street#Londongatan building#yes
+n 5e5{g 6fMP6 6/@&f addr:housenumber#47K addr:street#Londongatan building#yes
+n 5e5{k 7(Ee|= 6/@&` addr:housenumber#47L addr:street#Londongatan building#yes
+n 5e5{p 7(Eew2 6/@&_ addr:housenumber#47M addr:street#Londongatan building#yes

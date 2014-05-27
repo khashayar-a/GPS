@@ -1,0 +1,23 @@
+n Ec<- 7(EWxW 6/Ck[ name#Majvallen railway#tram_stop
+n $T)y& 7(ER+` 6/Bth barrier#gate
+n $T)yD 7(ESH; 6/C>] barrier#gate
+n $T)yE 7(ES:i 6/C!- barrier#gate
+n $T)yw 7(EQ?H 6/C"3 barrier#gate
+n $T)z- 7(EPd! 6/C2/ barrier#gate
+n %!;u~ 7(EPs> 6/CtE building#yes name#Fågelhuset tourism#zoo
+n )M!q_ 6fK]; 6/C"6 name#Ekedal railway#tram_stop
+n )M!qi 7(ERv4 6/Bvh name#Ekedal railway#tram_stop
+n *?,^Y 6fKGQ 6/D%@ ele#56.4469760 name#076 wpt_symbol#Picnic_Area
+n *?,^j 7(EQ1, 6/D$9 ele#66.4135280 name#075 wpt_symbol#Picnic_Area
+n *?,_I 5'yoM 6/C\y ele#43.8990360 name#074 wpt_symbol#Picnic_Area
+n *?,_b 6fK@_ 6/CVw ele#41.8345990 name#073 wpt_symbol#Picnic_Area
+n *?,_{ 7(EP~/ 6/CO& ele#38.0749970 name#072 wpt_symbol#Picnic_Area
+n *?,a) 6fKFJ 6/D&n ele#55.6714440 name#077 wpt_symbol#Picnic_Area
+n *?,a7 7(ESMn 6/D&[ ele#58.6377750 name#082 tourism#viewpoint
+n 4Ly/S 7(ESud 6/C8_ addr:housenumber#43A addr:street#Ekedalsgatan
+n 4Ly/T 7(ESs{ 6/C74 addr:housenumber#43B addr:street#Ekedalsgatan
+n 4Ly/V 6fKaR 5"J#( addr:housenumber#43C addr:street#Ekedalsgatan
+n 4Ly/Z 7(ESl} 6/C1D addr:housenumber#45A addr:street#Ekedalsgatan
+n 4Ly/[ 7(ESne 6/C2o addr:housenumber#45B addr:street#Ekedalsgatan
+n 4Ly/d 7(ESpM 6/C4< addr:housenumber#45C addr:street#Ekedalsgatan
+n 4Ly/g 7(ESk6 6/C/w addr:housenumber#47A addr:street#Ekedalsgatan

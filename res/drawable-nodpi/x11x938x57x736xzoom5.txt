@@ -1,0 +1,17 @@
+n &I9j6 7(F-%] 6/D4} addr:housenumber#9B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j9 7(F-7` 6/D,h addr:housenumber#17A addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9tO 7(F,uP 6/DDX addr:housenumber#8 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tP 7(F-:Y 6/DKu addr:housenumber#10 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tQ 7(F-RN 6/DGH addr:housenumber#12 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tR 7(F..N 6/DIc addr:housenumber#14 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tS 7(F/GG 6/DGH addr:housenumber#20 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tT 7(F0'l 6/DB` addr:housenumber#22A addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tU 7(F06H 6/DAz addr:housenumber#22B addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9tV 6fQTn 6/D=g addr:housenumber#24 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9uo 6fQX7 6/D6u addr:housenumber#26 addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9up 7(F0tP 6/D=J addr:housenumber#28A addr:postcode#41749 addr:street#Bäcktuvevägen
+n &I9uq 7(F10F 6/D;f addr:housenumber#28B addr:postcode#41749 addr:street#Bäcktuvevägen
+n .!hja 7(F+?B 6/DRJ highway#bus_stop name#Bäckedalsvägen
+n .,Uk$ 7(F,oL 6/D22 highway#turning_circle
+n .0TG* 7(F*vU 6/DO> highway#crossing
+n .0THm 7(F*um 6/DR6 highway#crossing

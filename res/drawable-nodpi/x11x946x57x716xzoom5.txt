@@ -1,0 +1,21 @@
+n 5IAM 7(Ev<n 6/E){ highway#mini_roundabout
+n E=CS 7(Eva\ 6/EOY highway#turning_circle
+n #HzJw 7(Ex<! 6/F-" railway#level_crossing
+n $`ZP' 7(ExJ+ 6/Dph highway#crossing
+n $|KL? 7(Ex=# 6/Eph highway#give_way
+n $|N!1 7(ExRK 6/EC@ amenity#pub name#Ada's_Pub
+n )55[p 7(ExB& 6/EkJ highway#crossing
+n *}D~# 7(EwRf 6/E9b name#Kville tourism#hotel
+n ..63- 7(ExI$ 5"J;9 highway#crossing
+n ..635 7(Exgy 6/EpR highway#traffic_signals
+n ..63N 7(Ex_l 6/EmV highway#give_way
+n ..8PJ 7(Ex$, 6/E)` name#Willys shop#supermarket
+n .//_N 7(Ex{` 6/Es; highway#traffic_signals
+n .//`@ 7(Exi\ 6/Es" highway#give_way
+n .//`K 7(Ex?z 6/El^ highway#give_way
+n .//a& 7(ExL/ 6/Em} highway#give_way
+n .f3fB 7(EsQ( 6/Erz railway#switch
+n .f3f_ 7(Ew"V 5"J=< railway#switch
+n .f3f{ 7(Ewkq 6/F() railway#crossing
+n .f3gH 7(Er!z 6/EsT railway#buffer_stop
+n .f5c{ 7(EuF@ 6/El* barrier#gate

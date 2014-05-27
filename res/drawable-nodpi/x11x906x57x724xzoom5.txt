@@ -1,0 +1,19 @@
+n $|Gw; 7(E}i= 6/@@} highway#turning_circle
+n $|Gx1 7(E~}g 6/@]6 highway#turning_circle
+n //~1e 7(E}tk 6/@h6 addr:housenumber#44A addr:street#Kalmargatan
+n //~B= 7(E}-O 6/@b; addr:housenumber#3B addr:street#Skeppsbyggaregatan
+n //~G~ 6fOv& 6/@h6 addr:housenumber#44B addr:street#Kalmargatan
+n //~J5 7(E}2} 6/@db addr:housenumber#3A addr:street#Skeppsbyggaregatan
+n //~v& 7(E}C~ 5"Iiw addr:housenumber#36 addr:street#Kalmargatan
+n /0!," 7(E}7. 6/@fg addr:housenumber#1 addr:street#Skeppsbyggaregatan
+n /?_>: 7(E}jR 6/@J? addr:housenumber#15 addr:street#Skeppsbyggaregatan
+n /?_>h 7(E}F| 6/@UU addr:housenumber#9 addr:street#Skeppsbyggaregatan
+n /?_BN 7(E}R[ 6/@TG addr:housenumber#1 addr:street#Rösebergsgatan
+n /?_E) 7(E}j1 6/@Mp addr:housenumber#2A addr:street#Rösebergsgatan
+n /?_K] 7(E}<n 6/@Og addr:housenumber#12 addr:street#Skeppsbyggaregatan
+n /?_Ko 6fOn: 6/@P# addr:housenumber#1 addr:street#Spantgatan
+n /~|H[ 7(F"xn 6/@k' leisure#playground
+n /~|H] 7(F"yn 6/@b( amenity#parking
+n /~|H_ 6fP)j 6/@kD leisure#playground
+n /~|Hb 7(F!y5 6/@bU amenity#parking
+n /~|He 7(F!;Z 6/@lV leisure#playground

@@ -1,0 +1,22 @@
+n "`;~q 7(F'AN 6/H|Q traffic_calming#hump
+n %hT_0 7(F2UH 6/I\I traffic_calming#hump
+n %hT_R 7(F8c& 6/Ilp traffic_calming#hump
+n %hT_m 7(F,vU 6/IIx highway#bus_stop name#Tryckerigatan
+n %hT_s 7(F,oh 6/IGL highway#bus_stop name#Tryckerigatan
+n %i_vt 7(F7"[ 6/Ig( traffic_calming#hump
+n %i_v{ 7(F5,9 6/I\q traffic_calming#hump
+n %i_w# 7(F3d* 6/ITV traffic_calming#hump
+n %i_w8 7(F/_v 6/IOT traffic_calming#hump
+n %i_w= 7(F.:4 6/IJt traffic_calming#hump
+n %i_wK 7(F*B5 6/I<a traffic_calming#hump
+n %i_x' 7(F.Fi 6/IAz traffic_calming#chicane
+n %i_x( 7(F.Sh 6/I8u traffic_calming#hump
+n %i_x. 7(F/"= 6/Hw0 highway#turning_circle
+n %i_xj 7(F02E 5"JZ: traffic_calming#hump
+n %i_xm 7(F/}D 6/I7o traffic_calming#hump
+n %i_xu 6fQN4 5"JX@ highway#turning_circle
+n %i_x{ 7(F/)` 6/IFA highway#turning_circle
+n %i_y! 7(F/d, 5"J]d traffic_calming#chicane
+n /?itU 7(F0J9 6/HP! highway#turning_circle
+n 5u}6% 7(F,]L 6/I@& highway#turning_circle
+n 5u}61 7(F-Bf 6/HR\ highway#turning_circle

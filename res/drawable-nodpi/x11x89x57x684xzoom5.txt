@@ -1,0 +1,34 @@
+n /e4&] 7(ESe[ 6/>`A depth#0 natural#rock
+n /e4)p 7(ESjz 6/>cI depth#0 natural#rock
+n /e4"g 7(ESvt 6/>jx depth#0 natural#rock
+n +E':F 7(EQ:d 6/>sG amenity#restaurant name#Ruckmans
+n /e4(K 6fK`$ 6/>^< man_made#beacon seamark#beacon
+n /e4,o 7(ET/D 6/?'m depth#0 natural#rock
+n ,eD9Q 7(EP\" 6/>^Z addr:housenumber#11 addr:street#Sven_Källfelts_gata
+n ,k#\~ 7(EQ4& 3"AS addr:housenumber#22B addr:street#Fredrik_Bloms_väg
+n ,eD8| 7(EP*( 6/>fO addr:housenumber#30B addr:street#Fredrik_Bloms_väg
+n ,eD;k 6fKF! 6/>^y addr:housenumber#3 addr:street#Skeppet_Ärans_väg
+n /e406 7(ET*y 6/?(v depth#0 natural#rock
+n /e3}b 7(ET&? 6/?*4 depth#0 natural#rock
+n $gl0q 7(ELXL 6/>vz barrier#bollard bicycle#yes foot#yes
+n ,k#]B 7(EP62 6/>|8 addr:housenumber#23A addr:street#Fredrik_Bloms_väg
+n ,k#]< 7(EPpd 5"IZ. addr:housenumber#22A addr:street#Fredrik_Bloms_väg
+n /e4%{ 7(ET<c 6/?.u man_made#beacon seamark#beacon
+n +E&qn 7(EQs@ 6/?&} name#Nya_Varvet_Studios tourism#hotel
+n ,eD;) 7(EPC9 4.Ky addr:housenumber#7 addr:street#Sven_Källfelts_gata
+n /e4'N 7(ESmK 5"IVn depth#0 natural#rock
+n ,eD9: 7(EP&; 6/>w_ addr:housenumber#24 addr:street#Fredrik_Bloms_väg
+n /e4/j 7(ES~] 6/?+V depth#0 natural#rock
+n /e4*N 7(ET=* 6/>oL seamark:buoy_cardinal:category#east seamark:buoy_cardinal:colour#black;yellow;black seamark:buoy_cardinal:colour_pattern#horizontal seamark:buoy_cardinal:shape#spar seamark:light:character#Q seamark:light:colour#white seamark:light:group#3 seamark:light:period#10 seamark:topmark:colour#black seamark:topmark:shape#2_cones_base_together seamark:type#buoy_cardinal
+n ,eD<) 6fKA; 6/>d8 addr:housenumber#5 addr:street#Sven_Källfelts_gata
+n /e4)R 7(ESp' 6/>fQ depth#0 natural#rock
+n /e400 7(ESte 6/>iL depth#0 natural#rock
+n ,eD;5 7(EO|5 6/>h( addr:housenumber#30A addr:street#Fredrik_Bloms_väg
+n ,k#^? 7(EQUE 6/?)J addr:housenumber#22C addr:street#Fredrik_Bloms_väg
+n ,k#^A 7(EP]t 6/?%r addr:housenumber#23C addr:street#Fredrik_Bloms_väg
+n /e4,e 6fKaQ 6/>gh depth#0 natural#rock
+n /e4'W 6fK`Q 6/>ag depth#0 natural#rock
+n /e4') 7(ES|| 6/>l; man_made#beacon seamark#beacon
+n ,eD:r 7(EPU! 6/>_$ addr:housenumber#9 addr:street#Sven_Källfelts_gata
+n ,k#]" 7(EPJ$ 6/?"& addr:housenumber#23B addr:street#Fredrik_Bloms_väg
+n 1iJ9| 7(EQt; 5"IYH leisure#slipway

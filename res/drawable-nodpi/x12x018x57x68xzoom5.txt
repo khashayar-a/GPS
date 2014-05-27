@@ -1,0 +1,54 @@
+n *fVj 7(EJSp 6/MO6 highway#motorway_junction name#Delsjömotet ref#71
+n "f)Pd 7(EMkz 6/M}O traffic_calming#table
+n "f)h7 7(EMc* 6/M5V name#Kallebäcks_källa natural#spring wikipedia:sv#Kallebäcks_källa
+n $3=b2 6fKs{ 6/N5i power#tower
+n $3=b3 7(EWUP 6/NA3 power#tower
+n $3=b4 7(EapA 6/OJ= power#tower
+n $3=b5 6fN$* 6/ORQ power#tower
+n $3=b6 7(EpMJ 6/Os, power#tower
+n $3=b7 7(Ex%N 6/PFB power#tower
+n $3=d. 7(E^0B 6/O-b power#tower
+n $3=d/ 7(E`3d 6/O*Y power#tower
+n $w90( 6fJ{n 6/Mf_ barrier#lift_gate bicycle#yes foot#yes
+n .,0iW 7(EMA^ 6/MS} power#tower
+n .,0i\ 7(EtBZ 6/P.O power#tower
+n .,0j% 7(EI~x 6/MM4 power#tower
+n .,0j0 7(E@}; 6/Ml; power#tower
+n .,0j= 7(EG)n 6/Mf6 power#tower
+n .,0jP 7(EKKZ 6/M:C power#tower
+n .,0jV 7(EJ)8 6/MOU power#tower
+n .,0jv 7(ELF/ 6/MF( power#tower
+n .,0j~ 7(EKK> 6/M>) power#tower
+n .,0k5 7(EPGZ 6/Mo+ power#tower
+n .,0k6 7(EG.& 5"K(4 power#tower
+n .,0kF 7(ECS} 6/MjL power#tower
+n .,0kI 7(EL?b 6/MGn power#tower
+n .,0kK 7(EEZD 6/Mg4 power#tower
+n .,0kV 7(ENW4 6/MbQ power#tower
+n .,0kX 7(EA&\ 5"K(6 power#tower
+n .,0kZ 7(ECS} 6/Mh= power#tower
+n .,0kq 7(EE[D 6/MiZ power#tower
+n .,~jo 7(ErGV 6/P"0 power#tower
+n .,~jv 7(E}A0 6/P-U power#tower
+n .,~k+ 7(Ez\5 6/Ou~ power#tower
+n .,~k; 7(Edhq 6/OLr power#tower
+n .,~kH 6fLV1 5"K1) power#tower
+n .,~kN 7(EmF8 6/O_[ power#tower
+n .,~kR 7(E|6h 6/P$w power#tower
+n .,~lB 7(Eh?w 5"K8M power#tower
+n .,~lD 7(EQXa 6/Mwk power#tower
+n .,~lQ 7(Eo/8 6/Ojr power#tower
+n .,~lR 7(EY'N 6/NJJ power#tower
+n .,~m) 7(Eux: 6/P8e power#tower
+n .,~mC 7(ES=6 6/N%, power#tower
+n .,~mP 7(Ea$+ 6/O:O power#tower
+n .,~mT 7(EZ/p 6/NQ% power#tower
+n .,~nR 7(EcF& 6/OKE power#tower
+n .,~n| 7(Ey1Z 6/P)s power#tower
+n .,~o4 7(ETZZ 6/N.3 power#tower
+n .,~oJ 7(Ef`X 6/ON, power#tower
+n .,~oM 7(Eio= 6/OQ/ power#tower
+n 1H]>q 7(ENHh 6/M"S barrier#lift_gate bicycle#yes foot#yes motorcar#yes
+n 3gE2; 7(EGyh 6/OTE traffic_calming#bump
+n 4g*`c 7(EMbK 6/M3a historic#memorial
+n 4g*`j 7(EO+0 6/M7I fixme#continue noexit#no

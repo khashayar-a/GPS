@@ -1,0 +1,35 @@
+w D%_> amenity#bicycle_parking
+d 1lJ`B 7(EM7o 6/I-U
+d %*SN" 7(EM3H 6/I-y
+d %*SN% 7(EM=I 6/I1|
+d %*SN' 7(EMX= 6/I/\
+d 1lJa1 7(EMW6 6/I/4
+d 1lJ`B 7(EM7o 6/I-U
+n ".Vv] 7(EKMf 6/I<{ crossing#uncontrolled highway#crossing
+n "1=+D 7(EVaW 5"JPd highway#traffic_signals
+n "1Qa\ 7(EO}" 5"J_D traffic_calming#hump
+n "fHxh 7(EOWH 6/Hd6 highway#turning_circle
+n $T7oQ 7(ELau 6/H\A bicycle#yes crossing#island highway#crossing
+n %18Sj 7(EMq= 6/IEA addr:housenumber#78 addr:street#Gibraltargatan
+n %19c/ 7(EL7* 6/INN addr:housenumber#80 addr:street#Gibraltargatan
+n %19c5 7(EL~m 6/ID` addr:housenumber#82 addr:street#Gibraltargatan
+n %19tF 7(EL?k 6/ICC addr:housenumber#94 addr:street#Gibraltargatan
+n %1:?# 7(EM5P 6/IM5 addr:housenumber#84 addr:street#Gibraltargatan
+n %TYPn 7(EM,i 6/I?w highway#bus_stop name#Mossen operator#Västtrafik
+n &$MhV 7(EOot 6/IP& bicycle#yes crossing#uncontrolled highway#crossing
+n 1d!$u 7(EQFP 6/HTK traffic_calming#hump
+n 1d!%n 7(EP=2 6/IcE traffic_calming#hump
+n 1d!': 7(EO]p 6/I<U barrier#gate
+n 1eHM@ 7(EQM1 6/J(j traffic_calming#hump
+n 1fKF4 7(EMb: 6/Iam crossing#uncontrolled;island highway#crossing
+n 1fKF_ 7(EN9a 6/I`g crossing#uncontrolled;island highway#crossing
+n 1fKI* 7(ENP9 6/I_/ crossing#uncontrolled;island highway#crossing
+n 1kg63 7(ELVD 6/Id% crossing#uncontrolled;island highway#crossing
+n 1lJ_i 7(EJ%" 6/I,R highway#turning_circle
+n 1lJ_r 7(EIpz 6/I1` crossing#uncontrolled;island highway#crossing
+n 1lJ`/ 6fJ}& 6/I;; crossing#uncontrolled;island highway#crossing
+n 1lJ`8 7(ELx# 4.UE highway#turning_circle
+n 1lJ`Y 7(ELrL 6/H_0 bicycle#yes crossing#island highway#crossing
+n 1lJ`l 7(EKB4 6/HnW bicycle#yes crossing#uncontrolled highway#crossing
+n 547!3 6fJa$ 6/I-~ bicycle#yes crossing#island highway#crossing
+n 547"3 6fJ{j 6/H`. bicycle#yes crossing#island highway#crossing

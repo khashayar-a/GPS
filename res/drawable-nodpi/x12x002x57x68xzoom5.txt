@@ -1,0 +1,20 @@
+n 1aJ 6fIH' 6/Ldx highway#motorway_junction name#Lackarebäcksmotet ref#68
+n 1aQ 7(E1I6 6/M(N highway#motorway_junction name#Mölndalsbro ref#67
+n XB? 7(EQ/e 6/KU4 highway#traffic_signals
+n [rc 7(EL9R 6/Kx= highway#motorway_junction name#Kallebäcksmotet ref#70
+n ?ziH 7(EOmz 6/K,8 highway#traffic_signals
+n A<4N 7(E8MM 6/Lv( highway#motorway_junction name#Lackarebäcksmotet ref#68
+n C2@e 7(EOtU 6/KeA crossing#no highway#traffic_signals
+n w5U0 7(EOf8 6/K(3 highway#traffic_signals
+n "v+*4 6fL.q 6/J2H highway#traffic_signals
+n $0T/R 6fK'K 6/KCz amenity#fuel contact:city#GÖTEBORG,_södra contact:postcode#41263 contact:street#Mölndalsvägen_/_Grafiskavägen_2 fuel:diesel#yes fuel:e85#yes fuel:octane_95#yes name#JET_Mölndal
+n %7uo= 7(EK]D 5"JrG name#ICA_MAXI shop#supermarket
+n %8";z 7(ENV2 4.X[ addr:housenumber#2 addr:street#Mejerigatan
+n %8"Ch 6fK9B 6/K,1 name#Elisedal railway#tram_stop
+n %8"E% 7(ESm# 6/Jce name#Almedal railway#tram_stop
+n %8"Gt 6fK4g 6/L"u highway#bus_stop name#Gräddgatan
+n %8"Hw 7(EN_K 6/L%\ highway#bus_stop name#Gräddgatan
+n &|YiK 6fJnN 5"Jp, name#Varbergsgatan railway#tram_stop
+n 1H]<X 7(ELN$ 6/LGx crossing#uncontrolled highway#crossing
+n 23WU~ 7(ENx[ 6/L(- amenity#post_box
+n 23WV& 7(EN<{ 6/L+( amenity#recycling recycling:glass#yes recycling:paper#yes

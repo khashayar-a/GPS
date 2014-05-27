@@ -1,0 +1,7 @@
+n $8j@y 7(F%vZ 6/A{8 barrier#block bicycle#yes foot#yes
+n $Q4N[ 7(F+2T 6/BK_ name#Norra_Toppen tourism#viewpoint
+n $|SL2 7(F*7J 6/AR% barrier#cycle_barrier
+n .<m[f 6fPZV 6/Ax[ highway#crossing
+n /+hYN 7(F#eL 6/BMs traffic_calming#yes
+n 3T,#R 7(F)[l 6/ALo highway#bus_stop name#Vendernas_Gata
+n 3T,#T 7(F*<K 6/AE& highway#bus_stop name#Vendernas_Gata

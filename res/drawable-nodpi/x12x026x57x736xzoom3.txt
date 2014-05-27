@@ -1,0 +1,510 @@
+w "9D+r building#yes
+d /VWlE 7(F-n} 6/N=M
+d /VWl; 7(F-jR 6/N>f
+d /VWiX 7(F-p( 6/N?I
+d /VWlH 7(F-tS 6/N>0
+d /VWlE 7(F-n} 6/N=M
+w w+o' addr:housenumber#35 addr:street#Lilla_regementsvägen building#yes
+d +uHxQ 7(F-GP 6/NEM
+d +uHxS 7(F-f! 6/NF\
+d +uHxT 7(F-d3 6/NH<
+d +uHxU 7(F-j# 5"K.B
+d +uHxW 7(F-h+ 6/NJ:
+d +uHxZ 5'zI+ 6/NIy
+d +uHx^ 7(F-`H 6/NI7
+d +uHxa 7(F-DU 6/NH0
+d +uHxQ 7(F-GP 6/NEM
+w "9D+o addr:housenumber#33 addr:street#Lilla_regementsvägen building#yes
+d /VWgx 6fQC6 6/N@h
+d /VWj* 7(F.LU 6/N@P
+d /VWks 7(F.Kh 6/NB<
+d /VWix 7(F.N" 6/NB?
+d /VWi' 7(F.M% 6/NDL
+d /VWl* 7(F.K2 6/NDI
+d /VWkI 7(F.JD 6/NF8
+d /VWl5 7(F.L[ 6/NF<
+d /VWj+ 7(F.L0 6/NG=
+d /VWjj 7(F.X\ 6/NGO
+d /VWk# 7(F.Y+ 6/NFH
+d /VWj- 7(F.h] 6/NF_
+d /VWgw 7(F.iG 6/NDz
+d /VWlG 7(F.YX 6/NDc
+d /VWjR 7(F.ZX 6/NBN
+d /VWj: 7(F.\L 6/NBP
+d /VWgx 6fQC6 6/N@h
+w "9D+l building#yes
+d /VWjO 7(F0)H 5"K-3
+d /VWiP 7(F/ot 5"K-4
+d /VWkh 7(F/p8 6/N?o
+d /VWjn 7(F0)j 6/N?e
+d /VWjO 7(F0)H 5"K-3
+w &5WB highway#unclassified name#Regementsvägen
+d ?|f3 7(F-'' 5"K(Z
+d '<J&F 7(F-)9 6/Mo$
+d '<J%~ 7(F-'f 6/Mq4
+d +bO%$ 7(F-'U 6/Msy
+d /Vxs; 6fQ4G 6/MyP
+d (wm5E 7(F-%X 6/N!K
+d %+8^Z 7(F-!] 6/N.C
+w w+nt building#yes name#Klätterdomen sport#climbing type#cimbing_hall_inside
+d +uHwe 7(F,X_ 6/NQ$
+d +uHwh 7(F-+d 5"K/2
+d +uHwj 7(F-+d 5"K/N
+d +uHwl 7(F,Y. 6/NT6
+d +uHwe 7(F,X_ 6/NQ$
+w "9D+d amenity#marketplace building#yes name#Kvibergs_Marknad old_name#Stall_10 opening_hours#Sa-Su_10:00-15:00 website#www.kvibergsmarknad.se
+d /VWfq 7(F..& 6/NS3
+d /VWi> 7(F.-\ 6/NOQ
+d /VWl9 7(F.ql 6/NO7
+d /VWhi 7(F.r6 6/NRw
+d /VWfq 7(F..& 6/NS3
+w w+o) building#yes
+d +uHxp 7(F,d2 6/N<H
+d +uHxq 7(F,}k 6/N=N
+d +uHxr 7(F,z` 5"K-Q
+d +uHxv 7(F,a' 6/N?$
+d +uHxp 7(F,d2 6/N<H
+w "9D+q building#yes
+d /VWhn 7(F-V- 6/NB4
+d /VWj! 7(F-Qa 4.Z`
+d /VWg$ 7(F-P1 6/NCA
+d /VWl: 7(F-T[ 6/NCR
+d /VWhn 7(F-V- 6/NB4
+w "9D+e building#yes
+d /VWlB 7(F.#m 6/N@u
+d /VWjW 7(F-{9 6/N@~
+d /VWi? 7(F-{w 6/NBW
+d /VWj~ 7(F.$M 6/NBM
+d /VWlB 7(F.#m 6/N@u
+w "9D+a building#yes
+d /VWi_ 7(F.la 6/NAK
+d /VWiA 7(F.ad 6/NA2
+d /VWkY 7(F.a) 6/NB)
+d /VWh: 7(F.l& 6/NBB
+d /VWi_ 7(F.la 6/NAK
+w "9D+{ building#yes
+d /VWjZ 7(F0{v 3"B|
+d /VWkC 7(F0y# 6/NF)
+d /VWl# 7(F0lZ 6/NE`
+d /VWj9 7(F0l} 6/NE;
+d /VWiz 7(F0i| 6/NE2
+d /VWg5 7(F0i! 6/NF3
+d /VWk" 7(F0\N 6/NEi
+d /VWi" 7(F0\p 6/NEF
+d /VWh@ 7(F0Yb 6/NE<
+d /VWh" 6fQUW 4.Zc
+d /VWg% 7(F0L& 5"K.)
+d /VWga 7(F0LJ 6/NEK
+d /VWg| 7(F0IQ 6/NEB
+d /VWlF 7(F0H\ 6/NF:
+d /VWjK 7(F0<H 6/NEr
+d /VWh- 7(F0?6 6/NBx
+d /VWg9 7(F0Jy 6/NC?
+d /VWil 7(F0J] 6/NC]
+d /VWhU 7(F0N) 6/NCh
+d /VWg" 7(F0Nz 6/NBq
+d /VWfr 6fQUl 6/NC9
+d /VWiO 7(F0Z] 5"K-r
+d /VWl@ 7(F0]i 5"K-s
+d /VWj_ 7(F0^a 5"K-j
+d /VWih 7(F0k4 5"K-n
+d /VWiG 7(F0jz 6/NCL
+d /VWjP 7(F0mp 6/NCV
+d /VWg' 7(F0ne 6/NB]
+d /VWjZ 7(F0{v 3"B|
+w "9D+g building#yes
+d /VWh' 7(F/OI 6/NJ%
+d /VWkd 7(F/M@ 6/NJ&
+d /VWio 7(F/@z 6/NJ-
+d /VWfo 7(F/*9 6/NJ8
+d /VWjF 7(F/*_ 6/NLw
+d /VWjI 7(F/Oo 6/NLe
+d /VWh' 7(F/OI 6/NJ%
+w w+nq building#yes
+d +uHwT 7(F-7W 6/NQ2
+d +uHwW 7(F-8z 6/NZU
+d +uHw_ 6fQ86 6/NZK
+d +uHwb 7(F-Ks 6/NQ(
+d +uHwT 7(F-7W 6/NQ2
+w "9D+c amenity#marketplace building#yes name#Kvibergs_Marknad old_name#Stall_12 opening_hours#Sa-Su_10:00-15:00 website#www.kvibergsmarknad.se
+d /VWk! 7(F.u3 5"K1C
+d /VWk$ 7(F.0H 6/Nfp
+d /VWj> 7(F.0g 6/NjH
+d /VWhI 7(F.uR 6/Nj3
+d /VWk! 7(F.u3 5"K1C
+w w+o6 building#yes
+d +uHyV 7(F-Yh 6/NQ*
+d +uHyX 7(F-ZK 6/NT/
+d +uHyZ 6fQ:r 6/NT%
+d +uHy] 7(F-fx 6/NQ!
+d +uHyV 7(F-Yh 6/NQ*
+w "T"9+ amenity#parking
+d +uHwl 7(F,Y. 6/NT6
+d 2<zY$ 7(F,]z 6/NVq
+d 2<zYA 7(F,_< 5"K/n
+d 2<zY( 7(F,`S 3"B~
+d 2<zY9 7(F,^b 6/N]m
+d 2<zY6 7(F,bP 6/Nc7
+d +uHx1 7(F,[{ 6/Ng'
+d +uHx@ 7(F,eB 6/Ng"
+d +uHx> 7(F,eN 6/Ngm
+d /VWi} 7(F,i> 5"K1N
+d /VWg2 7(F,iH 6/NhJ
+d +uHx; 7(F-". 6/Nh=
+d +uHx9 7(F-"# 6/NgR
+d /VWf} 7(F-%r 6/NgP
+d /VWku 7(F-%g 6/Nfj
+d +uHx7 7(F-5H 6/Nfb
+d 2<zY: 7(F-6) 6/Njt
+d 2<zY% 7(F-B{ 6/NkH
+d 2<zY8 6fQ8' 6/Nl[
+d 2<zY2 7(F-W' 5"K1r
+d +uHx% 7(F-]_ 6/Ni]
+d +uHw~ 7(F-]& 6/NgF
+d +uHws 7(F-]# 6/Ndb
+d 2<zXz 7(F-\e 6/Nax
+d 2<zY> 7(F-ZV 6/Naw
+d /VWiJ 6fQ9N 6/N^A
+d /VWkO 7(F-YU 6/N\4
+d 2<zY; 7(F-Xu 6/NXq
+d 2<zY? 7(F-[g 6/NXn
+d +uHwq 7(F-[J 6/NV"
+d +uHyX 7(F-ZK 6/NT/
+d +uHyV 7(F-Yh 6/NQ*
+d +uHwb 7(F-Ks 6/NQ(
+d +uHw_ 6fQ86 6/NZK
+d +uHwW 7(F-8z 6/NZU
+d +uHwT 7(F-7W 6/NQ2
+d +uHwh 7(F-+d 5"K/2
+d +uHwj 7(F-+d 5"K/N
+d +uHwl 7(F,Y. 6/NT6
+w GV"t bicycle#yes foot#yes highway#unclassified
+d %YiY$ 7(F.r] 6/OB6
+d %YkCD 7(F.mU 6/O=V
+d 02,t9 7(F.yl 5"K2^
+d %+8`a 7(F.{] 6/Nm9
+w D,<5 highway#unclassified name#Regementsvägen
+d %+8^Z 7(F-!] 6/N.C
+d +bO&+ 7(F,p+ 6/N/K
+d %+8^[ 7(F,dR 6/N0X
+d %+8^\ 7(F,YV 6/N2=
+d +bO&. 6fQ.~ 6/N4S
+d %+8^] 7(F,C> 5"K,^
+d %+8^^ 7(F,4m 6/N;|
+d +bO&0 7(F,*` 6/N>6
+w w+nw building#yes
+d +uHwq 7(F-[J 6/NV"
+d 2<zY? 7(F-[g 6/NXn
+d /VWh/ 7(F-\+ 5"K0?
+d /VWkO 7(F-YU 6/N\4
+d /VWiJ 6fQ9N 6/N^A
+d /VWl8 7(F-\@ 6/N^@
+d 2<zXz 7(F-\e 6/Nax
+d +uHws 7(F-]# 6/Ndb
+d +uHwu 7(F-pu 6/NdZ
+d /VWjY 7(F-p4 6/N^7
+d /VWj{ 7(F-sB 6/N^6
+d /VWkt 7(F-s, 6/N\(
+d /VWjG 7(F-o_ 5"K0>
+d +uHwv 7(F-n~ 6/NUy
+d +uHwq 7(F-[J 6/NV"
+w GV"p highway#unclassified
+d %YkA& 7(F+!< 6/Np-
+d &%6<A 7(F+'. 5"K29
+d %+8ad 7(F,Eh 6/Nq8
+d %YkA( 6fQ0, 6/Nq^
+d 2<zXu 7(F,v? 6/NqO
+d %YkA) 7(F-D9 6/Nq7
+d 2<zY= 6fQ8* 6/Nq'
+d %YkA* 7(F.55 6/NoO
+d /VWk/ 7(F.A_ 6/No*
+d %+8`a 7(F.{] 6/Nm9
+d %YkA, 6fQK2 6/Nkc
+d /Vxt7 7(F/XU 6/Nk"
+d %YkA. 7(F/_. 6/Nj2
+d %YkA/ 6fQMZ 6/Nhe
+d %YkA1 7(F/k, 6/Nf_
+d 02,s[ 7(F/l3 6/Ndx
+d 02,s5 7(F/ih 6/NTu
+d /Vxtg 7(F/i* 6/NQ\
+d /VWgd 6fQMk 6/NO#
+w "9D+s building#yes
+d /VWg& 7(F->M 6/N=>
+d /VWjT 7(F->u 6/N>/
+d /VWk7 7(F-7m 6/N>;
+d /VWhl 7(F-7E 6/N=J
+d /VWg& 7(F->M 6/N=>
+w "9D,& building#yes
+d /VWl! 6fQY/ 4.Zg
+d /VWhK 7(F0yf 5"K.f
+d /VWhr 7(F0mv 6/NKz
+d /VWgO 7(F0n4 6/NK\
+d /VWl% 7(F0js 6/NKR
+d /VWi1 7(F0iy 6/NLO
+d /VWi0 7(F0]& 6/NL&
+d /VWjx 7(F0]H 6/NKa
+d /VWl7 7(F0ZH 6/NKX
+d /VWh< 7(F0YN 5"K.h
+d /VWgS 7(F0Lq 5"K.d
+d /VWg# 7(F0M3 6/NKi
+d /VWlJ 7(F0JC 6/NK`
+d /VWkR 7(F0IH 4.Zj
+d /VWjl 7(F0<m 5"K.e
+d /VWk& 7(F0?_ 6/NI:
+d /VWgT 7(F0Ku 5"K.M
+d /VWh( 7(F0KV 6/NJ$
+d /VWfx 7(F0NM 6/NJ-
+d /VWkJ 7(F0OA 6/NI5
+d /VWkc 7(F0\I 6/NI_
+d /VWfl 7(F0\) 6/NJ"
+d /VWij 7(F0_+ 6/NJ,
+d /VWk: 7(F0`( 6/NI+
+d /VWim 7(F0l\ 6/NIS
+d /VWka 7(F0l> 6/NIt
+d /VWgb 7(F0oI 6/NI}
+d /VWjv 7(F0p? 6/NI'
+d /VWl! 6fQY/ 4.Zg
+w "aPiD highway#unclassified name#Lilla_Regementsvägen
+d /VxtP 7(F.yP 6/NRL
+d +bO$U 7(F.x. 6/NMx
+d +bO%/ 7(F.v0 6/N>|
+d +bO%0 7(F.ty 6/N=/
+d +bO%1 7(F.s+ 6/N;j
+d +bO%3 7(F.nT 6/N:r
+d +bO%4 7(F.hh 6/N9u
+d +bO%6 7(F.<X 6/N3e
+d +uHz, 7(F.5{ 5"K,3
+d +bO%8 7(F.2o 6/N2S
+d +bO%9 7(F.'r 6/N1F
+d +uHz8 7(F-}R 6/N0e
+d +bO%; 7(F-x0 6/N0N
+d +bO%< 7(F-Rb 5"K+j
+d +bO%> 7(F-@G 6/N.N
+d %+8^Z 7(F-!] 6/N.C
+w [a"t building#yes
+d (wm5o 7(F/Sj 6/N)b
+d (wm5p 7(F1s6 6/N5e
+d (wm5q 7(F1v4 6/N3c
+d (wm5r 6fQKx 6/N'T
+d (wm5o 7(F/Sj 6/N)b
+w "9D,! building#yes
+d /VWjs 7(F/Lc 6/NEx
+d /VWkd 7(F/M@ 6/NJ&
+d /VWio 7(F/@z 6/NJ-
+d /VWh[ 7(F/@@ 6/NE~
+d /VWjs 7(F/Lc 6/NEx
+w "9D," building#yes
+d /VWg~ 7(F-|5 6/NCY
+d /VWkn 7(F-|p 6/NE/
+d /VWlN 7(F.%D 6/NE'
+d /VWkV 5'zIL 5"K-q
+d /VWg~ 7(F-|5 6/NCY
+w w+ny building#yes
+d +uHw~ 7(F-]& 6/NgF
+d +uHx% 7(F-]_ 6/Ni]
+d +uHx& 7(F-nb 6/NiN
+d +uHx( 7(F-n) 6/Ng6
+d +uHw~ 7(F-]& 6/NgF
+w w+o2 building#yes
+d +uHy: 7(F,L< 6/NFG
+d +uHy? 7(F,k, 6/NG\
+d +uHyC 7(F,iN 6/NI)
+d +uHyD 7(F,ou 6/NIA
+d +uHyE 7(F,m[ 6/NKC
+d +uHyH 7(F,da 6/NK"
+d +uHyK 7(F,e^ 6/NJ/
+d +uHyN 7(F,IA 6/NI$
+d +uHy: 7(F,L< 6/NFG
+w "9D,# building#yes
+d /VWkE 7(F-I4 6/NAB
+d /VWk= 7(F-D8 6/NB=
+d /VWk' 7(F-@| 5"K-`
+d /VWf| 7(F-Ex 5"K-W
+d /VWkE 7(F-I4 6/NAB
+w "9D,$ building#yes
+d /VWjJ 7(F.%U 6/NEt
+d /VWkT 7(F.&? 6/NGH
+d /VWkG 7(F-~( 6/NGR
+d /VWjQ 7(F-}> 6/NF!
+d /VWjJ 7(F.%U 6/NEt
+w "9D+u building#yes
+d /VWfy 7(F/Nt 6/NC6
+d /VWiT 6fQGB 6/NCI
+d /VWi2 7(F/(w 6/NF+
+d /VWh[ 7(F/@@ 6/NE~
+d /VWjs 7(F/Lc 6/NEx
+d /VWg3 7(F/O< 6/NEv
+d /VWfy 7(F/Nt 6/NC6
+w "9D+} building#yes
+d /VWj8 7(F0)| 6/NDf
+d /VWkf 7(F/na 5"K-~
+d /VWg* 7(F/o" 6/NFb
+d /VWht 7(F/ud 6/NF^
+d /VWhQ 7(F/v/ 6/NI(
+d /VWlL 7(F/np 6/NI,
+d /VWlA 7(F/o0 6/NJu
+d /VWhB 7(F0+J 6/NJe
+d /VWkS 7(F0+, 6/NHz
+d /VWfp 7(F0#{ 6/NH~
+d /VWft 7(F0#R 6/NFX
+d /VWh8 7(F0*= 6/NFT
+d /VWj8 7(F0)| 6/NDf
+w [a#X amenity#parking
+d (wm:K 7(F/kd 6/N,C
+d (wm:N 7(F/it 6/N-P
+d (wm:P 7(F0&b 6/N/U
+d (wm:F 7(F0$. 6/N0|
+d (wm5R 7(F0/6 4.ZQ
+d (wm5S 7(F0X^ 6/N6R
+d (wm5T 6fQ^; 6/N=d
+d (wm:R 7(F1\- 6/N6'
+d (wm:K 7(F/kd 6/N,C
+w w+n_ building#yes
+d +uHve 7(F-Tl 6/N2{
+d +uHvg 7(F-i[ 6/N5;
+d +uHvi 7(F-o( 5"K,9
+d +uHvl 7(F-Z9 6/N17
+d +uHve 7(F-Tl 6/N2{
+w "9D+x building#yes
+d /VWlK 7(F.lN 6/N/9
+d /VWi. 7(F.@Y 6/N-|
+d /VWkZ 7(F.>+ 6/N0z
+d /VWl) 7(F.i~ 6/N27
+d /VWlK 7(F.lN 6/N/9
+w "9D+b building#yes
+d /VWfj 7(F.#K 6/N@*
+d /VWkU 7(F."X 6/N>9
+d /VWiI 7(F-z0 6/N>C
+d /VWk0 7(F-{" 6/N@4
+d /VWfj 7(F.#K 6/N@*
+w "9D,' building#yes
+d /VWh) 7(F-DZ 6/N@L
+d /VWfm 7(F->v 6/NA9
+d /VWhp 7(F-;q 6/N@P
+d /VWiZ 7(F-AU 6/N?b
+d /VWh) 7(F-DZ 6/N@L
+w "9D+p building#yes
+d /VWl3 7(F.&h 6/NH9
+d /VWhS 7(F.'J 5"K.N
+d /VWhM 7(F.!C 6/NIt
+d /VWk[ 7(F-~a 6/NHB
+d /VWl3 7(F.&h 6/NH9
+w "9D+j building#yes
+d /VWk@ 6fQ:# 6/NA9
+d /VWkQ 7(F-YE 6/NBD
+d /VWh| 7(F-^7 6/NC:
+d /VWja 7(F-d' 6/NB/
+d /VWk@ 6fQ:# 6/NA9
+w "9D+z building#yes
+d /VWg7 7(F-OB 6/NAv
+d /VWgv 7(F-LF 6/NC/
+d /VWg4 7(F-H0 6/NBk
+d /VWgL 7(F-K, 6/NAU
+d /VWg7 7(F-OB 6/NAv
+w D,<@ bicycle#yes foot#yes highway#unclassified
+d %+8`a 7(F.{] 6/Nm9
+d /VWkx 7(F.{N 6/Nka
+d 2<zX| 7(F.{: 6/Nif
+d 3Wo-2 6fQF& 6/NRt
+d /VxtP 7(F.yP 6/NRL
+w "9D+v amenity#parking
+d /VWl< 7(F.9/ 6/NH~
+d /VWkK 6fQ=z 6/NI8
+d /VWjy 7(F.#A 6/N=q
+d /VWid 7(F.4# 6/N=X
+d /VWl< 7(F.9/ 6/NH~
+w "9D,% building#yes
+d /VWhO 7(F/=- 6/N4{
+d /VWkA 7(F.o< 6/N3a
+d /VWhY 7(F.ln 6/N6^
+d /VWg) 7(F/:_ 6/N7x
+d /VWhO 7(F/=- 6/N4{
+w "9D+` building#yes
+d /VWk? 7(F-gM 6/N?G
+d /VWj< 7(F-b8 6/N@X
+d /VWl> 6fQ:p 5"K-]
+d /VWl( 7(F-l\ 5"K-R
+d /VWk? 7(F-gM 6/N?G
+w "T"96 highway#unclassified
+d 2<zY= 6fQ8* 6/Nq'
+d 2<zX{ 7(F-HY 6/NoE
+d 2<zY! 7(F-Dk 6/Nmh
+d 2<zX~ 7(F-=\ 6/Nm%
+d 2<zY" 7(F-06 6/Nlc
+d 2<zY) 6fQ49 6/Nlq
+d 2<zXr 7(F,}M 6/Nn#
+d 2<zXv 7(F,xu 6/Np"
+d 2<zXu 7(F,v? 6/NqO
+w "9D+w building#yes
+d /VWkN 7(F-@S 6/N?D
+d /VWi* 7(F-9k 6/N?j
+d /VWg< 7(F-8I 6/N>|
+d /VWl? 7(F-?1 6/N>V
+d /VWkN 7(F-@S 6/N?D
+w w+o- building#yes
+d +uHy" 7(F,xz 6/NEv
+d +uHy# 7(F-9: 6/NG)
+d +uHy$ 7(F-7K 5"K.D
+d +uHy& 7(F-=[ 6/NH|
+d +uHy* 7(F-;R 6/NJr
+d +uHy- 7(F-2^ 6/NJR
+d +uHy0 7(F-3S 6/NIf
+d +uHy3 7(F,uv 6/NH_
+d +uHy" 7(F,xz 6/NEv
+w w+n] building#yes
+d +uHvX 7(F-tv 6/N5(
+d +uHv[ 6fQ=q 6/N:'
+d +uHv] 7(F-{g 6/N;4
+d +uHv_ 7(F-k. 5"K,R
+d +uHvX 7(F-tv 6/N5(
+w "9D+n amenity#marketplace building#yes name#Kvibergs_Marknad old_name#Stall_11 opening_hours#Sa-Su_10:00-15:00 website#www.kvibergsmarknad.se
+d /VWj; 7(F.rg 6/NZx
+d /VWg_ 7(F./u 5"K05
+d /VWgN 7(F.05 6/N^k
+d /VWkq 7(F.hZ 6/N^[
+d /VWgz 7(F.h` 6/N_>
+d /VWlQ 7(F.s, 5"K0\
+d /VWj; 7(F.rg 6/NZx
+w "9D+k building#yes
+d /VWgg 7(F1B{ 6/NEL
+d /VWh> 7(F1@2 6/NHJ
+d /VWfn 7(F14' 6/NH$
+d /VWk- 7(F14q 6/NG3
+d /VWkF 7(F11W 6/NG)
+d /VWjr 7(F11; 6/NGG
+d /VWlM 6fQYm 6/NG"
+d /VWlI 7(F1'z 6/NCz
+d /VWk] 7(F14~ 6/NDD
+d /VWk1 7(F14* 6/NE@
+d /VWin 7(F17% 5"K.%
+d /VWi9 7(F17D 6/NE)
+d /VWgg 7(F1B{ 6/NEL
+w "9D,( building#yes
+d /VWh7 7(F/>[ 6/N9;
+d /VWi\ 7(F/k= 6/N:Y
+d /VWkP 7(F/hj 6/N=X
+d /VWfh 7(F/<* 6/N<:
+d /VWh7 7(F/>[ 6/N9;
+w w+n~ building#yes
+d +uHx1 7(F,[{ 6/Ng'
+d /VWgc 7(F,\^ 6/NkC
+d /VWhc 7(F,sz 6/Nk6
+d +uHx3 7(F,t) 6/Nl)
+d +uHx6 7(F-68 6/Nkv
+d 2<zY: 7(F-6) 6/Njt
+d +uHx7 7(F-5H 6/Nfb
+d /VWku 7(F-%g 6/Nfj
+d /VWf} 7(F-%r 6/NgP
+d +uHx9 7(F-"# 6/NgR
+d +uHx; 7(F-". 6/Nh=
+d /VWg2 7(F,iH 6/NhJ
+d /VWi} 7(F,i> 5"K1N
+d +uHx> 7(F,eN 6/Ngm
+d +uHx@ 7(F,eB 6/Ng"
+d +uHx1 7(F,[{ 6/Ng'
+w "9D+y building#yes
+d /VWl+ 7(F/Ok 6/NU8
+d /VWk5 7(F/-. 6/NUI
+d /VWj} 7(F//9 6/Nc=
+d /VWl1 7(F/Qv 5"K1"
+d /VWl+ 7(F/Ok 6/NU8

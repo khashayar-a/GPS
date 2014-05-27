@@ -1,0 +1,24 @@
+n 1a0 7(EjR1 6/J[, highway#motorway_junction name#Ullevimotet ref#73
+n j2M+ 7(Eg)% 6/IF= highway#traffic_signals
+n j2M- 7(Ej78 6/IE2 highway#traffic_signals
+n j@WG 7(Ej@> 6/J/8 highway#traffic_signals
+n j@WH 7(Ej32 6/J.| highway#traffic_signals
+n j@WI 7(Ei~r 6/J9j highway#traffic_signals
+n j@WJ 7(Ej,p 6/J:t highway#traffic_signals
+n j@WU 7(EiUi 6/J8` amenity#fuel brand#Statoil fuel:octane_95#yes fuel:octane_98#yes name#Statoil operator#Statoil
+n j@WY 7(EiKI 6/J)j amenity#fire_station name#Göteborg_Gamla_Brandstation
+n $0T+g 7(Ej}> 6/J8K amenity#fuel contact:phone#031-156975 name#Preem_-_Göteborg,Ullevimotet
+n $o9sd 7(Ejix 6/Ias amenity#place_of_worship name#Mariakyrkan religion#christian
+n %#X\R 7(Ej%W 6/IA\ highway#traffic_signals
+n %#X\S 7(Ej&T 6/IE< highway#traffic_signals
+n 'hYu9 6fMuw 6/I_^ highway#bus_stop name#Ullevi_Norra
+n +<nW> 7(EjZW 6/Iy@ amenity#bicycle_rental capacity#20 name#Dämmeplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#22
+n +<nWJ 7(Eg>l 6/J5v amenity#bicycle_rental capacity#20 name#Gårdatorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#24
+n ,tBPA 7(ElE[ 6/J?P highway#crossing
+n -+Vnw 7(Egd0 6/Io1 access#no amenity#parking_entrance motor_vehicle#yes name#Ullevigaraget
+n 0uNF; 7(Eja* 5"Jde name#Gårda old_name#Gorde place#suburb
+n 1d]8K 7(Efz( 6/IHX bicycle#yes crossing#controlled highway#crossing
+n 1d]8Y 7(Eg)y 6/IHB bicycle#yes crossing#controlled highway#crossing
+n 2Z'{T 7(Ej@4 6/IXD access#no amenity#parking_entrance motor_vehicle#yes
+n 2Z'}Z 7(Ej%t 6/IBm highway#traffic_signals
+n 3]dA] 7(EfwK 6/IFB highway#traffic_signals

@@ -1,0 +1,190 @@
+w "2Th? building#yes
+d .h{Sf 7(Elh1 6/Mz2
+d .h{S] 7(Elof 6/M{V
+d .h{S_ 7(ElPM 6/N#V
+d .h{Sd 7(ElHv 6/N"3
+d .h{Sf 7(Elh1 6/Mz2
+w ?.Oc leisure#pitch name#Apslätten sport#soccer
+d $Nw{d 7(EmMc 6/NCi
+d $Nw{e 7(Em8f 6/N>f
+d $Nw{f 7(Elkm 6/NDr
+d $Nw{g 7(Em"j 6/NIt
+d $Nw{d 7(EmMc 6/NCi
+w "2Tc; building#yes
+d .h{)n 7(Elt* 6/N!i
+d .h{)m 7(EmA% 5"K*:
+d .h{)o 7(EmCf 6/N!X
+d .h{)r 7(Elvj 6/N#b
+d .h{)n 7(Elt* 6/N!i
+w "2Tf' building#yes
+d .h{D, 7(En:x 6/N;o
+d .h{D! 7(EnD[ 6/NBg
+d .h{D. 7(En:{ 6/NC6
+d .h{D/ 7(En19 6/N<>
+d .h{D, 7(En:x 6/N;o
+w "2Tf& building#yes
+d .h{D% 7(En<p 6/N(s
+d .h{D- 7(EnF7 6/N/i
+d .h{D" 7(En<3 6/N08
+d .h{D( 6fN>} 6/N)B
+d .h{D% 7(En<p 6/N(s
+w "3RkV building#yes
+d .sS0d 7(EoA" 6/N>B
+d .sS0G 7(Eo@c 6/N@>
+d .sS0h 7(Eo4| 6/N@8
+d .sS0+ 6fNH\ 6/N><
+d .sS0d 7(EoA" 6/N>B
+w "4<*= building#yes
+d /!}n) 6fNEb 6/NN}
+d /!}n+ 7(En}; 6/NQL
+d /!}mw 7(Enuo 6/NR7
+d /!}mG 6fNDz 6/NOh
+d /!}n) 6fNEb 6/NN}
+w "2VYG building#yes
+d .i1Qs 7(Enk6 6/N66
+d .i1QH 7(Enjh 6/N;v
+d .i1Q? 7(En_c 6/N;s
+d .i1Qi 7(En`1 6/N63
+d .i1Qs 7(Enk6 6/N66
+w "y"B| amenity#parking
+d 6!VEu 7(EnT& 6/NPt
+d 6!VEq 7(EnJ* 6/NRE
+d 6!VEv 7(EnTY 6/NU$
+d 6!VEs 7(EnQB 6/NUR
+d 6!VEz 7(EnrO 6/N]K
+d 6!VE{ 6fNFd 6/N[E
+d 6!VEu 7(EnT& 6/NPt
+w "3RkU building#yes
+d .sS/s 7(Eo6D 6/N7&
+d .sS0P 7(EoAs 6/N7*
+d .sS/p 7(EoAc 6/N8m
+d .sS/{ 7(Eo64 5"K,j
+d .sS/s 7(Eo6D 6/N7&
+w "O*:+ building#yes
+d 1lU-v 7(EoH0 6/NV!
+d 1lU/Z 7(Eo:9 6/NX2
+d 1lU./ 7(EoHN 6/N[X
+d 1lU/$ 7(EoEk 6/N\,
+d 1lU/Q 7(EoKl 6/N]S
+d 1lU.$ 7(EoI: 6/N]z
+d 1lU.x 7(EoRX 6/N`<
+d 1lU/v 7(EoOI 6/N`n
+d 1lU.K 7(EoY6 6/Nc"
+d 1lU/B 7(Eo_c 6/Nb'
+d 1lU-p 6fNM. 6/Nbl
+d 1lU.k 7(Eof# 6/NbE
+d 1lU-m 7(EonU 6/Nd_
+d 1lU.f 7(EolP 6/Ne&
+d 1lU/b 7(Eos- 6/Nfl
+d 1lU.8 7(EouA 6/NfU
+d 1lU/- 7(Ep0L 6/NlX
+d 1lU0, 7(Ep>& 6/NjJ
+d 1lU.Z 7(Ep6> 6/Nh\
+d 1lU/R 7(Ep4e 6/Nhm
+d 1lU/~ 7(Ep*= 6/NfE
+d 1lU.Q 7(Ep+e 6/Nf4
+d 1lU/K 7(Ep#` 6/NdA
+d 1lU-y 7(Ep!= 6/Ndh
+d 1lU.s 7(Eo}d 6/NdA
+d 1lU/p 7(Ep#n 6/Ncd
+d 1lU-v 7(EoH0 6/NV!
+w "2Tde building#yes
+d .h{7m 7(En*R 6/N&D
+d .h{7k 7(En-+ 6/N(6
+d .h{7i 7(Emet 6/N*%
+d .h{7o 7(Emc= 6/N(3
+d .h{7m 7(En*R 6/N&D
+w "4<*@ building#yes
+d /!}mZ 7(Eo${ 6/NKx
+d /!}mt 7(Eo*. 6/NMp
+d /!}m^ 7(Eo!2 5"K.|
+d /!}n& 7(Enz" 6/NLj
+d /!}mZ 7(Eo${ 6/NKx
+w "4<*; building#yes
+d /!}mQ 7(Eo_\ 6/NJ#
+d /!}n! 7(Eo^v 6/NL=
+d /!}mT 7(EoTX 6/NL3
+d /!}ma 7(EoU> 6/NIv
+d /!}mQ 7(Eo_\ 6/NJ#
+w "4<*A building#yes
+d /!}m] 7(Eo8- 6/NJ`
+d /!}mF 7(Eo;[ 6/NLj
+d /!}mz 7(Eo2! 6/NMA
+d /!}mf 7(Eo.P 6/NK7
+d /!}m] 7(Eo8- 6/NJ`
+w "3RkX building#yes
+d .sS0B 7(Eoq! 6/N7n
+d .sS0\ 7(Eoq0 6/N9k
+d .sS0A 7(Eo`F 6/N9q
+d .sS0] 7(Eo`T 6/N<L
+d .sS0* 7(EoU] 6/N<A
+d .sS0) 7(EoUV 6/N7n
+d .sS0B 7(Eoq! 6/N7n
+w "2VYF building#yes
+d .i1Qg 7(Enm' 6/N!`
+d .i1QR 7(Enle 6/N'P
+d .i1Qc 7(EnaV 6/N'N
+d .i1Q_ 7(Enav 6/N!^
+d .i1Qg 7(Enm' 6/N!`
+w "3ScM building#yes
+d .s\zt 7(EoBe 6/N)u
+d .s\zp 6fNI{ 6/N+l
+d .s\zq 7(Eo7O 6/N+i
+d .s\zz 7(Eo7\ 6/N)r
+d .s\zt 7(EoBe 6/N)u
+w "2VYE building#yes
+d .i1Qa 7(Enlf 6/N(}
+d .i1Q9 7(Enl< 6/N-H
+d .i1QP 7(En`r 6/N-D
+d .i1QX 7(Ena= 6/N(z
+d .i1Qa 7(Enlf 6/N(}
+w "2Td: building#yes
+d .h{31 7(EnE+ 6/M}W
+d .h{32 6fNA( 6/N!N
+d .h{30 7(En"! 6/N#?
+d .h{3. 7(Em}B 6/N!H
+d .h{31 7(EnE+ 6/M}W
+w "3RkQ building#yes
+d .sS0N 7(Eoq7 5"K-e
+d .sS0V 6fNN] 6/ND2
+d .sS07 6fNKx 6/ND8
+d .sS0@ 7(EoUz 6/N>C
+d .sS0L 7(Eo`b 6/N>J
+d .sS0? 7(Eo`q 5"K-e
+d .sS0N 7(Eoq7 5"K-e
+w "4<*3 building#yes
+d /!}mx 6fNFU 6/NGV
+d /!}mX 7(Eo$q 6/NIF
+d /!}mu 7(Eny" 6/NJ4
+d /!}mM 7(Entc 6/NHD
+d /!}mx 6fNFU 6/NGV
+w "4<*B building#yes
+d /!}mA 7(EoKU 6/NJ$
+d /!}mW 7(EoLz 6/NL2
+d /!}mK 7(EoBp 6/NLH
+d /!}mC 7(EoAJ 6/NJ:
+d /!}mA 7(EoKU 6/NJ$
+w "3ScL building#yes
+d .s\zx 7(Eo*e 5"K+F
+d .s\zo 7(Eo*Q 6/N,[
+d .s\zm 7(En}b 6/N,W
+d .s\zy 7(En}v 6/N*t
+d .s\zx 7(Eo*e 5"K+F
+w "2VYH building#yes
+d .i1QA 6fNCZ 6/N.p
+d .i1QL 7(Enl3 4.ZN
+d .i1QV 7(EnkW 6/N4g
+d .i1Qh 7(En`K 6/N4c
+d .i1QA 6fNCZ 6/N.p
+w "2Tf% building#yes
+d .h{D# 7(En2& 6/N2l
+d .h{D& 7(En;b 6/N2?
+d .h{D' 7(EnEH 6/N96
+d .h{D+ 7(En;j 6/N9c
+d .h{D# 7(En2& 6/N2l
+w "2Tc: building#yes
+d .h{)s 7(Em?M 6/N$r
+d .h{)q 7(Eme, 6/N#%
+d .h{)l 7(Emgc 6/N$w
+d .h{)p 7(EmB& 6/N&f
+d .h{)s 7(Em?M 6/N$r

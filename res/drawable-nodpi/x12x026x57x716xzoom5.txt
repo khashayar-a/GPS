@@ -1,0 +1,10 @@
+n 1BRzz 7(ExSb 6/N<, name#Ättehögsgatan railway#tram_stop
+n 1BR{1 7(Evdp 6/N!} name#Munkebäckstorget railway#tram_stop
+n 1BR{2 7(E{~q 6/Npd name#Kaggeledstorget railway#tram_stop
+n 1BR{@ 7(ExeZ 6/N>0 name#Ättehögsgatan railway#tram_stop
+n 1BR{G 7(Ev~` 6/N&d name#Munkebäckstorget railway#tram_stop
+n 1BR{M 6fO`V 6/Nlz name#Kaggeledstorget railway#tram_stop
+n 6!Pbg 7(Ewbu 6/N&O amenity#pharmacy name#Apoteket_Trasten operator#Apoteksgruppen
+n 6!VEa 7(Ev<n 6/N7, bench#yes bus#yes highway#bus_stop name#Munkebäckstorget operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VEb 7(EvM; 5"K,G bench#yes bus#yes highway#bus_stop name#Munkebäckstorget operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VEj 7(Ev>? 6/Nnp bench#yes bus#yes highway#bus_stop name#Qvidingsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport

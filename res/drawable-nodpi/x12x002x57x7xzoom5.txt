@@ -1,0 +1,5 @@
+n "v+#? 7(Eb<# 6/KWx highway#turning_circle
+n $o9wN 7(Ee?q 6/Kb\ amenity#place_of_worship name#Örgryte_nya_kyrka religion#christian
+n $oNg4 7(Ef.$ 6/KPi amenity#school name#Böskolan
+n $qVV= 6fM2! 6/L(^ amenity#hospital name#Ekmanska_sjukhuset
+n 56M4- 7(Ee?H 6/KS^ bicycle#yes crossing#island highway#crossing

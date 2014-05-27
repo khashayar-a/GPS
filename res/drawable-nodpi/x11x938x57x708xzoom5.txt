@@ -1,0 +1,27 @@
+n 5I9r 7(Ep~w 6/E#~ highway#traffic_signals
+n 5I9u 7(Enk* 6/DbJ highway#traffic_signals
+n 5I9x 7(EnN{ 6/D]] highway#traffic_signals
+n Ecr< 7(Eqd~ 5"J2> highway#traffic_signals
+n "<~M] 7(EqBw 6/Dp> highway#traffic_signals
+n $8A^. 6fM~9 5"J*] highway#traffic_signals
+n $`ZP' 7(ExJ+ 6/Dph highway#crossing
+n $hY|= 7(Ej|Y 6/D?S highway#crossing
+n $hZ.h 7(Ek=@ 5"J+e highway#crossing
+n $hZ.i 6fN&Q 6/D(t highway#crossing
+n %"to{ 7(Eo\w 6/DpM highway#traffic_signals
+n (7hn+ 7(Ek*i 6/C~r highway#crossing
+n (7hn, 7(Eji\ 6/D%7 highway#crossing
+n (7hn1 7(Ek*( 6/CdH highway#crossing
+n )B)K+ 7(ElSN 6/DNA amenity#restaurant cuisine#swedish;asian;pasta name#Kooperativet opening_hours#Mo-Fr_11:00-14:00 phone#+4631227797 website#http://kooperativet.se
+n )B)K> 7(Eq1# 6/DcH highway#traffic_signals
+n ,rhyC 7(En?< 6/D[! highway#bus_stop name#Regnbågsgatan
+n ,rhyJ 7(EpIL 6/D}T highway#bus_stop name#Pumpgatan
+n ,uOX> 7(Em1- 6/DXz amenity#restaurant contact:email#restaurang.tegel@telia.com contact:fax#+46_31_276006 contact:phone#+46_733_523943 contact:website#http://spacys.se/ name#Spacys opening_hours#Mo-Fr_11:00-14:00
+n -(,/Q 7(Ek@` 6/D,4 highway#bus_stop name#Lindholmen
+n -(,/R 7(Ek+y 6/D)" highway#bus_stop name#Lindholmen
+n -(,/S 7(Ek;l 6/D'' highway#bus_stop name#Lindholmen
+n 5*\Hf 7(El?( 6/DI7 addr:housenumber#1 addr:street#Götaverksgatan
+n 5*\J0 7(El4* 6/DOo amenity#bicycle_rental
+n 5*\J: 7(El4< 6/DIB amenity#bicycle_parking
+n 5*\Jp 6fN-J 6/DI! building#entrance
+n 5*`4i 7(ElS> 6/DNb building#entrance

@@ -1,0 +1,260 @@
+w "oV&- building#yes
+d 5)M\$ 7(EeJn 6/C)-
+d 5)M[W 7(Ee=J 5"J!n
+d 5)M[X 7(Ee=\ 6/C*m
+d 5)M[w 7(EeIW 6/C*h
+d 5)M\% 7(EeK# 6/C*h
+d 5)M\$ 7(EeJn 6/C)-
+w "oV&7 building#yes
+d 5)M^k 7(Ef%. 6/C#m
+d 5)M^g 7(Ef#' 6/C%P
+d 5)M^{ 7(Ef-Q 6/C%z
+d 5)M^| 7(Ef.K 6/C%3
+d 5)M^q 7(Ef'o 6/C$v
+d 5)M^s 6fMPl 6/C#|
+d 5)M^k 7(Ef%. 6/C#m
+w "oV$V building#yes
+d 5)M`$ 7(EfU{ 6/C#+
+d 5)M_~ 7(EfRR 6/C#M
+d 5)M`& 7(EfVl 6/C$u
+d 5)M`0 7(EfZ8 6/C$S
+d 5)M`$ 7(EfU{ 6/C#+
+w "oV&} building#yes
+d 5)M_> 7(EfAR 5"J!.
+d 5)M_; 7(Ef@^ 6/C"e
+d 5)M_: 7(Ef?/ 5"J!0
+d 5)M_5 7(Ef=- 6/C#E
+d 5)M_9 7(Ef>X 6/C#Q
+d 5)M_6 7(Ef=? 6/C$"
+d 5)M_E 7(EfEb 6/C$h
+d 5)M_N 7(EfIp 4.P#
+d 5)M_> 7(EfAR 5"J!.
+w "oV&N building#yes
+d 5)M_4 6fMRm 6/C'h
+d 5)M_+ 7(Ef9' 6/C)K
+d 5)M_/ 7(Ef:@ 6/C)U
+d 5)M_3 5'z%} 6/C)i
+d 5)M_8 7(Ef>N 6/C)u
+d 5)M_@ 6fMSB 6/C(4
+d 5)M_4 6fMRm 6/C'h
+w "oV&S building#yes
+d 5)M[X 7(Ee=\ 6/C*m
+d 5)M[Y 7(Ee=x 6/C-R
+d 5)M[q 7(EeH. 6/C-O
+d 5)M[p 7(EeGy 6/C+d
+d 5)M[~ 7(EeIa 6/C+c
+d 5)M[w 7(EeIW 6/C*h
+d 5)M[X 7(Ee=\ 6/C*m
+w "oV%E building#yes
+d 5)M`" 7(EfSk 6/B~'
+d 5)M_z 7(EfR& 6/B~f
+d 5)M`# 7(EfUb 6/C!'
+d 5)M`/ 7(EfWI 6/B~F
+d 5)M`" 7(EfSk 6/B~'
+w "faOA addr:housenumber#2 addr:street#Fiskhamnspiren building#yes building:use#industrial
+d 4+Rup 7(Eayv 6/Bb4
+d 4+Rus 7(Eb'@ 5"I|j
+d 4+Ruo 7(Eao_ 6/Bj)
+d 4+Run 6fM'e 6/BcS
+d 4+Rup 7(Eayv 6/Bb4
+w "oV'! building#yes
+d 5)M_M 7(EfIP 6/B~$
+d 5)M_L 7(EfH] 5"I~y
+d 5)M_J 7(EfGc 6/B~;
+d 5)M_D 7(EfE^ 6/C!&
+d 5)M_I 6fMSo 5"J!#
+d 5)M_F 7(EfF" 6/C!c
+d 5)M_[ 7(EfM: 6/C"D
+d 5)M_o 7(EfQM 6/B~i
+d 5)M_M 7(EfIP 6/B~$
+w "oV%8 building#yes
+d 5)M\O 7(EeV$ 6/C'f
+d 5)M\] 7(EeV. 6/C)l
+d 5)M]+ 7(Ee`` 6/C)j
+d 5)M]) 7(Ee`V 6/C'd
+d 5)M\O 7(EeV$ 6/C'f
+w "oV%+ building#yes
+d 5)M^z 7(Ef-< 6/C*0
+d 5)M^v 7(Ef*] 6/C+Y
+d 5)M_# 7(Ef2D 6/C,*
+d 5)M_% 7(Ef5% 6/C*^
+d 5)M^z 7(Ef-< 6/C*0
+w "oV&J building#yes
+d 5)M\` 7(EeW2 6/C+$
+d 5)M\h 6fML& 6/C+z
+d 5)M\K 7(EeUc 6/C+|
+d 5)M\_ 7(EeV. 5"J"5
+d 5)M], 7(Eea1 6/C,}
+d 5)M]% 7(Ee`E 6/C*v
+d 5)M\` 7(EeW2 6/C+$
+w "oV$, building#yes
+d 5)M^c 7(Ee~' 6/C)E
+d 5)M^S 7(Ee|q 6/C){
+d 5)M^d 7(Ef!i 6/C*2
+d 5)M^f 7(Ef"} 6/C)Y
+d 5)M^c 7(Ee~' 6/C)E
+w "oV&g building#yes
+d 5)M^b 6fMOs 6/C&:
+d 5)M^` 7(Ee}V 6/C&B
+d 5)M^N 7(Ee{$ 6/C'd
+d 5)M^D 7(Eezp 6/C'n
+d 5)M^t 7(Ef)| 6/C(`
+d 5)M^y 7(Ef,q 6/C',
+d 5)M^b 6fMOs 6/C&:
+w "oV%p building#yes
+d 5)M_" 7(Ef0: 6/C(R
+d 5)M^z 7(Ef-< 6/C*0
+d 5)M_% 7(Ef5% 6/C*^
+d 5)M_) 7(Ef8# 6/C)#
+d 5)M_" 7(Ef0: 6/C(R
+w "oV&h building#yes
+d 5)M_* 7(Ef8C 6/C+\
+d 5)M_& 7(Ef6U 5"J"/
+d 5)M_= 7(EfAF 6/C-<
+d 5)M_B 7(EfD= 6/C+w
+d 5)M_? 7(EfB4 6/C+i
+d 5)M_< 7(EfA, 5"J"-
+d 5)M_* 7(Ef8C 6/C+\
+w "oV&p building#yes
+d 5)M[_ 7(Ee>R 6/C/4
+d 5)M[g 6fMIW 6/C1@
+d 5)M\# 7(EeJF 6/C1<
+d 5)M\" 7(EeJ: 6/C03
+d 5)M[u 7(EeHT 6/C04
+d 5)M[s 7(EeHH 6/C/1
+d 5)M[_ 7(Ee>R 6/C/4
+w "oV$t building#yes
+d 5)M]C 7(Eed- 5"J"L
+d 5)M]X 7(EekE 5"J"q
+d 5)M^" 7(EeuZ 6/C2q
+d 5)M]n 7(EenB 6/C.w
+d 5)M]C 7(Eed- 5"J"L
+w Y*0J bicycle#yes foot#yes motorcar#no motorcycle#no name#Älvsnabben operator#Västtrafik route#ferry
+d %%IN' 6fMe7 6/D:N
+d %$>`d 7(Eh+$ 6/D6l
+d %$>`e 7(Egs( 6/D6d
+d %$>`f 7(Eg`T 5"J,a
+d %$>`g 7(EgJX 6/D:T
+d %$>`h 6fMY: 6/D=V
+d %$>`i 7(EfV\ 6/D>_
+d %$>`j 7(Ef5z 6/D>"
+d %$>`1 7(Eehx 6/D;k
+d %$>`2 7(EeDH 6/D7(
+d %$>`m 7(Ee": 5"J+v
+d %$>`n 6fMD< 6/D"u
+d %$>`o 7(EdON 6/Cjd
+d %$>`p 7(Ed6+ 6/CS/
+d %$>`q 7(Ed+D 6/C?t
+d %$>`r 7(Ed/i 6/C-\
+d %;6x7 7(Ed?X 6/C!.
+d %$>`s 7(EddL 6/Bvu
+d %;8(s 7(Ee'o 6/Bqe
+d %;8(t 6fMJu 6/Bq\
+d %Fz{1 7(EeW' 6/Bs/
+d %;8(u 7(Ed}& 6/Bhr
+d %;8(v 7(EcTt 6/BK*
+d %;8(x 7(EaHB 5"It_
+d %;8(z 7(E`jo 6/Ab/
+d %;8({ 7(E`^. 6/AZ_
+d %;8(| 7(E`jA 5"Iq,
+d %;8(} 7(E`}D 6/AK?
+d %;8(~ 7(Ea3r 6/AI{
+d %;8)! 7(EaUS 6/AI{
+d %;8)# 7(EbXi 6/AMv
+d %;8)% 7(E`|F 6/A?n
+d %;8)& 7(E_/[ 6/A1_
+d %;8)' 7(E]yy 6/A%J
+d %;8)( 7(E]"4 6/@|#
+d %;8)) 7(E\!V 6/@x/
+d %;8)+ 7(E[2X 6/@y2
+d %;8), 7(EYgX 6/A(j
+w "faOB addr:housenumber#3 addr:street#Fiskhamnspiren building#yes building:use#industrial
+d 4+Ruq 7(Ea|t 6/BpN
+d 4+Rut 7(Eb.V 6/BpD
+d 4+Ruu 7(Eb/> 6/Bt;
+d 4+Rur 7(Ea}\ 6/BtE
+d 4+Ruq 7(Ea|t 6/BpN
+w "oV&4 building#yes
+d 5)M\- 7(EeO; 6/C&-
+d 5)M\. 7(EeOJ 6/C'i
+d 5)M\O 7(EeV$ 6/C'f
+d 5)M]) 7(Ee`V 6/C'd
+d 5)M]: 7(EeaQ 5"J!`
+d 5)M]3 7(EeaC 6/C&(
+d 5)M\- 7(EeO; 6/C&-
+w "oV&{ building#yes
+d 5)M_d 7(EfN= 6/C$Y
+d 5)M_c 7(EfM\ 6/C$s
+d 5)M_X 7(EfLP 6/C$j
+d 5)M_O 7(EfJ= 5"J!M
+d 5)M_V 7(EfKn 6/C%m
+d 5)M_P 7(EfJW 4.P&
+d 5)M_y 7(EfR! 6/C&z
+d 5)M`% 7(EfV, 6/C%:
+d 5)M_d 7(EfN= 6/C$Y
+w "oV%( building#yes
+d 5)M_( 7(Ef74 6/C#y
+d 5)M_$ 7(Ef4T 6/C$d
+d 5)M_' 7(Ef6o 6/C$~
+d 5)M_- 7(Ef9O 6/C$5
+d 5)M_( 7(Ef74 6/C#y
+w "oV&! building#yes
+d 5)M_K 7(EfHU 6/C*z
+d 5)M_C 7(EfEM 6/C,L
+d 5)M_Y 6fMTI 6/C-"
+d 5)M_e 7(EfPB 6/C+P
+d 5)M_K 7(EfHU 6/C*z
+w "oV%z building#yes
+d 5)M\F 7(EeQv 6/C"7
+d 5)M\H 7(EeR. 6/C#R
+d 5)M\k 6fML- 6/C#N
+d 5)M\j 7(EeX% 6/C"3
+d 5)M\F 7(EeQv 6/C"7
+w "oV&Z building#yes
+d 5)M\_ 7(EeV. 5"J"5
+d 5)M\A 7(EeQ+ 6/C-5
+d 5)M\C 7(EeQn 6/C.v
+d 5)M]@ 7(Eec" 6/C.^
+d 5)M]? 7(Eeb= 6/C,{
+d 5)M], 7(Eea1 6/C,}
+d 5)M\_ 7(EeV. 5"J"5
+w "oV&# building#yes
+d 5)M_A 7(EfBi 6/C+P
+d 5)M_. 7(Ef9{ 6/C*p
+d 5)M_* 7(Ef8C 6/C+\
+d 5)M_< 7(EfA, 5"J"-
+d 5)M_? 7(EfB4 6/C+i
+d 5)M_A 7(EfBi 6/C+P
+w "oV$> building#yes
+d 5)M^~ 7(Ef/h 6/B~J
+d 5)M^x 7(Ef+w 6/B~-
+d 5)M^n 7(Ef'" 6/C"6
+d 5)M^w 7(Ef*p 6/C"T
+d 5)M^~ 7(Ef/h 6/B~J
+w E~30 hgv#yes int_ref#E_45 route#ferry
+d *(&:[ 7(Ec{& 6/Dt"
+d 3zl8r 7(Ed/> 6/D\l
+d &oup] 7(EdFe 6/D?#
+d %B,{4 7(Ec_3 6/Bq*
+d ,['D3 7(EbP] 6/BEZ
+d ,['D6 7(E_lw 6/A_"
+d &oup_ 7(E\>0 6/@s[
+d $U&{K 7(EWJ^ 4.M&
+w "oV$E building#yes
+d 5)M^e 7(Ef!t 6/B}E
+d 5)M^? 7(Eeze 6/C!"
+d 5)M^j 6fMPE 6/C!w
+d 5)M^u 7(Ef)~ 6/B~<
+d 5)M^e 7(Ef!t 6/B}E
+w "oV%{ building#yes
+d 5)M_/ 7(Ef:@ 6/C)U
+d 5)M_, 7(Ef91 6/C*"
+d 5)M_2 7(Ef;a 6/C*7
+d 5)M_3 5'z%} 6/C)i
+d 5)M_/ 7(Ef:@ 6/C)U
+w "oV%> building#yes
+d 5)M^> 7(EezD 6/C&/
+d 5)M^1 7(Eewo 6/C'P
+d 5)M^N 7(Ee{$ 6/C'd
+d 5)M^` 7(Ee}V 6/C&B
+d 5)M^> 7(EezD 6/C&/

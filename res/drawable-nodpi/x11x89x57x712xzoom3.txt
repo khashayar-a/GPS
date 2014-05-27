@@ -1,0 +1,346 @@
+w JB*O building#yes
+d &%>\w 7(Ep;" 6/>dN
+d &%>\v 7(Ep9F 6/>h*
+d &%>\} 7(Ep+W 6/>gt
+d &%>\| 7(Ep-4 6/>d:
+d &%>\w 7(Ep;" 6/>dN
+w 3/gj highway#unclassified name#Höstvädersgatan
+d "v'+O 7(EpUy 5"I[>
+d "v'+S 7(EpX^ 6/?.1
+d "v'+X 7(Ept- 6/?$o
+d "v'+\ 7(EqD` 6/>v7
+d %#I$D 7(EqT[ 6/>sm
+d %#I$H 7(Eqpv 6/>ok
+d %#I$O 7(Er@h 6/>lP
+d %#I$R 6fNl0 6/>j6
+d %#I$U 7(Ese[ 6/>jR
+d %#I$Z 7(Es|t 6/>iN
+d %#I$] 6fNw8 6/>hp
+d %#I$^ 7(Et\& 6/>j8
+d 2<\Lx 7(EvPM 6/>pz
+d 2<\Mw 7(EwYR 6/>x*
+w JB+/ building#yes
+d &%>^{ 7(EpWi 6/>\B
+d &%>^| 7(Eq&L 6/>[4
+d &%>^y 7(Eq(C 6/>]j
+d &%>^z 7(EpY` 6/>^y
+d &%>^{ 7(EpWi 6/>\B
+w W7j& building#yes
+d (>oIM 7(EsAy 6/?7U
+d (>oIP 7(Es82 6/?:}
+d (>oIS 7(EsJM 6/?<W
+d (>oIV 7(EsS! 6/?9E
+d (>oIM 7(EsAy 6/?7U
+w FAwc highway#unclassified name#Höstvädersgatan oneway#yes
+d "v'+O 7(EpUy 5"I[>
+d %H<>g 7(EpQL 6/?9z
+w "4,9R building#yes
+d .~+'@ 7(Er1n 6/>w2
+d .~*|l 7(Eq]L 6/>zT
+d .~*qb 7(EqYD 6/>xF
+d .~*jB 7(Er-f 6/>u$
+d .~+'@ 7(Er1n 6/>w2
+w W7j+ building#yes
+d (>oI| 7(EsR} 6/?#&
+d (>oI} 7(EsJk 6/?&c
+d (>oI~ 7(Es\P 6/?(*
+d (>oJ! 7(Esdb 5"IYg
+d (>oJ" 7(EsWB 6/?#F
+d (>oI| 7(EsR} 6/?#&
+w JB*Q building#yes
+d &%>\{ 7(EomX 6/>a#
+d &%>\z 7(Eok\ 6/>d`
+d &%>\n 7(Eo]} 6/>dH
+d &%>\m 7(Eo_z 6/>`i
+d &%>\{ 7(EomX 6/>a#
+w "4,<= building#yes
+d .~*l: 7(ErCo 5"IYG
+d .~*=& 7(ErDN 6/?!]
+d .~*D& 7(Eq\s 6/?$9
+d .~+![ 7(EqZJ 6/?!~
+d .~*e? 7(ErAR 6/>}F
+d .~*[g 7(Er@s 6/>|h
+d .~*RU 7(Err2 6/>{#
+d .~*kF 6fNk/ 6/>}@
+d .~*l: 7(ErCo 5"IYG
+w dY6n building#yes
+d *#@u# 7(Etq^ 5"I\J
+d *#@t| 7(EshI 6/?A~
+d *#@t} 7(EsfT 6/??E
+d *#@u$ 7(Etoi 6/?<i
+d *#@u# 7(Etq^ 5"I\J
+w "Cc!V amenity#parking
+d 0fstF 6fN^o 5"I^&
+d 0fst: 7(EqLb 6/?OA
+d 0fstT 7(EqJs 6/?Rk
+d 0fss_ 7(EqUN 6/?R}
+d 0fstF 6fN^o 5"I^&
+w dY6c access#private amenity#parking
+d *#@u" 7(Esjt 6/?C;
+d *#@u? 7(Etg. 6/?@U
+d *#@u> 7(Etgu 6/?A:
+d *#@u! 7(Eskz 6/?DB
+d *#@u" 7(Esjt 6/?C;
+w JB+\ building#yes
+d &%>Zu 7(Eolr 6/>sF
+d &%>Zv 7(EodF 6/>xN
+d &%>Zs 6fNL> 6/>wt
+d &%>Zt 7(EoWy 6/>y2
+d &%>Zz 7(Eo=y 6/>w_
+d &%>Zy 7(EoHT 6/>q;
+d &%>Zu 7(Eolr 6/>sF
+w JB+: building#yes
+d &%>_E 7(Eq={ 6/>^\
+d &%>_F 7(EqP( 6/>_m
+d &%>_G 6fN]Y 6/>bV
+d &%>_H 7(Eq8p 6/>aF
+d &%>_E 7(Eq={ 6/>^\
+w "4,;t building#yes
+d .~*i> 7(Esz, 6/>z5
+d .~*_y 7(EsV: 6/>{k
+d .~*Wj 7(EsSC 6/>yO
+d .~*Oz 7(Esw6 6/>wv
+d .~*i> 7(Esz, 6/>z5
+w "4,:| building#yes
+d .~*An 6fNpp 6/>tt
+d .~*}9 7(EsQ< 6/>wS
+d .~+'n 7(Eria 6/>y9
+d .~*;8 7(Ergm 6/>vZ
+d .~*An 6fNpp 6/>tt
+w W7j0 building#yes
+d (>oJ7 7(ErqZ 6/?4n
+d (>oJ8 7(Ergq 5"I[e
+d (>oJ: 7(Erxw 6/?:'
+d (>oJ; 7(Es$` 6/?6s
+d (>oJ7 7(ErqZ 6/?4n
+w dY6k access#private amenity#parking parking#surface
+d *#@tT 7(Erm: 6/?/F
+d *#@tZ 7(Erfn 6/?2-
+d *#@t[ 7(Erk* 6/?2N
+d *#@tU 7(ErqT 6/?/g
+d *#@tT 7(Erm: 6/?/F
+w W7j/ building#yes
+d (>oJ2 7(ErS, 5"IZ\
+d (>oJ3 7(ErKm 6/?0N
+d (>oJ4 7(Er^* 6/?2(
+d (>oJ6 7(Erf\ 6/?.t
+d (>oJ2 7(ErS, 5"IZ\
+w "4,=T building#yes
+d .~*ZS 7(EqIe 6/>z[
+d .~*Qu 7(EqSA 6/?#J
+d .~*IK 7(EqGn 6/?$"
+d .~*BH 7(Eq>4 6/>{2
+d .~*ZS 7(EqIe 6/>z[
+w W7j' building#yes
+d (>oI] 7(Esa) 6/?3'
+d (>oIa 7(EsY0 6/?6O
+d (>oId 7(Esl& 6/?7r
+d (>oIg 7(EssD 6/?4J
+d (>oI] 7(Esa) 6/?3'
+w "4,7b building#yes
+d .~*iy 7(EsN[ 6/>ms
+d .~*Q9 7(EsO} 6/>pZ
+d .~*Y6 7(Erg? 6/>qp
+d .~*aB 7(Ere{ 6/>o+
+d .~*iy 7(EsN[ 6/>ms
+w JB+; building#yes
+d &%>_A 7(EqiJ 6/>_F
+d &%>_B 7(EqzE 6/>`J
+d &%>_C 7(EquO 6/>c7
+d &%>_D 7(EqdU 6/>b3
+d &%>_A 7(EqiJ 6/>_F
+w dY6j access#private amenity#parking parking#surface
+d *#@tb 7(Es@H 4.LG
+d *#@t` 7(Es6& 6/?5O
+d *#@t_ 7(Es,- 6/?4Z
+d *#@tW 7(Es6O 6/?0T
+d *#@tb 7(Es@H 4.LG
+w W7j) building#yes
+d (>oIu 7(EsiS 6/?.k
+d (>oIx 7(Es|# 6/?04
+d (>oIy 7(Et%i 6/?,_
+d (>oIz 7(Esq; 6/?+8
+d (>oIu 7(EsiS 6/?.k
+w JB+6 building#yes
+d &%>Z. 6fNQ3 6/?(*
+d &%>Z0 5'z.} 6/?6V
+d &%>Z2 7(Eohv 6/?5~
+d &%>Z3 7(Ep"{ 6/?'Q
+d &%>Z. 6fNQ3 6/?(*
+w JB+- building#yes
+d &%>^U 7(Ep}W 6/>mh
+d &%>^S 7(EqEa 6/>j'
+d &%>^} 7(EqM" 6/>ld
+d &%>^~ 7(Eq&v 6/>pG
+d &%>^U 7(Ep}W 6/>mh
+w "D@I! addr:housenumber#10 addr:street#Storstensvägen building#yes
+d 0mNO8 7(Eoec 6/?J\
+d 0mNTe 7(Eoc8 6/?LB
+d 0mNR] 7(EoW( 6/?Kg
+d 0mNP] 7(EoYS 6/?J#
+d 0mNO8 7(Eoec 6/?J\
+w "4,8: building#yes
+d .~+({ 7(Eqoa 6/?&<
+d .~*~& 7(EqmR 6/?+8
+d .~*k$ 6fNa- 6/?+8
+d .~*[b 7(Eql| 6/?/j
+d .~*JP 7(Eqd" 5"IZr
+d .~*<` 6fN`+ 6/?/M
+d .~+!A 7(Ep~% 6/?.Q
+d .~*ku 7(Ep}~ 6/?.\
+d .~*\N 7(EpyJ 6/?.W
+d .~*Ka 7(EpyZ 6/?-U
+d .~*>L 7(Epy/ 6/?-S
+d .~+"K 6fNXt 6/?+R
+d .~*lt 7(EpzA 6/?+S
+d .~*]e 7(EpzA 6/?+A
+d .~*M# 6fNXc 6/?*q
+d .~*?. 7(EpvZ 6/?*B
+d .~+#B 7(Epv4 6/?)c
+d .~*mr 7(Epvj 6/?)(
+d .~*^x 7(Epw{ 6/?(\
+d .~*NJ 7(Epz1 5"IZ,
+d .~+(_ 7(Ep|W 4.L>
+d .~*s( 7(Eq!G 6/?'^
+d .~*cC 7(Eq7W 6/?'x
+d .~+({ 7(Eqoa 6/?&<
+w "O|F7 highway#unclassified name#Höstvädersgatan oneway#yes
+d %H<>g 7(EpQL 6/?9z
+d .!XDw 7(EpZZ 6/?@8
+d #$%U, 7(Ep^k 6/?C-
+w dY6g access#private amenity#parking parking#surface
+d *#@tg 7(Es+= 6/?=M
+d *#@tx 6fNrm 6/??}
+d *#@ty 7(Es_x 6/?B'
+d *#@tz 7(EsL# 6/?AN
+d *#@t{ 7(EsF\ 4.LY
+d *#@ts 7(Er}F 6/?BX
+d *#@th 7(Erwn 4.LY
+d *#@tk 7(Ero( 6/?C}
+d *#@tl 7(Errl 6/?AQ
+d *#@tm 7(ErzH 6/?Ax
+d *#@tg 7(Es+= 6/?=M
+w JB+< building#yes
+d &%>_. 7(Er8N 6/>_B
+d &%>_- 7(ErI] 6/>`I
+d &%>_0 7(ErD] 6/>c6
+d &%>_/ 7(Er3N 6/>b0
+d &%>_. 7(Er8N 6/>_B
+w "4,8H building#yes
+d .~*@S 7(Et/C 6/>m-
+d .~*|: 7(Et0U 5"IWu
+d .~+&7 7(EsYV 6/>pe
+d .~*:5 7(EsXD 6/>mx
+d .~*@S 7(Et/C 6/>m-
+w "Cc!S addr:housenumber#3 addr:street#Sommarvädersgatan building#yes
+d 0fssq 7(Er<( 6/?I:
+d 0fstN 7(Er:( 6/?L@
+d 0fss[ 7(Eqw6 6/?KW
+d 0fss| 7(Eqy6 6/?HR
+d 0fssq 7(Er<( 6/?I:
+w cagx addr:housenumber#5 addr:street#Sommarvädersgatan building#yes name#Lidl opening_hours#mo-fr_09:00-21:00;sa_09:00-20:00;su_10:00-20:00 shop#supermarket
+d )vqFl 7(Ervr 6/?JQ
+d )vqFk 6fNi" 6/?In
+d )vqFi 7(ErZ. 5"I^)
+d )vqFg 7(Erqu 6/?PS
+d )vqFl 7(Ervr 6/?JQ
+w JB+1 building#yes
+d &%>Z4 7(Eo{y 6/?%]
+d &%>Z5 7(Eoy7 6/?';
+d &%>Z6 7(Eo8j 6/?#V
+d &%>Z7 7(Eo;N 6/?!w
+d &%>Z4 7(Eo{y 6/?%]
+w "O|F> highway#unclassified name#Höstvädersgatan oneway#yes
+d #$%S_ 7(Epnk 6/?Bp
+d .!XD{ 7(EpkU 6/?@Y
+d %H<?+ 7(Epb| 6/?;w
+d "v'+O 7(EpUy 5"I[>
+w W7j- building#yes
+d (>oJ$ 7(EsYh 6/?">
+d 2<\K) 7(Es\S 6/?"R
+d 2<\K* 7(Es^g 6/?!S
+d 2<\K( 7(EsUB 6/>~l
+d 2<\K' 6fNqA 6/?!6
+d (>oJ% 7(EsQj 6/?!#
+d (>oJ& 7(EsF# 6/?&@
+d (>oI} 7(EsJk 6/?&c
+d (>oI| 7(EsR} 6/?#&
+d (>oJ" 7(EsWB 6/?#F
+d (>oJ$ 7(EsYh 6/?">
+w cagv addr:housenumber#1 addr:street#Sommarvädersgatan amenity#fuel building#yes fuel:diesel#yes fuel:e85#yes fuel:octane_95#yes fuel:octane_98#yes name#OkQ8_Biskopsgården opening_hours#Mo-Fr_06:00-24:00;_Sa-Su_08:00-24:00 operator#OkQ8
+d )vqFJ 7(Eqf+ 6/?IE
+d )vqFG 7(EqW7 6/?I,
+d )vqFI 7(EqUI 6/?L^
+d )vqFF 7(Eqd= 6/?Lx
+d )vqFJ 7(Eqf+ 6/?IE
+w "4,== building#yes
+d .~*Bz 7(ErW3 6/>pt
+d .~*<# 7(Er$% 6/>sY
+d .~+)E 7(Eq~q 6/>qO
+d .~*~H 7(ErT! 6/>nj
+d .~*Bz 7(ErW3 6/>pt
+w "4,<l building#yes
+d .~*vK 7(Et;h 6/>wl
+d .~+*b 7(Et)l 6/>w^
+d .~*J| 7(Et*B 6/>u2
+d .~*lE 7(Et6t 6/>u;
+d .~*\$ 7(Et8~ 6/>r,
+d .~*tI 7(EtGt 6/>rL
+d .~*kJ 7(EtD3 6/>w~
+d .~*vK 7(Et;h 6/>wl
+w "O|F8 highway#unclassified name#Höstvädersgatan oneway#yes
+d #$%U, 7(Ep^k 6/?C-
+d @@;' 7(EpbV 6/?Ea
+w JB+, building#yes
+d &%>Z] 7(Epnw 6/>qt
+d &%>ZZ 7(Epij 6/>uG
+d &%>Za 7(Ep@0 6/>s,
+d &%>Z_ 7(Ep@_ 6/>rX
+d &%>Zd 7(Eovl 6/>pD
+d &%>Zb 7(EowW 6/>oq
+d &%>Zf 7(EoMG 6/>mG
+d 1pmSw 7(EoPA 6/>kP
+d 1pmSs 7(EoRc 6/>k]
+d &%>Ze 7(EoU* 6/>j"
+d &%>Zi 7(Eo}s 6/>lC
+d &%>Zj 7(Eo}* 6/>ls
+d &%>Zg 7(EpFy 5"IWm
+d &%>Zh 7(EpE~ 6/>o]
+d &%>Z] 7(Epnw 6/>qt
+w ",.Hb highway#unclassified name#Höstvädersgatan oneway#yes
+d %H<>g 7(EpQL 6/?9z
+d .!XD} 7(EpQE 3"AU
+d .!XDt 7(EpM< 6/?@k
+d .!XDy 7(EpFn 6/?B&
+d #$%U. 7(Ep4j 6/?BR
+w JB+3 building#yes
+d &%>Z9 7(Eo"E 6/?2!
+d &%>Z: 7(Eof7 6/?6j
+d &%>Z< 6fNM/ 6/?8]
+d &%>Z> 7(En|^ 6/?3r
+d &%>Z9 7(Eo"E 6/?2!
+w JB+= building#yes
+d &%>_+ 7(Ere/ 6/>]W
+d &%>_* 7(Erv> 6/>^]
+d &%>_) 7(Erq> 6/>aK
+d &%>_, 7(Er`/ 6/>`D
+d &%>_+ 7(Ere/ 6/>]W
+w JB+^ building#yes
+d &%>Zm 7(EpcU 6/>w<
+d &%>Zn 7(Ep]f 6/>z_
+d &%>Zk 7(Ep8b 6/>xI
+d &%>Zl 7(Ep7q 6/>xw
+d &%>Zq 7(EonT 5"IXU
+d &%>Zr 7(Eosq 6/>sL
+d &%>Zo 7(Ep<F 5"IXN
+d &%>Zp 7(Ep=h 6/>u!
+d &%>Zm 7(EpcU 6/>w<
+w 3/gh highway#unclassified name#Höstvädersgatan oneway#yes
+d @@:W 7(EprF 6/?EB
+d #$%S_ 7(Epnk 6/?Bp
+w cagy amenity#parking fee#no parking#surface park_ride#no
+d )vqFn 7(Er\r 6/?I*
+d )vqF` 6fNfA 6/?HM
+d )vqFa 7(Er<l 6/?Rx
+d )vqFd 7(ErU9 6/?SU
+d )vqFn 7(Er\r 6/?I*

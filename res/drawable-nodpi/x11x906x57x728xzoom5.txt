@@ -1,0 +1,21 @@
+n $pcsH 7(F/Ec 6/@(V barrier#gate
+n $p}}D 7(F$-! 6/Ao3 highway#crossing
+n $p~us 7(E}^\ 6/AZ* highway#crossing
+n $q!1w 7(Ey![ 6/Ae< highway#crossing
+n ,3jdV 7(F&EC 6/@Bb highway#turning_circle
+n -Zy1u 7(F#}, 6/A"a is_in#Hisingen,Göteborg,Sverige name#Tolered place#suburb
+n .>:CC 7(F,PA 5"Il^ highway#traffic_calming
+n /'&pa 7(F$bb 6/@i) traffic_calming#yes
+n /'&wE 7(F%1\ 6/@Q) traffic_calming#yes
+n //~Lg 7(F&cF 6/A:c addr:housenumber#1 addr:street#Tresnipsgatan
+n //~RC 6fPPZ 6/A=* addr:housenumber#7 addr:street#Tresnipsgatan
+n //~j: 7(F&<1 6/A;8 addr:housenumber#5 addr:street#Tresnipsgatan
+n //~l4 6fPUn 6/A9% addr:housenumber#3 addr:street#Tresnipsgatan
+n //~t/ 7(F&S_ 6/A?u addr:housenumber#2 addr:street#Tresnipsgatan
+n /0!*5 7(F&]9 6/AAN addr:housenumber#124 addr:street#Toredalsgatan
+n /~|HZ 7(F'Es 5"Il| amenity#recycling
+n /~|H^ 7(F#{I 6/@aQ amenity#parking
+n /~|Hc 7(F&&b 5"Ij{ leisure#playground
+n /~|Hd 7(F':: 4.N) highway#bus_stop name#Krabbeliderna
+n /~|Hi 7(F#y( 6/@j\ leisure#playground
+n /~|Hj 7(F'&o 6/@|= highway#bus_stop name#Krabbeliderna

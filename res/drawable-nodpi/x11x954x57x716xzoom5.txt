@@ -1,0 +1,20 @@
+n "77N3 7(Ey%0 6/FUr name#Frihamnen railway#tram_stop
+n #HzJw 7(Ex<! 6/F-" railway#level_crossing
+n $0T,D 5'z71 5"JAF amenity#fuel contact:phone#031-220339 name#Preem_-_Göteborg,Frihamnsmotet
+n $hzm: 7(EvTp 6/Fnx barrier#gate
+n $hzs3 7(EvxK 6/Fq, barrier#gate
+n &<o}W 7(Ewo2 5"J=; barrier#gate
+n (y=d# 7(Ex4g 6/FO; amenity#post_box
+n )55[p 7(ExB& 6/EkJ highway#crossing
+n ..63- 7(ExI$ 5"J;9 highway#crossing
+n .//`a 7(Exw; 6/F$. highway#traffic_signals
+n .f3fB 7(EsQ( 6/Erz railway#switch
+n .f3f_ 7(Ew"V 5"J=< railway#switch
+n .f3fv 7(EqzL 6/Ev> railway#switch
+n .f3f{ 7(Ewkq 6/F() railway#crossing
+n .f3gH 7(Er!z 6/EsT railway#buffer_stop
+n /]\M{ 7(EuXA 6/F>W fixme#Not_sure_about_the_position light:status#temporary seamark:light:character#F seamark:light:colour#red seamark:type#light_minor
+n /]\N9 7(EuyO 6/F@n fixme#Not_sure_about_the_position light:status#temporary seamark:light:character#F seamark:light:colour#red seamark:type#light_minor
+n 2seQP 7(ExDI 6/FHF amenity#fuel brand#Fordonsgas fuel:1_25#no fuel:1_50#no fuel:biodiesel#no fuel:biogas#yes fuel:cng#yes fuel:diesel#no fuel:e10#no fuel:e85#no fuel:electricity#no fuel:GTL_diesel#no fuel:HGV_diesel#no fuel:lpg#no fuel:octane_100#no fuel:octane_91#no fuel:octane_95#no fuel:octane_98#no name#Fordonsgas_Gbg_Frihamnen operator#Fordonsgas
+n 4J'3} 7(EyAh 6/E`p name#Hjalmar_Brantingsplatsen_Läge_A public_transport#stop_position tram#yes
+n 4MGz= 7(Ey?a 6/Eeq railway#crossing

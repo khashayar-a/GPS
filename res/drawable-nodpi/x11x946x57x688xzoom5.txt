@@ -1,0 +1,30 @@
+n ?tt0 7(EW'~ 6/Ej0 highway#traffic_signals
+n ?tt3 7(ESoV 6/Ega highway#traffic_signals
+n FJT1 7(EYaf 6/EcP highway#traffic_signals
+n FJT3 7(EWs' 6/E\% highway#traffic_signals
+n Hmqk 7(E[@* 6/F8~ highway#traffic_signals
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n I>AE 7(EYa[ 6/Eel highway#traffic_signals
+n IDzp 7(EW31 6/E]# highway#traffic_signals
+n IDz{ 7(EVdp 6/E^r name#Linnéplatsen railway#tram_stop wheelchair#yes
+n "4K_, 7(EUVZ 6/EiC highway#traffic_signals
+n "iX<1 7(EXpz 6/EzC highway#traffic_signals
+n #?sV" 7(E[;W 6/F:h highway#traffic_signals
+n #?sVF 7(EW"G 6/Em) highway#traffic_signals
+n #?sVM 7(EXo. 6/E|e highway#traffic_signals
+n #?s{! 7(EY"T 6/F!/ highway#traffic_signals
+n #?s{# 7(EY'Z 6/E}B highway#traffic_signals
+n $~P?< 7(EYS@ 6/F(5 highway#traffic_signals
+n %%[Hv 7(EY;Z 6/EdN name#Olivedalsgatan railway#tram_stop
+n %%[IB 7(EXrP 6/El: name#Olivedalsgatan railway#tram_stop
+n &.T=u 6fKu4 6/Emm highway#turning_circle
+n &p%5S 7(EUR/ 6/EYI amenity#cafe name#Solterrassen wheelchair#limited
+n (7iF* 7(EYw$ 4.R( crossing#island;uncontrolled crossing_ref#zebra highway#crossing sloped_curb#yes
+n (9KXq 7(EXAq 6/EqJ addr:city#Göteborg addr:housenumber#27 addr:postcode#41314 addr:street#Övre_Husargatan amenity#cafe name#Gnutiken shop#computer smoking#no website#http://www.gnutiken.se/ wheelchair#limited wifi#yes
+n 0EJMr 7(EWYy 6/EbZ amenity#restaurant microbrewery#no name#That´s_Amore smoking#no wheelchair#limited
+n 0EJMt 7(EXgf 6/Ee. amenity#restaurant name#Kalimera wheelchair#yes
+n 0Q{5Q 7(EXg^ 6/EYP amenity#restaurant name#Canton_House wheelchair#no
+n 1Z.<O 7(EZn} 6/E4M crossing#island;uncontrolled crossing_ref#zebra highway#crossing
+n 1k_@~ 7(EV_\ 6/E)- amenity#bicycle_rental capacity#25 name#Slottsskogen/Plikta network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#41
+n 2oo:% 7(EX9\ 6/E[J addr:housenumber#63 addr:postcode#413_08 addr:street#Linnégatan name#Vita_Saxen shop#hairdresser website#www.vitasaxen.se
+n 4"l8> 7(EWq` 6/Eat amenity#restaurant name#Texas_Long_Horn wheelchair#limited

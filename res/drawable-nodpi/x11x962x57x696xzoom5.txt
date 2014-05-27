@@ -1,0 +1,45 @@
+w "ogbe bench#yes bus#yes name#Vasaplatsen public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+:SC 7(E`i+ 6/G_I
+d 5+:SL 6fM!* 6/GdZ
+w "ogbh bench#yes bus#yes name#Vasaplatsen public_transport#platform ref#Läge_C shelter#yes tram#yes
+d 5+:SK 7(E`|@ 6/G\z
+d 5+:SP 7(EaYr 5"JL;
+w "ogbj bench#yes bus#yes name#Vasaplatsen public_transport#platform ref#Läge_D shelter#yes tram#yes
+d 5+:SJ 7(E`su 6/G[g
+d 5+:SO 7(EaO} 6/GX^
+n ?lnm 7(EbI3 6/GSf highway#traffic_signals
+n EbRQ 7(E]g( 6/GLq amenity#restaurant name#Tabeilu_Sushi
+n EbR[ 7(E_;( 6/G7L amenity#restaurant name#Japan_House
+n Ebp$ 7(EaGk 6/Fx( amenity#place_of_worship name#Smyrnakyrkan religion#christian
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n ""c<R 7(E]/` 6/Fpi highway#turning_circle
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n #+vMj 7(Ea1# 6/G^O is_in#Göteborg name#Vasastaden place#suburb
+n $~VdB 7(E`zE 6/Fky amenity#place_of_worship name#Hagakyrkan religion#christian
+n %!p70 7(EbF| 6/GRf highway#traffic_signals
+n %!p75 7(E^rO 6/GeQ highway#traffic_signals
+n %!p78 7(E^t) 6/Gf_ highway#traffic_signals
+n %"W9w 5'y~o 6/G_+ amenity#telephone operator#Telia
+n %#{K) 7(EbLr 6/GT] highway#traffic_signals
+n %%U3/ 7(EaRj 6/Fa` name#Hagakyrkan railway#tram_stop
+n %%[i. 7(E_nb 6/G9D name#Vasa_Viktoriagatan railway#tram_stop
+n %%[n< 7(E`!U 6/G8Q name#Vasa_Viktoriagatan railway#tram_stop
+n &l1[' 7(E`61 5"JEF amenity#recycling
+n ({wSE 7(E`!* 6/GB" amenity#bicycle_pump
+n )]!U9 7(E`@g 6/G1] addr:housenumber#12 addr:street#Viktoriagatan amenity#restaurant name#Kock_&amp;_Vin website#http://www.kockvin.se wheelchair#no
+n +<nXL 7(E`+> 6/GH# amenity#bicycle_rental capacity#25 name#Vasagatan/Schillerska network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#38
+n +<nXQ 7(E_Y- 6/Fob amenity#bicycle_rental name#Hagaparken network#Styr_och_ställ_Göteborg operator#JCDecaux ref#20
+n +[`}q 7(E`G^ 6/GHY amenity#place_of_worship name#Betlehemskyrkan religion#christian
+n +[`~( 7(E^Df 6/G;n amenity#restaurant name#Petit_Cyrano
+n +\dQ~ 7(E`p4 6/FwA amenity#restaurant name#Moon_Thai_Kitchen wheelchair#no
+n ,%&Hm 7(E`Xy 6/Frg leisure#playground
+n 0@w>? 7(E`4p 6/F}' amenity#stripclub name#Chat_Noir
+n 0Q{;N 7(E`D% 6/G15 amenity#restaurant name#Björns_Bar
+n 1^YjI 7(EZzj 6/H&8 bicycle#yes crossing#traffic_signals highway#crossing
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 5+:S% 7(Ea(. 6/GZ^ bus#yes highway#bus_stop name#Vasaplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+:S& 7(EaB^ 6/G[@ bus#yes highway#bus_stop name#Vasaplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5rNdT 7(Ea{U 6/GPw amenity#pub name#Skål
+n 5rNdU 7(Eal% 6/GT0 amenity#restaurant cuisine#regional email#info@smaka.se fax#0317111279 name#Smaka opening_hours#Su-Th_17:00-01:00;Fr-Sa_17:00-02:00 phone#031132247 website#http://www.smaka.se/

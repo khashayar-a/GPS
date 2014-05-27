@@ -1,0 +1,12 @@
+n 2seQT 7(Eu=p 6/I!Q amenity#fuel fuel:biogas#yes fuel:cng#yes
+n 1`x 7(ExJD 6/Iy= highway#motorway_junction name#Gullbergsmotet ref#75
+n /fJaN 7(ExZi 6/Hp4 man_made#beacon seamark#beacon
+n 0?W[U 6fN~l 6/JSV railway#switch
+n /fJ^` 7(Ex?F 6/I'[ beacon#yes light:category#flood man_made#beacon name#Nr7747 seamark#beacon
+n /fJf+ 7(Ex6z 6/Hkl beacon#yes light:category#flood man_made#beacon name#Nr7748 seamark#beacon
+n /fJ_) 7(ExDD 6/Hit man_made#beacon seamark#beacon
+n +xVpO 7(Eu.w 6/H~7 amenity#fuel brand#Fordonsgas fuel:1_25#no fuel:1_50#no fuel:biodiesel#no fuel:biogas#yes fuel:cng#yes fuel:diesel#no fuel:e10#no fuel:e85#no fuel:electricity#no fuel:GTL_diesel#no fuel:HGV_diesel#no fuel:lpg#no fuel:octane_100#no fuel:octane_91#no fuel:octane_95#no fuel:octane_98#no name#Fordonsgas_Gbg_Falutorget opening_hours#24/7 operator#Fordonsgas
+n $wTQ. 7(EtvZ 5"J[h amenity#fuel fuel:diesel#yes fuel:octane_91#yes fuel:octane_95#yes name#Statoil_(LPG)_Gasklockan opening_hours#24/7 operator#Statoil
+n IfV0 7(Etx/ 6/I&5 highway#traffic_signals
+n 52pEL 7(Ete0 6/I(Q highway#traffic_signals
+n /fJ_M 7(ExK$ 6/HlQ man_made#beacon seamark#beacon

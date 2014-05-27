@@ -1,0 +1,20 @@
+n $oq&f 7(Eu"T 5"K%H highway#turning_circle
+n $oq0b 7(Ewo% 4.Z, amenity#place_of_worship name#Härlanda_kyrka religion#christian
+n .ka^Q 7(E{Sq 6/MsI highway#traffic_signals
+n 1BRza 6fNyx 6/K\j name#Redbergsplatsen railway#tram_stop
+n 1BRzo 7(EvS* 6/M;G highway#bus_stop name#Härlanda railway#tram_stop
+n 1BRzu 7(EvZJ 6/MA2 name#Härlanda railway#tram_stop
+n 1BRzz 7(ExSb 6/N<, name#Ättehögsgatan railway#tram_stop
+n 1BR{- 7(EuEB 6/L`\ name#Stockholmsgatan railway#tram_stop
+n 1BR{1 7(Evdp 6/N!} name#Munkebäckstorget railway#tram_stop
+n 1BR{2 7(E{~q 6/Npd name#Kaggeledstorget railway#tram_stop
+n 1BR{@ 7(ExeZ 6/N>0 name#Ättehögsgatan railway#tram_stop
+n 1BR{G 7(Ev~` 6/N&d name#Munkebäckstorget railway#tram_stop
+n 1BR{J 7(EtRY 6/K_g name#Redbergsplatsen railway#tram_stop
+n 1BR{M 6fO`V 6/Nlz name#Kaggeledstorget railway#tram_stop
+n 1BR{T 7(EuAE 6/L[< name#Stockholmsgatan railway#tram_stop
+n 1nA>) 7(Ep~p 6/Mlc name#Sanatoriegatan railway#tram_stop
+n 1nA>+ 7(EtL( 6/Mvf name#Solrosgatan railway#tram_stop
+n 1nA>3 7(EqPe 6/Mmk name#Sanatoriegatan railway#tram_stop
+n 1nA>6 7(Etd/ 6/Mw} name#Solrosgatan railway#tram_stop
+n 1nA>; 7(EmR] 6/Me4 name#Kålltorp railway#tram_stop ref#B

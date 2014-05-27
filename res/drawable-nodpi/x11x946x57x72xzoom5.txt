@@ -1,0 +1,78 @@
+w "O5kl area#yes bus#no name#Hjalmar_Brantingsplatsen_Läge_B public_transport#platform ref#B shelter#yes tram#yes wheelchair#yes
+d 1mf_0 7(Ey?{ 6/Ep6
+d 1mf]x 7(EyBj 5"J;e
+d 1mf^S 7(EyEC 6/EmV
+d 1mf^R 7(EyG3 6/Ek[
+d 1mf_* 7(EyH9 6/Ejd
+d 1mf_h 7(EyI* 6/EjB
+d 1mf^z 7(EyJV 5"J:v
+d 1mf^U 7(EyJZ 6/Egd
+d 1mf]z 7(EyDK 6/Eg\
+d 1mf_n 7(EyBr 6/EjU
+d 1mf_0 7(Ey?{ 6/Ep6
+w "ix=z bus#yes name#Hjalmar_Brantingsplatsen_Läge_E public_transport#platform
+d 4MGzl 7(Eyt@ 6/EqX
+d 4MGzW 7(Eyac 6/Ek~
+w "O5kh area#yes bus#no name#Hjalmar_Brantingsplatsen_Läge_A public_transport#platform ref#A shelter#yes tram#yes wheelchair#yes
+d 1mf_% 7(Ey>Q 6/E[[
+d 1mf^Z 7(Ey=J 6/E[i
+d 1mf^! 7(Ey=5 6/E\,
+d 1mf^6 7(Ey<K 6/E_Q
+d 1mf^W 7(Ey:M 6/EcS
+d 1mf]s 7(Ey:0 6/Ec|
+d 1mf]w 7(Ey:M 6/EdB
+d 1mf^T 7(Ey:M 6/Edr
+d 1mf^B 7(Ey>t 6/Edz
+d 1mf]{ 7(Ey?^ 6/Ebt
+d 1mf^Q 7(Ey@] 6/E_d
+d 1mf^m 7(EyAc 6/E\b
+d 1mf]^ 6fOIu 5"J9b
+d 1mf]e 7(EyA\ 6/E[f
+d 1mf]q 7(Ey@z 6/E[\
+d 1mf_% 7(Ey>Q 6/E[[
+w "ix=x bus#yes name#Hjalmar_Brantingsplatsen_Läge_C public_transport#platform
+d 4MGzJ 7(EyKD 6/E\g
+d 4MGzI 7(EyI8 6/Ec)
+w "ix=y bus#yes name#Hjalmar_Brantingsplatsen_Läge_D public_transport#platform
+d 4MGzT 7(Ey\c 5"J9v
+d 4MGzP 7(EyZb 6/Ecy
+w "ix=} bus#yes name#Hjalmar_Brantingsplatsen_Läge_H public_transport#platform
+d 4MGzN 7(EyT6 6/Elr
+d 4MGzK 7(EyMK 6/Eu*
+n E@SD 7(EyQQ 6/Dsu highway#traffic_signals
+n Ec=@ 7(Ey&T 6/Dsb highway#traffic_signals
+n "77N9 7(EyA5 6/Ek6 name#Hjalmar_Brantingsplatsen_Läge_B public_transport#stop_position tram#yes
+n "`;Wb 7(EzaB 6/Dt\ highway#traffic_signals
+n %eG"a 7(Ez[" 6/EbI name#Sportex_Motorgatan operator#Sportex shop#bicycle;sports
+n 'jdcP 6fOH2 6/EZN highway#traffic_signals
+n (sN$3 6fOL2 6/Ea* bus#yes name#Hjalmar_Brantingsplatsen_Läge_D public_transport#stop_position ref#D
+n (sN$4 7(EyQ{ 6/Dd} bus#yes local_ref#C name#Vågmästareplatsen_Läge_C public_transport#stop_position
+n (sN$5 7(Ey%2 6/D|A highway#bus_stop name#Vågmästareplatsen
+n (sN$@ 7(Eyv( 5"J;i bus#yes name#Hjalmar_Brantingsplatsen_Läge_E public_transport#stop_position
+n (sN$C 7(EyJu 6/EmO bus#yes name#Hjalmar_Brantingsplatsen_Läge_H public_transport#stop_position
+n (sN$D 7(EyL{ 5"J:6 bus#yes name#Hjalmar_Brantingsplatsen_Läge_C public_transport#stop_position ref#C
+n )55[p 7(ExB& 6/EkJ highway#crossing
+n +-MWV 7(EyYV 6/Epa amenity#post_box operator#Posten
+n +-MWY 7(EyYL 6/Eq| amenity#atm
+n +-MW] 7(Eydh 6/ErH amenity#toilets
+n ..63- 7(ExI$ 5"J;9 highway#crossing
+n ..635 7(Exgy 6/EpR highway#traffic_signals
+n ..63N 7(Ex_l 6/EmV highway#give_way
+n .//^3 7(Exo~ 6/Em= highway#traffic_signals
+n .//^L 7(Ex~H 6/Eq# highway#traffic_signals
+n .//_N 7(Ex{` 6/Es; highway#traffic_signals
+n .//`@ 7(Exi\ 6/Es" highway#give_way
+n .0NfY 7(F!]9 6/DyO highway#give_way
+n .0Ng& 6fOlV 6/Dx? highway#traffic_signals
+n .0Ng0 7(E{RH 6/Ebw highway#crossing
+n .0Ng> 7(EzZc 6/Er* highway#crossing
+n .0NgV 7(E{t2 6/E^O highway#crossing
+n .Bo,A 7(E|?E 6/Egh name#Backa_Fisk shop#seafood
+n .BoNL 7(E{1e 6/ET0 name#Systembolaget_Backaplan shop#alcohol
+n 00\A0 7(Ey`, 5"J;b name#Pressbyrån shop#kiosk
+n 00\A2 7(Exhp 6/EV" name#Sitty_Möbler shop#furniture
+n 00\A4 7(E|W4 6/Er* name#Coop_Forum_Backaplan shop#supermarket
+n 00\A6 7(Exu2 5"J8w name#Sängjätten shop#furniture
+n 1mf_S 6fOJ) 6/Eez railway#crossing
+n 4J'3} 7(EyAh 6/E`p name#Hjalmar_Brantingsplatsen_Läge_A public_transport#stop_position tram#yes
+n 4MGz= 7(Ey?a 6/Eeq railway#crossing

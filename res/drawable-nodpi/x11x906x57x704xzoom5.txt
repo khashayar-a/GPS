@@ -1,0 +1,83 @@
+n $**08 7(Efd\ 5"Il( highway#turning_circle
+n $NQ54 7(Ek;~ 6/@fc highway#turning_circle
+n $NQ57 7(Ek,v 6/@`V highway#turning_circle
+n $NQ5a 7(Ek"] 5"IhP highway#turning_circle
+n $NQ7D 7(EjxH 6/@T2 highway#turning_circle
+n $NQ;/ 7(Ei}F 6/@K2 traffic_calming#yes
+n $k=tj 6fMbo 6/A9a highway#crossing
+n $k=va 7(Em%t 6/Alc highway#crossing
+n $k>+7 7(Ekr, 5"Isp highway#crossing
+n $lwn6 7(EfM5 6/@J] highway#turning_circle
+n $lwtN 7(EhH: 6/@J= highway#turning_circle
+n $lwtO 7(EhSB 5"Ig# barrier#gate
+n 'x^A% 7(EkT3 6/@md highway#turning_circle
+n +oVa{ 7(Eim; 6/Ack highway#crossing
+n ,rhy8 7(Egc( 6/A7F highway#bus_stop name#Danaplatsen
+n ,rhy< 7(El:g 6/Ap" highway#bus_stop name#Säterigatan
+n /jquW 7(Ejhq 6/@Sg addr:housenumber#4A addr:street#Tilburygatan building#entrance
+n /jquc 7(Ek7& 6/@^Y addr:housenumber#4D addr:street#Finlandsgatan building#entrance
+n /jqup 7(EkDn 6/@e$ addr:housenumber#4D addr:street#Estlandsgatan building#entrance
+n /jqur 7(Ej;a 6/@Us addr:housenumber#2A addr:street#Tilburygatan building#entrance
+n /jqv) 7(EjSA 6/@b& addr:housenumber#2A addr:street#Finlandsgatan building#entrance
+n /jqv8 7(Ek.w 6/@f) addr:housenumber#4A addr:street#Estlandsgatan building#entrance
+n /jqv: 7(Ej]! 6/@h4 addr:housenumber#2A addr:street#Estlandsgatan building#entrance
+n /jqv< 7(Ek!b 6/@_X addr:housenumber#4A addr:street#Finlandsgatan building#entrance
+n /jqvC 7(Ejsg 6/@g- addr:housenumber#2D addr:street#Estlandsgatan building#entrance
+n /jqvE 7(Eji] 6/@a$ addr:housenumber#2D addr:street#Finlandsgatan building#entrance
+n /jqvG 7(EjHi 6/@[g addr:housenumber#2A addr:street#Hullgatan building#entrance
+n /jqvQ 5'z*R 6/@X\ addr:housenumber#4C addr:street#Hullgatan building#entrance
+n /jqvR 7(Ej]2 6/@Zh addr:housenumber#2D addr:street#Hullgatan building#entrance
+n /jqvl 7(EjTF 6/@To addr:housenumber#2D addr:street#Tilburygatan building#entrance
+n 10:`+ 7(EiTX 6/@fF addr:housenumber#7 addr:street#Biskopsgatan
+n 10:`5 7(EiBU 6/@RS addr:housenumber#15 addr:street#Biskopsgatan
+n 10:`t 7(Ei^1 6/@^? addr:housenumber#2 addr:street#Krokängsgatan
+n 10:a& 7(Ek'f 6/@o2 addr:housenumber#27 addr:street#Prebendegatan
+n 10:ae 7(EiZ$ 6/@d3 addr:housenumber#1 addr:street#Krokängsgatan
+n 10:bc 6fMsG 6/@]| addr:housenumber#4 addr:street#Krokängsgatan
+n 10:bv 7(Ej{z 6/@wf addr:housenumber#38 addr:street#Pilegårdsgatan
+n 10:c& 7(Ej*z 6/@Zm addr:housenumber#8 addr:street#Vårbroddsgatan
+n 10:cF 7(Ei[i 6/@lv addr:housenumber#5 addr:street#Biskopsgatan
+n 10:cL 7(Ej)E 6/@Q| addr:housenumber#14 addr:street#Vårbroddsgatan
+n 10:cU 7(EiHM 6/@LF addr:housenumber#12 addr:street#Londongatan
+n 10:ch 7(Ei|q 6/@U; addr:housenumber#9 addr:street#Corneliusgatan
+n 10:cu 6fMtw 6/@]: addr:housenumber#6 addr:street#Krokängsgatan
+n 10:c} 7(Ejcl 6/@u+ addr:housenumber#2 addr:street#Flygaregatan
+n 10:dq 7(Ej:V 6/@bN addr:housenumber#6 addr:street#Vårbroddsgatan
+n 10:dr 7(EiSq 6/@VV addr:housenumber#3 addr:street#Corneliusgatan
+n 10:f; 7(Ei>u 6/@N} addr:housenumber#17 addr:street#Biskopsgatan
+n 10:fO 7(Eiz: 6/@Rj addr:housenumber#10 addr:street#Corneliusgatan
+n 10:f` 7(EiGj 6/@X^ addr:housenumber#13 addr:street#Biskopsgatan
+n 10:g) 7(Ei\v 5"IjU addr:housenumber#3 addr:street#Biskopsgatan
+n 10:g= 7(Ei[i 6/@f2 addr:housenumber#22 addr:street#Prebendegatan
+n 10:gj 7(Ejiq 6/@oh addr:housenumber#6 addr:street#Flygaregatan
+n 10:h! 7(Ej"L 6/@W@ addr:housenumber#12 addr:street#Vårbroddsgatan
+n 10:h4 7(EiMJ 6/@Vh addr:housenumber#1 addr:street#Corneliusgatan
+n 10:h? 7(EjCZ 6/@g{ addr:housenumber#2 addr:street#Vårbroddsgatan
+n 10:hm 6fMpK 6/@T3 addr:housenumber#2 addr:street#Corneliusgatan
+n 10:hy 7(Ej1* 6/@a/ addr:housenumber#9 addr:street#Krokängsgatan
+n 10:kr 7(Ej$j 6/@\h addr:housenumber#10 addr:street#Krokängsgatan
+n 10:m< 7(EjtO 6/@tq addr:housenumber#1 addr:street#Flygaregatan
+n 10:mK 7(Eib] 6/@V& addr:housenumber#5 addr:street#Corneliusgatan
+n 10:ma 7(EiT4 6/@]J addr:housenumber#9 addr:street#Biskopsgatan
+n 10:oB 7(Ei?t 5"Iik addr:housenumber#10 addr:street#Biskopsgatan
+n 10:p4 7(Ej2l 6/@OA addr:housenumber#16 addr:street#Vårbroddsgatan
+n 10:qh 7(Ej98 6/@i) addr:housenumber#30 addr:street#Prebendegatan
+n 10:rp 7(Ej|Q 6/@pC addr:housenumber#5 addr:street#Flygaregatan
+n 10:ru 7(Ej(s 6/@Mw addr:housenumber#6 addr:street#Londongatan
+n 1I=$& 7(EjV? 6/@[) addr:housenumber#2C addr:street#Hullgatan building#entrance
+n 1I=$D 7(Ek6C 6/@ee addr:housenumber#4B addr:street#Estlandsgatan building#entrance
+n 1I=$J 7(EjCw 5"Ih& addr:housenumber#2B addr:street#Tilburygatan building#entrance
+n 1I=$_ 6fN!h 6/@_: addr:housenumber#4B addr:street#Finlandsgatan building#entrance
+n 1I=$u 6fN!H 6/@X~ addr:housenumber#4B addr:street#Hullgatan building#entrance
+n 1I=%5 7(Ejay 6/@aE addr:housenumber#2C addr:street#Finlandsgatan building#entrance
+n 1I=%F 7(EjOm 6/@[G addr:housenumber#2B addr:street#Hullgatan building#entrance
+n 1I=%R 7(Ejkj 5"Iiq addr:housenumber#2C addr:street#Estlandsgatan building#entrance
+n 1I=%X 7(EjL6 6/@U2 addr:housenumber#2C addr:street#Tilburygatan building#entrance
+n 1I=&' 7(Ejr= 6/@Yh addr:housenumber#4A addr:street#Hullgatan building#entrance
+n 1I=&2 7(Ek=m 6/@eD addr:housenumber#4C addr:street#Estlandsgatan building#entrance
+n 1I=&@ 6fM{C 6/@ad addr:housenumber#2B addr:street#Finlandsgatan building#entrance
+n 1I=&I 7(Ek/] 6/@^z addr:housenumber#4C addr:street#Finlandsgatan building#entrance
+n 1I=&a 7(Ejdf 6/@gp addr:housenumber#2B addr:street#Estlandsgatan building#entrance
+n 1I=&c 7(EjpR 6/@SE addr:housenumber#4B addr:street#Tilburygatan building#entrance
+n 5e5{s 6fM~M 6/@R{ addr:housenumber#4C addr:street#Tilburygatan building#entrance
+n 5e5{y 7(Ejz< 6/@Q} name#TA_Video_Film opening_hours#Mo-Fr_12:00-21:00;Sa-Su_14:00-21:00 phone#+4631234066 shop#video

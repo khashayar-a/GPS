@@ -1,0 +1,23 @@
+n $gl0q 7(ELXL 6/>vz barrier#bollard bicycle#yes foot#yes
+n %X,kF 7(ENE4 5"IUb barrier#bollard bicycle#yes foot#yes
+n )_uvl 7(EO`: 6/>]) amenity#restaurant name#Malins_skafferi
+n *t_go 5'ynG 6/>]7 highway#bus_stop name#Örlogsvägen
+n +FfuB 7(EOt@ 6/>rM amenity#school name#Nordiska_Högskolan_för_Folkhälsovetenskap
+n ,d>x, 7(EL?! 6/>fw addr:housenumber#20A addr:street#Nya_Varvsallén
+n ,d>ym 7(EL:g 6/>t8 addr:housenumber#18A addr:street#Nya_Varvsallén
+n ,d>z7 7(EL:b 6/>cp addr:housenumber#20B addr:street#Nya_Varvsallén
+n ,d>zD 7(EL4T 6/>t8 addr:housenumber#18B addr:street#Nya_Varvsallén
+n ,d>zg 7(ELRX 6/>_+ addr:housenumber#22A addr:street#Nya_Varvsallén
+n ,d>|7 7(EL.@ 6/>t8 addr:housenumber#18C addr:street#Nya_Varvsallén
+n ,d>|` 7(ELgS 6/>^& addr:housenumber#22B addr:street#Nya_Varvsallén
+n ,d>}- 6fJ{N 6/>]W addr:housenumber#22C addr:street#Nya_Varvsallén
+n ,eD99 7(ENVJ 6/>_c addr:housenumber#1A addr:street#Freses_väg
+n ,eD9o 7(EOkw 6/>cr addr:housenumber#27B addr:street#Fredrik_Bloms_väg
+n ,eD:B 7(EOx` 6/>r, addr:housenumber#25 addr:street#Fredrik_Bloms_väg
+n ,eD:b 7(EOmn 6/>_w addr:housenumber#27C addr:street#Fredrik_Bloms_väg
+n ,eD:q 7(EOm( 6/>lW addr:housenumber#26 addr:street#Fredrik_Bloms_väg
+n ,eD;n 7(ENL9 6/>a} addr:housenumber#1B addr:street#Freses_väg
+n ,eD<7 7(EOj# 6/>gm addr:housenumber#27A addr:street#Fredrik_Bloms_väg
+n 1iIxg 6fK$) 6/>]m leisure#playground
+n 1iI}" 7(EO;Z 6/>cr amenity#post_box
+n 1iJ]w 7(ENHL 6/>g7 historic#memorial name#Flygarmonumentet

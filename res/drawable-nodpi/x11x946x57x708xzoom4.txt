@@ -1,0 +1,25 @@
+w "-RJU highway#service
+d .0GzI 7(Eo.- 6/E0c
+d .0G}$ 7(Eo=r 6/E3g
+d .0G}! 6fNJ* 6/E4>
+d .0G}j 7(EoK; 6/E4>
+d .0G}h 7(EoNJ 6/E3d
+d .0G~? 7(EoND 6/E2:
+d .0G}J 7(EoK; 6/E1<
+d .0G|j 7(EoEO 6/E0/
+d .0G~P 6fNI> 6/E.-
+w @kW& foot#yes highway#footway
+d $c??u 7(EnqF 6/E5l
+d $c?NA 7(Enu} 6/E6l
+d $c?NB 7(Eo)& 6/E7~
+w HO2j highway#cycleway name#Regnbågsgatan
+d "{)H. 7(Em(| 6/Dy|
+d %f!~o 7(Ekgv 6/E'\
+w HLwq bicycle#yes foot#yes highway#footway
+d "{)Lx 7(EjW} 6/EDH
+d %eV?l 7(Ej`T 6/ED#
+d %eV?n 7(EjgD 5"J7.
+d .-&s2 7(EjsJ 6/E=$
+d %eV?r 7(Ejzi 6/E;s
+d .-&s, 7(Ek!s 6/E;S
+d %eV7^ 7(Ek4P 6/E<j

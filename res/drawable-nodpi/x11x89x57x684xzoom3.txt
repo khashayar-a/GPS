@@ -1,0 +1,180 @@
+w "!H1V building#yes
+d ,k#]s 7(ER5[ 5"I[X
+d ,k#]e 7(ER7% 6/?9.
+d ,k#]S 7(ER+o 6/?9E
+d ,k#]q 7(ER*H 6/?7*
+d ,k#]s 7(ER5[ 5"I[X
+w "eq;" building#yes
+d 4#aLh 7(EPE5 6/?F5
+d 4#aLq 7(EPHQ 6/?G)
+d 4#aLc 7(EPCL 6/?Gh
+d 4#aLY 7(EP@0 6/?Ft
+d 4#aLh 7(EPE5 6/?F5
+w ~kP\ building#yes
+d ,eD9F 7(EO[p 6/>Yt
+d ,eD<G 7(EOZT 6/>\[
+d ,eD9{ 7(EOdp 6/>\p
+d ,eD9( 6fK:^ 6/>[m
+d ,eD<B 7(EOj> 6/>[w
+d ,eD;> 7(EObt 6/>jV
+d ,eD9A 7(EOcv 6/>l>
+d ,eD;s 7(EP"Z 6/>z#
+d ,eD;Z 6fKDG 6/?);
+d ,eD:N 7(EQjy 6/?*w
+d ,eD<O 7(EQd# 6/?(q
+d ,eD;K 7(EPku 6/?'N
+d ,eD;0 7(EP3* 6/>zN
+d ,eD9n 7(EP/] 6/>yD
+d ,eD;e 7(EOlr 6/>ia
+d ,eD:d 7(EOtF 5"IUk
+d ,eD:- 7(EOar 6/>ZR
+d ,eD92 7(EOar 6/>Y{
+d ,eD9F 7(EO[p 6/>Yt
+w Y?}; amenity#parking
+d (^hzN 7(EP*H 6/>[~
+d (^hzZ 7(EP:l 6/>dB
+d (^hz[ 7(EOvN 6/>fX
+d (^hz\ 7(EO{} 6/>\@
+d (^hzN 7(EP*H 6/>[~
+w "eq;{ building#yes
+d 4#aLs 7(EPI$ 6/?QW
+d 4#aLf 7(EPE2 6/?RC
+d 4#aL\ 7(EP@z 6/?Q\
+d 4#aLe 7(EPDl 6/?Pq
+d 4#aLs 7(EPI$ 6/?QW
+w "!H1L building#yes
+d ,k#]m 7(ERms 6/?<[
+d ,k#^K 6fKZ2 5"I\X
+d ,k#^, 7(ER}% 6/?Br
+d ,k#]u 7(ERd+ 6/?>\
+d ,k#]m 7(ERms 6/?<[
+w "!H1F addr:housenumber#27 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]Q 7(ERID 6/?9N
+d ,k#]; 7(ERY_ 6/?<$
+d ,k#\z 7(ERR_ 6/?=Y
+d ,k#^8 7(ERBD 6/?;%
+d ,k#]Q 7(ERID 6/?9N
+w "!H1S addr:housenumber#23 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]M 7(EQj5 6/?&O
+d ,k#]: 7(EQq/ 5"IZ>
+d ,k#^6 7(EQzY 5"IZ8
+d ,k#\u 7(EQx\ 6/?(I
+d ,k#^$ 7(ER'# 6/?'Y
+d ,k#]^ 7(ER-Q 6/?*{
+d ,k#]( 7(ER76 5"IZ@
+d ,k#]P 7(ER(G 6/?"\
+d ,k#\x 7(EQ|3 6/?#>
+d ,k#^& 7(ER!T 6/?%&
+d ,k#]M 7(EQj5 6/?&O
+w "eq;T building#yes
+d 4#aLa 7(EPCI 6/?Jh
+d 4#aLj 7(EPEd 6/?KF
+d 4#aLZ 7(EP@i 6/?L"
+d 4#aLS 6fK@/ 6/?KD
+d 4#aLa 7(EPCI 6/?Jh
+w "OIe= amenity#parking capacity#18 name#Nya_Varvet_Studios parking#surface
+d 1oWxq 7(EREp 6/?%L
+d 1oWx| 7(ER6@ 5"IYz
+d 1oWy! 7(ERA( 5"IZM
+d 1oWx{ 7(ERPT 6/?*X
+d 1oWxq 7(EREp 6/?%L
+w "eq;s building#yes
+d 4#aMO 7(EQ^y 6/?RB
+d 4#aMP 7(EQ`i 6/?S#
+d 4#aMM 7(EQTn 6/?T1
+d 4#aML 7(EQS! 6/?SQ
+d 4#aMO 7(EQ^y 6/?RB
+w "eq;& building#yes
+d 4#aM2 7(EPYF 6/?Qe
+d 4#aM> 7(EP_5 6/?RL
+d 4#aM: 7(EP]\ 6/?Rv
+d 4#aM/ 6fKBa 6/?R0
+d 4#aM2 7(EPYF 6/?Qe
+w "eq<" building#yes
+d 4#aMT 7(EQk} 6/?M%
+d 4#aMU 7(EQlF 6/?N6
+d 4#aMS 7(EQgN 6/?N;
+d 4#aMR 7(EQg( 6/?M*
+d 4#aMT 7(EQk} 6/?M%
+w "eq;~ building#yes
+d 4#aMY 7(EQtP 6/?Mf
+d 4#aMZ 7(EQus 6/?O/
+d 4#aMW 7(EQnC 6/?OG
+d 4#aMV 7(EQl~ 6/?M~
+d 4#aMY 7(EQtP 6/?Mf
+w ~kPY building#yes
+d ,eD;W 7(EP/o 6/>eT
+d ,eD;^ 7(EP4C 6/>gs
+d ,eD<- 7(EO{V 6/>iI
+d ,eD;' 7(EOw$ 6/>g*
+d ,eD;W 7(EP/o 6/>eT
+w "eq;O building#yes
+d 4#aL} 7(EPLT 6/?Q+
+d 4#aM% 7(EPPF 6/?Q]
+d 4#aL~ 7(EPM? 6/?RH
+d 4#aLv 7(EPIM 6/?Qt
+d 4#aL} 7(EPLT 6/?Q+
+w "eq;I building#yes
+d 4#aLH 7(EP5I 6/?G5
+d 4#aLK 7(EP9T 6/?H:
+d 4#aLG 7(EP4Z 6/?Hz
+d 4#aLC 7(EP0O 6/?Gu
+d 4#aLH 7(EP5I 6/?G5
+w "!H1P addr:housenumber#11 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#\o 7(EQ<L 6/>qQ
+d ,k#^2 7(EQ!r 6/>sI
+d ,k#]' 7(EQ&p 6/>up
+d ,k#^* 7(EQ)n 6/>u\
+d ,k#]d 7(EQ., 6/>we
+d ,k#]9 7(EQ3( 6/>wC
+d ,k#]K 7(EQ7# 6/>y<
+d ,k#\s 6fKH> 6/>y]
+d ,k#^# 7(EQ55 6/>{0
+d ,k#]X 7(EQLm 6/>yL
+d ,k#\o 7(EQ<L 6/>qQ
+w "!H1D addr:housenumber#20 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]l 7(ER=" 6/?#U
+d ,k#]` 7(ER@+ 6/?%<
+d ,k#]F 7(ER8< 6/?%j
+d ,k#]2 7(ER53 6/?$%
+d ,k#]l 7(ER=" 6/?#U
+w "!H1H addr:housenumber#19 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]$ 7(EQDj 5"IYZ
+d ,k#^C 7(EQJ> 5"IYt
+d ,k#^) 7(EQ;B 6/?&t
+d ,k#]p 6fKHa 6/?$+
+d ,k#]$ 7(EQDj 5"IYZ
+w "!H1N addr:housenumber#25 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]3 7(ER40 6/?,T
+d ,k#]r 6fKRs 6/?,=
+d ,k#^+ 7(ER@@ 6/?/v
+d ,k#^D 7(ER6i 5"IZw
+d ,k#]3 7(ER40 6/?,T
+w Y?}6 amenity#parking
+d (^hzk 7(EQM3 6/>zZ
+d (^hzn 7(EQ2M 5"IY0
+d (^hzb 7(EQ($ 6/>wZ
+d (^hzc 6fKFD 6/>x6
+d (^hzp 7(EQ/; 6/?""
+d (^hzo 7(EQRt 5"IY8
+d (^hzk 7(EQM3 6/>zZ
+w "!H1R addr:housenumber#17 addr:street#Skeppet_Ärans_väg building#yes
+d ,k#]% 7(EQUd 6/>~B
+d ,k#]U 7(EQX] 6/?!n
+d ,k#]j 7(EQO$ 6/?"O
+d ,k#]} 7(EQL+ 6/?!#
+d ,k#]% 7(EQUd 6/>~B
+w ~kP^ building#yes
+d ,eD;b 7(EQ%e 6/>af
+d ,eD:) 7(EPH@ 6/>ep
+d ,eD91 7(EP<> 5"IV;
+d ,eD<L 7(EPAR 6/>_G
+d ,eD;G 7(EP98 6/>[6
+d ,eD9+ 6fKA+ 6/>Z3
+d ,eD;` 5'yoG 6/>Ys
+d ,eD;A 7(EPph 6/>W"
+d ,eD:& 7(EPw$ 6/>Z3
+d ,eD;y 6fKBF 6/>\U
+d ,eD:y 7(EPWP 5"IV)
+d ,eD:T 7(EPw] 6/>[\
+d ,eD;b 7(EQ%e 6/>af

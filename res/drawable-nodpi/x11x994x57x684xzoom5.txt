@@ -1,0 +1,60 @@
+w "'Jjf amenity#bicycle_parking
+d -J5.0 6fKRS 6/JJ'
+d -J5.3 7(ER7u 6/JHR
+d -J5.1 7(ER<V 6/JH:
+d -J5./ 7(ER>} 6/JIm
+d -J5.0 6fKRS 6/JJ'
+w "'Jjg amenity#bicycle_parking
+d -J5.4 7(ER]~ 6/JLy
+d -J5.6 7(ERVj 6/JM?
+d -J5.5 7(ERU4 6/JL=
+d -J5.2 7(ER\H 6/JKw
+d -J5.4 7(ER]~ 6/JLy
+n 1a< 7(EYI. 6/Jp8 highway#motorway_junction name#Kallebäcksmotet ref#70
+n 1aJ 6fIH' 6/Ldx highway#motorway_junction name#Lackarebäcksmotet ref#68
+n 1aQ 7(E1I6 6/M(N highway#motorway_junction name#Mölndalsbro ref#67
+n [rc 7(EL9R 6/Kx= highway#motorway_junction name#Kallebäcksmotet ref#70
+n [rl 7(E]|K 6/J`t highway#motorway_junction name#Örgrytemotet ref#71
+n :ei* 7(EU8h 5"Jls name#Almedal railway#technical_station ref#Am
+n ?ziF 7(ESS# 6/Jhm highway#traffic_signals
+n ?ziH 7(EOmz 6/K,8 highway#traffic_signals
+n A<4N 7(E8MM 6/Lv( highway#motorway_junction name#Lackarebäcksmotet ref#68
+n w5U0 7(EOf8 6/K(3 highway#traffic_signals
+n w5Ue 7(ESIG 6/Je@ highway#traffic_signals
+n w5Y> 7(EV*G 6/JIv highway#traffic_signals
+n "7U@5 7(EOIq 5"Jeu crossing#uncontrolled highway#crossing
+n "v+*4 6fL.q 6/J2H highway#traffic_signals
+n $s(W^ 7(EV3( 5"Jg; crossing#traffic_signals highway#traffic_signals
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %7uo> 7(EP$N 6/K!, amenity#fuel name#Shell
+n %8"Ch 6fK9B 6/K,1 name#Elisedal railway#tram_stop
+n %8"E% 7(ESm# 6/Jce name#Almedal railway#tram_stop
+n %>B,. 7(ESB' 6/J\L crossing#uncontrolled;island highway#crossing
+n &$MhZ 7(ENJU 5"J_| bicycle#yes crossing#uncontrolled;island highway#crossing
+n &|YiK 6fJnN 5"Jp, name#Varbergsgatan railway#tram_stop
+n -HHXj 7(ERtS 6/JKH amenity#pub name#Café_Olof
+n -J1L? 7(ET4y 6/JB: barrier#gate bicycle#yes foot#yes motorcycle#no
+n -J5.. 5'yq\ 6/JMM amenity#bicycle_parking
+n -Ll$7 7(ES8g 6/JIv access#private leisure#sports_centre sport#fitness
+n -M5h7 7(ES+- 6/JJc access#private amenity#bicycle_parking
+n -M5ha 7(ER^v 6/JH% access#private sport#table_tennis
+n -M5i& 7(ESBz 6/JK# amenity#bicycle_parking
+n -XLCr 7(ERpj 6/JGU amenity#bbq leisure#picnic_table
+n .'=+J 7(ET2~ 6/Je/ name#Mecel_AB office#it
+n .'=+R 7(ESp5 6/Jhj name#Westium shop#computer
+n .'=+s 7(ET#N 6/Jfq name#Capgemini office#it
+n .'=+t 7(ET/1 6/JeZ name#Delphi office#it
+n .'gj> 5'yr? 6/Jlp furniture#lamps name#Light_Art shop#furniture
+n .:#n# 7(ET&, 6/JK" barrier#gate bicycle#no foot#yes
+n .:#om 7(ES$~ 6/JX2 amenity#restaurant cuisine#pizza name#Pizzeria_Mums phone#031-40_00_34
+n .:#p+ 7(ESUp 6/JO{ barrier#gate bicycle#no foot#yes
+n 0:jc} 6fKCD 6/J}z name#Tools_sjögrens shop#hardware
+n 1fKFM 6fKFl 6/Jsm traffic_calming#hump
+n 1fKFu 7(ENp@ 6/J#l crossing#uncontrolled highway#crossing
+n 1fKH# 7(ENo> 6/J"| traffic_calming#hump
+n 1fKHS 7(ER#; 5"Jk: barrier#bollard
+n 1fKHg 7(EN{' 6/J-J traffic_calming#hump
+n 1fKI# 7(ERb[ 6/Jm7 barrier#bollard
+n 1kg9n 7(EOQ\ 5"Jk@ highway#turning_circle

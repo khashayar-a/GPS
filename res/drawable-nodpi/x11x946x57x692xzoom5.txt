@@ -1,0 +1,69 @@
+n E;@] 7(E[%" 6/Dpq name#Eldaregatan
+n FJT1 7(EYaf 6/EcP highway#traffic_signals
+n FJTq 7(E[oT 6/EG{ amenity#school name#Nordhemsskolan
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n I>AE 7(EYa[ 6/Eel highway#traffic_signals
+n #Hq~r 7(E[^b 6/Ea^ name#Linné place#suburb
+n %%[Hv 7(EY;Z 6/EdN name#Olivedalsgatan railway#tram_stop
+n %Bzj: 7(EZ_Y 6/Egn addr:city#Göteborg addr:country#SE addr:housenumber#54 addr:street#Linnégatan amenity#restaurant microbrewery#no name#Karlson's_Garage_&amp;_Bar smoking#no wheelchair#limited
+n &w7I6 7(EZ", 5"J:- addr:city#Göteborg addr:country#SE addr:housenumber#53 addr:postcode#413_08 addr:street#Linnégatan amenity#cafe name#Kafé_Still smoking#no wheelchair#yes
+n &w7P9 7(E[:} 6/E]- amenity#post_box
+n &w7XX 7(EYXv 6/EY( addr:city#Göteborg addr:country#SE addr:housenumber#18 addr:postcode#413_09 addr:street#Nordenskiöldsgatan name#Kooperativ_Handel-Fram shop#convenience website#http://www.framekolivs.se/ wheelchair#yes
+n &w7[h 5'yx: 6/EW8 name#Hemköp_Kals_Matmarknad shop#supermarket wheelchair#yes
+n &w7_< 7(EY$2 6/EUU amenity#post_box
+n 'b)ve 6fL<\ 5"J:. amenity#fast_food cuisine#sandwich name#Subway smoking#no wheelchair#limited
+n (7iF& 6fL9E 6/E2a name#Slottsskogens_vandrahem tourism#hostel website#www.sov.nu wheelchair#no
+n (7iF' 7(EYj` 6/E24 amenity#recycling
+n (7iF( 7(EZDI 6/E,Z name#Willys shop#supermarket wheelchair#yes
+n (7iF) 7(E[at 6/E63 highway#bus_stop name#Vegagatan ref#16
+n (7iF* 7(EYw$ 4.R( crossing#island;uncontrolled crossing_ref#zebra highway#crossing sloped_curb#yes
+n (ta~4 6fLZF 6/E_X name#Hemköp_Linnégatan shop#supermarket wheelchair#yes
+n (ta~5 7(E\So 6/Ea0 amenity#restaurant name#Rumpan_Bar wheelchair#limited
+n (ta~7 7(E\I0 6/EiJ amenity#restaurant cuisine#husmanskost name#Hos_Pelle website#http://www.hospelle.se/ wheelchair#limited
+n (ta~I 7(E\>1 5"J;f name#Cykelakuten shop#bicycle
+n )Abd[ 7(E[~8 6/E!1 highway#bus_stop name#Jungmansgatan
+n )Abda 7(E\0d 6/E%F highway#bus_stop name#Jungmansgatan
+n )Abdf 6fLHz 6/E3S highway#bus_stop name#Vegagatan
+n )`>l+ 7(E]5> 6/EXf amenity#atm operator#SEB wheelchair#yes
+n **]+> 7(EYYp 6/EBr amenity#restaurant microbrewery#no name#Jennys_Place_Kin_Long smoking#no wheelchair#limited
+n **]7, 7(EYZ6 6/E=d amenity#restaurant microbrewery#no name#Manfred's_Brasserie smoking#no wheelchair#no
+n **]:_ 6fL;? 5"J7u amenity#restaurant microbrewery#no name#Pasta_e_Contorni smoking#no wheelchair#no
+n **]=M 7(EYn$ 6/E?` amenity#restaurant microbrewery#no name#Pasta_Haus smoking#no wheelchair#limited
+n **]>q 7(EYmz 6/EA= amenity#restaurant microbrewery#no name#Restaurang_o._Pizzeria_Da_Vinci smoking#no wheelchair#limited
+n **]GS 7(EYY+ 6/EGp amenity#restaurant microbrewery#no name#Ec2_Take-Away_Thai smoking#no wheelchair#limited
+n **]U$ 7(EYZu 6/E7B amenity#restaurant microbrewery#no name#Hostaria_Casa_Nostra smoking#no wheelchair#no
+n **][7 7(EYWu 6/E\; amenity#restaurant microbrewery#no name#Restaurang_Bellini smoking#no wheelchair#limited
+n **]^z 7(EY&k 6/E7Q name#Oliven shop#convenience wheelchair#yes
+n +`yNh 6fL>w 6/Eh[ addr:city#Göteborg addr:country#SE addr:housenumber#58 addr:street#Linnégatan amenity#restaurant cuisine#greek name#Mykonos_Grekisk_Taverna website#www.mykonos.se wheelchair#limited
+n +q;Dg 7(EYlm 6/E8? name#Svesjö_Kyl_&amp;_Frys shop#electronics wheelchair#yes
+n +q;Dh 7(EYY( 6/EHe name#Cristella_Skor-Väskor shop#shoes wheelchair#limited
+n +q;Di 7(EYYe 6/EDp name#Vitalkost shop#convenience
+n +r@(y 7(EYi$ 6/EH? sloped_curb#yes
+n +r@({ 7(EYkc 6/EB& addr:housenumber#23,23a,23b addr:street#Nordenskiöldsgatan
+n +r@)! 7(EYkM 6/EE@ addr:housenumber#21b addr:street#Nordenskiöldsgatan
+n +r@)# 7(EYm> 6/E<\ addr:housenumber#27 addr:street#Nordenskiöldsgatan
+n +r@)& 7(EYs" 6/E7. addr:housenumber#48b addr:street#Vegagatan building#entrance
+n +r@)' 7(EY\N 6/E6\ sloped_curb#yes
+n +r@)/ 7(EYl% 6/E?! addr:housenumber#25 addr:street#Nordenskiöldsgatan
+n +r@)2 7(EY\l 6/EH= sloped_curb#yes
+n +r@)6 7(EYwb 6/E6> sloped_curb#yes
+n +r@)8 7(EYmb 6/E8@ addr:housenumber#29 addr:street#Nordenskiöldsgatan
+n +r@): 6fL;@ 5"J7y sloped_curb#yes
+n +r@)< 7(EYk6 6/EH) addr:housenumber#21a addr:street#Nordenskiöldsgatan
+n +r@)> 7(EYm" 6/E6\ sloped_curb#yes
+n +r@39 7(EYc) 6/EH> crossing#island;uncontrolled crossing_ref#zebra highway#crossing sloped_curb#yes
+n +r@3: 7(EYf) 6/E6\ crossing#uncontrolled crossing_ref#zebra highway#crossing
+n +r@l7 7(EYw< 6/E3@ sloped_curb#yes
+n .BN0W 7(E[3# 6/E], name#7-Eleven shop#convenience wheelchair#yes
+n 0uND= 7(EZ,V 6/Eq7 name#Kommendantsängen place#suburb
+n 0uNHY 7(E[5/ 4.R% name#Olivedal old_name#Liljedal place#suburb
+n 1Z.<O 7(EZn} 6/E4M crossing#island;uncontrolled crossing_ref#zebra highway#crossing
+n 2lw27 7(EYlj 5"J:} addr:city#Göteborg addr:housenumber#62 addr:postcode#413_08 addr:street#Linnégatan amenity#pharmacy dispensing#yes name#Apoteket_Hjärtat website#http://www.apotekhjartat.se/hitta-apotek-hjartat/vastragotaland/apotek_hjartat_linnegatan_62_goteborg/ wheelchair#limited
+n 2lwa= 7(EZP8 6/E`) designation#Bookshop name#Bokhandeln_Aniara shop#books website#http://www.bokhandelnaniara.se/ wheelchair#yes
+n 2oi(M 7(EZA0 6/E`g addr:housenumber#51 addr:street#Linnégatan
+n 2oi(N 5'yy5 6/E_< addr:housenumber#47 addr:street#Linnégatan
+n 2oi(O 7(EZWe 6/E`? addr:housenumber#49 addr:street#Linnégatan
+n 2oi(P 7(EYqd 6/E`L addr:housenumber#55 addr:street#Linnégatan
+n 2oikI 7(EZ+P 5"J:3 addr:housenumber#53 addr:street#Linnégatan
+n 4"M&# 7(EZ@f 6/EUt amenity#bbq covered#no
+n 4"M&. 7(EZGK 6/EYK leisure#playground

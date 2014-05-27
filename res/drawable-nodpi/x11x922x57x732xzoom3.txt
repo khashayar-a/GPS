@@ -1,0 +1,66 @@
+w "=7Hb building#yes
+d 0"W.K 7(F(TE 6/BoH
+d 0"W.M 7(F(Nj 6/Bo&
+d 0"W.I 7(F(Qn 6/BmE
+d 0"W.T 7(F(HO 6/Blk
+d 0"W.Q 7(F(O7 5"I|m
+d 0"W.[ 6fPh{ 6/Bj'
+d 0"W.P 7(F(Wl 6/Bmk
+d 0"W.] 7(F(WE 5"I};
+d 0"W.K 7(F(TE 6/BoH
+w ".m:G amenity#parking
+d .<m[i 7(F(C" 6/BI)
+d .<m[Q 7(F(;c 6/BHf
+d .<m[N 6fPde 6/BNK
+d .<m[p 7(F(<> 6/BNh
+d .<m[i 7(F(C" 6/BI)
+w ",3Jw building#yes
+d ."=IM 7(F(;* 6/Ba;
+d ."=Dr 6fPci 6/BXR
+d ."=FM 7(F(4+ 5"I{*
+d ."=Eq 7(F(C? 6/B`N
+d ."=D8 7(F(F} 6/B`6
+d ."=BS 7(F(L! 6/Bc6
+d ."=Fi 7(F(Cj 6/Bc{
+d ."=HA 7(F(=~ 6/B`|
+d ."=IM 7(F(;* 6/Ba;
+w "=7Ha building#yes
+d 0"W.L 7(F(v\ 6/B{=
+d 0"W.J 7(F(ty 6/B}f
+d 0"W.C 7(F(H9 6/B|]
+d 0"W.\ 7(F(Iz 6/Bz4
+d 0"W.L 7(F(v\ 6/B{=
+w ",3K! building#yes
+d ."=H_ 7(F(l* 6/BAs
+d ."=Fm 7(F(]r 6/B9$
+d ."=Dp 7(F(fd 6/B8S
+d ."=E\ 7(F(tz 6/BAD
+d ."=H_ 7(F(l* 6/BAs
+w ",3K` building#yes
+d ."=F6 7(F(WF 6/BG}
+d ."=DR 7(F(G{ 6/B?+
+d ."=C7 7(F(Q) 6/B>U
+d ."=E[ 7(F(`R 6/BGI
+d ."=F6 7(F(WF 6/BG}
+w ",3Kg building#yes
+d ."=DY 7(F(]c 6/B_~
+d ."=BQ 7(F(g& 6/B_H
+d ."=DK 7(F(\M 6/BY<
+d ."=Hz 7(F(X4 6/BYT
+d ."=G& 7(F(I\ 6/BQ*
+d ."=FT 7(F(@w 6/BQ\
+d ."=I5 7(F(P# 6/BZE
+d ."=H] 7(F(S^ 6/BZ0
+d ."=DY 7(F(]c 6/B_~
+w "!_>U addr:city#Göteborg addr:housenumber#11 addr:postcode#41727 addr:street#Toleredsgatan building#yes
+d ,mVn; 7(F(8K 6/B?q
+d ,mVn< 7(F('[ 6/B?-
+d ,mVn= 7(F(+\ 6/B;o
+d ,mVn> 7(F(<L 6/B<T
+d ,mVn; 7(F(8K 6/B?q
+w ",3K9 building#yes
+d ."=H& 7(F(e6 6/BSL
+d ."=Fp 7(F(Tw 6/BJ^
+d ."=D: 7(F(^; 6/BJ%
+d ."=DB 7(F(nX 5"IzX
+d ."=H& 7(F(e6 6/BSL

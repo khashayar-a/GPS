@@ -1,0 +1,35 @@
+n @@;E 7(ExvL 6/C]K highway#traffic_signals
+n E=ZW 7(Euz[ 6/C`O amenity#parking
+n $io8' 7(Eu_[ 6/C2d highway#crossing
+n $io:] 7(Ewux 6/CVL highway#crossing
+n $io;t 7(ExuH 6/C[q highway#crossing
+n $ioWb 7(EyL} 6/C\V highway#crossing
+n $ioWd 7(Ey_} 6/C^` highway#crossing
+n $ioWe 7(EydK 6/C`l highway#crossing
+n $k>fc 7(ExQD 6/CWI amenity#fuel name#OkQ8
+n $kUZ- 7(EvY. 6/A|D highway#crossing
+n %@ZuS 7(Eucp 6/Cb| barrier#gate
+n %@`:R 7(Ew(L 6/Ccz barrier#gate
+n %@`:X 7(EvX- 6/Cci barrier#gate
+n %F{yP 7(Er8J 6/Bt3 highway#crossing
+n &#YFL 7(Exmb 5"J'= highway#crossing
+n &#YFM 7(Exo. 6/C]9 highway#crossing
+n &;ZO: 6fNx3 6/Cfl amenity#waste_basket
+n &;ZO; 7(Et;g 6/Cf6 amenity#bench
+n &;vJB 7(Ev1W 6/C8d amenity#waste_basket
+n &;vJC 7(Ev2k 6/C8r amenity#bench
+n &;vJD 7(EvK: 6/C;` amenity#waste_basket
+n &;vJE 7(EvL( 5"J#a amenity#bench
+n &;vJF 7(EvnV 5"J$B amenity#waste_basket
+n &;vJG 7(Evoj 6/CB` amenity#bench
+n &;vJH 7(Ew<` 6/CKe amenity#bench
+n &;vJI 7(Ew=D 6/CKt amenity#waste_basket
+n 'j^Bw 7(EvVT 6/Azo highway#traffic_signals
+n 'j^C= 7(EvST 6/Aw| highway#traffic_signals
+n /~wKT 7(Ewph 6/C{a leisure#playground
+n /~wOj 7(EvaY 6/Czs leisure#playground
+n /~wPk 7(Ev(x 6/Czi leisure#playground
+n /~wQZ 7(Ew=f 6/Cz` leisure#playground
+n 1IDw$ 7(Evhd 6/C`a amenity#kindergarten name#Kastvindsgatan_3_förskola
+n 1n'sN 7(Etxs 6/Cz= shop#convenience
+n 1u%T[ 7(EwmG 6/Bj| bus#yes local_ref#C name#Rambergsvallen_Läge_C public_transport#stop_position

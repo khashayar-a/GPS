@@ -1,0 +1,158 @@
+w <M=4 highway#footway
+d $.Ssu 7(EPFX 6/@q?
+d $.Sy8 7(EPKH 6/@s^
+d $.Sy9 7(EPR# 6/@ur
+d $.Sy: 6fKC* 6/@wv
+d $.St- 7(EPb* 6/@xp
+d 0CvAX 7(EPeB 6/@zH
+d $.St& 7(EPdl 6/A'j
+d $.Sy? 7(EPe, 6/A*K
+d $.SyA 7(EPd~ 6/A.*
+d $.SyD 7(EPdb 6/A6M
+d 0CqIu 7(EPdH 6/A7_
+d $.SyE 7(EPc8 6/A8@
+d 0CqIR 7(EP^J 6/A99
+d 0CqCt 7(EPYh 6/A9^
+d $.SyG 7(EPTg 6/A9\
+d $.SyH 7(EPF0 6/A:%
+w "dW@y highway#footway
+d 3v:6x 7(EQMj 6/A,X
+d 3v:7+ 7(EQS# 6/A;_
+d 3v:71 7(EQVh 6/A=[
+d 3v:77 7(EQai 6/AA7
+d 3v:7L 7(EQk8 6/ACB
+d 3v:7j 6fKNc 6/AE?
+d #c)UA 7(EQvg 6/AGO
+w "@2C= highway#footway
+d $'zXf 7(EPuL 6/@]`
+d 0Cv=T 6fKEx 6/@U&
+d 0Cv?{ 6fKF! 6/@Tf
+d 0Cv?W 7(EPzP 6/@TV
+d 0CvB, 7(EQ'L 6/@TT
+d 0Cv@w 7(EQ1w 6/@Ss
+d 0Cv=2 6fKI. 6/@T$
+d 0Cv=q 7(EQ=c 6/@To
+w "OHdA bicycle#yes highway#footway
+d $.SsV 7(EQ~` 6/A)y
+d 0Cv=k 6fKPl 6/A-?
+d $.Ss` 7(ER7& 6/A2$
+d $.Ssa 7(ER=Y 6/A3e
+d $.Ssb 7(ERE9 6/A5'
+d $.Ssc 7(EROW 6/A6U
+d ""jeh 7(ER`5 6/A9,
+w S'7v foot#yes highway#footway
+d 'SXnt 7(EQ&( 5"IoI
+d 'SXny 7(EQ$I 6/AA"
+w kW"W foot#designated highway#cycleway oneway#yes
+d .t]R8 7(EN#^ 6/@Ct
+d 0@0b) 7(EN,) 6/@DX
+d 0@0aw 7(EN6B 6/@DM
+d *t`kK 7(ENAo 6/@D,
+d *t`kM 7(ENu0 6/@BR
+d 0@0b? 6fK5Y 6/@B>
+d *t`kO 7(EOOi 6/@BW
+d 0@0bB 7(EOr" 6/@C%
+d 0@0b( 7(EO~M 6/@C(
+d *t`kQ 7(EP,$ 6/@C3
+d *t`kT 6fK@! 6/@DH
+d 0@0b9 7(EPL& 6/@F;
+d *t`kV 7(EPW> 6/@F|
+d *t`kX 7(EQlH 6/@Mf
+d *t`kZ 7(ER*c 5"IgJ
+w S'7~ foot#yes highway#footway
+d 'SXo) 7(EPx. 6/A?@
+d 'SXo@ 7(EPve 6/A?+
+w :'q* cycleway#track foot#yes highway#cycleway
+d #c)UA 7(EQvg 6/AGO
+d ""jeh 7(ER`5 6/A9,
+w <M>. highway#footway
+d $.St- 7(EPb* 6/@xp
+d $.T#5 7(EPi[ 6/@wh
+w "@1af highway#steps
+d $.St" 7(EPS" 6/A(h
+d $.St% 7(EP[# 5"Ilz
+d $.St& 7(EPdl 6/A'j
+w <M<i bicycle#yes highway#footway
+d $.SsV 7(EQ~` 6/A)y
+d $.Ssd 6fKQ` 6/A',
+d $.Ssf 7(ER:/ 6/A%^
+d ""ju2 7(ERAW 6/A$*
+w "@2C/ highway#footway
+d 0Cv?> 7(EQG: 6/@Tc
+d 0Cv=R 7(EQKK 6/@T+
+d 0Cv=. 7(EQM3 6/@QB
+d 0Cv?R 7(EQOa 6/@PQ
+d 0Cv>I 7(EQMV 6/@OQ
+w "OHd@ bridge#yes foot#designated highway#cycleway oneway#yes
+d *t`k] 7(ER2m 6/@M1
+d *t`k< 7(ERG7 6/@GK
+w <M<g bicycle#yes highway#footway
+d $.SsK 7(ER<F 6/@^^
+d 0Cv?F 7(ER!> 6/@f.
+d 0Cv=/ 7(EQhR 6/@l^
+d 0Cv=O 5'ypV 6/@oo
+d $.SsO 7(EQF` 6/@t5
+d $Z%~' 7(EQPa 6/@v,
+d $.SsP 7(EQY) 4.N&
+d $.SsQ 7(EQbF 6/@{&
+d $.SsR 7(EQji 6/@~K
+d $.SsV 7(EQ~` 6/A)y
+w <M<m highway#footway
+d $.SsO 7(EQF` 6/@t5
+d 0Cv<? 6fKI. 6/@rS
+d $.Ssk 7(EQ,t 5"Ijo
+d $.T#6 7(EQ'* 6/@r;
+d $.T#7 7(EQ"q 6/@sl
+d $.T#> 7(EQ#! 6/@ty
+d $.T#= 7(EP~J 6/@vM
+d 0Cv>/ 6fKEg 6/@x>
+d 0Cv@Q 7(EPp| 6/@yT
+d 0Cv?! 7(EPir 6/@z>
+d 0CvAX 7(EPeB 6/@zH
+w <M<j highway#footway
+d 0Cv=/ 7(EQhR 6/@l^
+d 0Cv@t 7(EQ\h 6/@mf
+d 0CvAs 6fKJi 6/@o#
+d 0Cv?T 7(EQ7j 6/@pF
+d $.Ssk 7(EQ,t 5"Ijo
+d $.Ssm 7(EP}- 6/@q,
+d 0CvAH 6fKEL 5"Ijo
+d $.Sso 7(EPiJ 6/@qa
+d $.Ssq 6fKCC 6/@r#
+d $.Sss 6fKB% 6/@q{
+d $.Ssu 7(EPFX 6/@q?
+d $.Ssv 7(EP<m 6/@q6
+d $.Ss| 6fK;p 6/@ry
+w "OHd? foot#designated highway#cycleway oneway#yes
+d *t`kZ 7(ER*c 5"IgJ
+d *t`k] 7(ER2m 6/@M1
+w ;sHg highway#footway
+d $'zXe 7(EP|S 6/@bu
+d 0Cv>6 7(EPz4 6/@a2
+d $'zXf 7(EPuL 6/@]`
+d 0CvB; 7(EPnH 6/@^,
+d $'zXi 7(EPA: 4.Ml
+w <M<l highway#footway
+d $.St( 7(EP.: 6/@}[
+d $.St+ 7(EPPX 6/@{b
+d 0Cv<p 7(EPYI 6/@zZ
+d $.St- 7(EPb* 6/@xp
+w "@2C: highway#steps
+d 0Cv>I 7(EQMV 6/@OQ
+d 0Cv@r 7(EQP* 6/@MO
+w S'7y foot#yes highway#footway tunnel#yes
+d 'SXny 7(EQ$I 6/AA"
+d 'SXo) 7(EPx. 6/A?@
+w "?q\D highway#service name#Vrångögatan
+d $'zXY 7(EP%h 6/@TP
+d 0@Vn+ 6fK;q 6/@[i
+w <M<k highway#footway
+d 0CqGn 6fK?P 6/A)i
+d $.St" 7(EPS" 6/A(h
+w <M=5 highway#footway
+d $.SyA 7(EPd~ 6/A.*
+d $.SyI 7(EPpJ 6/A.)
+d $.SyJ 7(EP{V 6/A-z
+d 3v:6x 7(EQMj 6/A,X
+d 0Cv>L 7(EQvH 6/A+I
+d $.SsV 7(EQ~` 6/A)y

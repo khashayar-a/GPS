@@ -1,0 +1,15 @@
+n "=/q6 7(EEV- 6/={! name#Hagen railway#tram_stop
+n "=/~K 7(E?2W 6/<Lo name#Käringberget railway#tram_stop
+n "=0'_ 7(E=JT 6/;DC name#Hinsholmen railway#tram_stop
+n $_"=5 7(EL!k 4.M/ name#Kungssten railway#tram_stop
+n $_"=s 7(EI1/ 6/?44 name#Nya_Varvsallén railway#tram_stop
+n $_"?H 7(E>+h 6/:QW name#Långedrag railway#tram_stop
+n $gl0q 7(ELXL 6/>vz barrier#bollard bicycle#yes foot#yes
+n )_uzD 7(EKKN 6/?h^ amenity#fast_food name#Thai
+n )_v"T 7(EL34 6/?z; highway#bus_stop name#Kungssten
+n -70i1 7(EBuA 6/=K7 name#Tranered railway#tram_stop
+n 0@.)} 7(ELNo 6/@F< addr:housenumber#14 addr:street#Knipplagatan
+n 0@.+8 7(ELg0 6/@H{ addr:housenumber#12 addr:street#Knipplagatan
+n 0@VjH 6fK5I 6/@H! addr:housenumber#18J addr:street#Orustgatan
+n 0@Vk< 7(ENCT 6/@H` addr:housenumber#24 addr:street#Brännögatan
+n 0@VnC 7(EO8n 6/@IN addr:housenumber#18I addr:street#Orustgatan

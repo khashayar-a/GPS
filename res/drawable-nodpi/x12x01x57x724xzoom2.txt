@@ -1,0 +1,70 @@
+w \<Vj highway#motorway layer#2 oneway#yes ref#E20.10
+d L"1 7(E}Us 6/L_Z
+d 4F"H| 7(E}Cu 6/LVr
+d 'OG6u 7(E}:~ 5"JzU
+d $u=c$ 7(E})v 5"Jyi
+d 'OG6c 7(E||c 6/LE5
+d $u9a; 7(E|bH 6/L9@
+d 'OG6F 7(E|RS 6/L0F
+w [F(E highway#motorway_link maxspeed#70 oneway#yes
+d 'OG6Q 7(E|16 6/L/U
+d 'OG6S 7(E|<v 6/L5e
+d $u=X| 7(E|I{ 6/L<:
+d 'OG6f 7(E|S? 6/L@/
+d 'OG6g 6fOh~ 6/LD}
+d 'OG6h 7(E|lW 6/LIq
+d 'OG6t 7(E||{ 6/LOu
+d :?HM 7(E}?9 6/L^6
+w F9:_ highway#motorway_link layer#-1 oneway#yes
+d 4F"H| 7(E}Cu 6/LVr
+d 'OG6v 6fOo? 6/LQ.
+d 'OG6o 6fOnY 6/LL&
+d 1;R$H 7(E}3P 5"JyV
+d KnI 7(E}+{ 6/LD$
+d 'OG6m 7(E}!] 6/L?0
+d 'OG6d 7(E|im 6/L4l
+d %G<#3 7(E|Up 6/L-i
+d (t}4k 7(E|S\ 6/L+8
+w RvIp highway#motorway layer#2 oneway#yes ref#E20.10
+d $u=cM 6fOft 6/L0o
+d $u=cL 6fOhG 6/L8g
+d 'OG6b 7(E|kx 6/LAd
+d 'OG6j 7(E|{' 5"JyZ
+d 'OG6w 6fOn$ 6/LS\
+d :?HM 7(E}?9 6/L^6
+w "Kv;{ highway#motorway int_ref#E_20 maxspeed#70 oneway#yes ref#E_20
+d %@UUd 7(E}S1 6/M~W
+d %@UUc 7(E}CP 6/Mj_
+d %@UUa 7(E}Ct 6/M]j
+d %@UU` 7(E}VA 6/M>7
+d L"4 7(E}]9 6/M5`
+d :?HG 7(E}f5 6/M(z
+d 1Q(RP 7(E}hw 6/L|`
+d 1Q(RQ 7(E}eV 6/LqI
+d L"2 7(E}`K 6/Lij
+d L"1 7(E}Us 6/L_Z
+d 'OG6y 6fOp@ 6/LSZ
+d 'OG6s 7(E};5 6/LIl
+d 'OG6r 7(E}+0 6/L?9
+d 'OG6e 7(E|vE 6/L4<
+d 'OG6] 7(E|ho 6/L,0
+w *lmt highway#motorway_link name#Munkebäcksmotet oneway#yes
+d AcCj 7(E}_1 6/MhI
+d $qrZY 7(E}RS 6/McH
+d 3%ozc 7(E}PB 6/M^a
+d $qrZZ 7(E}Rk 6/MWe
+d 3%ozf 7(E}[y 6/MK[
+d 3%ozg 6fOs0 6/M2Q
+d :?HG 7(E}f5 6/M(z
+w BBOS highway#motorway int_ref#E_20 maxspeed#70 oneway#yes ref#E_20
+d 'OG6O 7(E|=8 6/L1L
+d 'OG6T 7(E|M[ 6/L9Z
+d $u=X{ 7(E|_' 6/LA6
+d )+yJC 7(E|fc 6/LDL
+d $u=YV 7(E|nb 6/LGt
+d :?HK 7(E|}k 6/LMV
+d )!hUo 7(E}(( 5"JzJ
+d :?HM 7(E}?9 6/L^6
+d :?HN 7(E}M? 6/Li/
+d :?HO 7(E}Vr 6/LyU
+d :?HP 7(E}T+ 6/M.I

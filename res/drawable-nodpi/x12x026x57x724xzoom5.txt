@@ -1,0 +1,18 @@
+n L"6 7(E~'Z 6/N;i highway#motorway_junction name#Munkebäcksmotet ref#76
+n L)u 7(F#J> 5"K;B highway#motorway_junction name#Torpamotet ref#77
+n :4Hg 7(F)=: 6/RWU name#Sävedalen railway#technical_station ref#Sel
+n :4Hs 7(E}b2 6/LS" name#Göteborg_Sävenäs railway#technical_station ref#Gsv
+n :?HV 6fO|x 6/Nev highway#motorway_junction name#Torpamotet ref#77
+n $0T,L 7(F"ja 6/N0q amenity#fuel contact:phone#070-4501815 name#Preem_-_Göteborg,Von_Utfallsgatan operator#Preem
+n (kop, 7(E~.f 6/Mz1 name#Sävenäs railway#station ref#Säv
+n )^B2v 7(E~#a 6/MzL name#Sävenäs railway#station ref#Säv
+n *>o[y 7(F#&? 6/NQ8 highway#bus_stop name#SKF_R-porten
+n *>o[} 6fP3N 6/ND, highway#bus_stop name#SKF_R-porten
+n *>t$0 7(E}QU 6/N`) highway#bus_stop name#Kaggeledsgatan
+n 0>!:Q 7(E}8N 5"Jwp railway#railway_crossing
+n 0>!;4 7(E}H: 6/LEr railway#switch
+n 0>!=# 7(E}/# 6/L.n railway#switch
+n 0>!=j 7(E}?P 6/L>2 railway#railway_crossing
+n 22H'- 7(E{nB 6/Mv0 highway#traffic_signals
+n 3#luV 7(E~4& 6/NoV addr:city#Göteborg addr:country#SE addr:housenumber#6 addr:postcode#416_73 addr:street#Torpavallsgatan name#Apple_Hotel phone#031-251100 tourism#hotel
+n 3%o^= 7(E~9, 6/Nmw building#entrance

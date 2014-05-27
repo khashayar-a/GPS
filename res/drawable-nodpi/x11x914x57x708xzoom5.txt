@@ -1,0 +1,42 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n $a@k? 7(Em<v 6/Aot crossing#island crossing_ref#zebra highway#crossing
+n $k=tj 6fMbo 6/A9a highway#crossing
+n $k=va 7(Em%t 6/Alc highway#crossing
+n $k>+7 7(Ekr, 5"Isp highway#crossing
+n *(by4 7(El*/ 6/A|K name#Coop_Forum_Eriksberg shop#supermarket
+n *(by; 7(Eldu 6/B2R amenity#fast_food cuisine#burger name#Burger_King
+n *(by= 7(EkvM 6/Az. name#Systembolaget shop#alcohol
+n *(byK 7(ElD{ 6/B)s amenity#pharmacy name#Medstop
+n *e&0/ 6fN,^ 6/B&# amenity#atm name#Handelsbanken
+n +oUa$ 7(Em>? 6/Aq> crossing#island crossing_ref#zebra highway#crossing
+n +oVa{ 7(Eim; 6/Ack highway#crossing
+n ,rhy8 7(Egc( 6/A7F highway#bus_stop name#Danaplatsen
+n ,rhy< 7(El:g 6/Ap" highway#bus_stop name#Säterigatan
+n /jr`` 7(EknV 6/A9) traffic_calming#yes
+n /jr`j 6fN*z 6/A^V addr:housenumber#7 addr:street#Lundbygatan
+n /jr`o 6fN(y 6/A]P traffic_calming#yes
+n /jrb$ 7(Elh% 6/AX~ addr:housenumber#11 addr:street#Lundbygatan
+n /jrb) 7(Ekof 6/ALa traffic_calming#yes
+n /jrkE 7(EkX% 5"Iqd addr:housenumber#2 addr:street#Lundbygatan
+n 1I=#{ 6fN1# 6/AH[ addr:housenumber#10 addr:street#Ödmansgatan
+n 1I=$K 7(Eku| 6/ABz addr:housenumber#21 addr:street#Douglasgatan
+n 1I=$L 7(El&I 6/A=# addr:housenumber#1 addr:street#Ullmansgatan
+n 1I=$S 7(EkwB 6/AT{ addr:housenumber#13 addr:street#Douglasgatan
+n 1I=$\ 7(ElS; 5"In~ addr:housenumber#7 addr:street#Ullmansgatan
+n 1I=$c 7(El6C 6/AHg addr:housenumber#4 addr:street#Ödmansgatan
+n 1I=%8 7(ElD@ 6/A<y addr:housenumber#5 addr:street#Ullmansgatan
+n 1I=%A 7(ElT9 6/AH_ addr:housenumber#8 addr:street#Ödmansgatan
+n 1I=%W 6fN)R 6/AEu addr:housenumber#19 addr:street#Douglasgatan
+n 1I=%l 7(El'G 6/AHk addr:housenumber#2 addr:street#Ödmansgatan
+n 1I=%} 7(Ekb0 6/Aj0 name#Oves_TV_Verkstad phone#+4631468020 shop#electronics
+n 1I=&4 7(Ekue 6/A@" addr:housenumber#23 addr:street#Douglasgatan
+n 1I=&5 7(El5E 6/A<} addr:housenumber#3 addr:street#Ullmansgatan
+n 1I=&? 7(EkwB 6/AQw addr:housenumber#15 addr:street#Douglasgatan
+n 1I=&C 7(EkwB 6/ANt addr:housenumber#17 addr:street#Douglasgatan
+n 1I=&D 7(Elb7 6/A<q addr:housenumber#9 addr:street#Ullmansgatan
+n 1I=&O 7(ElE> 5"Ip1 addr:housenumber#6 addr:street#Ödmansgatan
+n 1I=&W 7(Ek|+ 6/AWl name#KlippHörnet phone#+4631517377 shop#hairdresser
+n 1I=&` 7(El'p 6/AWH name#Simons_Hembageri shop#bakery

@@ -1,0 +1,17 @@
+n 1&ZC( 7(F#6d 6/I?\ railway#crossing
+n (/!1: 7(E~)w 6/Hfd railway#switch
+n /fJ`n 7(Ez!" 6/I@R beacon#yes light:category#flood man_made#beacon name#Nr7750 seamark#beacon
+n 1&ZBM 7(F#'e 5"J\z railway#level_crossing
+n /fJ]r 7(EyCQ 6/I#I man_made#beacon seamark#beacon
+n B5Ud 7(E}FG 6/I7F highway#motorway_junction name#Ringömotet ref#76
+n /fJ^R 7(EyOV 6/I"P man_made#beacon seamark#beacon
+n 1&ZDa 7(F#9P 6/I@@ railway#level_crossing
+n /fJba 7(ExbI 6/Hs, man_made#beacon seamark#beacon
+n /fJd% 7(Ey"N 5"JY, man_made#beacon seamark#beacon
+n /fJew 7(Ey6h 6/I$3 man_made#beacon seamark#beacon
+n 1&ZC1 7(F!q6 6/Hv@ railway#switch
+n /fJf" 7(Exv; 6/Hy, man_made#beacon seamark#beacon
+n /fJd9 7(ExkP 6/Hv1 man_made#beacon seamark#beacon
+n 1&ZBl 7(F#'U 6/IC: railway#crossing
+n /fJaD 7(EzYi 6/IL" beacon#yes light:category#flood man_made#beacon name#Nr7752 seamark#beacon
+n (/!$d 6fOcO 6/H]W railway#switch

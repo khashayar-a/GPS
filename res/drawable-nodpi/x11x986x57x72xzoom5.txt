@@ -1,0 +1,6 @@
+n 1`x 7(ExJD 6/Iy= highway#motorway_junction name#Gullbergsmotet ref#75
+n /fJ^J 7(E|en 6/Iny beacon#yes light:category#flood man_made#beacon name#Nr7756 seamark#beacon
+n /fJ_! 6fO_d 6/I`P beacon#yes light:category#flood man_made#beacon name#Nr7754 seamark#beacon
+n /fJ_: 7(E}/6 6/J!Y beacon#yes light:category#flood man_made#beacon name#Nr7753 seamark#beacon
+n /fJ`0 7(E{mt 6/IrE beacon#yes light:category#flood man_made#beacon name#Nr7751 seamark#beacon
+n /fJci 7(Ey|y 6/IU^ beacon#yes light:category#flood man_made#beacon name#Nr7749 seamark#beacon

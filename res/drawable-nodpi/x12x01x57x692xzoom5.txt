@@ -1,0 +1,10 @@
+n (SS@j 7(EY)R 6/L5M addr:housenumber#23 addr:street#Förtroligheten
+n (SSGi 7(EYLv 6/L9, addr:housenumber#16 addr:street#Förtroligheten
+n "1Qc$ 7(EX8C 6/L'q traffic_calming#bump
+n "1^[Y 7(E[k` 6/L/t bench#yes highway#bus_stop name#Skårsplatsen shelter#yes
+n (SSC) 6fL?Q 6/L6Z addr:housenumber#10 addr:street#Förtroligheten
+n (SSBu 7(EZWn 6/L5b addr:housenumber#8 addr:street#Förtroligheten
+n (SSI9 7(EYbr 6/L8j addr:housenumber#14 addr:street#Förtroligheten
+n (SSGO 6fL5s 6/L:/ addr:housenumber#18 addr:street#Förtroligheten
+n (SSA0 7(EZmj 6/L58 addr:housenumber#6 addr:street#Förtroligheten
+n (SSC@ 7(EYyJ 6/L7] addr:housenumber#12 addr:street#Förtroligheten

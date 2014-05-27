@@ -1,0 +1,15 @@
+n $G!k" 7(Eou2 6/G`! highway#traffic_signals
+n $qv:G 7(EpYF 6/Ga3 amenity#parking
+n $qv:I 7(EqDU 6/GW| amenity#parking
+n '%Y|e 7(Eq'y 6/GE! name#Utkiken tourism#attraction
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n )R~!* 6fNJ> 6/G5* ferry#yes public_transport#stop_position
+n )gYsh 7(Eq#@ 6/GFK amenity#cafe name#Utkiken
+n /]\Mx 7(Er_. 6/GCy seamark:light:character#F seamark:light:colour#red seamark:type#light_minor
+n /]\N' 7(EsTm 6/Ga9 seamark:light:character#F seamark:light:colour#white seamark:type#light_minor
+n /]\N, 7(Eqy( 4.T, seamark:light:character#F seamark:light:colour#green seamark:type#light_minor
+n /]\N6 7(Er7j 6/GA/ seamark:light:character#F seamark:light:colour#red seamark:type#light_minor
+n /]\NI 7(ErrS 6/GH= beacon#yes light:category#flood man_made#beacon seamark#beacon
+n /]\N[ 7(Erw# 6/G?: seamark:light:character#F seamark:light:colour#green seamark:type#light_minor
+n 0|\q# 7(EpQz 6/G19 name#Hotel_Liseberg_Barken_Viking tourism#hotel website#http://www.liseberg.com/en/home/Accommodation/Hotel/Hotel-Barken-Viking/
+n 1r_t> 7(Eo{R 6/GJP amenity#restaurant cuisine#regional name#Bon_Vivant

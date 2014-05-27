@@ -1,0 +1,67 @@
+w W,p| bridge#yes foot#yes highway#footway layer#1
+d (=8o2 7(E{m= 6/J{$
+d (=8o! 7(E|$} 6/Jsx
+w RvIl foot#yes highway#footway
+d (=8o0 7(Ez?z 6/Jky
+d (=8o1 7(E{jc 6/J{s
+d (=8o2 7(E{m= 6/J{$
+w E)"f highway#service maxspeed#30
+d 0*BQO 6fOe8 6/K-K
+d %6:;A 7(E{sA 6/K9K
+d %6:;B 7(E{_: 6/KB|
+w E)"U highway#service maxspeed#30 name#Blomstergatan
+d %6::H 7(E}\U 6/K;<
+d %6::N 7(E}Nm 6/K9n
+d 0*BQO 6fOe8 6/K-K
+d %6:;W 7(E{jB 6/K([
+d %6::I 7(EyQt 6/Joo
+d %6:;6 7(EyBB 6/Jmy
+d %6::J 7(Ey.i 6/JkT
+d %6::K 5'z7S 6/Jhd
+d %6::L 7(Exwl 6/JeI
+d 52pF@ 7(Exu/ 6/Jad
+w E)"h highway#service
+d %6:;V 7(E{}G 6/K!j
+d %6:;W 7(E{jB 6/K([
+w BVBc highway#service maxspeed#30 name#Rotfruktsgatan
+d $fHN~ 7(E{bJ 6/J|i
+d %6:;V 7(E{}G 6/K!j
+d 'OG4{ 7(E}r; 6/K4)
+w "IE&n bicycle#designated foot#designated highway#footway
+d (=8o! 7(E|$} 6/Jsx
+d (=8o" 7(E|/0 6/Jq^
+d (=8o# 7(E|>? 6/Jr5
+d (=8o$ 7(E|iX 6/Jt|
+d (O8r8 7(E}\i 6/J}X
+d 'OG4z 7(E}}' 6/K#P
+d 'OG4y 6fOv@ 6/K$C
+d 1;Pxn 7(E~,& 5"Jl_
+d 1;Pxu 7(E~-w 6/K'$
+d 1;Pxb 7(E~0M 6/K(<
+d 1;Pxg 4b?z 6/K)@
+d 1;PxT 7(E~<T 6/K)a
+w E)"` highway#service maxspeed#30
+d %6:;+ 7(Ex\[ 6/Jx$
+d %6:;= 7(Ey$: 6/JrI
+d %6:;6 7(EyBB 6/Jmy
+w E)"e highway#service maxspeed#30
+d %6:;> 7(EzN: 6/K,A
+d %6:;@ 7(Ez0C 5"JnX
+w E)"K highway#service maxspeed#30 name#Grönsaksgatan
+d %6::N 7(E}Nm 6/K9n
+d %6::S 7(E{zW 6/K:3
+d %6:;A 7(E{sA 6/K9K
+d %6:;> 7(EzN: 6/K,A
+d %6:;? 7(Ey}; 6/K(4
+d %6:;= 7(Ey$: 6/JrI
+w E)"Y highway#service maxspeed#30 name#Fruktgatan
+d %6::h 7(E}Eu 6/KBz
+d %6:;B 7(E{_: 6/KB|
+d %6::x 7(E{R+ 5"JoY
+d 0*NoS 7(Ezf- 6/K>)
+d %6::y 7(Ez4f 6/K9o
+d %6:;@ 7(Ez0C 5"JnX
+d 0*Npp 7(EyLf 6/K+x
+d %6:;+ 7(Ex\[ 6/Jx$
+d %6::z 7(Ex<l 6/Jq4
+d 0*Npo 6fO:2 5"JiC

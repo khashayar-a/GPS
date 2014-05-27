@@ -1,0 +1,21 @@
+n %5*-i 7(EN]Q 6/LE[ is_in#Göteborg name#Kallebäck place#suburb population#3652
+n %8"Im 6fJzj 6/LO! highway#bus_stop name#Smörgatan
+n %8"J7 7(EKIm 6/Le; highway#bus_stop name#Smörkärnegatan
+n %8"Ji 7(EL,f 6/M%r highway#bus_stop name#Kallebäck
+n %9O?# 7(EN{n 6/Lm8 traffic_calming#bump
+n 1H]<X 7(ELN$ 6/LGx crossing#uncontrolled highway#crossing
+n 1H]>Z 7(EK9s 6/Lgv crossing#uncontrolled highway#crossing
+n 1H]>q 7(ENHh 6/M"S barrier#lift_gate bicycle#yes foot#yes motorcar#yes
+n 1sR#Y 5'ykQ 6/LV# amenity#post_box collection_times#Mo-Fr_14:00,_Su_13:00 operator#Posten
+n 20G8~ 7(EL]8 6/L_r leisure#playground
+n 20G9[ 7(EOFj 6/LeL traffic_calming#bump
+n 20G9n 7(ENf- 5"JzX highway#turning_circle
+n 20G9q 7(EO2^ 6/Lb$ amenity#waste_basket
+n 20G:" 6fJ{/ 6/LZf leisure#playground
+n 20G:X 7(EM#B 6/LWU amenity#waste_basket
+n 20G:h 7(EOK) 6/Lff barrier#lift_gate bicycle#yes foot#yes
+n 20G:} 7(EN9% 6/LP/ amenity#bench backrest#yes colour#brown material#wood seats#3
+n 20G;! 7(ELT! 6/LYj amenity#bench
+n 20G;$ 7(EN8f 6/LPX amenity#waste_basket
+n 20G;V 7(EN@z 6/LT! highway#turning_circle
+n 20G<Z 7(EL|% 6/L}K leisure#track

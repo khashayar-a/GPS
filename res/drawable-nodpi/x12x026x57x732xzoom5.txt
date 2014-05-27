@@ -1,0 +1,3 @@
+n %+8^Z 7(F-!] 6/N.C highway#mini_roundabout
+n 0+DLk 7(F*Y8 5"K/M highway#bus_stop name#Brovägen shelter#yes
+n 0+DMC 6fPy8 6/NT9 highway#bus_stop name#Brovägen

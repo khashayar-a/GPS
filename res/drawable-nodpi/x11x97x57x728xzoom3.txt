@@ -1,0 +1,320 @@
+w "wy96 area#yes highway#pedestrian
+d 5u}.2 7(F$$" 6/GbM
+d 5u}.0 7(F$#f 6/GfV
+d 5u}.$ 7(F#|w 6/GfT
+d 5u}-? 7(F#ja 6/GfR
+d 5u}-> 7(F#j: 6/Glv
+d 5u}-< 7(F#j5 6/Gm`
+d 5u}.\ 7(F$4I 6/Gmf
+d 5u}.h 7(F$E" 6/Gn"
+d 5u}.t 7(F$L4 6/Gn!
+d 5u}.u 7(F$L; 6/GlN
+d 5u}.y 7(F$LA 5"JN"
+d 5u}.P 7(F$.x 6/Gk&
+d 5u}.R 7(F$/A 6/GbU
+d 5u}.2 7(F$$" 6/GbM
+w "wy8k building#yes
+d 5u}1D 7(F&&v 6/Ge>
+d 5u}19 7(F%}H 6/Gg7
+d 5u}1M 7(F&C" 6/Gky
+d 5u}1S 7(F&J. 5"JMw
+d 5u}1D 7(F&&v 6/Ge>
+w "wy8f building#yes
+d 5u}2P 7(F'DA 6/H"S
+d 5u}2@ 7(F';d 6/H#2
+d 5u}2K 7(F'@X 5"JPH
+d 5u}2S 7(F'I= 4.Tf
+d 5u}2P 7(F'DA 6/H"S
+w "wy9" building#yes
+d 5u}2j 7(F'Z` 6/GmS
+d 5u}2i 7(F'WF 6/GnO
+d 5u}2{ 5'zCV 6/GpO
+d 5u}3" 7(F'lE 6/GoT
+d 5u}2q 7(F'dt 6/Gn^
+d 5u}2j 7(F'Z` 6/GmS
+w E6It building#yes
+d %8#|D 7(F&Ee 6/Ga,
+d %8#|E 7(F&bN 6/Gc`
+d %8#|F 7(F&]Z 6/Gf.
+d %8#|G 7(F&>G 6/GcG
+d %8#|D 7(F&Ee 6/Ga,
+w "wy8g building#yes
+d 5u}2b 7(F'Tc 6/H"6
+d 5u}2V 7(F'O1 6/H$j
+d 5u}2y 7(F'f> 6/H&D
+d 5u}2| 7(F'kU 6/H#o
+d 5u}2b 7(F'Tc 6/H"6
+w "wy8j building#yes
+d 5u}2` 7(F'Tc 6/GxR
+d 5u}2Y 7(F'OC 6/G{$
+d 5u}2z 7(F'fs 6/G|e
+d 5u}3! 7(F'l# 6/Gz0
+d 5u}2` 7(F'Tc 6/GxR
+w Tc%` leisure#park
+d 'tcO: 7(F%j7 6/Gz<
+d 'tcO= 6fPNC 6/G{4
+d 'tcO? 7(F%~6 6/G|h
+d 'tcOB 7(F%}8 6/G~$
+d 'tcOD 7(F%l2 6/G}h
+d 'tcOG 7(F%h< 6/G|p
+d 'tcO: 7(F%j7 6/Gz<
+w "wy8} building#yes
+d 5u}0k 7(F%VS 6/G_:
+d 5u}0g 6fPKK 6/G`Q
+d 5u}0n 7(F%X| 6/Ga_
+d 5u}0r 7(F%^> 6/G`D
+d 5u}0k 7(F%VS 6/G_:
+w "wy9* building#yes
+d 5u}2p 7(F'bp 6/H)c
+d 5u}2k 7(F'b] 6/H,q
+d 5u}2m 7(F'b] 6/H/#
+d 5u}3; 7(F'wC 6/H.z
+d 5u}3< 7(F'wL 6/H,2
+d 5u}39 7(F'v@ 6/H,0
+d 5u}38 7(F'v7 4.Tk
+d 5u}2p 7(F'bp 6/H)c
+w "wy8a building#yes
+d 5u}1F 7(F&'M 6/Gw'
+d 5u}1< 7(F&"H 6/GyX
+d 5u}1& 7(F%h[ 6/Gx/
+d 5u}1) 7(F%mr 6/GuK
+d 5u}1F 7(F&'M 6/Gw'
+w "wy8z building#yes
+d 5u}/` 7(F$l+ 5"JNT
+d 5u}/r 7(F$qT 6/Gmo
+d 5u}06 7(F%+A 6/Go>
+d 5u}0- 7(F%%v 6/Gqy
+d 5u}/` 7(F$l+ 5"JNT
+w "wy8~ building#yes
+d 5u}2= 7(F'8X 6/Gy\
+d 5u}23 7(F'3/ 6/G|3
+d 5u}1| 7(F&yT 6/GzZ
+d 5u}1~ 7(F&~} 5"JO=
+d 5u}2= 7(F'8X 6/Gy\
+w "wy8r building#yes
+d 5u}0D 7(F%:u 6/Ghg
+d 5u}0? 7(F%4u 6/Gk_
+d 5u}0Z 7(F%KE 6/Gm1
+d 5u}0e 7(F%Q3 5"JMy
+d 5u}0D 7(F%:u 6/Ghg
+w "wy8i building#yes
+d 5u}18 6fPOi 6/Gnq
+d 5u}17 7(F%wZ 6/GqK
+d 5u}0t 7(F%_m 6/Go}
+d 5u}0{ 7(F%eI 6/Gm1
+d 5u}18 6fPOi 6/Gnq
+w "wy:" amenity#parking
+d 5u}0+ 7(F%#4 6/H%}
+d 5u}0( 7(F%!. 6/H.5
+d 5u}0m 7(F%Wh 6/H1^
+d 5u}0z 7(F%c< 6/H2N
+d 5u}1K 7(F&:$ 6/H4q
+d 5u}1W 7(F&PI 6/H4|
+d 5u}1Z 7(F&Vc 6/H3c
+d 5u}1[ 7(F&WK 6/H,N
+d 5u}0u 7(F%a$ 6/H,?
+d 5u}0v 7(F%aH 6/H&6
+d 5u}0+ 7(F%#4 6/H%}
+w "wy8n building#yes
+d 5u}2& 7(F'#i 6/H'b
+d 5u}2' 7(F'#o 6/H%]
+d 5u}1w 7(F&wo 6/H%]
+d 5u}1v 7(F&wa 6/H'_
+d 5u}2& 7(F'#i 6/H'b
+w "wy8| building#yes
+d 5u}1t 7(F&s1 6/G~T
+d 5u}1o 7(F&mx 6/H#$
+d 5u}1X 7(F&V? 6/H!O
+d 5u}1_ 7(F&[g 6/G|x
+d 5u}1t 7(F&s1 6/G~T
+w "wy:* amenity#parking
+d 5u}3L 7(F($> 6/H,|
+d 5u}3J 7(F(#U 6/H8]
+d 5u}3W 7(F(*X 6/H8Z
+d 5u}3r 7(F(E* 6/H6A
+d 5u}4Y 6fPl2 5"JQF
+d 5u}4Z 7(F)!D 6/H,Z
+d 5u}4Q 7(F(yg 6/H,5
+d 5u}3O 7(F((& 6/H,0
+d 5u}3L 7(F($> 6/H,|
+w "wy8_ building#yes
+d 5u}0c 7(F%OP 6/Gd4
+d 5u}0] 7(F%LH 6/GeS
+d 5u}0i 7(F%Sn 6/Gf/
+d 5u}0l 7(F%WV 6/Gdj
+d 5u}0c 7(F%OP 6/Gd4
+w "wy8v building#yes
+d 5u}3_ 6fPdJ 6/H'C
+d 5u}3^ 7(F(17 6/H)c
+d 5u}4R 7(F(z* 6/H)l
+d 5u}4S 7(F(zP 6/H'V
+d 5u}3_ 6fPdJ 6/H'C
+w "wy8[ building#yes
+d 5u}-c 7(F#wr 5"JMI
+d 5u}-S 7(F#od 5"JMI
+d 5u}-T 7(F#op 6/Gcu
+d 5u}-D 7(F#kr 6/Gcu
+d 5u}-F 7(F#kr 6/Gd!
+d 5u}-6 7(F#hR 6/Gc~
+d 5u}-3 7(F#eZ 6/GdR
+d 5u}-+ 7(F#bh 6/Gcy
+d 5u},} 7(F#_K 6/Gcy
+d 5u},~ 7(F#_W 6/Gc@
+d 5u},{ 7(F#\x 5"JM2
+d 5u}-& 6fP:( 6/Gb>
+d 5u}-' 7(F#_j 6/Ga^
+d 5u}-, 7(F#c) 6/Ga_
+d 5u}-4 7(F#e] 6/Ga,
+d 5u}-7 7(F#hU 6/Gab
+d 5u}-9 7(F#h[ 6/G_]
+d 5u}-N 6fP;X 6/G__
+d 5u}-R 6fP;X 6/G`$
+d 5u}-d 7(F#x3 6/G`&
+d 5u}-e 7(F#x6 5"JM&
+d 5u}-y 7(F#yW 6/GaT
+d 5u}-x 7(F#yQ 5"JM,
+d 5u}-f 7(F#x6 5"JM,
+d 5u}-c 7(F#wr 5"JMI
+w "wy93 building#yes
+d 5u}/} 7(F$y} 6/H!K
+d 5u}/~ 7(F$y} 6/H#.
+d 5u}0* 7(F%!| 6/H#B
+d 5u}1* 7(F%nZ 6/H#Y
+d 5u}16 7(F%tZ 6/H#>
+d 5u}15 7(F%tZ 6/H!\
+d 5u}1, 7(F%n~ 6/H!E
+d 5u}0, 7(F%#< 6/H!8
+d 5u}/} 7(F$y} 6/H!K
+w "wy8l building#yes
+d 5u}1f 7(F&i~ 6/H's
+d 5u}1g 7(F&j2 6/H*0
+d 5u}1. 7(F%qZ 6/H)}
+d 5u}13 7(F%r1 5"JP`
+d 5u}1f 7(F&i~ 6/H's
+w "wy:% amenity#parking
+d 5u}.) 7(F$!n 6/G|z
+d 5u}.' 7(F$!T 6/H#6
+d 5u}.m 7(F$GF 6/H(c
+d 5u}/P 7(F$c| 6/H)#
+d 5u}/Q 7(F$e* 5"JOl
+d 5u}.) 7(F$!n 6/G|z
+w "wy91 building#yes
+d 5u}.G 7(F$+2 6/GxA
+d 5u}.F 7(F$*~ 6/Gz'
+d 5u}.W 7(F$24 6/Gz@
+d 5u}/m 7(F$o= 6/GzJ
+d 5u}/x 7(F$tT 6/Gz9
+d 5u}/y 7(F$te 6/GxO
+d 5u}/Y 7(F$eU 6/Gx>
+d 5u}.U 7(F$2, 6/Gx6
+d 5u}.G 7(F$+2 6/GxA
+w Tbk/ leisure#playground
+d 't`|J 6fPbj 6/Gyl
+d 't`|K 7(F(%] 6/GwQ
+d 't`|M 6fPeL 6/Gxt
+d 't`|N 7(F(65 6/G{B
+d 't`|J 6fPbj 6/Gyl
+w "wy9& building#yes
+d 5u}3I 7(F(!j 6/Gf7
+d 5u}2q 7(F'dt 6/Gn^
+d 5u}3" 7(F'lE 6/GoT
+d 5u}30 7(F'n0 6/Goh
+d 5u}3X 7(F(+R 6/Gg@
+d 5u}3I 7(F(!j 6/Gf7
+w "wy9% building#yes
+d 5u}1d 7(F&il 6/H,a
+d 5u}1c 7(F&iI 6/H/+
+d 5u}2n 7(F'b] 6/H/8
+d 5u}2m 7(F'b] 6/H/#
+d 5u}2k 7(F'b] 6/H,q
+d 5u}1d 7(F&il 6/H,a
+w "wy:$ amenity#parking
+d 5u}/w 7(F$t) 6/G`A
+d 5u}/s 7(F$se 6/GcW
+d 5u}/g 6fPDn 6/GcV
+d 5u}/d 7(F$m, 6/Gf[
+d 5u}/M 7(F$a- 6/GfY
+d 5u}/H 7(F$`e 6/Gk9
+d 5u}/! 7(F$Np 6/Gk>
+d 5u}/" 7(F$OD 6/Gf`
+d 5u}/? 7(F$Yc 6/GfY
+d 5u}/@ 7(F$Yi 6/Gd1
+d 5u}/( 7(F$P{ 6/Gd0
+d 5u}/. 7(F$Q* 5"JM)
+d 5u}/7 7(F$W9 5"JM)
+d 5u}/6 7(F$W9 4.TF
+d 5u}/w 7(F$t) 6/G`A
+w "wy9$ building#yes
+d 5u}3N 7(F('5 5"JMB
+d 5u}3] 7(F(0N 6/Ge^
+d 5u}3t 7(F(Ky 6/G]6
+d 5u}3s 7(F(J7 6/G]&
+d 5u}3k 7(F(An 6/G\3
+d 5u}3N 7(F('5 5"JMB
+w "wy94 building#yes
+d 5u},z 7(F#YD 6/Gmg
+d 5u},x 7(F#Y) 5"JNK
+d 5u}-* 6fP:/ 6/God
+d 5u}.e 7(F$?W 6/Goo
+d 5u}.g 7(F$Dw 6/Go]
+d 5u}.h 7(F$E" 6/Gn"
+d 5u}.\ 7(F$4I 6/Gmf
+d 5u}-< 7(F#j5 6/Gm`
+d 5u}-) 7(F#`> 5"JN:
+d 5u},z 7(F#YD 6/Gmg
+w "wy8Y building#yes
+d 5u}3? 7(F'{i 6/H3}
+d 5u}3* 7(F'm- 6/H3}
+d 5u}3+ 7(F'm3 6/H6"
+d 5u}2} 7(F'kr 6/H6"
+d 5u}2~ 7(F'l! 6/H85
+d 5u}3- 7(F'me 6/H82
+d 5u}3. 7(F'mk 6/H8z
+d 5u}3> 7(F'{P 6/H8x
+d 5u}3A 7(F'{i 6/H7<
+d 5u}3G 7(F'}) 6/H7:
+d 5u}3H 7(F'}6 6/H6%
+d 5u}3B 6fPbO 6/H6$
+d 5u}3? 7(F'{i 6/H3}
+w E6BN building#yes
+d %8"s# 7(F%X0 6/GU0
+d %8"s$ 7(F&tR 6/G`h
+d %8"s% 7(F&le 5"JM;
+d %8"s& 7(F%Nu 6/GW~
+d %8"s# 7(F%X0 6/GU0
+w "wy:& amenity#parking
+d 5u}1b 7(F&h` 6/H1Q
+d 5u}1a 6fPW- 6/H7&
+d 5u}21 7(F'0\ 6/H91
+d 5u}2e 7(F'V? 6/H93
+d 5u}2h 7(F'VR 6/H1o
+d 5u}1b 7(F&h` 6/H1Q
+w "wy8b building#yes
+d 5u}07 7(F%/D 6/G`F
+d 5u}01 7(F%*s 6/Gay
+d 5u}0: 7(F%3, 6/Gb_
+d 5u}0B 7(F%6{ 6/Ga#
+d 5u}07 7(F%/D 6/G`F
+w "wy8Z building#yes
+d 5u}.S 7(F$/X 6/G`,
+d 5u}.R 7(F$/A 6/GbU
+d 5u}.P 7(F$.x 6/Gk&
+d 5u}.y 7(F$LA 5"JN"
+d 5u}.w 7(F$LA 6/GfR
+d 5u}/& 7(F$PH 5"JMU
+d 5u}/% 7(F$PH 6/Gf9
+d 5u}/5 7(F$W4 6/Gf:
+d 5u}/8 7(F$W: 6/Gd@
+d 5u}/# 7(F$P? 6/Gd>
+d 5u}/$ 7(F$PB 6/Gac
+d 5u}/1 5'z@S 6/Gab
+d 5u}/0 5'z@S 5"JLx
+d 5u}.~ 7(F$LQ 6/G`;
+d 5u}.S 7(F$/X 6/G`,
+w E1dB amenity#parking area#yes description#parkeringshus
+d %7KYE 6fP=/ 6/Gsp
+d %7KYF 7(F#Mj 6/GsT
+d %7KYH 7(F#j2 6/G|.
+d %7KYJ 7(F#~| 6/G|8
+d %7KZE 7(F#~y 6/G{|
+d %7KYE 6fP=/ 6/Gsp

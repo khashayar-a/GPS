@@ -1,0 +1,41 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n "=#I3 7(El4- 6/@Nz traffic_calming#yes
+n "=#JP 7(ErSl 6/@sD traffic_calming#yes
+n $_qaw 7(Eot$ 6/@H2 highway#turning_circle
+n $k=tj 6fMbo 6/A9a highway#crossing
+n $k=va 7(Em%t 6/Alc highway#crossing
+n $k>+7 7(Ekr, 5"Isp highway#crossing
+n $mt!n 7(Eo(` 6/@DE highway#turning_circle
+n $mt!p 7(Epdk 6/@L? barrier#gate
+n &8@)J 7(Eq>5 6/?y` name#Sälöfjordsgatan_Läge_B public_transport#stop_position tram#yes
+n )P%~j 7(Esy% 6/@uV highway#bus_stop name#Eketrägatan
+n )P%~m 7(EsvQ 5"Ikd highway#bus_stop name#Eketrägatan
+n *(byL 6fNsf 6/@|F amenity#fast_food
+n +oVa{ 7(Eim; 6/Ack highway#crossing
+n /-&d{ 7(EqFg 6/A,@ traffic_calming#yes
+n /-&e@ 7(Er7& 6/A'& traffic_calming#yes
+n /-&e_ 7(Epgv 6/A01 traffic_calming#yes
+n /-&ex 7(Es31 6/@wF traffic_calming#yes
+n /-&f^ 7(Eo4- 6/A+0 traffic_calming#yes
+n /-(&3 7(EqqJ 6/@l- traffic_calming#yes
+n /-(&> 7(EpTb 6/@c= traffic_calming#yes
+n /-((N 7(Eq+q 6/@f. traffic_calming#yes
+n /8i{s 7(En!{ 6/@Z> traffic_calming#yes
+n /8i|# 7(Em&. 6/@Xa traffic_calming#yes
+n /8m#( 7(Eo*t 6/@LZ highway#bus_stop name#Kyrkbytorget
+n 0g;&R 7(EsHj 6/@G] addr:housenumber#12B addr:street#Baltzersgatan
+n 0g;&S 6fNwT 6/@ZF addr:housenumber#6A addr:street#Baltzersgatan
+n 0g;&k 7(EsH\ 6/@J! addr:housenumber#12A addr:street#Baltzersgatan
+n 0g;&q 7(Et*~ 6/@Y? addr:housenumber#6B addr:street#Baltzersgatan
+n 0g;'a 7(Es}A 6/@W~ addr:housenumber#6C addr:street#Baltzersgatan
+n 0g;'p 7(EsRg 6/@N# addr:housenumber#8C addr:street#Baltzersgatan
+n 0g;'| 6fNtR 6/@Vz addr:housenumber#6D addr:street#Baltzersgatan
+n 0g;(/ 7(Es[) 5"IgN addr:housenumber#8B addr:street#Baltzersgatan
+n 0g;(x 7(EsHx 6/@E4 addr:housenumber#12C addr:street#Baltzersgatan
+n 0g;)G 7(Esc4 6/@QP addr:housenumber#8A addr:street#Baltzersgatan
+n 0nngV 7(Eo!a 6/@T+ name#Coop_Nära opening_hours#Mo-Sa_09:00-21:00;Su_10:00-21:00 shop#convenience
+n 4J'2S 7(EqMM 6/@)[ name#Sälöfjordsgatan_Läge_A public_transport#stop_position tram#yes
+n 5+5;9 7(Eq|@ 6/A'` amenity#recycling recycling:batteries#yes recycling:cans#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes

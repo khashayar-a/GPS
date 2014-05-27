@@ -1,0 +1,14 @@
+n '<HIM 6fQ1Y 6/Moa addr:housenumber#11 addr:postcode#415_05 addr:street#Kortedalavägen amenity#fuel contact:phone#+4631432284 name#Jet_Kviberg operator#Jet
+n '<^*E 7(F,Q\ 5"K)D highway#turning_circle
+n (gE~O 7(F(9R 6/M[m highway#bus_stop name#Bellevue shelter#no
+n (ieoc 7(F458 6/N?~ bicycle#yes foot#yes highway#crossing
+n (ierF 7(F77r 6/Nz/ bicycle#yes foot#yes highway#crossing
+n (if)d 7(F4Y8 6/N97 bicycle#yes foot#yes highway#crossing
+n (if)r 7(F7Mw 6/Np? bicycle#yes foot#yes highway#crossing
+n *>o\K 7(F'q: 6/MU( highway#bus_stop name#Bellevue
+n 1<O*r 7(F(Ez 5"K'h bench#yes name#Bellevue railway#tram_stop shelter#yes
+n 1<O+v 7(F()g 5"K') bench#yes name#Bellevue railway#tram_stop shelter#yes
+n 3TQ5u 7(F'uT 6/MQ{ highway#turning_circle
+n 3\P=/ 7(F*L| 6/M?* highway#turning_circle
+n 3\P=1 7(F*XN 6/M2h highway#turning_circle
+n 3\P>> 6fPwM 6/MP! amenity#parking

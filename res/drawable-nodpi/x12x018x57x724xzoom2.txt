@@ -1,0 +1,150 @@
+w g`wM highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d AcCn 7(E}lY 6/MpY
+d 22H7% 7(E}lJ 6/Mlk
+d j.=O 7(E}h' 6/Mj#
+w "Kv;z highway#motorway int_ref#E_20 maxspeed#90 oneway#yes ref#E_20
+d :?HS 6fOoK 6/M}S
+d :?HT 7(E~H& 6/NTx
+d :?HU 7(E~Z} 6/N^C
+d :?HV 6fO|x 6/Nev
+d :?HW 7(F!Sd 6/O*\
+d $qrVJ 7(F"05 6/OEg
+d :?HX 7(F#;t 6/OkY
+d $qrQh 6fPA# 6/P;C
+d :?HY 6fPBZ 6/PB9
+d :?HZ 7(F%lL 6/Puq
+d :?H[ 6fPXn 5"KJs
+d :?H\ 7(F']v 6/Qt*
+d :?H^ 7(F(6B 6/R8#
+d :?H` 7(F(c' 6/RSW
+d :?Hb 7(F)GH 6/R}e
+d :?Hc 7(F)r{ 6/S?8
+d :?Hd 7(F*,N 6/S[/
+d %-{xg 7(F*8U 6/Skq
+w *hWn bridge#yes highway#tertiary layer#1
+d j.=P 7(E~<$ 6/MkL
+d j.=R 7(F!^t 6/Mf3
+d j.=T 7(F!|d 6/Mf[
+d j.=U 7(F"2T 6/MiD
+d "v'dh 7(F"?_ 6/Mn1
+w D9/7 bridge#yes highway#tertiary layer#2 oneway#yes
+d %,dOH 7(E}yF 6/Mnq
+d 22H6~ 7(E~&| 5"K(]
+d j.=P 7(E~<$ 6/MkL
+w BB2G highway#motorway int_ref#E_20 maxspeed#90 oneway#yes ref#E_20
+d %-{w: 7(F*Ej 6/SkE
+d %@UUr 6fPv0 6/S?l
+d %@UUq 7(F)\U 6/R~;
+d %@UUp 7(F(vn 6/RTK
+d %@UUo 7(F(IS 6/R8:
+d %@UUn 6fPa\ 6/QtR
+d %@UUm 7(F'.r 6/QLU
+d %@UUl 7(F&!6 6/Pu~
+d $cgc[ 7(F$c- 6/P=j
+d 31U#+ 7(F$CS 6/P14
+d L)u 7(F#J> 5"K;B
+d %@UUk 7(F">7 6/OEb
+d %@UUj 7(F!c@ 6/O+&
+d L)r 6fO~[ 6/NfV
+d %@UUh 7(E~ES 6/NKd
+d L"6 7(E~'Z 6/N;i
+d %@UUf 7(E}pj 6/N2l
+d %@UUd 7(E}S1 6/M~W
+w *hWm bridge#yes highway#tertiary layer#2 oneway#yes
+d j.=P 7(E~<$ 6/MkL
+d 22H6{ 7(E~(A 6/MkU
+d %,dO# 7(E}w? 6/Mk)
+w %vOQ highway#motorway int_ref#E_20 maxspeed#70 oneway#yes ref#E_20
+d :?HP 7(E}T+ 6/M.I
+d :?HQ 7(E}OR 5"K"w
+d $qrZ( 7(E}76 6/M]p
+d :?HR 6fOn; 6/Mj~
+d :?HS 6fOoK 6/M}S
+w D9/- bridge#yes highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d %,dMB 7(E}J- 6/Mf:
+d "v'gr 6fOnr 6/Me|
+d %,dM= 7(E}.E 6/MfX
+w &@59 highway#motorway_link name#Munkebäcksmotet oneway#yes
+d :?HP 7(E}T+ 6/M.I
+d 22H6} 7(E}Dj 6/M:Q
+d 22H6z 7(E}/| 6/MO^
+d 3$2Kl 6fOla 6/M[7
+d AcCk 7(E|wR 6/Mi9
+w g`wH highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d j.=O 7(E}h' 6/Mj#
+d AcCj 7(E}_1 6/MhI
+d $zDK$ 7(E}Q4 6/MfY
+d %,dMB 7(E}J- 6/Mf:
+w *hWl highway#tertiary layer#1 oneway#yes
+d AcCn 7(E}lY 6/MpY
+d %,dOH 7(E}yF 6/Mnq
+w "Kv;{ highway#motorway int_ref#E_20 maxspeed#70 oneway#yes ref#E_20
+d %@UUd 7(E}S1 6/M~W
+d %@UUc 7(E}CP 6/Mj_
+d %@UUa 7(E}Ct 6/M]j
+d %@UU` 7(E}VA 6/M>7
+d L"4 7(E}]9 6/M5`
+d :?HG 7(E}f5 6/M(z
+d 1Q(RP 7(E}hw 6/L|`
+d 1Q(RQ 7(E}eV 6/LqI
+d L"2 7(E}`K 6/Lij
+d L"1 7(E}Us 6/L_Z
+d 'OG6y 6fOp@ 6/LSZ
+d 'OG6s 7(E};5 6/LIl
+d 'OG6r 7(E}+0 6/L?9
+d 'OG6e 7(E|vE 6/L4<
+d 'OG6] 7(E|ho 6/L,0
+w D9/% highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d $qrXy 7(E}R! 6/Mu$
+d AcCi 7(E}cJ 5"K)3
+d AcCn 7(E}lY 6/MpY
+w D9/" highway#tertiary
+d "v'dh 7(F"?_ 6/Mn1
+d "v'dk 5'z>` 6/M}b
+d %,dP, 5'z>f 6/N'8
+w *lmt highway#motorway_link name#Munkebäcksmotet oneway#yes
+d AcCj 7(E}_1 6/MhI
+d $qrZY 7(E}RS 6/McH
+d 3%ozc 7(E}PB 6/M^a
+d $qrZZ 7(E}Rk 6/MWe
+d 3%ozf 7(E}[y 6/MK[
+d 3%ozg 6fOs0 6/M2Q
+d :?HG 7(E}f5 6/M(z
+w D9/( bridge#yes highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d "v'gq 7(E}9M 6/Muz
+d .n8T5 7(E}<; 6/Mv"
+d .n8Sn 7(E}?Z 6/Mv$
+d .n8T8 7(E}CP 6/Mu|
+d .n8Si 6fOp/ 6/Mum
+d .n8S` 7(E}LG 5"K)L
+d .n8Sd 7(E}O4 6/Mu=
+d $qrXy 7(E}R! 6/Mu$
+w BBOS highway#motorway int_ref#E_20 maxspeed#70 oneway#yes ref#E_20
+d 'OG6O 7(E|=8 6/L1L
+d 'OG6T 7(E|M[ 6/L9Z
+d $u=X{ 7(E|_' 6/LA6
+d )+yJC 7(E|fc 6/LDL
+d $u=YV 7(E|nb 6/LGt
+d :?HK 7(E|}k 6/LMV
+d )!hUo 7(E}(( 5"JzJ
+d :?HM 7(E}?9 6/L^6
+d :?HN 7(E}M? 6/Li/
+d :?HO 7(E}Vr 6/LyU
+d :?HP 7(E}T+ 6/M.I
+w *lmu highway#motorway_link name#Munkebäcksmotet oneway#yes
+d L"6 7(E~'Z 6/N;i
+d $qrXu 7(E}a0 6/M}l
+w &@5: highway#tertiary junction#roundabout layer#1 name#Munkebäcksmotet
+d A^*U 7(E|zL 6/MsE
+d AcCh 7(E}#, 6/MtN
+d .n8TM 7(E})z 5"K)I
+d .n8T> 6fOmR 6/MuU
+d .n8TB 7(E}2H 6/Muh
+d .n8TG 7(E}5k 6/Mus
+d "v'gq 7(E}9M 6/Muz
+w D9/4 highway#tertiary layer#1 oneway#yes
+d %,dO# 7(E}w? 6/Mk)
+d j.=O 7(E}h' 6/Mj#
+w "onlV highway#motorway_link layer#1 name#Munkebäcksmotet oneway#yes
+d $qrXu 7(E}a0 6/M}l
+d AcCi 7(E}cJ 5"K)3

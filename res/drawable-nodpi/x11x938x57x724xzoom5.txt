@@ -1,0 +1,26 @@
+n @uBV 7(F#PF 5"J(1 crossing#island highway#traffic_signals
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n E@SD 7(EyQQ 6/Dsu highway#traffic_signals
+n Ec=@ 7(Ey&T 6/Dsb highway#traffic_signals
+n "`;Wb 7(EzaB 6/Dt\ highway#traffic_signals
+n #32RH 7(E~u4 6/Ce8 highway#traffic_signals
+n $Q3aU 7(F%Mn 6/Dm2 highway#bus_stop name#Björnsonsgatan
+n $Q5%$ 7(F*jc 6/DMj highway#crossing
+n %:^3P 5'z>I 6/D+T barrier#gate
+n %:^eN 6fP7: 6/ChR highway#crossing
+n .0Nee 7(E}3E 6/Dv& highway#traffic_signals
+n .0NfY 7(F!]9 6/DyO highway#give_way
+n .0NgI 7(E|oL 6/Dup highway#traffic_signals
+n .0NgO 7(E~JL 6/DxB highway#give_way
+n .>:B* 7(F#14 6/D3b highway#bus_stop name#Sehlstedtsgatan
+n .>:C6 7(F#=2 6/D;d highway#bus_stop name#Sehlstedtsgatan
+n .p&TH 7(F#V! 6/DpV name#Godisgubben shop#confectionery
+n .p&Ul 7(F#U0 6/Drd amenity#fast_food cuisine#pizza name#Pizzeria_Sera
+n .p&Up 7(F"/a 6/Dq\ addr:housenumber#15 addr:postcode#41720 addr:street#Harald_Hjärnesgatan amenity#fast_food cuisine#pizza name#Villagio_Pizzeria_&amp;_Grekisk_Grill
+n /A*>( 7(F"@% 5"J1^ traffic_calming#yes
+n /A*>C 7(F":b 6/Dv} highway#give_way
+n /A*>c 7(F"F! 6/Dq: amenity#recycling
+n 0.e5^ 7(E}9T 6/Dx9 amenity#restaurant cuisine#thai name#Ton_Cha_Bub phone#+46(0)31-510120 website#http://www.tonchabub.se/
+n 00\A5 7(F#9o 6/Dqt amenity#cafe name#Rosa-Mi_Café
+n 00\A7 7(F#9% 6/Dg} shop#car
+n 46]$\ 7(F#E& 6/Dk% amenity#fast_food cuisine#thai name#Chao_Thai

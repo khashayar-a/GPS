@@ -1,0 +1,385 @@
+w "36}+ building#yes
+d .p#[= 7(F)<' 6/EB*
+d .p#Y[ 7(F)B; 6/EB)
+d .p#cG 7(F)B% 6/E>F
+d .p#_# 6fPnt 6/E>H
+d .p#[= 7(F)<' 6/EB*
+w "36|o building#yes
+d .p#`B 7(F*t] 6/D{*
+d .p#[@ 7(F*tF 6/E",
+d .p#]Z 7(F*ma 6/E"*
+d .p#[T 7(F*mx 6/D{)
+d .p#`B 7(F*t] 6/D{*
+w "36|i building#yes
+d .p#`G 7(F(`~ 6/E-W
+d .p#c< 7(F(`q 6/E.N
+d .p#Z7 7(F(Y^ 6/E.K
+d .p#^/ 6fPhN 5"J5&
+d .p#`G 7(F(`~ 6/E-W
+w "36|V building#yes
+d .p#Yj 7(F*AB 6/Dx/
+d .p#ay 7(F*?z 6/E+H
+d .p#[A 7(F*\- 6/E+O
+d .p#]M 7(F*]S 6/Dx6
+d .p#Yj 7(F*AB 6/Dx/
+w M@.) building#yes
+d &N;j" 7(F(=X 6/DxR
+d &N;j# 7(F('1 6/DxR
+d &N;j$ 7(F(&a 5"J4.
+d &N;j% 7(F(<[ 6/E$<
+d &N;j" 7(F(=X 6/DxR
+w "36}& building#yes
+d .p#b2 7(F),r 5"J6[
+d .p#\* 7(F),x 6/E>P
+d .p#X$ 7(F)3" 6/E>O
+d .p#[) 7(F)2s 6/E;y
+d .p#]? 7(F),l 6/E;z
+d .p#b2 7(F),r 5"J6[
+w M@1k building#yes
+d &N<)x 7(F+/b 6/Es)
+d &N<)y 7(F+=A 6/E|5
+d &N<){ 7(F+k0 5"J<c
+d &N<)} 6fQ'/ 6/Epd
+d &N<)x 7(F+/b 6/Es)
+w M@.* building#yes
+d &N;j& 7(F(=+ 6/E&E
+d &N;j' 7(F't+ 6/E&E
+d &N;j( 7(F's[ 6/E)i
+d &N;j) 7(F("j 6/E)i
+d &N;j* 7(F(!l 6/E0'
+d &N;j+ 7(F(<- 5"J5=
+d &N;j& 7(F(=+ 6/E&E
+w "36}3 building#yes
+d .p#a_ 7(F+ha 6/E7m
+d .p#YV 7(F+Ka 6/E7a
+d .p#bk 7(F+Js 6/E>+
+d .p#\9 7(F+\: 6/E>2
+d .p#a< 6fQ&z 6/E<P
+d .p#^! 7(F+h* 6/E<T
+d .p#a_ 7(F+ha 6/E7m
+w "36|L building#yes
+d .p#W1 7(F,Gv 6/E)l
+d .p#_) 7(F,Fj 6/E/,
+d .p#[C 7(F,61 6/E/$
+d .p#bW 7(F,70 6/E)f
+d .p#W1 7(F,Gv 6/E)l
+w "36|s building#yes
+d .p#]8 7(F)^t 6/EZb
+d .p#]x 7(F)^V 6/E]j
+d .p#[V 7(F)<f 5"J9r
+d .p#W] 7(F)<m 6/EZV
+d .p#]8 7(F)^t 6/EZb
+w "36{t building#yes
+d .p#\x 7(F)It 5"J6i
+d .p#[p 7(F)Ia 6/EB,
+d .p#ac 7(F)Z? 6/EB/
+d .p#Xa 7(F)ZR 6/E>b
+d .p#\x 7(F)It 5"J6i
+w "36|( building#yes
+d .p#Z< 7(F*X> 6/EW!
+d .p#^h 7(F*P? 6/EYP
+d .p#\n 7(F*(_ 6/EU$
+d .p#[| 7(F*0^ 6/ERT
+d .p#Z< 7(F*X> 6/EW!
+w "36|Z building#yes
+d .p#]v 7(F+jz 6/ER0
+d .p#[( 7(F+bl 6/ETi
+d .p#\A 7(F*q: 6/EL(
+d .p#\3 7(F*yG 6/EIL
+d .p#]v 7(F+jz 6/ER0
+w "36|. building#yes
+d .p#Xp 7(F(l! 6/ESi
+d .p#[. 7(F(T) 5"J8r
+d .p#[m 7(F(T[ 6/ENZ
+d .p#^o 7(F(ea 6/ENf
+d .p#aO 7(F(eZ 6/ENF
+d .p#[* 7(F(l! 6/EN@
+d .p#cI 7(F(kx 5"J8D
+d .p#cC 7(F(}R 6/ENk
+d .p#X; 7(F(|o 6/ESs
+d .p#\] 7(F(y] 6/ESp
+d .p#c6 7(F(xz 6/EY4
+d .p#a' 7(F(kT 6/EY.
+d .p#Xp 7(F(l! 6/ESi
+w "36}1 building#yes
+d .p#\X 7(F+;h 6/E6r
+d .p#c% 7(F+;p 5"J5u
+d .p#aV 7(F+:/ 6/E5V
+d .p#Ym 7(F+2w 6/E5R
+d .p#]j 7(F+2) 6/E5B
+d .p#av 7(F+.; 6/E5E
+d .p#[U 7(F+-J 4.R)
+d .p#XR 7(F+', 6/E5N
+d .p#^9 7(F+$h 6/E5q
+d .p#bd 7(F+$D 6/E6i
+d .p#\X 7(F+;h 6/E6r
+w "36|q building#yes
+d .p#^S 6fP}t 6/E6Z
+d .p#ZY 7(F*sD 6/E:h
+d .p#`W 7(F*=y 6/E:U
+d .p#bg 7(F*>F 6/E6G
+d .p#^S 6fP}t 6/E6Z
+w "36|g building#yes
+d .p#[, 7(F)}D 6/E<d
+d .p#WB 7(F)|_ 6/E@$
+d .p#bN 7(F)o( 5"J6u
+d .p#\u 7(F)ok 6/E<Z
+d .p#[, 7(F)}D 6/E<d
+w "36|Q building#yes
+d .p#^) 7(F+zf 6/EC,
+d .p#b` 7(F+zU 6/EC2
+d .p#W~ 7(F+s; 6/EEj
+d .p#c9 7(F,xX 6/EPN
+d .p#[R 7(F-"_ 6/EMl
+d .p#^) 7(F+zf 6/EC,
+w "36|$ building#yes
+d .p#[? 7(F**G 6/EFt
+d .p#_4 7(F**# 6/EIu
+d .p#`+ 7(F)k> 5"J7t
+d .p#ZB 7(F)jj 6/ELe
+d .p#Wt 7(F)^u 6/ELZ
+d .p#`[ 7(F)_, 6/EIi
+d .p#[W 7(F)UR 6/EIi
+d .p#^M 7(F)UD 6/EK@
+d .p#ZM 7(F)JN 6/EK;
+d .p#WR 7(F)K" 5"J7`
+d .p#\& 7(F)UK 6/EGh
+d .p#[j 7(F)U` 5"J7W
+d .p#[? 7(F**G 6/EFt
+w M@1m building#yes
+d &N<*! 7(F,?q 6/ErT
+d &N<*" 7(F,%S 6/Et2
+d &N<*# 7(F,/< 6/E{>
+d &N<*% 6fQ.Z 6/Eyp
+d &N<*! 7(F,?q 6/ErT
+w Lg"4 building#yes
+d &I7Ze 7(F*&" 6/DqD
+d &I7Zf 7(F(ZO 6/Dpn
+d &I7Zg 7(F(YR 6/Dxz
+d .p#WY 7(F(Xt 6/D}[
+d .p#b] 7(F(`: 6/D}]
+d .p#_] 7(F(`? 6/Dx}
+d &I7Zh 7(F*%R 6/DyP
+d &I7Ze 7(F*&" 6/DqD
+w "36|; building#yes
+d .p#YQ 7(F)7< 6/E!_
+d .p#Zm 7(F)6} 5"J47
+d .p#_% 7(F)=Z 6/E%C
+d .p#\s 7(F)=L 6/E&9
+d .p#b; 5'zE? 6/E&A
+d .p#^W 7(F)]' 5"J3s
+d .p#YQ 7(F)7< 6/E!_
+w "36|F building#yes
+d .p#[I 7(F+Eg 6/EEz
+d .p#X< 6fQ'a 6/EI9
+d .p#YL 7(F+k~ 6/EF^
+d .p#W@ 7(F+Mw 4.R6
+d .p#[I 7(F+Eg 6/EEz
+w "36{z building#yes
+d .p#\* 7(F),x 6/E>P
+d .p#^U 7(F),M 6/EB#
+d .p#^8 7(F)2G 6/EB+
+d .p#X$ 7(F)3" 6/E>O
+d .p#\* 7(F),x 6/E>P
+w "36|T building#yes
+d .p#^8 7(F)2G 6/EB+
+d .p#[= 7(F)<' 6/EB*
+d .p#_# 6fPnt 6/E>H
+d .p#X$ 7(F)3" 6/E>O
+d .p#^8 7(F)2G 6/EB+
+w .#HL highway#unclassified name#Södra_Hildedalsgatan
+d "6j%7 6fPfs 6/DkE
+d "6j*h 6fPcC 5"J1u
+d "6j*i 7(F'v| 4.Qc
+d "6j*j 7(F'hB 6/Dp?
+d "6j*k 7(F'_) 6/Dtc
+d "6j*l 7(F'[` 6/E>/
+d "6j*m 7(F'aR 6/EA9
+d "6j*n 7(F'md 6/EBu
+d "6j%: 7(F(Dp 6/EC1
+w "36|B building#yes
+d .p#__ 7(F(qf 6/EH&
+d .p#Z- 7(F(T~ 6/EG|
+d .p#\L 6fPg| 6/EKY
+d .p#cM 7(F(qI 6/EKa
+d .p#__ 7(F(qf 6/EH&
+w "36}6 building#yes
+d .p#b~ 7(F*U| 6/E[k
+d .p#c= 6fPz( 6/E^A
+d .p#_b 7(F)e` 6/EVt
+d .p#Z& 7(F)m| 6/ET2
+d .p#b~ 7(F*U| 6/E[k
+w "36|0 building#yes
+d .p#_U 7(F(V. 6/E;j
+d .p#\~ 7(F(UE 6/E@2
+d .p#Zc 7(F)&h 6/E@5
+d .p#Y$ 5'zDj 5"J6[
+d .p#[1 7(F)&b 6/E;{
+d .p#_U 7(F(V. 6/E;j
+w "36|K building#yes
+d .p#\| 7(F)aC 6/E<M
+d .p#[o 7(F)a& 6/E>h
+d .p#Xa 7(F)ZR 6/E>b
+d .p#\x 7(F)It 5"J6i
+d .p#W| 7(F)J1 6/E<C
+d .p#\| 7(F)aC 6/E<M
+w "36|a building#yes
+d .p#\X 7(F+;h 6/E6r
+d .p#ae 7(F+:p 6/E>F
+d .p#\= 7(F+#S 6/E>9
+d .p#bd 7(F+$D 6/E6i
+d .p#\X 7(F+;h 6/E6r
+w "36{v building#yes
+d .p#^7 7(F,G> 6/EPV
+d .p#Y6 7(F,[O 6/ERc
+d .p#bS 7(F,cO 6/EP'
+d .p#`h 7(F,O[ 6/EMx
+d .p#^7 7(F,G> 6/EPV
+w "36|8 building#yes
+d .p#YI 7(F)!4 6/E#;
+d .p#]} 7(F(b! 6/E#4
+d .p#`' 7(F(b$ 6/E"b
+d .p#Zn 7(F(X; 6/E"`
+d .p#W^ 7(F(Wf 6/E*Z
+d .p#XT 7(F(Z( 6/E+X
+d .p#_f 6fPi` 6/E+\
+d .p#[e 7(F(f. 6/E(z
+d .p#b4 7(F(bD 6/E(Y
+d .p#`# 7(F(bN 6/E'$
+d .p#^6 7(F(|T 6/E'*
+d .p#]5 6fPk{ 6/E&c
+d .p#b5 7(F(~} 6/E&c
+d .p#YI 7(F)!4 6/E#;
+w "36}' building#yes
+d .p#[V 7(F)<f 5"J9r
+d .p#YO 7(F(Uy 6/E];
+d .p#WA 7(F(UT 5"J:,
+d .p#bm 7(F)<@ 6/E`P
+d .p#[V 7(F)<f 5"J9r
+w "36|) building#yes
+d .p#bz 7(F-4] 6/EBH
+d .p#aS 7(F-<[ 6/E?p
+d .p#bL 7(F,h= 6/E:C
+d .p#\; 7(F,`? 6/E<y
+d .p#bz 7(F-4] 6/EBH
+w "36|5 building#yes
+d .p#\G 7(F**G 6/E=%
+d .p#c1 7(F*)y 6/E?|
+d .p#\^ 7(F)~V 6/E?w
+d .p#[< 7(F*!% 6/E<~
+d .p#\G 7(F**G 6/E=%
+w "36|E building#yes
+d .p#[z 7(F+X7 5"J9H
+d .p#\[ 6fQ'C 6/EVJ
+d .p#_g 6fQ"t 6/EQV
+d .p#X} 6fQ"& 6/ET4
+d .p#[z 7(F+X7 5"J9H
+w .#Gy highway#unclassified name#Hildedalsgatan
+d ."$~l 7(F(Dc 6/D`O
+d "6j%6 7(F(IM 6/DdP
+d "6j%7 6fPfs 6/DkE
+d "6j%8 7(F(Fl 6/D~^
+d "6j%9 7(F(Fl 6/E0T
+d "6j%: 7(F(Dp 6/EC1
+d "6j%; 7(F(BG 6/EU}
+d "6j%< 7(F(Dp 6/EXm
+d "6j%= 7(F(M[ 6/E[!
+d "6j%> 7(F([: 6/E\!
+d "6j%? 5'zDZ 6/E\D
+d "6j%A 7(F)%8 6/E[]
+d "6j%B 7(F)J< 6/EV}
+d "6j%C 7(F*jT 6/EH3
+d "6j%D 7(F+qK 6/E>/
+d "6j%E 7(F-i. 6/E1(
+w "36|R building#yes
+d .p#_' 7(F)dU 6/E6H
+d .p#[> 7(F)d3 6/E;8
+d .p#_z 7(F)UL 6/E;4
+d .p#], 7(F)Un 6/E6E
+d .p#_' 7(F)dU 6/E6H
+w "36|C building#yes
+d .p#^r 7(F*rm 6/E@S
+d .p#]~ 7(F*rB 6/ED<
+d .p#\# 7(F*J1 6/ED,
+d .p#aY 7(F*I^ 6/EHD
+d .p#XY 7(F*=b 6/EH?
+d .p#ZQ 7(F*>` 6/E@>
+d .p#^r 7(F*rm 6/E@S
+w "36|# building#yes
+d .p#Yf 6fPll 6/E82
+d .p#[1 7(F)&b 6/E;{
+d .p#_U 7(F(V. 6/E;j
+d .p#`N 6fPh0 6/E8"
+d .p#Yf 6fPll 6/E82
+w "36}8 building#yes
+d .p#]4 5'zEj 5"J5a
+d .p#bJ 7(F*+e 5"J6"
+d .p#\B 7(F)pH 6/E6q
+d .p#Y, 7(F)qB 6/E3V
+d .p#]4 5'zEj 5"J5a
+w "36{q building#yes
+d .p#[1 7(F)&b 6/E;{
+d .p#]? 7(F),l 6/E;z
+d .p#b2 7(F),r 5"J6[
+d .p#Y$ 5'zDj 5"J6[
+d .p#[1 7(F)&b 6/E;{
+w "36|2 building#yes
+d .p#Z: 7(F)db 6/E$]
+d .p#a2 7(F)cx 6/E+:
+d .p#^| 7(F*,W 6/E+H
+d .p#]E 7(F*-A 6/E$k
+d .p#Z: 7(F)db 6/E$]
+w 18T2 highway#unclassified name#Aröds_Industriväg
+d E@H$ 7(F%u$ 5"J=t
+d .>Fn+ 7(F%|" 6/F'p
+d .>FnU 7(F&(N 6/F't
+d *iZWD 7(F&1| 6/F'x
+d *"x\c 7(F&8E 6/F'i
+d "X@0( 7(F&Ex 6/F'J
+d *"x\h 7(F&O\ 6/F'4
+d *iZWH 7(F&Zn 6/F&z
+d *iZWC 7(F&gP 6/F&[
+d "X@0) 7(F&|T 6/F&+
+d "X@0* 7(F'E& 6/F$;
+d "X@0+ 7(F'kV 6/F!)
+d ."7&} 7(F(L# 6/Eyt
+d "X@0, 6fPn" 6/Es~
+d "X@0- 7(F)K, 6/Ert
+d "X@0. 7(F)`' 6/Et(
+d .@&S+ 7(F)g, 6/Etu
+d "X@0/ 6fPsn 6/EuX
+d "X@00 7(F)uh 6/EyL
+d "X@01 7(F*/` 6/F,a
+w "36|, building#yes
+d .p#^D 7(F*]* 6/EWQ
+d .p#]( 7(F*U/ 6/EZ#
+d .p#[{ 7(F*|Q 6/E^G
+d .p#^a 7(F+&L 6/E[u
+d .p#^D 7(F*]* 6/EWQ
+w "36|O building#yes
+d .p#_@ 7(F,CW 6/E;^
+d .p#`d 7(F,;_ 6/E>6
+d .p#]% 7(F,Y< 6/EAR
+d .p#Zq 7(F,TH 5"J74
+d .p#\? 7(F,^T 6/ED,
+d .p#]f 6fQ1' 6/EBV
+d .p#bM 7(F,mx 5"J7:
+d .p#_H 7(F,ub 6/EA%
+d .p#_@ 7(F,CW 6/E;^
+w "36|c building#yes
+d .p#\` 7(F+{^ 6/EHH
+d .p#\v 7(F+s^ 6/EK"
+d .p#^7 7(F,G> 6/EPV
+d .p#`h 7(F,O[ 6/EMx
+d .p#\` 7(F+{^ 6/EHH
+w .#H. highway#unclassified name#Hildedalsgatan
+d "6j%9 7(F(Fl 6/E0T
+d "6j'# 7(F,@< 6/E1w
+w "36|_ building#yes
+d .p#[% 7(F,yP 6/E$F
+d .p#^= 7(F,xu 6/E)}
+d .p#W1 7(F,Gv 6/E)l
+d .p#bW 7(F,70 6/E)f
+d .p#]_ 7(F,5s 6/E)e
+d .p#^\ 7(F,6\ 6/E$3
+d .p#[% 7(F,yP 6/E$F

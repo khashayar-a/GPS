@@ -1,0 +1,700 @@
+w `;|d building#yes
+d )U$(O 7(E\vs 6/HUQ
+d )U$(Q 7(E\e} 5"JUP
+d -L[z& 6fLWP 6/HYJ
+d -L[yd 7(E\qp 6/HXW
+d -L[z" 7(E\vw 6/HYk
+d -L[ym 7(E\q) 6/HZ]
+d )U$(S 7(E\ub 6/H[g
+d )U$(T 7(E](X 6/HY9
+d )U$(O 7(E\vs 6/HUQ
+w SB$e building#yes
+d 'Zi>r 7(E]vF 6/GxZ
+d 'Zi>| 7(E\@[ 6/H((
+d 'Zi?# 7(E[lX 6/H!V
+d 1_lX* 7(E[l- 6/H!*
+d 1_lWQ 7(E[mP 6/G~\
+d 1_lVo 7(E\:0 6/G|*
+d 1_lU\ 7(E^!H 6/GnJ
+d 1_lWi 7(E^%< 6/Gn'
+d 1_lTX 7(E^)( 6/Gn*
+d 1_lT" 7(E^+q 6/GnV
+d 'Zi?& 7(E^+` 6/Go<
+d 'Zi>r 7(E]vF 6/GxZ
+w "MPPS building#yes
+d 1_lSl 7(E\G( 6/H,Z
+d 1_lV{ 7(E\D= 6/H+y
+d 1_lV% 7(E\@i 6/H,5
+d 1_lTP 7(E\<r 6/H,h
+d 1_lSw 7(E\:d 6/H-@
+d 1_lW* 7(E\=P 6/H.!
+d 1_lSl 7(E\G( 6/H,Z
+w "M&F# building#yes name#Chabo operator#Chalmers_Studentbostäder
+d %"?'1 7(EXt" 6/HEg
+d 1[]P5 7(EY#p 5"JST
+d %"?'3 7(EXr} 6/H>~
+d %"?'2 7(EXe/ 6/H@?
+d %"?'1 7(EXt" 6/HEg
+w S2v7 building#yes
+d 'V9>a 7(EZW9 6/Gp'
+d 'V9>g 7(EZDZ 6/GrF
+d 1_lUC 7(EZ/% 6/GlA
+d 'V9>k 7(EYyg 6/Gfy
+d 'V9>s 6fL@J 6/Gb7
+d 'V9>| 7(EZW! 6/Gh>
+d 'V9?$ 7(EZD$ 6/Gj`
+d 'V9>a 7(EZW9 6/Gp'
+w EvDV amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %A0|n 6fL6; 6/H-y
+d %A0|o 7(EY)l 6/H/<
+d %A0|p 7(EY8> 6/H51
+d %A0|q 7(EYH; 6/H3m
+d %A0|n 6fL6; 6/H-y
+w A/GQ highway#living_street name#Arvid_Hedvalls_Backe
+d 1_lT} 7(EXw2 6/HLp
+d $g\3- 7(EY!T 6/HJ*
+d $qxj: 7(EY<p 6/HG:
+d $qxjA 7(EYWw 6/HDt
+d 1[]Q` 7(EYt` 6/HC8
+d 1n"N~ 7(EZ"{ 6/HB<
+d $g\3/ 7(EZ'? 6/HAu
+w EvDK amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d 1[]QS 7(EYWY 6/H?|
+d 1[]O~ 7(EYO? 5"JS1
+d 1[]Pl 7(EYJI 6/H>h
+d 1[]R5 7(EYRc 6/H>$
+d %A0{r 6fL7$ 6/H7,
+d %A0{q 7(EYNS 5"JR*
+d %A0{t 7(EYmR 6/HB;
+d %A0{s 7(EY`? 6/HCJ
+d 1[]QS 7(EYWY 6/H?|
+w ".:ps amenity#parking
+d .7U~? 7(EZQC 6/GjB
+d .7V"k 7(EZbL 6/Go1
+d .7U|% 7(EZjj 6/Gm~
+d 1_lUo 7(EZgM 6/Glq
+d .7V'z 7(EZa0 6/Gjr
+d 1_lU$ 7(EZ\^ 6/Gj;
+d .7V() 7(EZYL 6/GiF
+d .7U~? 7(EZQC 6/GjB
+w B|9[ highway#living_street name#Hugo_Grauers_gata
+d $g\'b 6fL3@ 6/H.?
+d 1n"Q? 7(EX}g 6/H/_
+d $g[u! 7(EY0E 6/H6B
+d $|+z| 7(EYA$ 6/H<b
+d $|+z~ 7(EYI8 6/H?2
+d $qxjA 7(EYWw 6/HDt
+w "-yHQ building#yes
+d .3|=n 7(E]!n 6/Gc4
+d .3|=O 7(E\tv 6/Gcq
+d .3|=1 7(E\qM 6/Gan
+d .3|>V 7(E\TF 4.TI
+d .3|=y 7(E\Wp 6/GeX
+d .3|=~ 7(E\Li 6/Gf7
+d .3|=S 7(E\F; 6/GbH
+d .3|=G 7(E\T/ 6/GaX
+d .3|=* 7(E\Si 6/GaD
+d .3|>@ 7(E\kB 6/G_|
+d .3|=o 7(E\k_ 5"JLw
+d .3|=e 7(E\y: 6/G_A
+d .3|=n 7(E]!n 6/Gc4
+w "M!"c highway#living_street oneway#yes
+d 1[]QD 7(EYMF 6/H4F
+d 1n"OK 7(EYa; 5"JRb
+d 1[]Q` 7(EYt` 6/HC8
+w v@M$ building#yes
+d +nEZu 5'y|# 6/Gjp
+d +nEZw 7(E\]= 6/Gt6
+d 1_lVC 7(E\Q\ 5"JNJ
+d 1_lWa 7(E\P. 6/GoO
+d +nEZy 7(E\J> 5"JN6
+d 1_lUv 7(E\b. 6/GjU
+d 1_lT< 6fLVY 6/Gjl
+d 1_lW2 7(E]@) 5"JM<
+d 1_lVQ 7(E]?7 6/GcX
+d +nEZz 7(E]HL 6/GbW
+d 1_lWp 7(E]RA 6/GdV
+d +nEZ{ 7(E]Wn 6/GeO
+d 1_lT` 7(E]bZ 6/Gfl
+d 1_lUj 7(E]o, 6/Gg~
+d 1_lW" 6fLaR 5"JMj
+d .3|>0 7(E]q{ 6/Gj3
+d +nEZu 5'y|# 6/Gjp
+w CAtV amenity#university building#yes name#Imego
+d %"?'> 7(EYUk 6/HHr
+d %"?'? 7(EXxn 6/HN-
+d %"?'A 7(EY!- 6/HPZ
+d %"?'G 7(EY\+ 6/HK@
+d %"?'> 7(EYUk 6/HHr
+w EvGq amenity#parking
+d %A1F( 6fL:H 6/HNV
+d 1_lUs 6fL4e 6/HSw
+d %A1F) 7(EY(L 6/HT)
+d %A1F* 7(EY!1 6/HQD
+d %A1F+ 7(EY[r 6/HKq
+d %A1F( 6fL:H 6/HNV
+w "MB-} building#yes
+d 1^Yj3 6fL<; 6/Gni
+d 1^YiD 7(EYgm 6/GpK
+d 1^Yj, 7(EY[^ 6/Glv
+d 1^Yh" 7(EYSm 6/Gmp
+d 1^Yl0 7(EYMy 6/Gl-
+d 1^YjY 7(EYcf 5"JMq
+d 1^Yj3 6fL<; 6/Gni
+w `;|g building#yes
+d )U$,H 7(E\VA 6/HLv
+d )U$,I 7(E\DZ 6/HN\
+d )U$,L 7(E\J} 6/HPt
+d 1[ToU 7(E\W_ 6/HOS
+d 1[To, 7(E\X< 5"JT`
+d 1[Tp( 7(E\\^ 6/HO5
+d )U$,O 7(E\`1 6/HOP
+d 1[ToZ 6fLVY 6/HN9
+d 1[Tp[ 7(E\]h 6/HM`
+d 1[Tp/ 7(E\YK 6/HN)
+d )U$,H 7(E\VA 6/HLv
+w `;|f building#yes
+d )U$+L 6fLZI 6/HP0
+d )U$+N 7(E\tW 6/HN.
+d )U$+Q 7(E\lh 6/HPz
+d )U$+R 7(E]#J 6/HR|
+d )U$+L 6fLZI 6/HP0
+w EvF| amenity#parking
+d %A14j 7(EZ59 6/H2^
+d %A14l 7(EYm; 6/H5x
+d %A14n 7(EYq/ 6/H7O
+d %A14p 7(EZ9, 6/H45
+d %A14j 7(EZ59 6/H2^
+w SB#* amenity#school building#yes name#Hvitfeldtska_Gymnasiet_Södra_byggnaden
+d $}tN| 7(E\YQ 6/H>"
+d 1[To= 7(E\Lx 6/H?)
+d 1[Tod 7(E\O? 4.U"
+d 'Zh_9 6fLT> 6/H@A
+d 'Zh_3 6fLTI 6/H@n
+d 1[Tni 6fLR0 6/HBh
+d 1[TnZ 7(E\5e 6/HBF
+d $}tNz 7(E\(Q 6/HCR
+d 'Zhb8 7(E\#T 6/HAN
+d 1[Tp6 7(E\!k 6/HA\
+d 1[Tn| 7(E\!K 6/HAP
+d 1[Tn; 7(E[|S 6/HAO
+d 1[TpL 7(E[xD 6/HAo
+d 1[Tnv 7(E[v0 6/HB>
+d 1[Tos 7(E[vK 6/HBI
+d 'Zhb; 6fLO) 6/HBN
+d 'Zhb> 6fLP; 6/HGC
+d 'ZhbA 7(E\c. 6/HA{
+d $}tN| 7(E\YQ 6/H>"
+w "O9aY building#yes
+d 1n"N| 7(EYUd 6/HE^
+d 1n"QI 7(EYZ" 6/HGH
+d 1n"Oo 7(EYPP 6/HH6
+d 1n"OG 7(EYL4 4.U(
+d 1n"N| 7(EYUd 6/HE^
+w "MPP> building#yes
+d 1_lU* 7(EYQ5 6/H%'
+d 1_lTA 7(EYTm 5"JPQ
+d 1_lSj 6fL8O 6/H&c
+d 1_lWV 7(EYL< 6/H%^
+d 1_lU* 7(EYQ5 6/H%'
+w C[1; access#no highway#unclassified psv#yes railway#tram
+d %$@st 7(E`LJ 6/G^>
+d %!p7= 7(E^sC 5"JMQ
+d 0uNEV 7(E^,t 6/Gkt
+d "1<ol 6fLN2 6/G}j
+d "1"pC 6fLHw 6/H"g
+d +Kc@* 7(EZiz 6/H%H
+w BFoW amenity#university building#yes name#Teknikens_ekonomi_och_organisation operator#Chalmers_Tekniska_Högskola
+d $ujw! 7(EZha 6/H*(
+d $ujw" 6fL:P 6/H2c
+d $ujw# 7(EYj< 6/H56
+d $ujw$ 7(EZ8F 6/H1C
+d $ujw& 7(EZA! 6/H4m
+d $ujw' 7(EYs% 6/H8^
+d $ujw( 6fL<_ 5"JR\
+d $ujw) 7(EZ*G 6/H9}
+d $ujw* 7(EZ2m 6/H=A
+d $ujw+ 7(EZ#l 6/H>_
+d $ujw, 7(EZ*D 6/HA<
+d $ujw- 7(E[/2 6/H8^
+d $ujw/ 7(E[(_ 6/H6%
+d $ujw0 7(EZw4 6/H7F
+d $ujw1 7(EZnx 6/H4)
+d $ujw2 7(EZ~Q 6/H2d
+d $ujw3 7(EZwm 6/H0$
+d $ujw4 7(EZJk 6/H3}
+d $ujw5 7(EZB= 6/H0X
+d $ujw7 7(EZo/ 6/H,_
+d $ujw! 7(EZha 6/H*(
+w SB*I building#yes
+d 'ZjNQ 7(E[=} 6/HE%
+d 'ZjNU 7(EZiQ 5"JT%
+d 'ZjNX 7(EZzL 6/HWU
+d 'ZjN[ 7(E[%K 6/HZ'
+d 1[]PZ 7(E[0U 6/HXX
+d 1[]P: 7(E[.j 6/HX)
+d 1n"Q! 7(E[6t 6/HV~
+d 1n"Q8 7(E[@` 6/HUZ
+d 'ZjN^ 7(E[SM 6/HS$
+d 1\1'V 7(E[M' 6/HQ7
+d 1\1&F 7(E[L6 6/HQ>
+d 'ZjN` 7(E[?0 6/HMV
+d 'ZjNc 7(E[Rp 6/HK&
+d 'ZjNQ 7(E[=} 6/HE%
+w `;|c building#yes
+d )U$'D 7(E]Rl 6/HR2
+d )U$'G 7(E]Cg 6/HPq
+d )U$'I 7(E]4; 6/HW!
+d )U$'L 7(E]F\ 6/HX[
+d )U$'M 7(E]JV 6/HW&
+d )U$'N 7(E]G9 6/HVi
+d )U$'D 7(E]Rl 6/HR2
+w A'9] amenity#school building#yes name#hvitfeldtska_gymnasiet
+d $fe72 7(E]3t 6/H+k
+d $fe73 7(E]1t 6/H*~
+d $fe75 7(E\h) 6/H.P
+d $fe76 7(E\o% 6/H1:
+d $fe.c 7(E]@/ 6/H-+
+d $fe2P 7(E]XZ 6/H6n
+d $fe.e 7(E]Hj 6/H85
+d $fe78 7(E]L@ 6/H9\
+d $fe.h 7(E]p1 6/H6M
+d $fe2R 7(E]lR 6/H5"
+d $fe.j 7(E]ey 6/H5Y
+d $fe79 7(E]^y 6/H2n
+d $fe.l 7(E]pB 5"JQ\
+d $fe.m 7(E]f| 5"JQ9
+d $fe.n 7(E]U] 6/H/)
+d $fe7; 7(E]O' 6/H,M
+d $fe.q 7(E][X 6/H+D
+d $fe2V 7(E]U7 6/H(q
+d $fe72 7(E]3t 6/H+k
+w "O0do amenity#parking
+d 1m4+] 7(EY}R 6/HQh
+d 1m4+u 7(EYr= 6/HQW
+d 1m4+5 7(EY{w 6/HV'
+d 1m4*h 7(EZ#^ 6/HV%
+d 1m4+] 7(EY}R 6/HQh
+w "MPPt building#yes
+d 1_lT6 7(E\?[ 6/H/7
+d 1_lTo 7(E\>\ 6/H/D
+d 1_lX! 7(E\DK 6/H0k
+d 1_lVc 7(E\EJ 5"JQV
+d 1_lT6 7(E\?[ 6/H/7
+w S3!y building#yes
+d 'V;To 7(EYr< 6/GaM
+d 'V;Tq 7(EYA' 6/GgR
+d 'V;Tt 7(EY:\ 6/Geb
+d 'V;Tu 7(EYkq 6/G_\
+d 'V;To 7(EYr< 6/GaM
+w `;|e building#yes
+d )U$)p 7(E\gl 6/HU$
+d )U$)r 7(E\Y" 6/HWq
+d )U$)t 7(E\J, 6/HU,
+d )U$)x 7(E\Xv 6/HR=
+d )U$)p 7(E\gl 6/HU$
+w EvG0 amenity#parking
+d %A1=@ 7(EZ#I 6/H.0
+d %A1=A 7(EYif 6/H0:
+d %A1=B 7(EYjd 4.Tp
+d %A1=C 7(EZ$^ 6/H,{
+d %A1=@ 7(EZ#I 6/H.0
+w SB"O building#yes
+d 'ZhJ8 6fLLX 6/H-"
+d 1^Ygj 7(E[PI 6/H.-
+d 1^YjH 7(E[Or 6/H-v
+d 1^YhL 7(E[?L 6/H/D
+d 1^Yl! 7(E[@" 6/H/Y
+d 'ZhJ; 7(E[4$ 6/H0`
+d 'ZhJC 7(E[!q 6/H)X
+d 'ZhJV 7(E[-s 6/H(Q
+d 'ZhJ[ 7(E[6. 6/H+f
+d 1^Yjz 7(E[FS 5"JPx
+d 1^Yf! 7(E[F4 6/H*-
+d 'ZhJb 7(E[RY 6/H)"
+d 1^Yi_ 6fLKr 6/H*3
+d 1^Yg4 6fLLI 6/H,F
+d 'ZhJ8 6fLLX 6/H-"
+w A/E` highway#living_street name#Vera_Sandbergs_Allé
+d "1=GX 7(EY[- 6/H,S
+d 1n"On 7(EY[= 5"JQ7
+d 1^Ygk 7(EY\1 6/H1U
+d $qxjE 6fL9e 6/H2]
+w C-]t amenity#parking
+d $}tNi 7(E]>r 6/H-m
+d $}tNj 7(E]U= 6/H6U
+d $}tNk 7(E]E0 6/H8!
+d $}tNl 6fL]S 6/H:"
+d $}tNm 6fLYv 6/H=:
+d #+p'y 7(E\su 6/H6|
+d $}tNn 7(E\km 6/H3n
+d $}tNp 7(E\ub 6/H2x
+d $}tNr 7(E\rB 6/H1\
+d $}tNi 7(E]>r 6/H-m
+w "MPPI building#yes
+d 1_lWw 7(EZg& 6/G{`
+d 1_lU| 7(EZc; 6/G{}
+d 1_lVZ 7(EZ`D 6/Gze
+d 1_lW9 6fLCw 6/GzH
+d 1_lWw 7(EZg& 6/G{`
+w C-]v amenity#parking
+d $}tNu 7(E\Te 6/H;*
+d $}tNw 7(E[}1 6/H?W
+d 1_lUT 7(E\"/ 6/H@s
+d 'Zhb8 7(E\#T 6/HAN
+d $}tNz 7(E\(Q 6/HCR
+d 1[TnZ 7(E\5e 6/HBF
+d 1[Tni 6fLR0 6/HBh
+d 'Zh_3 6fLTI 6/H@n
+d 'Zh_9 6fLT> 6/H@A
+d 1[Tod 7(E\O? 4.U"
+d 1[To= 7(E\Lx 6/H?)
+d $}tN| 7(E\YQ 6/H>"
+d $}tO+ 7(E\YK 6/H='
+d $}tNu 7(E\Te 6/H;*
+w SB,_ building#yes
+d 'Zk4( 7(E\BS 6/H`a
+d 'Zk43 7(E[id 6/Hge
+d 1[Tn> 7(E[76 6/Hf#
+d 1[Tn3 7(E[.# 6/Hed
+d 1[Tok 7(E[,p 6/Hf'
+d 'Zk49 7(EZ~Q 6/Hdl
+d 'Zk4> 7(E[3b 6/H^-
+d 'Zk4D 7(E[.s 6/H\Z
+d 1[TnK 7(E[9p 6/H[#
+d 1[TnF 7(E[:{ 6/H[>
+d 'Zk4P 7(E[^% 6/HVN
+d 'Zk4V 7(E[rb 6/H\K
+d 'Zk4\ 7(E\)C 6/HYi
+d 1[Tna 7(E\4d 6/H\t
+d 'Zk4( 7(E\BS 6/H`a
+w "'ny4 building#yes
+d 1\1&z 7(E\Ux 6/H41
+d -ODGu 7(E\I1 5"JR$
+d -ODG} 6fLSF 6/H2t
+d -ODGn 7(E\NN 6/H1q
+d -ODGs 7(E\U: 6/H18
+d -ODH- 6fLU^ 6/H0r
+d -ODH+ 7(E\_d 6/H3<
+d 1\1&O 5'yzr 6/H3s
+d 1\1'M 7(E\Z" 6/H44
+d 1\1'@ 7(E\Vh 6/H4O
+d 1\1&z 7(E\Ux 6/H41
+w "-yHP building#yes
+d .3|=C 5'yz. 6/G]N
+d .3|>3 7(E[sN 6/G_~
+d .3|>& 7(E[CK 6/Gc0
+d .3|=V 7(E[(m 6/GhC
+d .3|=K 7(EZ|$ 6/GfM
+d .3|=/ 7(E[;{ 6/G`t
+d .3|=C 5'yz. 6/G]N
+w EvDr building#yes
+d %A1!G 7(EYN' 6/H-\
+d %A1!I 7(EYCw 6/H.R
+d %A1!K 7(EYF} 6/H/g
+d %A1!M 7(EYQ- 6/H.q
+d %A1!G 7(EYN' 6/H-\
+w SB+c building#yes
+d 'Zji@ 7(EZZ. 6/HJt
+d 'ZjiA 7(EZ%C 6/HOW
+d 'ZjiC 7(EZ,m 6/HXc
+d 1^s"b 7(EZP6 6/HXr
+d 'ZjiF 7(EZ^p 5"JUV
+d 'ZjiJ 7(EZg1 6/HU[
+d 'Zji@ 7(EZZ. 6/HJt
+w CAtS building#yes name#Chabo operator#Chalmers_Studentbostäder
+d %"?'0 7(EXOz 6/HI4
+d %"?'1 7(EXt" 6/HEg
+d 1[]P5 7(EY#p 5"JST
+d %"?') 7(EY,v 6/HGf
+d 1\1'W 7(EXY" 6/HLR
+d %"?'0 7(EXOz 6/HI4
+w "M!"g highway#living_street name#Vera_Sandbergs_Allé oneway#yes
+d $g\3/ 7(EZ'? 6/HAu
+d 1n"Q: 7(EYr& 6/H:>
+d 1n"Q; 7(EYm< 6/H8I
+d 1n"O~ 7(EYg> 6/H5z
+d 1[]Qk 7(EY`t 6/H3:
+d $qxjE 6fL9e 6/H2]
+w SB#A building#yes
+d 1^Yk% 7(E\)! 6/H2F
+d 1^Yg\ 7(E\)S 6/H2Z
+d 'ZhpM 7(E\8i 5"JQ\
+d 'ZhpE 6fLS2 6/H4R
+d 1^YkA 7(E\*7 6/H6N
+d 1^Yhg 7(E\(? 6/H5d
+d 1^Yf. 7(E[z% 6/H6j
+d 1^Yip 7(E[{z 4.Tx
+d 'ZhpH 7(E[eo 5"JRK
+d 'ZhpK 7(E[]i 6/H66
+d 1^Yf& 7(E[lp 6/H4w
+d 1^YjU 7(E[l@ 6/H4c
+d 1^Yf` 7(E[p\ 6/H4@
+d 1^YgA 7(E[q. 6/H4T
+d 1^Yhw 7(E[up 6/H4-
+d 1^Yl9 6fLO$ 6/H3x
+d 1_lW8 7(E[yz 6/H3R
+d 1^YiA 6fLOu 6/H32
+d 1^Yiz 7(E[~L 6/H3E
+d 1^Yf< 6fLPJ 6/H2{
+d 1^Yk! 7(E\$p 6/H2h
+d 1^Yk% 7(E\)! 6/H2F
+w S2xL addr:street#Kapellgången building#yes
+d 'V9yy 7(EYxn 6/Gt)
+d 'V9h3 6fL>k 6/GzO
+d 'V9h; 7(EY^O 6/H"@
+d 'V9gc 7(EYId 6/Gz=
+d 'V9gl 7(EY:% 6/G|2
+d 'V9go 7(EYVG 6/H&H
+d 'V9gs 6fL@d 6/G{<
+d 'V9yz 7(EZ&P 6/Gra
+d 1^Yik 7(EY{6 6/Go~
+d 'V9gx 7(EYoT 6/GqF
+d 'V9yy 7(EYxn 6/Gt)
+w B|7y highway#living_street
+d $|+z| 7(EYA$ 6/H<b
+d $qxj; 7(EY*2 6/H>h
+d $qxj: 7(EY<p 6/HG:
+w "MB-[ building#yes
+d 1^Yj" 7(E[B# 6/H'I
+d 1^Yi& 7(E[>o 6/H&1
+d 1^Yi| 7(E[<_ 6/H&C
+d 1^Ygc 7(E[:@ 6/H%K
+d 1^Ykz 7(E[3: 6/H&(
+d 1^YjB 7(E[3U 6/H&3
+d 1^Yk- 7(E[.q 6/H&Z
+d 1^YiQ 7(E[4) 4.Tj
+d 1^Yj" 7(E[B# 6/H'I
+w EvDa amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %A0~. 7(EY!b 6/H1v
+d %A0~/ 7(EXjh 6/H3f
+d %A0~0 7(EXrC 6/H6i
+d %A0~1 7(EY)= 6/H4y
+d %A0~. 7(EY!b 6/H1v
+w B|9: highway#living_street
+d $|+ph 7(EXv[ 6/H8h
+d $g[u! 7(EY0E 6/H6B
+d 1n"Q) 7(EY9B 6/H6F
+d $|EA$ 7(EYAF 6/H5`
+d 1[]QD 7(EYMF 6/H4F
+d $qxjE 6fL9e 6/H2]
+w "MPPR building#yes
+d 1_lVe 7(E]-l 5"JMo
+d 1_lV_ 7(E]0. 6/Gj#
+d 1_lWA 7(E])0 6/Gjm
+d 1_lV* 7(E]&n 6/Gj*
+d 1_lVe 7(E]-l 5"JMo
+w SB,= building#yes
+d 'Zj~: 7(EZjn 6/H\7
+d 'Zj~; 7(EZxs 6/H`]
+d 'Zj~< 7(EZi7 6/Heb
+d 'Zj~D 7(EZY5 6/He2
+d 'Zj~G 7(EZF< 6/Hdl
+d 'Zj~S 7(EZ2j 6/HdX
+d 'Zj~Z 7(EZ#i 6/Hdn
+d 'Zj~] 5'yx; 6/HeP
+d 'Zj~_ 7(EY_L 6/Hf`
+d 'Zj~` 7(EYNh 6/HhK
+d 'Zj~b 7(EY=$ 6/HjI
+d 'Zj~d 7(EXo[ 6/H[c
+d 'Zj~k 7(EYii 6/HQu
+d 'Zj~o 7(EZ!u 6/H[g
+d 'Zj~: 7(EZjn 6/H\7
+w SB#O building#yes
+d 'Zhu5 7(E\V! 6/H/o
+d 'Zhu7 7(E\H( 6/H,M
+d 1_lSl 7(E\G( 6/H,Z
+d 1_lW* 7(E\=P 6/H.!
+d 'Zhu: 7(E\;\ 6/H.:
+d 1_lT6 7(E\?[ 6/H/7
+d 1_lVc 7(E\EJ 5"JQV
+d 'Zhu= 7(E\IU 6/H1]
+d -ODH' 7(E\Lk 4.Tr
+d -ODGg 7(E\S% 6/H09
+d 'Zhu5 7(E\V! 6/H/o
+w EvFz amenity#parking
+d %A14a 7(EY_h 6/H4]
+d %A14c 7(EYTH 6/H5a
+d %A14f 7(EYtA 6/HAr
+d %A14h 7(EZ!a 6/H@n
+d %A14a 7(EY_h 6/H4]
+w t<,F building#yes
+d +[f,o 7(E[jm 6/GZ{
+d +[f,p 7(E[^: 6/G[m
+d +[f,q 7(E[Zd 6/GZC
+d +[f,r 6fLG_ 6/G]I
+d +[f,t 7(EZdP 5"JM)
+d +[f,u 7(EZr? 6/Ger
+d +[f,v 7(EZg] 6/GgB
+d +[f,w 7(EZQH 6/Ga-
+d +[f,x 7(E[&Z 5"JLE
+d +[f,z 7(E[cp 6/GW$
+d +[f,o 7(E[jm 6/GZ{
+w "MB.Q addr:street#Landalagången building#yes
+d 'V9h% 7(EYMG 6/Gn_
+d 1^YjJ 7(EYG> 6/Glx
+d 'V9g{ 7(EX42 6/Gzl
+d 'V9h! 7(EX:; 6/G|T
+d 'V9h% 7(EYMG 6/Gn_
+w "MB.! addr:street#Landalagången building#yes
+d 1^YhZ 7(EYdU 6/GuL
+d 1^Yi] 7(EY\/ 6/Gs$
+d 'V9h+ 6fL.G 6/H"i
+d 'V9h. 6fL/8 6/H%3
+d 1^YhZ 7(EYdU 6/GuL
+w DXP] amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %15]p 7(EZ"+ 6/HG6
+d 1[]Qq 7(EYm& 6/HHq
+d 1[]QR 7(EYl1 6/HHO
+d %15]w 7(EYfr 6/HHz
+d %15]| 7(EYp1 6/HLh
+d %15^$ 7(EZ*S 6/HJ`
+d %15]p 7(EZ"+ 6/HG6
+w rBg1 access#no highway#unclassified psv#yes railway#tram
+d +Kc@* 7(EZiz 6/H%H
+d 1n"PC 7(EZVL 6/H&=
+d 1n"Q[ 7(EYa[ 6/H*.
+d 1n"QQ 7(EYVB 6/H*_
+d 1n"Nz 7(EYLX 6/H+,
+d "1"pA 7(EYFC 6/H+H
+d 1n"Q1 7(EY;1 6/H+f
+d "1"p@ 7(EY/D 6/H+o
+d "BX*) 7(EXvp 6/H+T
+d "1"p? 7(EX_x 6/H+<
+d "1"p> 7(EW[S 6/H)f
+d "BX!7 7(EW=T 6/H)C
+d "1"p= 7(EVz- 6/H([
+d %(K0_ 7(EVq. 6/H(/
+d "1"p< 7(EVl= 6/H'9
+w "'ny6 leisure#park
+d -ODH@ 7(E^Im 6/H=T
+d '_dW* 7(E^&N 6/H5\
+d '_dW/ 7(E\h~ 6/HA3
+d '_dW4 6fLXM 6/HF>
+d '_dW8 7(E^9r 6/HQ]
+d -ODH9 7(E^w@ 6/HHQ
+d $h3LQ 7(E^sY 6/HCY
+d -ODH@ 7(E^Im 6/H=T
+w "MB.3 highway#living_street name#Vera_Sandbergs_Allé oneway#yes
+d 1^Ygk 7(EY\1 6/H1U
+d 1n"Nm 7(EY`d 6/H1?
+d 1^Yl$ 7(EYf+ 6/H1,
+d 1^Yf9 7(EZ)w 6/H.'
+d 1n"Oi 7(EZ-2 6/H+n
+d 1^Yk+ 7(EZ.b 6/H*j
+w "O9`} building#yes
+d 1n"Q8 7(E[@` 6/HUZ
+d 1n"O1 7(E[Bz 6/HV1
+d 1n"Oz 7(E[90 6/HWU
+d 1n"Q! 7(E[6t 6/HV~
+d 1n"Q8 7(E[@` 6/HUZ
+w "MB-R building#yes
+d 1^Yi5 7(E[su 6/H*]
+d 1^Ygt 7(E[^r 6/H,R
+d 1^YjS 7(E[]u 6/H,/
+d 1^Yg4 6fLLI 6/H,F
+d 1^Yi_ 6fLKr 6/H*3
+d 1^Yk6 7(E[X5 6/H){
+d 1^YfV 7(E[W1 6/H)U
+d 1^Yl, 7(E[l9 6/H'_
+d 1^Yi5 7(E[su 6/H*]
+w S2wA building#yes
+d 'V9V' 7(EY$I 6/H">
+d 'V9V* 7(EXxZ 6/H#M
+d 'V9V- 7(EY$H 6/H&D
+d 'V9V/ 7(EY.6 6/H%4
+d 'V9V' 7(EY$I 6/H">
+w DXPi amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %15^6 7(EZ=X 6/HBU
+d %15^= 7(EZ1\ 6/HC[
+d %15^G 7(EZ9n 6/HFr
+d %15^Q 7(EZEk 6/HEl
+d %15^6 7(EZ=X 6/HBU
+w CAtT building#yes
+d %"?'4 7(EXoR 6/HLw
+d %"?'6 7(EXXj 6/HN|
+d 1`?^C 7(EXjP 6/HUp
+d %"?'7 7(EXl& 6/HUb
+d 1`?^I 5'yw= 5"JU=
+d %"?'8 7(EY#| 5"JU+
+d %"?'4 7(EXoR 6/HLw
+w "MB.- building#yes
+d 1^Yj| 7(E[t< 6/H$h
+d 1^Ygx 7(E[wN 6/H%3
+d 1^Yi; 7(E[pd 6/H&w
+d 1^Yj) 7(E[mR 6/H&N
+d 1^Yj| 7(E[t< 6/H$h
+w "MB.6 building#yes
+d 1^YkN 7(E[N^ 6/H$d
+d 1^Yf" 7(E[Qo 6/H%{
+d 1^Yg: 7(E[IS 6/H&c
+d 1^Yh[ 7(E[FA 6/H%L
+d 1^YkN 7(E[N^ 6/H$d
+w "MPPP building#yes
+d 1_lTk 7(EZjV 6/G||
+d 1_lW> 6fLD0 6/G}B
+d 1_lWz 7(EZcM 6/G|6
+d 1_lT. 7(EZgJ 6/G{p
+d 1_lTk 7(EZjV 6/G||
+w "-yHS building#yes
+d .3|=Q 7(E[L) 6/Gf4
+d .3|=f 7(E[Nr 6/Gh(
+d .3|=: 7(E[NU 6/Glg
+d .3|>9 6fLE9 6/GlL
+d .3|>. 7(EZj0 6/GiJ
+d .3|=^ 7(EZvz 6/Gg0
+d .3|=R 7(E[%t 5"JMp
+d .3|=3 7(E[#W 6/Gip
+d .3|=) 7(EZ{e 6/Ght
+d .3|=| 7(EZv@ 6/Gir
+d .3|># 7(EZx] 6/Gjc
+d .3|=U 7(E[*% 6/Gjp
+d .3|=I 6fLGO 6/GjS
+d .3|=, 7(E[Cx 6/GjU
+d .3|>L 7(E[Ci 6/Gg"
+d .3|=q 6fLJ. 6/Gfe
+d .3|=g 7(E[E[ 6/GfR
+d .3|=Q 7(E[L) 6/Gf4
+w "MPP` building#yes
+d 1_lVO 7(EZ\& 6/Gv#
+d 1_lT; 7(EZ^q 6/Gw/
+d 1_lT{ 6fLBh 6/Gwb
+d 1_lUu 7(EZUh 6/GvV
+d 1_lVO 7(EZ\& 6/Gv#
+w "MPP] building#yes
+d 1_lTw 7(EZv< 6/G}R
+d 1_lWN 7(EZxK 6/G~i
+d 1_lV5 6fLEF 6/H!*
+d 1_lT] 7(EZn0 6/G~i
+d 1_lT9 7(EZl| 6/G~)
+d 1_lTw 7(EZv< 6/G}R
+w EvDZ amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %A0}p 7(EY1? 6/H8N
+d %A0}q 7(EXzv 6/H:D
+d %A0}r 7(EY$` 6/H=>
+d %A0}s 7(EY9) 6/H;I
+d %A0}p 7(EY1? 6/H8N
+w EvF} amenity#parking
+d %A14t 7(EZj_ 6/H-~
+d %A14v 7(EZHD 6/H0z
+d %A14z 6fLAT 6/H2Y
+d %A14| 7(EZnd 6/H/]
+d %A14t 7(EZj_ 6/H-~
+w "'ny8 building#yes
+d -ODGg 7(E\S% 6/H09
+d -ODGs 7(E\U: 6/H18
+d -ODGn 7(E\NN 6/H1q
+d -ODH' 7(E\Lk 4.Tr
+d -ODGg 7(E\S% 6/H09
+w EvDk amenity#university building#yes operator#Chalmers_Tekniska_Högskola
+d %A0~T 7(EYJ- 6/H@{
+d %A0~V 7(EY6$ 6/HBd
+d %A0~W 7(EY?B 6/HFL
+d %A0~X 7(EYSK 6/HDc
+d %A0~T 7(EYJ- 6/H@{
+w S3!v building#yes
+d 'V;SJ 7(EY4F 6/Ghy
+d 'V;SN 6fL0p 6/Gnr
+d 'V;SP 7(EX[: 6/Gm*
+d 'V;SS 7(EY.8 6/Gg0
+d 'V;SJ 7(EY4F 6/Ghy

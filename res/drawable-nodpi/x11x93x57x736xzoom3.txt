@@ -1,0 +1,776 @@
+w ",0yS building#yes
+d .!~mV 7(F/ep 6/CSe
+d .!~nS 7(F/_6 6/CSt
+d .!~l_ 7(F/`+ 6/CU.
+d .!~m\ 7(F/fe 6/CT}
+d .!~mV 7(F/ep 6/CSe
+w ",//! addr:housenumber#18 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e+{ 7(F-ce 6/C[s
+d .!e,H 7(F-Tz 6/C\X
+d .!e,w 7(F-W* 6/C^/
+d .!e,c 7(F-es 6/C]J
+d .!e+{ 7(F-ce 6/C[s
+w ",1)q building#yes
+d ."#du 7(F/4W 6/C\2
+d ."#bL 7(F/27 6/C]2
+d ."#f, 6fQFn 6/C[x
+d ."#c5 7(F/&> 6/CZZ
+d ."#cX 5'zJO 6/C[8
+d ."#eF 7(F/.J 6/C[$
+d ."#cH 7(F/5q 6/C[]
+d ."#du 7(F/4W 6/C\2
+w ",1)j building#yes
+d ."#fX 7(F/#! 6/C`T
+d ."#er 7(F/"? 6/Ca!
+d ."#c7 7(F.|- 6/C`k
+d ."#eo 7(F.|n 6/C`?
+d ."#bs 7(F.zh 6/C`5
+d ."#g? 7(F.|- 6/C_@
+d ."#d} 6fQFL 6/C_G
+d ."#g) 5'zJB 6/C^~
+d ."#ep 6fQG- 5"J'6
+d ."#bq 7(F/%Y 6/C_g
+d ."#fr 7(F/&B 6/C_h
+d ."#dL 7(F/$} 6/C`b
+d ."#fX 7(F/#! 6/C`T
+w ",/.x addr:housenumber#13 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e,F 7(F-NP 6/CVB
+d .!e,A 7(F-Q& 5"J&R
+d .!e+Z 7(F-^q 6/CWU
+d .!e,@ 7(F-\= 6/CUb
+d .!e,F 7(F-NP 6/CVB
+w ",1)e building#yes
+d ."#b] 6fQQ1 6/CnY
+d ."#ea 7(F0&l 6/Cn]
+d ."#f. 7(F0&[ 6/Cmj
+d ."#e_ 7(F0,Q 6/Cmf
+d ."#b] 6fQQ1 6/CnY
+w ",/.y addr:housenumber#6 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e+x 6fQ<z 6/Cg1
+d .!e+S 7(F-|P 6/Ch>
+d .!e+X 7(F.%> 6/Ch>
+d .!e,S 7(F.%@ 4.Pe
+d .!e+v 7(F.#J 4.Pe
+d .!e+i 7(F.#L 6/Cj+
+d .!e,k 7(F.,Y 6/Cj*
+d .!e,i 7(F.,R 6/Cg/
+d .!e+x 6fQ<z 6/Cg1
+w "-/lR building#yes
+d .,Uj3 7(F.f3 6/D&Z
+d .,Uis 7(F.Xd 6/D%+
+d .,Uj0 7(F.]q 6/D#N
+d .,UjD 7(F.k? 5"J*l
+d .,Uj3 7(F.f3 6/D&Z
+w ",1)i building#yes
+d ."#eg 7(F0Of 6/Cs|
+d ."#fF 6fQT/ 6/Cs~
+d ."#e& 7(F0Jg 6/Cv&
+d ."#e$ 7(F0P! 6/Cv$
+d ."#eg 7(F0Of 6/Cs|
+w ",1)m building#yes
+d ."#d[ 7(F0Tb 6/CsY
+d ."#e: 7(F0PX 6/Cs[
+d ."#d6 6fQTk 6/CuE
+d ."#e- 7(F0T~ 6/CuB
+d ."#d[ 7(F0Tb 6/CsY
+w ",1)` building#yes
+d ."#f2 7(F.y( 6/CpQ
+d ."#dP 7(F.z+ 6/CqD
+d ."#e5 7(F/'R 5"J(~
+d ."#cO 5'zJH 6/Cp$
+d ."#f2 7(F.y( 6/CpQ
+w ",1)r addr:housenumber#5 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#c0 7(F/y* 6/Cwy
+d ."#ek 7(F/lZ 6/Cw~
+d ."#eJ 7(F/lB 6/Cu~
+d ."#eT 7(F/xp 6/Cux
+d ."#c0 7(F/y* 6/Cwy
+w ",1)_ building#yes
+d ."#fc 7(F,sT 6/Cy-
+d ."#e( 7(F,i( 6/Cy5
+d ."#fO 7(F,iL 6/Czs
+d ."#cW 7(F,iP 6/C{%
+d ."#fA 7(F,s{ 6/Cz{
+d ."#fc 7(F,sT 6/Cy-
+w ",0Q$ building#yes
+d .!xPM 7(F006 6/COz
+d .!xPc 7(F0/; 6/CPr
+d .!xQI 7(F04b 6/CQ&
+d .!xQJ 6fQQ~ 6/CPq
+d .!xP\ 7(F08" 6/CP|
+d .!xP> 7(F08h 6/CP9
+d .!xPM 7(F006 6/COz
+w ",1)w addr:housenumber#6 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#cS 7(F0&k 6/CpV
+d ."#fW 7(F/v& 6/Cp]
+d ."#f3 7(F/uk 6/Cnn
+d ."#dt 7(F0&R 6/Cng
+d ."#cS 7(F0&k 6/CpV
+w ",1)h building#yes
+d ."#f^ 7(F-;4 6/CyM
+d ."#c1 7(F-2. 6/CyM
+d ."#bQ 7(F-2/ 6/Czb
+d ."#f@ 7(F-20 6/C{(
+d ."#fB 7(F-;5 6/C{(
+d ."#f^ 7(F-;4 6/CyM
+w ",1)\ building#yes
+d ."#fg 6fQU\ 6/CnE
+d ."#dT 7(F0U4 6/CnE
+d ."#es 7(F0U0 6/CmD
+d ."#d1 7(F0Y7 6/CmC
+d ."#fg 6fQU\ 6/CnE
+w ",0Q* building#yes
+d .!xPx 7(F07f 6/CT+
+d .!xP: 7(F0;2 6/CT5
+d .!xQ- 7(F0<= 4.PO
+d .!xPz 7(F08q 5"J%~
+d .!xPx 7(F07f 6/CT+
+w ",/5i addr:housenumber#2 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!f"W 6fQD< 6/Cff
+d .!f"[ 7(F.\K 6/Cf(
+d .!f"] 7(F.Z" 5"J(&
+d .!f"U 7(F.e< 6/Ch2
+d .!f"D 7(F.e& 6/Ch<
+d .!f"I 6fQDl 6/Ch`
+d .!f"J 7(F.ok 6/Cg#
+d .!f"E 7(F.h@ 6/CfU
+d .!f"W 6fQD< 6/Cff
+w "-/S8 building#yes
+d .,Si* 7(F/K? 6/C_&
+d .,Si. 7(F/Cv 6/C^t
+d .,Shv 7(F/C6 6/C_y
+d .,Si% 7(F/J^ 6/C`+
+d .,Si* 7(F/K? 6/C_&
+w ",1)U addr:housenumber#4 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#fe 7(F/bX 6/Cn2
+d ."#cR 7(F/c4 6/Cpt
+d ."#g( 7(F/jv 6/Cpn
+d ."#e^ 7(F/j; 6/Cn,
+d ."#fe 7(F/bX 6/Cn2
+w ",/1# building#yes
+d .!eM} 7(F.UL 6/C`;
+d .!eMz 7(F._< 6/C_S
+d .!eMo 6fQC@ 6/C_(
+d .!eMn 7(F.X[ 6/C_Q
+d .!eMk 7(F.X' 6/C_9
+d .!eM` 7(F.Sw 6/C_W
+d .!eM} 7(F.UL 6/C`;
+w ",0Q) building#yes
+d .!xQO 7(F/rZ 6/CEy
+d .!xPZ 7(F/wG 6/CF|
+d .!xQ< 7(F/z4 6/CFQ
+d .!xQA 7(F/{k 6/CFq
+d .!xP= 7(F0!Q 4.PD
+d .!xQL 7(F/y- 6/CDs
+d .!xQO 7(F/rZ 6/CEy
+w ",1)R addr:housenumber#9 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#g1 7(F0Ey 5"J)V
+d ."#cl 7(F0@6 6/Cvb
+d ."#c` 7(F0@/ 6/Cv@
+d ."#fi 7(F0=* 6/CvA
+d ."#e9 7(F0<z 6/Cu!
+d ."#dx 7(F0@6 6/Cu!
+d ."#dz 7(F0@( 5"J)C
+d ."#cw 6fQS[ 6/CtW
+d ."#eR 6fQS[ 6/Ct~
+d ."#dl 7(F0I- 6/Ct{
+d ."#cv 7(F0IC 6/Cv<
+d ."#f` 7(F0Es 5"J)S
+d ."#g1 7(F0Ey 5"J)V
+w ",1)Q building#yes
+d ."#fu 7(F/%, 6/Cnq
+d ."#bW 7(F/!+ 6/Co#
+d ."#gM 7(F.~i 6/Cnf
+d ."#fn 7(F.w< 6/Co%
+d ."#ed 7(F.wR 6/Co7
+d ."#f2 7(F.y( 6/CpQ
+d ."#cO 5'zJH 6/Cp$
+d ."#fu 7(F/%, 6/Cnq
+w ",0yP building#yes
+d .!~nF 7(F.lq 4.PR
+d .!~o8 7(F.n` 6/CUx
+d .!~oF 7(F.qX 6/CW5
+d .!~mO 7(F.q| 6/CWE
+d .!~nk 7(F.fs 6/CX:
+d .!~ma 7(F.cF 6/CVg
+d .!~nB 7(F.dr 6/CV\
+d .!~nn 7(F.c5 6/CUu
+d .!~nF 7(F.lq 4.PR
+w ",0Q- building#yes
+d .!xQ4 7(F/po 6/CO&
+d .!xQH 7(F/q@ 6/CP\
+d .!xQK 7(F/{e 6/CPR
+d .!xPv 7(F/{6 6/CNw
+d .!xQ4 7(F/po 6/CO&
+w ",/1$ building#yes
+d .!eM^ 7(F.m& 6/Cc%
+d .!eM| 7(F.oD 6/Ca`
+d .!eMc 7(F.k_ 6/CaK
+d .!eMu 7(F.jx 6/Cat
+d .!eMm 7(F.iA 6/Cbn
+d .!eM^ 7(F.m& 6/Cc%
+w ",/16 addr:housenumber#4 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!eT$ 7(F.L( 6/Cf;
+d .!eSt 6fQB= 6/Cf7
+d .!eSr 7(F.TD 6/Chp
+d .!eSl 7(F.L[ 6/Cht
+d .!eSj 7(F.LM 6/Cgw
+d .!eT& 7(F.EW 6/Cgz
+d .!eSv 7(F.ED 6/CfU
+d .!eSo 7(F.L, 6/CfQ
+d .!eT$ 7(F.L( 6/Cf;
+w ",/5k building#yes
+d .!f"X 6fQFZ 6/Cb"
+d .!f"F 7(F.|I 5"J'Z
+d .!f"H 7(F/)" 6/Cc~
+d .!f"L 7(F/+_ 6/Cby
+d .!f"X 6fQFZ 6/Cb"
+w ",1)c building#yes
+d ."#d< 7(F.!T 5"J);
+d ."#cT 7(F-u= 6/Cso
+d ."#cP 6fQ<8 6/Ctd
+d ."#d4 7(F.!b 6/Ct^
+d ."#d< 7(F.!T 5"J);
+w "-/S: building#yes
+d .,Si5 7(F08~ 6/CM1
+d .,Si3 7(F02z 6/CMI
+d .,Shs 7(F01p 6/CLM
+d .,Si" 7(F07t 6/CL6
+d .,Si5 7(F08~ 6/CM1
+w ",0Q& building#yes
+d .!xQ( 7(F0!= 5"J%)
+d .!xQB 6fQOb 6/CHg
+d .!xPf 7(F0+G 4.PE
+d .!xPs 7(F02z 6/CIi
+d .!xP| 7(F0*1 6/CJd
+d .!xPL 7(F0&" 6/CIB
+d .!xQ( 7(F0!= 5"J%)
+w ",0yI building#yes
+d .!~lx 6fQKK 6/CJu
+d .!~o> 7(F/I: 6/CK0
+d .!~o] 7(F/Je 6/CLd
+d .!~m( 7(F/MK 6/CL\
+d .!~nu 7(F/Me 6/CLx
+d .!~n( 7(F/PO 5"J%E
+d .!~nL 7(F/P0 6/CLN
+d .!~nH 7(F/Rr 6/CLE
+d .!~lx 6fQKK 6/CJu
+w ",1)n addr:housenumber#10 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#b\ 7(F0Sj 6/Cn$
+d ."#cE 7(F0O- 6/Cn'
+d ."#g< 7(F0OT 6/Cor
+d ."#c" 7(F0T2 5"J(t
+d ."#b\ 7(F0Sj 6/Cn$
+w ",/6Z addr:housenumber#29 addr:postcode#41749 addr:street#Bäckedalsvägen building#yes
+d .!f0] 7(F.Tt 6/Cr2
+d .!f0J 7(F.e< 6/CqV
+d .!f0` 7(F.c? 3"A}
+d .!f0L 7(F.bE 6/Coh
+d .!f0\ 7(F.au 5"J(o
+d .!f0P 7(F.Z1 6/CoX
+d .!f0N 7(F.Zb 6/Cp)
+d .!f0O 7(F.Rz 6/CpD
+d .!f0] 7(F.Tt 6/Cr2
+w ",1)I building#yes
+d ."#g4 7(F0#/ 6/Cht
+d ."#eS 7(F0!W 6/Ck1
+d ."#cb 7(F0(8 6/CkA
+d ."#d$ 7(F0)n 6/Ci%
+d ."#g4 7(F0#/ 6/Cht
+w "-/S9 building#yes
+d .,Si$ 7(F/O; 6/C`R
+d .,Si2 7(F/VH 6/C`]
+d .,Si# 7(F/Vi 6/C_q
+d .,Si8 7(F/Vt 6/C_Y
+d .,Shy 7(F/Og 6/C_N
+d .,Si$ 7(F/O; 6/C`R
+w ",//$ addr:housenumber#9 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e-( 7(F.'! 5"J%|
+d .!e+^ 7(F-w[ 6/CSK
+d .!e+U 7(F-z[ 6/CU<
+d .!e-1 7(F.*! 6/CTS
+d .!e,= 6fQ>( 6/CTH
+d .!e,U 7(F.'; 6/CRo
+d .!e-( 7(F.'! 5"J%|
+w ",1)t building#yes
+d ."#bj 7(F-0/ 5"J)|
+d ."#f) 7(F-0/ 6/CyN
+d ."#c1 7(F-2. 6/CyM
+d ."#bQ 7(F-2/ 6/Czb
+d ."#bj 7(F-0/ 5"J)|
+w ",//& building#yes
+d .!e+s 7(F.1I 6/CcB
+d .!e,/ 6fQ?( 6/CdX
+d .!e,( 7(F.<l 6/Cc}
+d .!e+j 7(F.;c 6/CcG
+d .!e+q 6fQ?I 6/Ccb
+d .!e+p 7(F.6& 6/Cc%
+d .!e+s 7(F.1I 6/CcB
+w "1XO; building#yes
+d .`."4 7(F/|C 6/Ct:
+d .`."3 7(F/wL 5"J)@
+d .`."6 7(F/we 6/CuS
+d .`."5 7(F/|\ 6/CuP
+d .`."4 7(F/|C 6/Ct:
+w ",0yR building#yes
+d .!~n} 7(F.U< 6/CW_
+d .!~nq 7(F.I2 6/CXM
+d .!~o@ 7(F.L/ 6/CZ"
+d .!~mz 7(F.W{ 6/CY7
+d .!~n} 7(F.U< 6/CW_
+w ",0yO building#yes
+d .!~mI 7(F.ut 6/CUB
+d .!~o8 7(F.n` 6/CUx
+d .!~oF 7(F.qX 6/CW5
+d .!~o6 4bA@ 6/CV]
+d .!~mI 7(F.ut 6/CUB
+w ",1)L addr:housenumber#2 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#fT 7(F/A: 6/Cj}
+d ."#ct 7(F/7d 5"J(G
+d ."#f" 7(F/82 6/Cm^
+d ."#eh 7(F/Ag 4.Pi
+d ."#fT 7(F/A: 6/Cj}
+w ",0Q" building#yes
+d .!xQ@ 7(F/}* 6/CBn
+d .!xPO 7(F/u[ 5"J$P
+d .!xPF 7(F/yH 6/CDp
+d .!xPI 7(F0"u 6/CC`
+d .!xQ@ 7(F/}* 6/CBn
+w ",/.u addr:housenumber#14 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e,X 7(F.5F 6/CY8
+d .!e,e 7(F.(_ 6/CZ"
+d .!e,M 7(F.)r 6/CZd
+d .!e+t 7(F.#r 6/C[(
+d .!e+w 7(F.&? 6/C\Q
+d .!e,z 7(F.5g 6/C[Y
+d .!e-A 7(F.5E 6/C[E
+d .!e-0 7(F.8b 6/C[2
+d .!e,X 7(F.5F 6/CY8
+w ",/5f building#yes
+d .!f"` 7(F.m{ 6/C]=
+d .!f"Z 7(F.mK 6/C^)
+d .!f"Y 7(F.uF 6/C^:
+d .!f"^ 7(F.uv 6/C]N
+d .!f"` 7(F.m{ 6/C]=
+w ",0Q+ building#yes
+d .!xQ5 6fQP" 6/CRg
+d .!xQN 7(F/wC 5"J%~
+d .!xQ* 7(F/xE 6/CTi
+d .!xQP 7(F0". 6/CT[
+d .!xQ5 6fQP" 6/CRg
+w ",/.z building#yes
+d .!e,} 7(F-_3 5"J&0
+d .!e-% 7(F-[| 6/CTj
+d .!e,, 6fQ9l 6/CUH
+d .!e,n 7(F-`5 5"J&6
+d .!e,} 7(F-_3 5"J&0
+w ",/.| addr:housenumber#11 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e,* 7(F-jJ 6/CT~
+d .!e,# 7(F-js 6/CV#
+d .!e-, 7(F-m" 6/CU~
+d .!e-* 7(F-m@ 6/CVf
+d .!e+z 7(F-r@ 6/CV_
+d .!e+` 7(F-r# 6/CUx
+d .!e,s 7(F-t( 6/CUu
+d .!e+f 6fQ<' 6/CTq
+d .!e,* 7(F-jJ 6/CT~
+w ",1)l building#yes
+d ."#gL 7(F/M^ 6/Cg4
+d ."#c} 7(F/MV 6/Cf|
+d ."#c| 7(F/H\ 6/Cg$
+d ."#d' 7(F/Hn 6/CgR
+d ."#d" 7(F/Gd 6/CgT
+d ."#bi 7(F/G} 6/Ch9
+d ."#bf 7(F/Hs 6/Ch8
+d ."#c& 7(F/I* 6/Chl
+d ."#cI 7(F/IS 6/Chl
+d ."#dv 7(F/O9 6/Chd
+d ."#d| 7(F/R' 6/Ch`
+d ."#gG 7(F/QN 6/Cg/
+d ."#gL 7(F/M^ 6/Cg4
+w ",0yL building#yes
+d .!~lb 7(F/Sg 6/CIH
+d .!~lt 7(F/U^ 6/CK2
+d .!~lr 6fQLT 6/CJx
+d .!~mv 7(F/ZR 6/CI0
+d .!~lb 7(F/Sg 6/CIH
+w ",1)g building#yes
+d ."#gO 6fQS4 6/Che
+d ."#fL 7(F0@J 6/Ci'
+d ."#d0 7(F0CU 6/Ci9
+d ."#dp 7(F0D. 5"J(3
+d ."#gF 7(F0F; 6/Ci%
+d ."#g% 6fQSy 5"J()
+d ."#g8 7(F0@< 6/CgC
+d ."#gD 7(F0>5 6/ChU
+d ."#gO 6fQS4 6/Che
+w "-/S7 building#yes
+d .,Si# 7(F/Vi 6/C_q
+d .,Si2 7(F/VH 6/C`]
+d .,Si) 7(F/V; 6/C`v
+d .,Si0 7(F/_" 6/Ca&
+d .,Si' 7(F/_P 6/C`!
+d .,Si# 7(F/Vi 6/C_q
+w ",0Q' addr:housenumber#41 addr:postcode#41749 addr:street#Bäckedalsvägen building#yes
+d .!xPo 7(F01[ 6/CMd
+d .!xQ= 6fQQ- 6/CM_
+d .!xP; 7(F0+h 6/COV
+d .!xQT 7(F01* 6/CO[
+d .!xPo 7(F01[ 6/CMd
+w ",1)[ building#yes
+d ."#ex 7(F08T 6/CxM
+d ."#c8 7(F04" 5"J)g
+d ."#eD 7(F03z 6/Cy-
+d ."#e8 7(F08N 6/Cy/
+d ."#ex 7(F08T 6/CxM
+w ",0Q( building#yes
+d .!xPq 7(F/pE 6/CMZ
+d .!xQ4 7(F/po 6/CO&
+d .!xPv 7(F/{6 6/CNw
+d .!xQ> 7(F/zj 6/CMO
+d .!xPq 7(F/pE 6/CMZ
+w ",1)W building#yes
+d ."#dR 7(F0M{ 6/Cx;
+d ."#d- 7(F0IF 6/Cx>
+d ."#eB 7(F0IQ 6/Cy!
+d ."#f= 7(F0N) 6/Cx|
+d ."#dR 7(F0M{ 6/Cx;
+w ",1)V building#yes
+d ."#c$ 7(F-p2 6/Cq}
+d ."#gN 7(F-mO 6/Cpe
+d ."#d? 7(F-k9 5"J(~
+d ."#f4 7(F-jQ 6/CpU
+d ."#g/ 7(F-fP 6/Cpq
+d ."#dZ 7(F-g? 6/Cq7
+d ."#d= 7(F-e- 6/CqG
+d ."#d# 7(F-h. 6/Crl
+d ."#f0 7(F-if 6/Cra
+d ."#f/ 7(F-j> 6/Crz
+d ."#cB 7(F-oU 6/CrU
+d ."#cD 7(F-nX 6/Cr*
+d ."#c$ 7(F-p2 6/Cq}
+w ",1)f addr:housenumber#8 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#c( 7(F0:K 6/CoJ
+d ."#f9 7(F02Z 6/Co?
+d ."#f> 6fQQm 6/Cn4
+d ."#d_ 7(F0:x 6/Cn?
+d ."#c( 7(F0:K 6/CoJ
+w "-/tf building#yes
+d .,V<Y 7(F-M5 6/C{X
+d .,V<S 7(F-GW 6/Cz'
+d .,V<F 7(F-OD 6/Cy&
+d .,V<N 7(F-U# 5"J){
+d .,V<J 7(F-PF 6/C{2
+d .,V<Y 7(F-M5 6/C{X
+w ",1)M building#yes
+d ."#c- 7(F.,S 6/Cv2
+d ."#e6 7(F.$8 6/Cvz
+d ."#f- 7(F.&^ 6/Cwr
+d ."#e+ 7(F.(7 6/Cwd
+d ."#cY 7(F.)V 6/Cx5
+d ."#cq 7(F.0: 5"J)_
+d ."#c- 7(F.,S 6/Cv2
+w ",//' addr:housenumber#10 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e-7 7(F.B[ 6/Ca+
+d .!e,y 7(F.44 6/Cb#
+d .!e+p 7(F.6& 6/Cc%
+d .!e+q 6fQ?I 6/Ccb
+d .!e+j 7(F.;c 6/CcG
+d .!e,u 7(F.E^ 6/Cbj
+d .!e-7 7(F.B[ 6/Ca+
+w ",/.t building#yes
+d .!e-) 7(F-i< 6/CVp
+d .!e,l 7(F-bk 6/CV{
+d .!e-? 7(F-c2 6/CWd
+d .!e,J 7(F-ia 6/CWY
+d .!e-) 7(F-i< 6/CVp
+w ",1)T building#yes
+d ."#d` 7(F0)~ 6/ChW
+d ."#bv 7(F0.6 6/Ch`
+d ."#e} 7(F0/5 6/Cg3
+d ."#g& 7(F0*} 6/Cg*
+d ."#d` 7(F0)~ 6/ChW
+w ",1)G building#yes
+d ."#dO 7(F.7) 6/CqV
+d ."#bl 6fQ?* 6/Cp5
+d ."#c! 7(F.2* 5"J(y
+d ."#e3 7(F.1O 6/Cp*
+d ."#bu 7(F.,< 6/CpR
+d ."#fE 7(F.-F 5"J)!
+d ."#fD 7(F.,% 5"J)"
+d ."#dm 7(F..j 6/Cr<
+d ."#bZ 7(F.11 6/Cr*
+d ."#fP 7(F.2; 6/CrW
+d ."#g6 7(F.5e 6/Cr<
+d ."#c2 7(F.4R 6/Cqi
+d ."#dO 7(F.7) 6/CqV
+w ",1)O building#yes
+d ."#eN 7(F0hA 6/CmU
+d ."#be 7(F0h2 6/CnV
+d ."#bO 7(F0of 6/CnZ
+d ."#f8 7(F0ou 4.Pi
+d ."#eN 7(F0hA 6/CmU
+w ",/6[ building#yes
+d .!f0^ 7(F.^u 6/Cjq
+d .!f0X 7(F.X~ 6/Cjq
+d .!f0K 6fQBl 6/Cl"
+d .!f0V 7(F.^s 6/Cl"
+d .!f0^ 7(F.^u 6/Cjq
+w "-/td building#yes
+d .,V<X 7(F-SN 6/C~<
+d .,V<V 7(F-L. 6/C~F
+d .,V<I 4bA3 5"J*I
+d .,V<H 6fQ8t 5"J*H
+d .,V<X 7(F-SN 6/C~<
+w ",0TU building#yes
+d .!x~o 7(F0No 6/CSm
+d .!x~w 7(F0Nc 6/CTr
+d .!x~s 7(F0T= 6/CTt
+d .!x~p 7(F0TJ 6/CSo
+d .!x~o 7(F0No 6/CSm
+w ",1)K building#yes
+d ."#e, 7(F/pc 6/CcP
+d ."#e\ 7(F/o} 6/CdS
+d ."#c+ 7(F/xF 6/Cdf
+d ."#ez 7(F/y, 5"J'`
+d ."#e, 7(F/pc 6/CcP
+w ",0yN building#yes
+d .!~o; 7(F/_Y 6/CR'
+d .!~o4 7(F/Pc 6/CRG
+d .!~oX 6fQKN 4.PQ
+d .!~ny 7(F/`` 6/CSf
+d .!~o; 7(F/_Y 6/CR'
+w ",1)X building#yes
+d ."#g$ 7(F/;. 6/C[A
+d ."#e4 7(F/8( 6/C\Q
+d ."#du 7(F/4W 6/C\2
+d ."#cH 7(F/5q 6/C[]
+d ."#fy 7(F/7Z 6/C[#
+d ."#g$ 7(F/;. 6/C[A
+w ",1)o building#yes
+d ."#e) 7(F-9( 6/D!$
+d ."#ce 7(F-7D 6/C~;
+d ."#g# 7(F-<7 6/C}t
+d ."#f6 7(F-=y 6/C~^
+d ."#e) 7(F-9( 6/D!$
+w ",1)P building#yes
+d ."#do 7(F/m^ 6/Cih
+d ."#gP 7(F/tn 6/Cim
+d ."#e~ 7(F/u; 6/Cgd
+d ."#dj 7(F/m{ 6/Cg^
+d ."#d! 7(F/mu 5"J(*
+d ."#bc 7(F/kJ 6/Cgy
+d ."#g0 7(F/k: 6/Chf
+d ."#cF 6fQN< 6/Chh
+d ."#do 7(F/m^ 6/Cih
+w "1XO< building#yes
+d .`."7 7(F045 6/CtE
+d .`."2 7(F0/z 5"J)A
+d .`."8 7(F00) 6/Cu=
+d .`."1 7(F04B 6/Cu;
+d .`."7 7(F045 6/CtE
+w ",1)J building#yes
+d ."#fK 7(F.7g 6/ClL
+d ."#eI 7(F.0u 6/Cm3
+d ."#cr 7(F..8 6/Cl@
+d ."#bk 7(F.5* 6/CkY
+d ."#fK 7(F.7g 6/ClL
+w ",1)Y building#yes
+d ."#bN 7(F-?E 6/D"K
+d ."#cc 7(F-7A 6/D"R
+d ."#bP 7(F-7p 6/D$<
+d ."#dM 7(F-?s 6/D$4
+d ."#bN 7(F-?E 6/D"K
+w ",/.} building#yes
+d .!e,f 7(F-|V 6/CYV
+d .!e,N 7(F.!< 5"J&m
+d .!e-! 7(F.%h 6/CZm
+d .!e+[ 7(F.## 5"J&\
+d .!e,f 7(F-|V 6/CYV
+w ",0Q% building#yes
+d .!xQC 7(F/lR 6/CK0
+d .!xQU 7(F/e+ 6/CK?
+d .!xPb 7(F/e\ 6/CL4
+d .!xPa 7(F/m% 6/CL&
+d .!xQC 7(F/lR 6/CK0
+w ",1)v building#yes
+d ."#dQ 7(F-V! 5"J)2
+d ."#fZ 7(F-P7 6/Cs!
+d ."#f\ 7(F-OV 6/Cr>
+d ."#ck 7(F-U@ 6/Cr,
+d ."#dQ 7(F-V! 5"J)2
+w ",//# addr:housenumber#8 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e,W 7(F-z6 5"J'P
+d .!e,& 7(F-ze 5"J'W
+d .!e,6 7(F-|V 6/Cbc
+d .!e,: 7(F-}9 6/Cce
+d .!e,. 7(F-vS 6/Cct
+d .!e,> 7(F-w: 5"J'l
+d .!e+e 6fQ=l 6/Cd^
+d .!e+o 6fQ=Z 5"J'N
+d .!e,W 7(F-z6 5"J'P
+w ",//% building#yes
+d .!e,K 7(F.>l 6/C\T
+d .!e+V 6fQ@L 6/C^4
+d .!e-8 7(F.=j 6/C^I
+d .!e-3 7(F.;! 6/C\i
+d .!e,K 7(F.>l 6/C\T
+w ",1)b building#yes
+d ."#d{ 7(F-%C 6/D$a
+d ."#f! 7(F,xj 5"J*j
+d ."#fN 7(F,yD 6/D'N
+d ."#d] 7(F-%{ 6/D'F
+d ."#d{ 7(F-%C 6/D$a
+w ",0yG building#yes
+d .!~m} 7(F.td 6/COv
+d .!~l{ 7(F.l+ 6/CPG
+d .!~n{ 7(F.n< 6/CQd
+d .!~m! 7(F.rV 6/CQM
+d .!~m@ 7(F.rz 6/CQb
+d .!~nP 7(F.ui 6/CQS
+d .!~n+ 7(F.uD 5"J%o
+d .!~mE 7(F.vt 6/CQ4
+d .!~m} 7(F.td 6/COv
+w ",1)x building#yes
+d ."#gC 7(F-nv 6/Cu$
+d ."#f( 7(F-u& 4.Pq
+d ."#dC 7(F-nK 6/CwJ
+d ."#ef 7(F-h= 6/CvC
+d ."#gC 7(F-nv 6/Cu$
+w ",0Q# building#yes
+d .!xQ2 7(F0?} 6/CR~
+d .!xP` 7(F0?f 5"J&9
+d .!xQ3 7(F0GE 6/CUW
+d .!xQS 7(F0G\ 6/CS"
+d .!xQ2 7(F0?} 6/CR~
+w ",/.~ building#yes
+d .!e,U 7(F.'; 6/CRo
+d .!e,= 6fQ>( 6/CTH
+d .!e+L 7(F..} 6/CT-
+d .!e,Z 6fQ>B 6/CRT
+d .!e,U 7(F.'; 6/CRo
+w ",/1! addr:housenumber#3 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!eMs 7(F.h6 6/CcM
+d .!eMa 7(F.Xa 6/CbT
+d .!eMr 7(F.[E 6/C`{
+d .!eMu 7(F.jx 6/Cat
+d .!eMm 7(F.iA 6/Cbn
+d .!eMs 7(F.h6 6/CcM
+w ",/.{ addr:housenumber#16 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e,8 7(F-z* 6/CZn
+d .!e-# 7(F-k? 4.PX
+d .!e,Q 6fQ;R 6/C]k
+d .!e,[ 7(F-}. 6/C](
+d .!e,8 7(F-z* 6/CZn
+w "-/tg building#yes
+d .,V<J 7(F-PF 6/C{2
+d .,V<T 6fQ8f 6/C{i
+d .,V<C 7(F-Q, 5"J*1
+d .,V<D 7(F-Vq 5"J*3
+d .,V<R 7(F-Xt 5"J*&
+d .,V<N 7(F-U# 5"J){
+d .,V<J 7(F-PF 6/C{2
+w ",1)] addr:housenumber#7 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#dh 7(F03h 6/CwH
+d ."#bt 7(F0$+ 6/CwK
+d ."#d@ 7(F0$# 6/Cuh
+d ."#fl 7(F03` 6/Cue
+d ."#dh 7(F03h 6/CwH
+w ",1)s building#yes
+d ."#eP 7(F.Aq 6/C}X
+d ."#c? 7(F.;} 6/C},
+d ."#et 7(F.7I 6/D!-
+d ."#cm 7(F.?" 6/D!e
+d ."#fw 6fQ@P 5"J*A
+d ."#g2 7(F.@< 6/C~;
+d ."#eP 7(F.Aq 6/C}X
+w ",1)N building#yes
+d ."#eO 7(F-;! 6/Cw7
+d ."#d5 7(F-2& 6/Cw4
+d ."#fj 7(F-23 6/Cv&
+d ."#b[ 7(F-;. 6/Cv*
+d ."#eO 7(F-;! 6/Cw7
+w "-/lN building#yes
+d .,UkH 7(F.M9 6/D"i
+d .,Uj? 7(F.RZ 6/D#@
+d .,Uj9 7(F.Uo 6/D":
+d .,Uic 7(F.PN 6/D!b
+d .,UkH 7(F.M9 6/D"i
+w ",1)F addr:housenumber#11 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#fv 7(F0dD 6/Cuo
+d ."#f1 7(F0db 6/CwQ
+d ."#c> 7(F0Ta 6/Cw[
+d ."#f{ 7(F0TB 6/Cut
+d ."#c_ 7(F0Yx 6/Cup
+d ."#el 7(F0Yt 6/CuX
+d ."#eb 7(F0^8 6/CuU
+d ."#fp 7(F0^> 6/Cus
+d ."#fv 7(F0dD 6/Cuo
+w ",0Q, building#yes
+d .!xPK 7(F03q 6/CSr
+d .!xQ0 7(F00# 6/CSX
+d .!xPP 7(F02F 6/CRH
+d .!xPd 7(F067 6/CRb
+d .!xPK 7(F03q 6/CSr
+w ",0yK building#yes
+d .!~m_ 7(F/A! 6/CPe
+d .!~oh 7(F/:- 6/CQ#
+d .!~m. 6fQI) 6/CPk
+d .!~nU 7(F/3Y 6/CQ'
+d .!~n' 7(F/1m 5"J%_
+d .!~oB 7(F/>y 6/CO$
+d .!~m_ 7(F/A! 6/CPe
+w ",/1" addr:housenumber#5 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!eN! 7(F.T> 6/C]Q
+d .!eMk 7(F.X' 6/C_9
+d .!eMn 7(F.X[ 6/C_Q
+d .!eMo 6fQC@ 6/C_(
+d .!eM\ 7(F.hO 6/C^@
+d .!eN# 7(F.d4 6/C\?
+d .!eN! 7(F.T> 6/C]Q
+w ",1)z addr:housenumber#3 addr:postcode#41749 addr:street#Planåsvägen building#yes
+d ."#dE 7(F/`L 6/Cut
+d ."#gB 7(F/Od 6/Cu~
+d ."#d/ 7(F/OG 6/Ct5
+d ."#d3 7(F/`0 6/Ct,
+d ."#dE 7(F/`L 6/Cut
+w ",0qT building#yes
+d .!}am 7(F0^& 6/CY>
+d .!}au 7(F0[f 6/CYx
+d .!}av 7(F0b> 6/CZk
+d .!~oa 7(F0d\ 6/CZ0
+d .!}am 7(F0^& 6/CY>
+w ",1)a building#yes
+d ."#dv 7(F/O9 6/Chd
+d ."#cI 7(F/IS 6/Chl
+d ."#g' 7(F/Iq 6/CiY
+d ."#eV 7(F/OW 6/CiR
+d ."#dv 7(F/O9 6/Chd
+w ",1)k building#yes
+d ."#dD 7(F/E& 6/CXl
+d ."#cf 6fQHi 5"J&L
+d ."#eW 7(F/2D 6/CY@
+d ."#bX 7(F/@h 6/CZV
+d ."#dD 7(F/E& 6/CXl
+w ",/5h building#yes
+d .!f"G 7(F.p` 5"J(C
+d .!f"i 7(F.mD 6/Cjj
+d .!f"a 7(F.n& 5"J(I
+d .!f"_ 7(F.qB 6/Ck)
+d .!f"G 7(F.p` 5"J(C
+w ",0TT building#yes
+d .!x~q 7(F0TK 6/CZ"
+d .!x~v 7(F0D} 6/CY<
+d .!x~y 7(F0B| 6/CZm
+d .!x~z 7(F0KC 5"J&n
+d .!x~{ 6fQT2 5"J&r
+d .!x~t 7(F0Qs 6/C[z
+d .!x~q 7(F0TK 6/CZ"
+w ",/.w addr:housenumber#12 addr:postcode#41749 addr:street#Hörnvägen building#yes
+d .!e-> 7(F.:n 6/C\]
+d .!e-C 7(F.-g 6/C]F
+d .!e-& 7(F.0u 6/C_=
+d .!e+m 7(F.=| 6/C^T
+d .!e-8 7(F.=j 6/C^I
+d .!e-3 7(F.;! 6/C\i
+d .!e-> 7(F.:n 6/C\]

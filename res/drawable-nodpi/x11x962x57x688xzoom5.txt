@@ -1,0 +1,74 @@
+n @@B_ 7(EP1% 6/Fzy highway#traffic_signals
+n @u[K 7(EP=* 6/FwN highway#traffic_signals
+n ""cgQ 7(EQ3# 6/F}T highway#traffic_signals
+n "1"p( 7(EULa 6/GQw highway#bus_stop railway#tram_stop
+n "4K:F 7(EU[4 6/GPY highway#bus_stop name#Wavrinskys_Plats railway#tram_stop
+n "4K:M 7(ESQp 6/G6w bicycle#yes railway#crossing
+n "4K:R 7(EQ:_ 6/G"W name#Medicinaregatan railway#tram_stop
+n "6i.Y 7(EW1> 6/H%U highway#turning_circle
+n $y_>a 7(EZ1T 6/GI@ highway#turning_circle
+n $zO3$ 7(EU@O 6/F~* amenity#post_box
+n ${Zuy 7(EUCA 6/G#c amenity#fast_food name#Guldhedens_mat_&amp;_pizza
+n $~3~q 7(EV-v 6/G(| leisure#playground
+n $~4]r 7(EXj. 6/GZJ barrier#gate
+n $~4u5 6fKm$ 6/GOT crossing#uncontrolled highway#crossing
+n %"]-n 7(EU8: 6/GG~ crossing#uncontrolled highway#crossing
+n %%\9c 6fK@h 5"JP. name#Dr_Fries_Torg railway#tram_stop
+n %%\:U 7(ELCn 6/H@z name#Dr_Sydows_Gata railway#tram_stop
+n %*Rnm 7(EUD) 5"JJ0 amenity#restaurant name#Restaurang_Afamia
+n %*r't 7(EU`c 5"JE0 addr:housenumber#1 addr:street#Källsprångsgatan
+n %*r'u 7(EU>L 6/Fw8 addr:housenumber#2 addr:street#Källsprångsgatan
+n %*r'w 7(ETo~ 6/Fnp addr:housenumber#5 addr:street#Källsprångsgatan
+n %*r1w 6fK|X 6/FqP addr:housenumber#17 addr:street#Lövskogsgatan
+n %*r1x 7(EVD( 6/Fv$ addr:housenumber#15 addr:street#Lövskogsgatan
+n %*r1y 7(EV!\ 6/Fz0 addr:housenumber#13 addr:street#Lövskogsgatan
+n %*r1z 7(ETr" 6/Fz[ addr:housenumber#8 addr:street#Lövskogsgatan
+n %*r<7 7(EUZo 6/F~e addr:housenumber#11 addr:street#Lövskogsgatan
+n %+/rn 7(EV:^ 5"JDt addr:housenumber#14 addr:street#Lövskogsgatan
+n %+/rx 7(EUF^ 6/G#Z addr:housenumber#3 addr:street#Vildapelsgatan
+n %+/r{ 7(EUQv 6/G)) addr:housenumber#1 addr:street#Vildapelsgatan
+n %+/r~ 7(EUi" 5"JHX addr:housenumber#1 addr:street#Ängemarken
+n %+/s# 7(EU[P 6/G2~ addr:housenumber#3 addr:street#Ängemarken
+n %+/s' 7(EUN6 6/G1) addr:housenumber#5 addr:street#Ängemarken
+n %+/s+ 7(ET7: 6/G"W barrier#bollard
+n %+/s. 7(ETx| 5"JFk addr:housenumber#7 addr:street#Lövskogsgatan
+n %+/s2 7(ETQ@ 6/G", addr:housenumber#5 addr:street#Lövskogsgatan
+n %+/s< 7(ETOP 6/G+q addr:housenumber#9 addr:street#Ängemarken
+n %+/s? 7(ET{; 5"JGr addr:housenumber#7 addr:street#Ängemarken
+n %+1+^ 7(EV{8 6/H&7 highway#traffic_signals
+n %+2aZ 7(EUez 6/GDI name#Tempo shop#supermarket
+n %+x73 7(EQ(k 6/G#T highway#traffic_signals
+n %+z+< 7(EUL) 6/GA5 addr:housenumber#2 addr:street#Reutersgatan
+n %+z+= 7(EU^m 6/G:! addr:housenumber#4 addr:street#Reutersgatan
+n %+z+> 7(EVTb 6/G-m addr:housenumber#2 addr:street#Dalheimersgatan
+n %+z+? 7(EVq" 6/G&G addr:housenumber#4 addr:street#Dalheimersgatan
+n %+z+@ 7(EVi8 6/G1, addr:housenumber#1 addr:street#Dalheimersgatan
+n %+z+A 7(EW6N 6/G'\ addr:housenumber#3 addr:street#Dalheimersgatan
+n %+z+B 7(EW<: 6/G!A addr:housenumber#6 addr:street#Dalheimersgatan
+n %+z+C 7(EW\~ 6/G"~ addr:housenumber#5 addr:street#Dalheimersgatan
+n %+z+D 7(EW"p 6/G@" addr:housenumber#2 addr:street#Daniel_Pettersons_gata
+n %+z+E 7(EW?i 5"JHw addr:housenumber#4 addr:street#Daniel_Pettersons_gata
+n %+z+F 7(EW?0 6/GCA addr:housenumber#1 addr:street#Daniel_Pettersons_gata
+n %+z+G 6fL'5 6/G;a addr:housenumber#3 addr:street#Daniel_Pettersons_gata
+n %+z+H 7(EWZd 6/G1o addr:housenumber#6 addr:street#Daniel_Pettersons_gata
+n %+z+I 7(EV]} 6/GLZ addr:housenumber#1 addr:street#Raketgatan
+n %+z+J 7(EW$n 5"JK! addr:housenumber#2 addr:street#Raketgatan
+n %+z+K 7(EW$` 6/GWv addr:housenumber#3 addr:street#Raketgatan
+n %+z+L 7(EW[x 6/GI: addr:housenumber#4 addr:street#Raketgatan
+n %+z+M 6fL'S 6/GRs addr:housenumber#5 addr:street#Raketgatan
+n %+z+N 7(EX5$ 6/GHX addr:housenumber#7 addr:street#Raketgatan
+n %+z+O 7(EX-t 6/G?3 addr:housenumber#6 addr:street#Raketgatan
+n %+z+P 7(EXd( 6/G>& addr:housenumber#9 addr:street#Raketgatan
+n %+z+Q 7(EXQ% 6/G0b addr:housenumber#11 addr:street#Raketgatan
+n %+z+R 7(EX,_ 6/G6; addr:housenumber#8 addr:street#Raketgatan
+n %+z+S 7(EX&, 6/G*) addr:housenumber#10 addr:street#Raketgatan
+n %+z+T 7(EXW< 6/G%0 addr:housenumber#13 addr:street#Raketgatan
+n %+z+U 7(EX%4 6/FzZ addr:housenumber#12 addr:street#Raketgatan
+n %+z+V 7(EX\" 6/Fw# addr:housenumber#15 addr:street#Raketgatan
+n *n[.y 6fKpn 6/G@d amenity#restaurant name#Gaos_Sushi_and_Coffee
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1Zqdp 7(EU)} 5"JJb crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1aUv{ 7(EUGY 6/GH1 bicycle#yes crossing#uncontrolled highway#crossing
+n 1aUwP 7(EUPb 6/GTr crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing

@@ -1,0 +1,13 @@
+n 1&ZC( 7(F#6d 6/I?\ railway#crossing
+n 1&ZBM 7(F#'e 5"J\z railway#level_crossing
+n /fJb0 7(E~L( 6/J.a beacon#yes light:category#flood man_made#beacon name#Nr7755 seamark#beacon
+n /fJeE 7(F!VW 6/J)+ beacon#yes light:category#flood man_made#beacon name#Nr7758 seamark#beacon
+n 1&ZDa 7(F#9P 6/I@@ railway#level_crossing
+n 1&ZD& 7(F">1 6/I:h railway#switch
+n 1&ZB> 7(F!<p 6/ITP railway#buffer_stop
+n 1&ZEx 7(F"G( 6/I.N railway#switch
+n 1&ZDP 6fP$' 6/IUb railway#buffer_stop
+n (/!EY 7(F"xM 6/I6t railway#switch
+n 1&ZCe 7(F""" 6/Hz; railway#switch
+n 1&ZBl 7(F#'U 6/IC: railway#crossing
+n /fJfZ 7(F#KU 6/J;` light:category#flood

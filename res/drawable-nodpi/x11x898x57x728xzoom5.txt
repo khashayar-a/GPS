@@ -1,0 +1,22 @@
+n $pcch 7(F+-R 6/@3j barrier#cycle_barrier
+n $p}}D 7(F$-! 6/Ao3 highway#crossing
+n $p~us 7(E}^\ 6/AZ* highway#crossing
+n $q!1w 7(Ey![ 6/Ae< highway#crossing
+n 'T1Wl 7(F(?| 6/?[: barrier#bollard bicycle#yes foot#yes
+n ,3jdV 7(F&EC 6/@Bb highway#turning_circle
+n .~*GD 7(F$bQ 6/?fk addr:housenumber#4 addr:street#Släktledsgatan
+n .~*ks 7(F&(o 6/@44 addr:housenumber#2 addr:street#Svanehöjdsgatan
+n .~+!> 7(F&0\ 6/@1U addr:housenumber#1 addr:street#Svartedalsgatan
+n /'&wE 7(F%1\ 6/@Q) traffic_calming#yes
+n /+`%e 7(F"Nt 6/?K* traffic_calming#yes
+n /+`&W 7(F$8u 6/?eH traffic_calming#yes
+n /+`'D 7(F#O& 6/?U7 traffic_calming#yes
+n 0PR_r 7(F%;T 6/@0b amenity#post_box
+n 3`4eZ 7(F#3! 6/?Z8 addr:housenumber#21 addr:street#Badvädersgatan
+n 3`4e\ 7(F#@P 6/?Zg addr:housenumber#23 addr:street#Badvädersgatan
+n 3`4e^ 7(F#N" 6/?[9 addr:housenumber#25 addr:street#Badvädersgatan
+n 3`4e` 7(F#[Q 5"I_; addr:housenumber#27 addr:street#Badvädersgatan
+n 4~}UI 7(F#mK 6/?q] traffic_calming#hump
+n 4~}UX 7(F%4: 6/?ii traffic_calming#hump
+n 4~}Uf 7(F&5` 6/?o( highway#turning_circle
+n 4~}Ui 7(F&?4 6/?_n highway#turning_circle

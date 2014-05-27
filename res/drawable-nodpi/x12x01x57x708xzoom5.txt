@@ -1,0 +1,32 @@
+n $Nq5j 7(Enya 6/L<g leisure#playground
+n $NskI 7(Ensr 6/L`o amenity#post_box
+n $NtF8 7(EneZ 6/L^y name#Kalles shop#convenience
+n &]`ni 7(Ek88 6/La` amenity#kindergarten
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 6!Pbj 7(EmQU 6/LWZ addr:housenumber#11A addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbk 7(EmHz 6/LV~ addr:housenumber#11B addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbl 7(Em>R 6/LV7 addr:housenumber#11C addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbm 7(Em4W 6/LUU addr:housenumber#11D addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbn 7(Em*{ 6/LTt addr:housenumber#11E addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbo 7(Em!V 6/LT6 addr:housenumber#11F addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pbp 6fNEf 6/LVY addr:housenumber#1A addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbq 6fNFt 6/LWA addr:housenumber#1B addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbr 7(Eo.y 6/LX+ addr:housenumber#1C addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbs 7(Eo"D 6/LR[ addr:housenumber#2A addr:interpolation#even addr:street#Snoilskygatan building#entrance
+n 6!Pbt 7(Eo/x 6/LSX addr:housenumber#2B addr:interpolation#even addr:street#Snoilskygatan building#entrance
+n 6!Pbv 7(EoCD 6/LYX addr:housenumber#3A addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbx 7(EoNq 6/LZF addr:housenumber#3B addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbz 7(EoZ" 6/L[2 addr:housenumber#3C addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pb{ 6fNMC 6/L[w addr:housenumber#3D addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pc" 7(EnC} 6/L]) addr:housenumber#9A addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc$ 7(En9Q 6/L\F addr:housenumber#9B addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc% 7(En1J 6/L[m addr:housenumber#9C addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc& 7(En)% 6/L[7 addr:housenumber#9D addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc' 7(Em}k 6/LZY addr:housenumber#9E addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc( 7(EmvB 6/LZ' addr:housenumber#9F addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc) 7(Eml4 6/LYD addr:housenumber#9G addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!Pc* 7(EmbH 6/LXe addr:housenumber#9H addr:interpolation#odd addr:street#Ulfsparregatan building#entrance
+n 6!VE_ 7(En6} 6/L^{ bench#yes bus#yes highway#bus_stop name#Hogenskildsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VE` 7(En\e 6/L^M bench#yes bus#yes highway#bus_stop name#Hogenskildsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VEg 7(EkEj 6/LFS bench#yes bus#yes highway#bus_stop name#Nya_Lundenskolan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VEh 7(EkWI 6/LHu bench#yes bus#yes highway#bus_stop name#Nya_Lundenskolan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport

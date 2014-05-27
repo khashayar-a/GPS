@@ -1,0 +1,67 @@
+n @uBR 7(F$2> 6/BfV highway#traffic_signals
+n @uBV 7(F#PF 5"J(1 crossing#island highway#traffic_signals
+n $8j@y 7(F%vZ 6/A{8 barrier#block bicycle#yes foot#yes
+n $gXsN 7(F'|& 6/Bk} barrier#gate
+n $p}xf 7(F$0> 6/Ay& barrier#gate
+n $p}}D 7(F$-! 6/Ao3 highway#crossing
+n $p~S' 7(F%S~ 6/Ax7 barrier#kissing_gate foot#yes
+n $p~us 7(E}^\ 6/AZ* highway#crossing
+n $q!1w 7(Ey![ 6/Ae< highway#crossing
+n $|SL2 7(F*7J 6/AR% barrier#cycle_barrier
+n $|Spy 7(F$E9 6/CL, barrier#gate
+n %:^eN 6fP7: 6/ChR highway#crossing
+n &^;dH 7(F&14 6/Aq| shop#convenience
+n &^;fp 7(F&=* 5"Iu$ amenity#cafe name#Mohlins_konditori
+n *NYk8 6fPSp 6/Av{ amenity#fast_food name#Harry's_Gatukök
+n *N[Zl 7(F'<i 6/Aw@ highway#bus_stop name#Toleredsgatan shelter#yes
+n *N[]@ 7(F'-X 6/AuS highway#bus_stop name#Toleredsgatan shelter#yes
+n .;A_J 7(F'%% 6/Aav addr:housenumber#6 addr:street#Gyllingbergsgatan
+n .;Ad! 7(F&e] 6/AZD addr:housenumber#2 addr:street#Gyllingbergsgatan
+n .<m[Y 7(F$.U 6/BiB highway#crossing
+n .<m[` 7(F'to 6/B/a highway#crossing
+n .<m[f 6fPZV 6/Ax[ highway#crossing
+n .<m[{ 7(F')e 6/Ax, highway#crossing
+n .<m[~ 7(F$7H 6/Bco highway#crossing
+n /+hYN 7(F#eL 6/BMs traffic_calming#yes
+n //~06 7(F&KJ 5"Ipn addr:housenumber#2 addr:street#Hemmansägaregatan
+n //~2N 7(F&KL 6/AG, addr:housenumber#1 addr:street#Hemmansägaregatan
+n //~A$ 7(F&V/ 6/AEv addr:housenumber#122 addr:street#Toredalsgatan
+n //~h^ 7(F&R; 6/AQ~ addr:housenumber#120 addr:street#Toredalsgatan
+n //~t/ 7(F&S_ 6/A?u addr:housenumber#2 addr:street#Tresnipsgatan
+n /0!*5 7(F&]9 6/AAN addr:housenumber#124 addr:street#Toredalsgatan
+n /0!-t 7(F%mD 5"IpX addr:housenumber#7 addr:street#Hemmansägaregatan
+n /~|Ha 7(F&4r 6/AkI amenity#recycling
+n 0"SFv 7(F&=B 6/Aiy amenity#parking fee#no parking#surface
+n 32u$t 7(F&;{ 5"Is/ addr:housenumber#10 addr:street#Bäckängsgatan
+n 32u$x 7(F&.5 6/Ahz addr:housenumber#2 addr:street#Bäckängsgatan
+n 32u$y 7(F&1^ 6/Ah@ addr:housenumber#4 addr:street#Bäckängsgatan
+n 32u$z 7(F&5) 6/Age addr:housenumber#6 addr:street#Bäckängsgatan
+n 32u${ 7(F&8R 6/Ag+ addr:housenumber#8 addr:street#Bäckängsgatan
+n 3_5hy 6fPVd 6/Aie addr:housenumber#1 addr:street#Astrakangatan
+n 3_5hz 7(F&QW 6/Aem addr:housenumber#1 addr:street#Åkerögatan
+n 3_5h| 7(F&gt 6/Acw addr:housenumber#10 addr:street#Astrakangatan
+n 3_5h} 7(F&TZ 6/A`8 addr:housenumber#10 addr:street#Åkerögatan
+n 3_5h~ 7(F%ls 5"Irh addr:housenumber#102 addr:street#Toredalsgatan
+n 3_5i! 7(F%qJ 6/Aag addr:housenumber#104 addr:street#Toredalsgatan
+n 3_5i" 7(F%uU 6/Aa# addr:housenumber#106 addr:street#Toredalsgatan
+n 3_5i$ 7(F%y] 6/A`= addr:housenumber#108 addr:street#Toredalsgatan
+n 3_5i' 7(F&%J 6/A^! addr:housenumber#110 addr:street#Toredalsgatan
+n 3_5i) 7(F&*< 6/A]( addr:housenumber#112 addr:street#Toredalsgatan
+n 3_5i* 7(F&,s 6/A\W addr:housenumber#114 addr:street#Toredalsgatan
+n 3_5i+ 7(F&1u 6/A[Z addr:housenumber#116 addr:street#Toredalsgatan
+n 3_5i4 6fPUJ 6/Afz addr:housenumber#2 addr:street#Astrakangatan
+n 3_5i5 7(F&DE 6/Ac< addr:housenumber#2 addr:street#Åkerögatan
+n 3_5i6 7(F&ha 6/Ahw addr:housenumber#3 addr:street#Astrakangatan
+n 3_5i7 7(F&UH 6/Ae* addr:housenumber#3 addr:street#Åkerögatan
+n 3_5i8 7(F&Zz 6/Af< addr:housenumber#4 addr:street#Astrakangatan
+n 3_5i@ 7(F&H) 6/AbY addr:housenumber#4 addr:street#Åkerögatan
+n 3_5iC 7(F&m6 6/Ah+ addr:housenumber#5 addr:street#Astrakangatan
+n 3_5iD 7(F&YG 6/AdD addr:housenumber#5 addr:street#Åkerögatan
+n 3_5iE 7(F&_` 6/AeH addr:housenumber#6 addr:street#Astrakangatan
+n 3_5iF 7(F&L5 6/Aan addr:housenumber#6 addr:street#Åkerögatan
+n 3_5iO 7(F&pV 6/AgQ addr:housenumber#7 addr:street#Astrakangatan
+n 3_5iP 7(F&]_ 6/AcX addr:housenumber#7 addr:street#Åkerögatan
+n 3_5iQ 7(F&cB 6/Adg addr:housenumber#8 addr:street#Astrakangatan
+n 3_5iR 7(F&Q, 6/A`v addr:housenumber#8 addr:street#Åkerögatan
+n 3_5iS 7(F&tr 6/Afg addr:housenumber#9 addr:street#Astrakangatan
+n 3_5iT 7(F&ao 6/Abn addr:housenumber#9 addr:street#Åkerögatan

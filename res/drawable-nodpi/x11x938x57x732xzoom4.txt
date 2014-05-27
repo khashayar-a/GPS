@@ -1,0 +1,291 @@
+w "-T7$ highway#service
+d .0TI/ 7(F(ZN 6/D2.
+d .0TGK 7(F(\w 6/D0P
+d .0THl 7(F(d> 6/D){
+w IxnW highway#service
+d $Q'Ia 7(F,>h 6/D,E
+d .,UlG 7(F,Lc 6/D/.
+d %}v>E 7(F,NX 6/D/;
+d .,Ui} 7(F,YF 6/D/*
+d %}v>F 7(F,dK 6/D.'
+d .,UjK 7(F,jl 6/D.,
+d %}v>G 7(F,q> 6/D.S
+d .,Uj) 7(F,u. 6/D/I
+d .,Uk8 7(F,vw 6/D0P
+d .,UkB 7(F,t\ 6/D1G
+d .,Uk$ 7(F,oL 6/D22
+w ".m6j highway#footway
+d .<m6\ 7(F(V" 6/D5Y
+d .<m6s 7(F(S? 5"J,U
+d .<m6] 7(F(O5 6/D8G
+d .<m7# 7(F(L7 6/D:!
+d .<m6Q 7(F(J@ 6/D<9
+d .<m6: 7(F(GC 6/D>F
+d .<m6L 7(F(Ep 6/D@#
+d .<m6p 7(F(C| 6/DBL
+w ".m,O highway#footway
+d .<l(k 7(F('D 6/DIK
+d .<l([ 7(F(*H 6/DIG
+d .<l(x 7(F(/' 6/DI_
+d .<l(j 7(F(4x 6/DIx
+d .<l(X 7(F(9^ 6/DIz
+d .<l(Z 7(F(AP 6/DIz
+d .<l'a 7(F(KU 6/DIx
+d .<l'` 7(F(YV 4.QB
+d .<l'X 6fPkr 6/DJr
+d .<l': 7(F)#Q 6/DJ|
+w "crA| highway#service
+d .0TJE 7(F)p\ 6/D5R
+d 3o^i. 7(F*#> 6/D1R
+w ".m,M highway#footway
+d .<l'' 7(F(+( 6/DL.
+d .<l'_ 7(F(,* 6/DL$
+d .<l(. 7(F(1B 6/DK^
+d .<l'e 6fPdh 6/DKV
+d .<l(N 7(F(;U 6/DKg
+d .<l'o 7(F(C1 6/DL4
+d .<l'F 7(F(JH 6/DL[
+d .<l'h 7(F(Og 6/DLr
+d .<l(& 7(F(TE 6/DLk
+d .<l'6 7(F(X{ 5"J.i
+d .<l'D 7(F(b1 6/DLB
+d .<l(d 7(F(l> 6/DKv
+d .<l(u 7(F(~J 6/DK*
+d .<l': 7(F)#Q 6/DJ|
+d .<l(l 7(F)'u 6/DJk
+d .<l'c 7(F),i 6/DJn
+d .<l'M 7(F)2r 6/DJk
+d .<l(m 6fPnT 6/DJb
+d .<l'C 7(F)<~ 6/DJm
+d .<l'= 7(F)Ki 6/DK?
+w ".m,W highway#footway
+d .<l(m 6fPnT 6/DJb
+d .<l(H 7(F)9$ 6/DIS
+d .<l'V 7(F)<+ 6/DEj
+w "crB% highway#service
+d .0TJE 7(F)p\ 6/D5R
+d 3o^i1 7(F)gd 5"J,#
+w ".m,] highway#footway
+d .<l(! 7(F)>& 6/DDc
+d .<l'Y 7(F)A= 6/DA)
+d .<l(% 7(F)Az 6/D@C
+d .<l'( 7(F)"2 6/D=d
+d .<l(\ 7(F(|o 6/D@,
+d .<l'Y 7(F)A= 6/DA)
+w ".m,@ highway#footway
+d .<l(T 7(F)#e 6/D8e
+d .<l(E 7(F(wf 6/D<l
+d .<l'~ 7(F(t= 6/D>J
+d .<l't 7(F(s> 6/D@/
+d .<l(` 6fPjk 6/DCT
+d .<l)" 7(F(p= 6/DDg
+w ".m,G highway#service
+d .<l(< 7(F(XA 6/D=!
+d .<l(- 7(F(^p 6/D=5
+w K9{m highway#cycleway
+d $Q'_O 7(F+,? 6/DLT
+d &:oyb 7(F+#f 6/DLJ
+d $Q5%" 7(F*wV 5"J.n
+d $Q5%# 7(F*mS 6/DMO
+d $Q5%$ 7(F*jc 6/DMj
+d %}v=r 7(F*Ye 6/DN0
+d $Q5%% 7(F*Q? 6/DNY
+d $Q5%& 7(F*Bz 6/DNT
+d $Q5%' 7(F*0G 6/DNY
+d $Q5%( 7(F*#7 6/DO8
+d .0TGn 7(F)zz 6/DOR
+d $Q5%) 7(F)p_ 6/DOr
+d $Q5%* 7(F)^f 6/DPL
+d ."(>D 7(F)IG 6/DPz
+d &:oyk 7(F)%? 6/DRR
+d ."(:k 7(F(o< 6/DRz
+d &:oyl 7(F(Yt 6/DT"
+d ."$_m 7(F(Dq 5"J/X
+d ."(9u 7(F(?l 6/DT_
+d ."$_R 7(F(9X 5"J/T
+d ."$_k 7(F(1& 6/DT;
+d ."$_P 7(F()> 6/DTk
+d ."$_u 7(F(%r 6/DU3
+d ."$_Y 7(F'~h 6/DUn
+d ."$_U 7(F'x{ 6/DW0
+d ."$_s 6fPae 6/DX^
+d &:oyp 7(F'o/ 6/DYP
+d &:oyq 7(F'a2 5"J07
+d &:oyr 7(F'Gp 6/D][
+d &:oys 7(F'4; 6/D_9
+d ."(;| 6fPZ0 6/D_b
+d &:oyt 7(F&zr 6/D`l
+d &:oyu 7(F&gC 6/DbJ
+d &:oyv 7(F&N" 6/DdK
+d &:oyw 7(F&87 6/Dev
+d &:oyx 6fPQN 5"J1B
+d .0THY 7(F&+% 6/Dfr
+d &:oyz 7(F&#, 6/DgL
+d &:oy{ 7(F%wC 6/DhD
+d &:oy| 7(F%l9 6/Dj*
+d .",$\ 7(F%b{ 6/Dj`
+d &:oy} 7(F%_? 6/Djv
+d &:oy~ 7(F%WG 6/Dk0
+d ."(>; 7(F%On 4.Qa
+d ."(:V 7(F%Ia 6/Dk1
+d ."(=@ 7(F%Cj 6/Dkb
+d &:oz! 7(F%@3 6/DlA
+d &:oz" 7(F%2p 6/DlN
+d &:oz# 7(F%#. 6/Dlr
+d &:oz$ 7(F$r} 6/DmC
+d ',eY7 7(F$i; 6/Dn&
+d &:oz% 7(F$]P 6/Dnr
+d &:oz& 7(F$Kh 6/Doz
+d ."(=i 7(F$@} 6/DpK
+d ."(9] 7(F$-e 6/Dq[
+d ."(=_ 7(F#}Y 6/DrV
+d ."(<l 7(F#xm 6/Drt
+d ."(:2 7(F#]b 5"J2l
+d ."(:4 6fP8a 6/Duu
+d ."(<+ 7(F#Iz 5"J2w
+d ."(;? 6fP77 6/DvZ
+d ."(;I 7(F#7Z 6/DvK
+d .>:DA 7(F#%T 6/Dv6
+d .>:D@ 7(F"~` 6/Dv0
+d ."(:8 6fP3b 5"J2w
+d ."(:p 7(F"rx 6/Dv.
+d ."(:< 7(F"fM 5"J2u
+w "crAy highway#service
+d .0TII 6fPyV 4.Q4
+d 3o^h* 6fPz) 6/D:m
+d 3o^iK 7(F*Pr 6/D9v
+d 3o^g| 7(F*U- 6/D6u
+w "crA} highway#service
+d .0TII 6fPyV 4.Q4
+d 3o^hm 6fPyV 6/D:(
+d 3o^gy 7(F*Ka 6/D7C
+w ".m,[ highway#footway surface#asphalt
+d .<l'L 7(F)V` 6/D=[
+d .<l)# 7(F)\{ 6/D;Y
+w R2)C highway#service
+d 'CE@I 6fPv$ 6/Df$
+d 'CE@K 7(F*;g 6/Di-
+d 'CE@N 7(F*R1 6/Dk?
+d 'CE@P 7(F*jT 6/DmQ
+d 'CE@Q 6fP~_ 6/DqS
+d 'CE@R 7(F*xa 5"J2[
+d 'CE@T 7(F*h+ 6/Drm
+d 'CE@U 7(F*V' 4.Qh
+d 'CE@W 7(F*HH 6/Dpu
+d 'CE@Y 7(F*8@ 6/DnI
+d 'CE@\ 7(F*$o 6/Dl|
+d &C3'+ 7(F)v? 6/Dkt
+w "-T6r highway#service
+d .0TIN 7(F)'s 6/D5?
+d .0TGg 7(F)*@ 6/D3f
+d .0TJH 7(F).. 6/D.a
+w ",1S- highway#footway
+d ."(9u 7(F(?l 6/DT_
+d ."(:S 7(F(BH 5"J/d
+d ."%!$ 7(F(E" 6/DW@
+d ."$~W 7(F(H4 6/DY%
+d ."(<k 7(F(IH 6/DYk
+w "-T6h highway#footway
+d .0TGH 7(F*R7 6/DS;
+d .0TGl 7(F*aE 6/DS&
+d .0TGv 7(F*jD 6/DS)
+d .0TL7 7(F*ue 6/DS#
+w "-T6[ highway#service
+d $|S8> 7(F)^U 6/DF^
+d .0TL# 7(F)xN 6/DGM
+w "-T6~ highway#service
+d .0TID 7(F*1E 6/D@1
+d .0TII 6fPyV 4.Q4
+w "-T6l highway#footway
+d $Q5%% 7(F*Q? 6/DNY
+d $Q2R! 7(F*QV 5"J/(
+d .0TIn 7(F*R" 6/DQo
+d .0TGH 7(F*R7 6/DS;
+w "-T6Z highway#service
+d .0TKl 6fPh& 6/D1e
+d .0TIk 7(F(WQ 6/D0>
+d .0TJ3 7(F(]D 6/D*H
+w ".m,F highway#service
+d .<l'n 7(F(f' 6/D=a
+d .<l(- 7(F(^p 6/D=5
+w R2)A foot#yes highway#cycleway
+d 'CE@C 7(F);_ 6/DUj
+d 'CE@D 7(F)HA 6/D]:
+d 'CE@E 6fPq9 6/Ddg
+d 'CE@G 7(F)[p 6/DhX
+d 'CE@@ 7(F)d- 6/Dkk
+w IxnR bicycle#yes foot#yes highway#cycleway surface#asphalt
+d %:^7\ 7(F#C/ 6/Cia
+d ."(<? 7(F#EP 6/Cj'
+d ,mY&X 7(F#OZ 6/Cj9
+d ."(>C 7(F#X] 6/CjK
+d ."(;( 7(F#[| 6/Cix
+d 5vhwE 7(F$$h 5"J(@
+d ,mY&D 7(F$HP 6/Ck'
+d ,mY&E 7(F$aB 6/CkU
+d ,mY&F 7(F$si 4.Ph
+d ,mY&G 7(F%/K 6/Cnl
+d ."(:b 7(F%V= 6/CsG
+d ,mY&H 7(F%`n 6/Ct&
+d ."(:h 7(F%qJ 6/Cur
+d ,mY&C 7(F&"q 6/CwJ
+d ."(;L 7(F&3u 6/Cy;
+d ."(=X 7(F&Gs 6/C{f
+d ."(<F 7(F&O- 6/C~#
+d %}v=g 7(F&nC 6/D#x
+d %}v=h 6fPY$ 6/D%c
+d %}v=i 7(F&~w 6/D'>
+d ."(;k 7(F'$3 6/D(K
+d $|S<K 7(F')~ 6/D)2
+d %}v=j 7(F'5^ 6/D)g
+d %}v;M 7(F'=2 6/D)X
+d %}v=k 7(F'Z] 6/D,e
+d ."(;C 7(F(54 6/D1F
+d %}v=l 7(F(m) 6/D5G
+d ."(=x 7(F)-f 6/D7P
+d ."(:o 7(F)Dt 6/D9:
+d %}v=m 7(F)YV 6/D;7
+d .<l)# 7(F)\{ 6/D;Y
+d %}v=n 7(F)i^ 6/D<|
+d %}v=o 7(F*5. 6/DB^
+d %}v=p 7(F*GZ 6/DEo
+d %}v=q 7(F*Ug 6/DJ_
+d %}v=r 7(F*Ye 6/DN0
+w "-T6c highway#footway
+d $Q5%" 7(F*wV 5"J.n
+d .0TH/ 6fP~4 6/DN(
+d .0TG* 7(F*vU 6/DO>
+d .0THm 7(F*um 6/DR6
+d .0TL7 7(F*ue 6/DS#
+d .0THj 7(F*}P 6/DS0
+d .0TGD 7(F+(r 5"J/K
+d .0TK# 7(F+., 6/DSp
+d .0TKu 7(F+3R 6/DT.
+d .0TJG 7(F+G8 6/DT2
+d .!oC= 7(F+O5 6/DT*
+w ".m6f highway#footway
+d .<m7O 7(F)QR 6/DE.
+d .<l(! 7(F)>& 6/DDc
+d .<m6Y 7(F)'J 6/DD&
+d .<l(` 6fPjk 6/DCT
+d .<m6z 7(F(Z" 5"J-l
+d .<m6p 7(F(C| 6/DBL
+d .<m6B 7(F(B] 6/DBJ
+d .<m6g 7(F'uw 6/DAW
+d .<m6A 7(F'qn 6/DAP
+d .<m7T 7(F'aR 6/DA5
+w C"'L highway#service
+d ."$D^ 7(F)aa 6/DD<
+d $|S8> 7(F)^U 6/DF^
+d $|S>v 7(F)PJ 5"J.-
+w ".}j> highway#service
+d .>GdC 7(F+&m 6/D9]
+d .>Gd= 7(F+:~ 6/D:=
+d .>GdA 7(F+?> 6/D:o
+w "-T7+ highway#service
+d ."$Dq 7(F)jU 6/D;;
+d .0TJE 7(F)p\ 6/D5R
+w "-T7# highway#service
+d .0TIL 7(F)I, 6/D8&
+d .0TIT 7(F)K7 6/D6_
+d .0TKx 7(F)PO 6/D0m

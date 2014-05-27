@@ -1,0 +1,45 @@
+w ",/<! highway#service
+d .!g-K 7(F,ri 6/D)~
+d .!g-a 7(F,ZR 6/D&|
+w C*#o foot#yes highway#footway surface#paved
+d $Q4E{ 7(F(x} 5"J!,
+d $}HZ} 6fPh\ 6/C$j
+d $}HZ~ 7(F(Fl 6/C&/
+d $}H[! 7(F(82 6/C'8
+d %}v.[ 7(F'P. 6/C,W
+d %}v.Y 7(F'B| 6/C.r
+d %}v.W 7(F'</ 5"J"_
+d %}v.U 7(F&u* 6/C7~
+d %}v.T 7(F&bW 6/CB5
+d %}v.S 7(F'y) 6/COC
+d %}v.R 7(F(6E 6/CVW
+d %}uhl 7(F(c7 5"J'%
+w "-/}8 highway#service
+d .,Vd= 7(F,AL 6/Ctx
+d .,VdO 7(F,D^ 6/Cw0
+d .,Vd9 7(F,IR 6/Cy:
+d .,Vd< 7(F,M2 5"J)z
+d .,Vd; 7(F,Pp 6/Czj
+d .,Vd5 7(F,Ur 6/Czp
+d .,Vd8 7(F,X= 6/C{2
+d .,Vd7 7(F,ZX 6/C{x
+d .,Vd. 7(F,ZJ 6/C|j
+d .,VdN 7(F,YR 6/C}T
+d .,Vd3 7(F,Z- 6/C~,
+d .,VdH 7(F,\V 6/C~B
+d .,Vd- 6fQ0l 6/C~O
+d .,Vd: 6fQ1M 6/C~O
+d .,VdD 7(F,my 6/C~\
+d .,Vd/ 7(F,p} 6/C~l
+d $Q'Ie 7(F,tv 5"J*L
+w Lg"5 highway#service
+d %}uhl 7(F(c7 5"J'%
+d &I7Zi 7(F(b< 5"J'I
+d &I7Zj 7(F(`o 6/CfT
+d &I7Zk 6fPh] 6/Ci1
+d &I7Zl 6fPhP 6/Cio
+w Lg"6 foot#yes highway#footway
+d &I7Zk 6fPh] 6/Ci1
+d &I7Zm 7(F(T] 6/Ch3
+d &I7Zn 7(F'\q 6/Cen
+d &I7Zd 7(F'_o 6/C_%

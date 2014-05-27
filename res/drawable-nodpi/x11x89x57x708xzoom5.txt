@@ -1,0 +1,24 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n #$%B( 7(EjSK 6/>gG highway#motorway_junction name#Bräckemotet
+n #$%Gk 7(EjpH 5"IV[ highway#traffic_signals
+n #$%S_ 7(Epnk 6/?Bp highway#traffic_signals
+n #$%U, 7(Ep^k 6/?C- highway#traffic_signals
+n $_qaw 7(Eot$ 6/@H2 highway#turning_circle
+n %#EuX 7(Ej{[ 5"IVL highway#traffic_signals
+n 'v;V/ 7(Ek*; 6/>`N highway#give_way
+n /8fMm 7(Ekq$ 6/?YE addr:housenumber#15C addr:street#Bräcke_Östergårdsgatan
+n /8fRW 7(Ekl( 6/?`2 addr:housenumber#6 addr:street#Martha_Sennegårds_Väg
+n /8fR~ 7(Ekr* 6/?Rj addr:housenumber#15A addr:street#Bräcke_Östergårdsgatan
+n /8fSW 7(Ekmh 6/?Wj addr:housenumber#15B addr:street#Bräcke_Östergårdsgatan
+n 0fssf 7(Eo)\ 6/?z( highway#mini_roundabout
+n 0mNLw 7(EnjN 6/?P[ addr:housenumber#6 addr:street#Enrisvägen
+n 0mNO9 7(Enf\ 6/?K9 addr:housenumber#5 addr:street#Storstensvägen
+n 0mNR- 7(Ens) 5"I^% addr:housenumber#40 addr:street#Rydholmsgatan
+n 0mNRf 7(Eo&6 6/?PC addr:housenumber#41 addr:street#Rydholmsgatan
+n 0mNUO 7(Enpr 6/?Mu addr:housenumber#42 addr:street#Rydholmsgatan
+n 0{}0[ 7(Ek^^ 6/?[w addr:housenumber#4 addr:street#Martha_Sennegårds_Väg
+n 46i-^ 7(EoT' 6/>r~ amenity#library name#biskopsgårdens_biblotek
+n 46k)n 7(Eo;a 6/>ji amenity#place_of_worship religion#christian

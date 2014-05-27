@@ -1,0 +1,7 @@
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n &C3CT 6fP:$ 6/Ee, highway#bus_stop name#Deltavägen
+n &O2JT 7(F%[A 6/E<` highway#crossing
+n &O2J_ 7(F%Rw 6/E<O highway#crossing
+n ',eY3 7(F%iU 6/E@` highway#crossing
+n ."/6O 7(F&9X 6/E&^ amenity#atm
+n .Bo,B 7(F#mE 6/D~+ name#Havspalatset_vid_Lidl shop#fishmonger website#www.backafisk.se

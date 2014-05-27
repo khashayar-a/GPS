@@ -1,0 +1,12 @@
+n IfV0 7(Etx/ 6/I&5 highway#traffic_signals
+n $G!c# 7(Eo!~ 6/G\6 highway#traffic_signals
+n $G!k" 7(Eou2 6/G`! highway#traffic_signals
+n ,JSpx 7(Ep|, 6/Gka addr:city#Göteborg addr:housenumber#3 addr:postcode#41104 addr:street#Gullbergs_Strandgata
+n ,JSte 7(EpsX 6/Gr] amenity#parking
+n ,JSvS 7(Erul 6/GhN amenity#parking
+n 0,5Vb 7(Er./ 6/IIF railway#switch
+n 0,8^% 7(Ere! 6/Iev railway#switch
+n 0,8^, 7(ErcO 6/Ids railway#switch
+n 0,8^w 7(EoAi 6/HC{ railway#switch
+n 0,8_* 7(Eo5y 6/H=S railway#switch
+n 52pEL 7(Ete0 6/I(Q highway#traffic_signals

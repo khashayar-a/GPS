@@ -1,0 +1,24 @@
+n 5I:6 7(Eo>z 6/C;B highway#traffic_signals
+n Ecr< 7(Eqd~ 5"J2> highway#traffic_signals
+n EcrK 6fNK. 6/C;8 highway#traffic_signals
+n EcrN 7(En+O 6/Bo} highway#motorway_junction name#Eriksbergsmotet
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n $8A^. 6fM~9 5"J*] highway#traffic_signals
+n $hZ.i 6fN&Q 6/D(t highway#crossing
+n $mR`g 7(EmmY 6/BB; highway#motorway_junction name#Eriksbergsmotet
+n &vtqv 7(ElB9 6/C}0 amenity#fast_food cuisine#sushi name#Asienköket phone#+46317192600
+n (7hn) 7(Ek,F 6/C`t amenity#fast_food cuisine#pizza name#Kapten_Nemos opening_hours#Mo-Fr_11:00-21:00;Sa-Su_12:00-21:00 phone#+4631232464 website#http://kaptennemos.se/
+n (7hn* 7(El[' 6/Cy@ amenity#fast_food cuisine#thai name#Thailunch opening_hours#Mo-Fr_11:00-15:00 phone#+4631515135
+n (7hn+ 7(Ek*i 6/C~r highway#crossing
+n (7hn, 7(Eji\ 6/D%7 highway#crossing
+n (7hn1 7(Ek*( 6/CdH highway#crossing
+n )B)K> 7(Eq1# 6/DcH highway#traffic_signals
+n -6jig 6fN;c 6/C1- amenity#waste_basket
+n -6jpU 7(Em2M 5"J!# building#entrance
+n -6jrn 7(EmP1 5"J"3 building#entrance
+n -6jx- 7(EmnT 6/C6U traffic_calming#hump
+n 5)My{ 7(EkDY 6/CUe barrier#gate
+n 5)Mzu 6fN%j 6/CTL barrier#gate
+n 5)M{U 7(Ek`H 6/CjO barrier#gate
+n 5)M|6 7(Ekq^ 6/CmS barrier#gate
+n 5)M~+ 7(El`; 6/CE~ barrier#gate

@@ -1,0 +1,42 @@
+n imC1 6fK+8 6/Byh railway#crossing sloped_curb#both
+n #bmj5 6fKEZ 6/B`f crossing#uncontrolled highway#crossing sloped_curb#both
+n #bm|. 7(EPqO 6/B_I railway#crossing sloped_curb#both
+n %%ZdO 7(EH/s 6/CMs name#Bokekullsgatan railway#tram_stop
+n %%ZdR 6fJrd 6/C29 name#Högsbogatan railway#tram_stop
+n 'T'nA 7(EN,m 6/Bz~ highway#crossing sloped_curb#both
+n 'W=x7 7(EPGd 6/BcT railway#crossing sloped_curb#both
+n )M!q/ 7(EP^7 6/Ba8 name#Godhemsgatan railway#tram_stop
+n )M&N_ 7(EMu3 6/B{U name#Klintens_Väg railway#tram_stop
+n )Y;o; 7(EM^H 6/C"| sloped_curb#both
+n )^J8K 7(EO<2 6/Bn: railway#crossing sloped_curb#both
+n )^J8L 7(EO>Z 6/Bo. highway#crossing
+n ,HC|= 7(EKYw 6/C64 amenity#post_box
+n .OXDm 7(EHDu 6/CKf public_transport#stop_position
+n 1((Sj 7(EHJ, 6/CK. railway#crossing
+n 4L7n_ 7(EM3, 6/CWP addr:housenumber#111 addr:street#Slottsskogsgatan
+n 4L7na 7(EM*D 6/CXv addr:housenumber#113 addr:street#Slottsskogsgatan
+n 4L7nc 7(ELw" 6/C[P addr:housenumber#115 addr:street#Slottsskogsgatan
+n 4L7nf 7(ELn/ 6/C\v addr:housenumber#117 addr:street#Slottsskogsgatan
+n 4L7nj 7(EM<E 6/CMZ addr:housenumber#14 addr:street#Skytteskogsgatan
+n 4L7nl 7(EM5A 6/CL" addr:housenumber#16 addr:street#Skytteskogsgatan
+n 4L7nn 7(EM&j 6/CHV addr:housenumber#18 addr:street#Skytteskogsgatan
+n 4L7nq 7(EL}} 5"J$l addr:housenumber#20 addr:street#Skytteskogsgatan
+n 4L7nt 7(ELpD 6/CCg addr:housenumber#22 addr:street#Skytteskogsgatan
+n 4L7nw 7(EL>B 6/C;F addr:housenumber#23 addr:street#Skytteskogsgatan
+n 4L7nz 7(ELin 6/CB0 addr:housenumber#24 addr:street#Skytteskogsgatan
+n 4L7n} 7(EL25 6/C<Z addr:housenumber#25 addr:street#Skytteskogsgatan
+n 4L7o" 7(ELR: 6/C@( addr:housenumber#26 addr:street#Skytteskogsgatan
+n 4L7o$ 6fJv+ 6/C=n addr:housenumber#27 addr:street#Skytteskogsgatan
+n 4L7o) 7(ELF, 5"J$7 addr:housenumber#28 addr:street#Skytteskogsgatan
+n 4L7o+ 7(EKwx 6/C?# addr:housenumber#29 addr:street#Skytteskogsgatan
+n 4L7o. 6fJw6 6/CCE addr:housenumber#30 addr:street#Skytteskogsgatan
+n 4L7o1 6fJuy 6/CD_ addr:housenumber#32 addr:street#Skytteskogsgatan
+n 4L7o2 7(EL!5 6/CIZ addr:housenumber#34 addr:street#Skytteskogsgatan
+n 4L7o9 7(EL$q 6/CL+ addr:housenumber#36 addr:street#Skytteskogsgatan
+n 4L7o< 7(EL*a 6/CPM addr:housenumber#38 addr:street#Skytteskogsgatan
+n 4L7o> 7(EL.( 5"J&" addr:housenumber#40 addr:street#Skytteskogsgatan
+n 4L7o@ 7(EL99 6/CW; addr:housenumber#42 addr:street#Skytteskogsgatan
+n 4L7oB 7(ELBN 6/CYH addr:housenumber#44 addr:street#Skytteskogsgatan
+n 4L7oI 7(ELR: 5"J'! addr:housenumber#46 addr:street#Skytteskogsgatan
+n 4L7oJ 7(EL[f 6/C_% addr:housenumber#48 addr:street#Skytteskogsgatan
+n 5G\Ml 7(ES3y 6/B8x crossing#uncontrolled highway#crossing

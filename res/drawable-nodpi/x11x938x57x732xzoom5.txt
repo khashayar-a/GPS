@@ -1,0 +1,33 @@
+n "6j7a 7(F*cq 6/DJ/ highway#bus_stop name#Bäckedalsvägen
+n "_QP& 7(F)d< 6/Dkk highway#turning_circle
+n $Q2R! 7(F*QV 5"J/( highway#crossing
+n $Q5%$ 7(F*jc 6/DMj highway#crossing
+n &I9j0 7(F+Np 5"J,R addr:housenumber#4_B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j3 7(F,/> 6/D2@ addr:housenumber#5 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j4 7(F,>v 5"J+v addr:housenumber#7 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j5 7(F,hA 6/D7( addr:housenumber#9A addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j7 7(F,\t 6/D*i addr:housenumber#11 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &N;%% 7(F+"h 6/DIz amenity#recycling
+n &T-np 7(F+*G 6/D>j addr:housenumber#2C addr:postcode#41749 addr:street#Bäckedalsvägen
+n &T-nq 6fQ!G 6/DBt addr:housenumber#2B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &e7Ro 6fQ!f 5"J,d addr:housenumber#4_A addr:postcode#41749 addr:street#Bäckedalsvägen
+n .!hja 7(F+?B 6/DRJ highway#bus_stop name#Bäckedalsvägen
+n ."$~W 7(F(H4 6/DY% highway#crossing
+n ."%!$ 7(F(E" 6/DW@ highway#crossing
+n ."%!& 7(F(_/ 6/DW< highway#bus_stop name#Hildedalsgatan
+n ."(;F 7(F(Qh 6/DVo highway#bus_stop name#Hildedalsgatan
+n .,Uk$ 7(F,oL 6/D22 highway#turning_circle
+n .0TG* 7(F*vU 6/DO> highway#crossing
+n .0THm 7(F*um 6/DR6 highway#crossing
+n .0TIJ 7(F*cD 5"J.u highway#crossing
+n .0TIn 7(F*R" 6/DQo highway#crossing
+n .0TJa 7(F*O% 6/DQq highway#traffic_signals
+n 47>5v 7(F(RH 6/Ddb amenity#post_box
+n 47>6' 7(F*c/ 6/DGS amenity#post_box
+n 4;km| 7(F(@H 4.QG addr:housenumber#11 addr:street#Kamomillvägen
+n 4;km~ 7(F(<o 6/DOr addr:housenumber#9 addr:street#Kamomillvägen
+n 4;kn! 7(F(3j 6/DOZ addr:housenumber#7 addr:street#Kamomillvägen
+n 4;kn# 7(F(J8 6/DP7 addr:housenumber#15 addr:street#Kamomillvägen
+n 4;kn$ 7(F(G, 6/DOX addr:housenumber#13 addr:street#Kamomillvägen
+n 4;kn& 7(F(Rv 6/DPN addr:housenumber#17 addr:street#Kamomillvägen
+n 4;kn* 7(F(0g 6/DN{ addr:housenumber#5 addr:street#Kamomillvägen

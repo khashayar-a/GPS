@@ -1,0 +1,13 @@
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n /]\Na 6fM!& 6/AX/ light:status#extinguished seamark:type#light_major
+n 4`%~| 7(E_9R 6/B6* addr:housenumber#6C addr:street#Fiskhamnsgatan
+n 4`&!' 7(E^Gy 6/B*D addr:housenumber#8F
+n 4`&!% 6fLg- 6/B#! addr:housenumber#8E
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n 4`&!" 7(E^hZ 6/B.( addr:housenumber#8C addr:street#Fiskhamnsgatan
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n 4`&!! 7(E_$r 6/B.o addr:housenumber#8B addr:street#Fiskhamnsgatan
+n 4`&!# 7(E^\O 5"Iv8 addr:housenumber#8D
+n 4`%~~ 6fLmN 6/B1g addr:housenumber#8A addr:street#Fiskhamnsgatan
+n 4`%~b 7(E^:n 6/B#M addr:housenumber#10

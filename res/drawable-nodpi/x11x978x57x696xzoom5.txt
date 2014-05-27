@@ -1,0 +1,80 @@
+n JR- 7(E`7h 6/I#i highway#traffic_signals
+n JR. 7(Ea[v 6/Hi5 highway#traffic_signals
+n JR> 7(EcHM 6/I1% highway#traffic_signals
+n )sP= 7(Eg&7 6/IB2 highway#traffic_signals
+n 2k,m 7(Eap$ 6/IFe highway#traffic_signals
+n ?lno 7(Edn# 6/H,( highway#traffic_signals
+n E[oS 6fLaK 6/IE% highway#turning_circle
+n E[xS 7(Ed(y 6/IHw bicycle#yes crossing#uncontrolled highway#crossing
+n E_S- 7(E\EX 6/IEN highway#turning_circle
+n j2L~ 6fM*R 6/IQL highway#traffic_signals
+n j2kP 7(E]i* 6/IYB crossing#uncontrolled highway#crossing
+n j2kR 7(E^Pj 6/IPj crossing#uncontrolled highway#crossing
+n j2k_ 7(E`>X 5"JYq highway#traffic_signals
+n "1QbB 7(E^(Z 6/IVx name#Korsvägen railway#tram_stop
+n ":B|v 7(Ec]h 6/HC7 highway#traffic_signals
+n "fEA~ 6fL{, 5"JTg highway#traffic_signals
+n "fEKG 7(E`bn 6/HSJ highway#traffic_signals
+n "hmx; 7(EbU7 6/IN) name#Scandinavium railway#tram_stop
+n "hmx< 7(Ed*> 6/IJo highway#traffic_signals
+n "hmxB 7(Eg'} 6/IDb highway#traffic_signals
+n $6m1w 7(E_QR 6/Hcq name#Karin_Boye tourism#artwork
+n $6m1x 7(E_lI 6/Hd` name#J._A._Wadman tourism#artwork
+n ${KV} 7(E]n- 6/I!B highway#turning_circle
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $}ujt 7(Efj8 6/ID~ bicycle#yes crossing#controlled highway#crossing
+n $}us~ 7(E]f? 6/I_Z crossing#uncontrolled highway#crossing
+n $}ut) 7(E^;g 6/IOA crossing#uncontrolled highway#crossing
+n $}ut+ 7(E^A; 6/ILF bicycle#yes crossing#uncontrolled highway#crossing
+n %#X\R 7(Ej%W 6/IA\ highway#traffic_signals
+n %$v5[ 7(E^Mw 6/IV> name#Korsvägen railway#tram_stop
+n %%[D: 6fLz$ 6/K!: name#Sankt_Sigfrids_plan railway#tram_stop
+n &|YhR 7(E`bp 6/Hz} name#Berzeliigatan railway#tram_stop
+n '%I3R 7(Eb1| 6/IPe bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n '%I3j 7(Ec@1 6/I/2 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (Xfq3 7(Eavu 6/IEl bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n (Xfq7 7(Eb0G 6/ILk bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n (XfqD 7(Ec?p 6/I29 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqG 7(EcQ_ 6/I/Y bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqJ 7(EcN^ 6/I2Q bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (}(]k 7(E_RB 6/H[| amenity#cinema name#Roy
+n )+T&3 7(E`+% 6/H_/ amenity#bar name#Park_Lane
+n )7/'T 6fLi# 6/ILc amenity#cafe name#Franks_Coffe
+n )72MO 6fLr( 6/I-6 amenity#cafe name#Soup_N_Bagel
+n )M$p( 7(E`%9 6/I), name#Berzeliigatan railway#tram_stop
+n *VD+t 7(E^o3 5"JW4 amenity#fountain fixme#Bad_wikipedia_link:_Poseidon_med_brunnskar name#Poseidonbrunnen tourism#attraction wikipedia#Poseidon_med_brunnskar
+n +<nWP 5'y}h 6/Hx) amenity#bicycle_rental capacity#20 name#Berzeliigatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#47
+n +<nX$ 7(E^RV 6/ILR amenity#bicycle_rental capacity#20 name#Korsvägen_(Södra_vägen) network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#28
+n +<nX] 6fM*- 6/HlD amenity#bicycle_rental capacity#20 name#Heden_syd network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#26
+n -XR]k 7(EfhQ 6/IB` bicycle#yes crossing#controlled highway#crossing
+n -XR_# 7(Eg3f 6/IB% bicycle#yes crossing#controlled highway#crossing
+n /@"8; 7(E^=. 6/Hx. amenity#restaurant name#Fond
+n 0R&,L 7(E`Ee 6/HYe amenity#pub name#Bishop_Arm´s
+n 0R&>I 7(E`5} 6/H[k name#Elite_Park_Avenue tourism#hotel
+n 0j]~p 7(Ea#a 6/HbM addr:housenumber#34_C addr:postcode#41137 addr:street#Engelbrektsgatan amenity#pharmacy name#Apoteket_Biet
+n 1d&9= 7(E^Kp 6/I^n crossing#uncontrolled highway#crossing
+n 1d]6v 7(Eb{A 5"J]\ crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]8U 7(Eg5: 6/IDS bicycle#yes crossing#controlled highway#crossing
+n 1eSpL 7(Ebl, 6/I(> building#yes
+n 2R$N: 7(E_8B 6/Ha# highway#bus_stop name#Götaplatsen shelter#yes
+n 2R$N? 7(E_K{ 6/Hc< highway#bus_stop name#Götaplatsen shelter#yes
+n 3]d,n 7(EgQH 6/IDI name#Ullevi_Södra railway#tram_stop
+n 3]d-( 7(Efik 6/IDD bicycle#yes crossing#controlled highway#crossing
+n 3]d-: 7(Eg4s 6/ICv bicycle#yes crossing#controlled highway#crossing
+n 3]d-[ 7(EfQ- 6/IDi name#Ullevi_Södra railway#tram_stop
+n 3]dAj 7(Efs; 6/IBH highway#traffic_signals
+n 3]f|[ 7(Ed6i 5"J]C highway#traffic_signals
+n 3]}}a 7(Efu? 6/ID6 highway#traffic_signals
+n 3]}}d 7(Efuo 6/IDo highway#traffic_signals
+n 3]}}f 7(Eg'P 6/ID! highway#traffic_signals
+n 3gT*y 7(EdAf 6/IH7 highway#traffic_signals
+n 3gT*z 7(Ed>t 6/IF: highway#traffic_signals
+n 3gT*{ 6fM@z 6/IKS highway#traffic_signals
+n 3gT*} 7(EdC0 6/IIU highway#traffic_signals
+n 3gT*~ 7(Ed9[ 6/IIn highway#traffic_signals
+n 3gT+! 7(EdD; 6/IJ3 highway#traffic_signals
+n 3gT+" 7(Ed*# 6/IJ8 highway#traffic_signals
+n 3gT+# 7(Ed:k 6/IJJ highway#traffic_signals
+n 41V#z 7(Ea!Q 6/I;p name#7-Eleven shop#convenience

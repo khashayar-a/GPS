@@ -1,0 +1,163 @@
+w "uFj& building#yes
+d 5^kpj 7(Ep%( 6/LBb
+d 5^kp^ 7(Eo~m 6/LE$
+d 5^kpc 7(EpB] 6/LFr
+d 5^kpa 7(EpF! 6/LD\
+d 5^kpj 7(Ep%( 6/LBb
+w "uFj3 building#yes
+d 5^l"G 6fNN5 6/LOS
+d 5^l"T 7(Eoij 6/LQH
+d 5^l"E 6fNJ- 6/LO(
+d 5^l"R 7(EoGy 6/LLv
+d 5^l"G 6fNN5 6/LOS
+w "uFk9 building#yes
+d 5^l/8 7(Eq/# 6/LHw
+d 5^l/6 6fNZ6 6/LJa
+d 5^l/; 7(Epp' 6/LGt
+d 5^l// 7(Epqu 6/LGD
+d 5^l/J 7(EpXu 6/LDW
+d 5^l/N 7(Ep^~ 5"Jx{
+d 5^l/C 7(Epxv 6/LEY
+d 5^l/> 7(Epwa 6/LF!
+d 5^l/8 7(Eq/# 6/LHw
+w "uFj1 building#yes
+d 5^kv4 7(Eox* 6/LI>
+d 5^kv) 7(Eot. 6/LKN
+d 5^kv1 7(EoN] 6/LI.
+d 5^kv& 7(EoRv 6/LF|
+d 5^kv4 7(Eox* 6/LI>
+w "3U%T building#yes
+d .so4= 7(EsPP 6/M-V
+d .so4T 7(EsPT 6/M+_
+d .so4w 6fNs> 6/M+`
+d .so4Q 7(Esh& 6/M-W
+d .so4= 7(EsPP 6/M-V
+w "uFhx building#yes
+d 5^kg\ 7(EpK2 6/L3V
+d 5^kgR 7(Ep*r 5"JwF
+d 5^kgU 7(Ep*r 6/L2D
+d 5^kg] 7(Eob] 6/L1n
+d 5^kgX 7(Eoa7 6/L4i
+d 5^kg[ 7(EpK& 6/L5s
+d 5^kg\ 7(EpK2 6/L3V
+w "g({n building#yes
+d 4/6%Q 7(Eo<\ 6/LY,
+d 4/6$\ 7(Eo8' 6/L[,
+d 4/6$T 7(Eoe{ 6/L^;
+d 4/6$Q 7(Eoi. 6/L\4
+d 6!Pb{ 6fNMC 6/L[w
+d 6!Pbz 7(EoZ" 6/L[2
+d 6!Pbx 7(EoNq 6/LZF
+d 6!Pbv 7(EoCD 6/LYX
+d 4/6%Q 7(Eo<\ 6/LY,
+w "uFic building#yes
+d 5^km| 6fNS] 6/L=e
+d 5^km{ 6fNSI 5"Jxd
+d 5^kmz 6fNP" 6/L?5
+d 5^kmy 7(Ep"n 6/L<t
+d 5^km| 6fNS] 6/L=e
+w "g({h building#yes
+d 4/6$u 7(Eovr 6/LjG
+d 4/6$F 7(Ep!9 6/Lkl
+d 4/6$a 7(Eo7/ 6/L{H
+d 4/6$J 7(Eo.! 4.YB
+d 4/6$u 7(Eovr 6/LjG
+w "3Tw- building#yes
+d .slpx 7(EsXd 6/M*]
+d .slp? 7(Es]. 6/M*\
+d .slpn 7(Es]* 5"K!s
+d .slq> 7(EsX` 5"K!s
+d .slpx 7(EsXd 6/M*]
+w "uFi* building#yes
+d 5^kkb 7(EpHJ 6/L88
+d 5^kk_ 7(EpFZ 6/L:g
+d 5^kkd 7(Eo^l 6/L9P
+d 5^kk] 7(Eo`\ 5"Jwk
+d 5^kkb 7(EpHJ 6/L88
+w "T+jh building#yes
+d 2=|+C 7(Eo|v 6/LKm
+d 2=|+H 7(EpoK 6/LPr
+d 2=|+B 6fNX3 6/LNx
+d 2=|+J 7(Ep"D 6/LIs
+d 2=|+C 7(Eo|v 6/LKm
+w "g({b amenity#parking
+d 4/6$n 7(Ep9j 6/LiZ
+d 4/6$q 7(Eon\ 6/LqD
+d 4/6$; 7(EozQ 6/LsT
+d 4/6$< 7(EpEp 6/Ll$
+d 4/6$n 7(Ep9j 6/LiZ
+w "g({j building#yes
+d 4/6%( 7(Eo/R 6/L_q
+d 4/6$I 7(Eo+r 6/Laf
+d 4/6$> 7(Eo\4 6/Le-
+d 4/6$= 7(Eo_b 6/Lc%
+d 4/6%( 7(Eo/R 6/L_q
+w "uFk: building#yes
+d 5^l/L 7(EqY| 6/L:i
+d 5^l/M 7(EqW: 6/L=1
+d 6!Pbu 7(EqT@ 6/L=)
+d 6!Pbw 7(EqKK 6/L<l
+d 6!Pby 7(EqB. 6/L<L
+d 6!Pb} 7(Eq6U 5"Jx>
+d 6!Pb~ 7(Eq(b 6/L;a
+d 6!Pc! 7(Epu` 5"Jx6
+d 6!Pc# 7(Ep^g 5"Jx/
+d 5^l/9 7(EpXu 6/L:=
+d 5^l/R 7(EpV/ 6/L9[
+d 5^l/T 7(EpYQ 5"JwM
+d 5^l/P 7(Ep\U 6/L3A
+d 5^l/7 7(Eq]p 6/L4E
+d 5^l/@ 7(Eq\. 5"Jwj
+d 5^l/I 7(Epc: 6/L5a
+d 5^l/X 7(EpbB 6/L7{
+d 5^l/L 7(EqY| 6/L:i
+w "uFj4 building#yes
+d 5^l"P 7(Eou_ 6/LOx
+d 5^l"U 7(EoqF 6/LR%
+d 5^l"F 7(Epc: 6/LW"
+d 5^l"H 7(Epfw 6/LTp
+d 5^l"P 7(Eou_ 6/LOx
+w "uFk< building#yes
+d 5^l/K 6fNU6 6/LdH
+d 5^l/4 7(EpJs 6/LcV
+d 5^l/= 7(EpVA 6/L^v
+d 5^l/3 7(Epa[ 6/L_x
+d 5^l/K 6fNU6 6/LdH
+w "3U%N building#yes
+d .so5! 7(EsE| 6/M(k
+d .so46 7(EsEx 6/M&n
+d .so4y 7(Es\v 6/M&l
+d .so43 7(Es\y 5"K!j
+d .so5! 7(EsE| 6/M(k
+w "uFj" building#yes
+d 5^knT 7(Eo{L 6/LB7
+d 5^knW 7(EowD 6/LDH
+d 5^knV 7(EoWN 6/LB<
+d 5^knU 7(Eo[\ 6/L@)
+d 5^knT 7(Eo{L 6/LB7
+w "g({` building#yes
+d 4/6$i 7(Ep0@ 6/La&
+d 4/6$D 7(Ep;M 6/Lb%
+d 4/6$L 7(Ep0# 6/LfM
+d 4/6${ 7(Ep%B 6/Le[
+d 4/6$i 7(Ep0@ 6/La&
+w "uFk; building#yes
+d 5^l/V 7(Eq0T 6/LOH
+d 5^l/W 7(Eq<[ 6/LOo
+d 5^l/2 7(Eq?O 6/LL@
+d 5^l/5 7(EqC@ 6/LLR
+d 5^l/B 7(EqE; 6/LJ&
+d 5^l/H 7(EqC. 6/LIy
+d 5^l/S 7(EqLY 6/L??
+d 6!Pb| 7(Eq$W 6/L>*
+d 5^l/[ 7(EpVL 6/L<c
+d 5^l/Y 7(EpSG 6/L>r
+d 5^l/0 7(Eq>h 6/LAF
+d 5^l/Q 7(Eq:! 6/LF&
+d 5^l/V 7(Eq0T 6/LOH
+w "uFk= building#yes
+d 5^l/U 7(Eq5I 6/LUh
+d 5^l/Z 7(Eq$& 6/LT*
+d 5^l/O 7(Epf[ 6/L^o
+d 5^l/1 7(Epyc 6/L`U
+d 5^l/U 7(Eq5I 6/LUh

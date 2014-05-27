@@ -1,0 +1,49 @@
+n K"f 6fOQI 6/JWq highway#motorway_junction name#Marieholmsmotet ref#76a
+n K"r 7(F$\j 6/Jt) highway#motorway_junction name#Slakthusmotet ref#77
+n :4Hy 7(Ew@o 6/J}* name#Olskroken railway#technical_station ref#Or
+n "uszg 7(Ex=N 6/J|p railway#switch
+n $0i?* 7(Ey7? 6/Jb& barrier#gate designation#Open_dayhours odbl#clean
+n $u>"8 7(E~dl 6/JoA highway#motorway_junction name#Marieholmsmotet ref#76a
+n %(2zt 7(Exgm 6/K(E railway#switch
+n %6::K 5'z7S 6/Jhd barrier#gate designation#Open_dayhours
+n &=Fht 7(E|_w 6/K`k highway#motorway_junction name#Marieholmsmotet ref#76b
+n 'OG4e 7(E{hO 6/Jzu barrier#gate bicycle#no designation#Open_dayhours foot#no
+n (=9%I 7(E}\? 6/Jql highway#motorway_junction name#Marieholmsmotet ref#76b
+n 0*Np1 7(ExD; 6/Jq( railway#switch
+n 0*Np\ 7(Ez!6 6/K4l railway#switch
+n 0*Npl 7(EyOy 6/K+Y railway#switch
+n 0,5VI 7(Ex)E 6/Js: railway#switch
+n 0,5Z2 7(Ewk> 6/Jj0 railway#switch
+n 0>'z# 7(Eyjt 6/K=$ railway#railway_crossing
+n 0>'z@ 7(ExW& 5"Jn? railway#switch
+n 0>'zF 7(E}~% 6/KNR railway#switch
+n 0>'zW 7(Ezn~ 6/KB% railway#switch
+n 0>'zc 7(Ex+& 5"JmN railway#switch
+n 0>'{1 7(E}mc 6/KGH railway#switch
+n 0>'{8 7(Exj8 6/K(w railway#switch
+n 0>'{9 7(EwvA 6/K)Q railway#switch
+n 0>'{W 7(Ez$g 6/KB$ railway#switch
+n 0?WZU 7(EvXy 6/Jre railway#switch
+n 0?WZ[ 7(Ew|- 6/Ju{ railway#switch
+n 0?WZ] 7(EuS> 6/J_T railway#switch
+n 0?WZ^ 7(EtYT 6/JQU railway#switch
+n 0?WZm 7(Ev,: 6/Jk+ railway#switch
+n 0?W[4 7(EuIA 6/J`8 railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0?W[Y 7(Ex'1 6/K%V railway#switch
+n 0?W\( 7(ExI[ 6/K%> railway#switch
+n 0?W\5 7(Ew5L 6/J|Y railway#switch
+n 0?W\S 7(Ey%} 6/K0r railway#switch
+n 0?W\n 7(Ex|n 5"Jml railway#switch
+n 0?W\t 7(ExEu 6/K'^ railway#switch
+n 0?W]) 7(ExaM 6/K,> railway#switch
+n 0?W]1 7(Eua_ 6/Jc+ railway#switch
+n 0?W]d 7(EtFn 6/JR, railway#switch
+n 0?W]{ 7(EwWP 6/K%D railway#switch
+n 0?W^L 7(Et|5 6/JY{ railway#switch
+n 0?W_# 6fO5T 6/Jzg railway#switch
+n 0?W_4 6fO>L 6/J|\ railway#switch
+n 0?W_P 7(EyD} 6/K5' railway#railway_crossing
+n 0?W_Y 7(ExHt 6/K)% railway#switch
+n 0?W_{ 7(EyYm 6/K9K railway#switch
+n 0?W`4 7(Ex]e 6/K*- railway#switch

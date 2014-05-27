@@ -1,0 +1,51 @@
+n :4I% 7(E|*~ 5"Jp1 railway#switch
+n #8`%T 7(E~[& 6/KD| railway#switch
+n #8`%V 7(E~m| 6/KC} railway#switch
+n $0i?* 7(Ey7? 6/Jb& barrier#gate designation#Open_dayhours odbl#clean
+n %[i~K 7(F$wL 6/KW0 railway#switch
+n &%6;y 7(F"$; 6/K~# crossing#traffic_signals highway#traffic_signals
+n &=Fht 7(E|_w 6/K`k highway#motorway_junction name#Marieholmsmotet ref#76b
+n &v,:! 7(F!oZ 6/Kza highway#traffic_signals
+n &vh"x 7(F!iV 6/Kvr amenity#post_box
+n 'OG4e 7(E{hO 6/Jzu barrier#gate bicycle#no designation#Open_dayhours foot#no
+n (bCwc 7(F"9J 6/Ky/ highway#traffic_signals
+n (gE~M 7(F#V9 6/K_i highway#bus_stop name#Gamlestadstorget
+n (gF3n 7(F"Pa 6/K}} highway#bus_stop name#Kristinedal
+n (gF3q 7(F!uF 6/Kv{ highway#bus_stop name#Kristinedal
+n +/\A: 7(F!KR 6/Kdw amenity#restaurant cuisine#regional name#Pannrummet opening_hours#Mo-Fr_11:00-14:00
+n +/i{H 7(F!$x 6/Ks8 amenity#parking
+n 0>!=# 7(E}/# 6/L.n railway#switch
+n 0>'zF 7(E}~% 6/KNR railway#switch
+n 0>'zW 7(Ezn~ 6/KB% railway#switch
+n 0>'{1 7(E}mc 6/KGH railway#switch
+n 0>'{9 7(EwvA 6/K)Q railway#switch
+n 0?WZU 7(EvXy 6/Jre railway#switch
+n 0?WZ] 7(EuS> 6/J_T railway#switch
+n 0?WZ^ 7(EtYT 6/JQU railway#switch
+n 0?WZm 7(Ev,: 6/Jk+ railway#switch
+n 0?W[4 7(EuIA 6/J`8 railway#switch
+n 0?W[Y 7(Ex'1 6/K%V railway#switch
+n 0?W\5 7(Ew5L 6/J|Y railway#switch
+n 0?W\S 7(Ey%} 6/K0r railway#switch
+n 0?W]) 7(ExaM 6/K,> railway#switch
+n 0?W_P 7(EyD} 6/K5' railway#railway_crossing
+n 0?W_Y 7(ExHt 6/K)% railway#switch
+n 1;R?R 6fOrN 5"Jr9 highway#traffic_signals
+n 1<WSa 7(F%!D 6/K[R railway#switch
+n 1<ZZ> 7(F""V 6/KU[ railway#railway_crossing
+n 1<ZZD 7(F!^Z 6/KTP railway#switch
+n 1<ZZH 7(F!Dc 6/KR| railway#switch
+n 1<ZZX 7(E}Lt 6/K]p railway#railway_crossing
+n 1<ZZb 6fOt* 5"Jqv railway#switch
+n 1<ZZi 7(F!]b 6/KSc railway#switch
+n 1<ki] 6fP3K 6/Kab bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kj] 7(F#e" 6/KZ< bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kjh 6fP6p 6/Kl? bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kk7 7(F#t3 6/KYg name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1A29x 7(Etbf 6/KZP bench#yes name#Redbergsplatsen railway#tram_stop
+n 1A2so 7(Eyo; 6/Kgu bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1A2sq 7(EtNC 6/KXk bench#yes name#Redbergsplatsen railway#tram_stop shelter#yes
+n 1A2sy 7(EyZ> 6/Kff bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1QXtG 7(F"d7 6/KsJ highway#turning_circle
+n 3U-V& 7(F"U$ 6/Kn= amenity#hospital name#Gamlestadens_vårdcentral
+n 3Wpfz 7(F#HL 6/L&H building#entrance

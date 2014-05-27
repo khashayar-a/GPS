@@ -1,0 +1,46 @@
+n r3/" 7(EMEL 6/G]* highway#turning_circle
+n $T7oQ 7(ELau 6/H\A bicycle#yes crossing#island highway#crossing
+n ${zKV 7(EMXY 6/H"# highway#turning_circle
+n %%\9c 6fK@h 5"JP. name#Dr_Fries_Torg railway#tram_stop
+n %%\:U 7(ELCn 6/H@z name#Dr_Sydows_Gata railway#tram_stop
+n 'PVM% 7(EMZC 6/GyY amenity#school name#Mossebergsskolan
+n 'PVM& 6fJtL 6/Glr addr:city#Göteborg addr:country#SE addr:housenumber#4 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PVM' 6fJp' 5"JN` addr:city#Göteborg addr:country#SE addr:housenumber#2 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PVM( 7(EMHs 6/G}k addr:city#Göteborg addr:country#SE addr:housenumber#9 addr:postcode#413_23 addr:street#Doktor_Håléns_gata
+n 'PVyv 7(ELx" 6/H"0 addr:city#Göteborg addr:country#SE addr:housenumber#11 addr:postcode#413_23 addr:street#Doktor_Håléns_gata
+n 'PWS6 7(EL/; 6/Gp* addr:city#Göteborg addr:country#SE addr:housenumber#7 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PWS7 7(ELTr 6/Gk( addr:city#Göteborg addr:country#SE addr:housenumber#9 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PWS8 7(ELyN 6/Gf& addr:city#Göteborg addr:country#SE addr:housenumber#11 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'PWS; 7(EKfd 6/Gty addr:city#Göteborg addr:country#SE addr:housenumber#5 addr:postcode#413_25 addr:street#Syster_Estrids_gata
+n 'RusB 7(EK[N 6/G}k addr:city#Göteborg addr:country#SE addr:housenumber#2B addr:postcode#413_24 addr:street#Doktor_Westrings_gata
+n 'RusC 6fJsH 6/G~c addr:city#Göteborg addr:country#SE addr:housenumber#2A addr:postcode#413_24 addr:street#Doktor_Westrings_gata
+n 'RusK 6fJpa 6/G|Z addr:city#Göteborg addr:country#SE addr:housenumber#2C addr:postcode#413_24 addr:street#Doktor_Westrings_gata
+n 'RusO 7(EKQ6 5"JPP addr:city#Göteborg addr:country#SE addr:housenumber#3A addr:postcode#413_24 addr:street#Doktor_Westrings_gata
+n .N$yU 7(ELaE 6/H7< amenity#fast_food cuisine#pizza name#Hemkört_Pizzeria
+n .N$yl 7(EL[7 5"JR8 amenity#fast_food cuisine#chinese
+n .N$z* 6fJ}1 6/H7, name#Coop_Nära shop#convenience
+n .N'CF 7(EOX\ 6/GuE amenity#pharmacy
+n .WJ[s 7(ENn: 6/H)9 addr:city#Göteborg addr:housenumber#8A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n .WJ[x 7(EN=g 6/H-+ addr:city#Göteborg addr:housenumber#4A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 1eE"[ 7(ENG) 6/H-D addr:city#Göteborg addr:housenumber#6A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 1eE$3 7(EO>! 6/H$O addr:city#Göteborg addr:housenumber#12A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 1lJ`Y 7(ELrL 6/H_0 bicycle#yes crossing#island highway#crossing
+n 2A(gw 7(EL^J 6/GyB leisure#playground name#Åhlens_Park
+n 5jq!I 7(EN{[ 6/H(x addr:city#Göteborg addr:housenumber#10A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq!T 7(EO)L 6/H'e addr:city#Göteborg addr:housenumber#10B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq!z 7(EO5d 6/H&R addr:city#Göteborg addr:housenumber#10C addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq!{ 7(EO7: 6/G~c addr:city#Göteborg addr:housenumber#12B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq"# 7(EO0, 6/G|N addr:city#Göteborg addr:housenumber#12C addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq"8 7(EO-K 6/H,L addr:city#Göteborg addr:housenumber#1A addr:interpolation#odd addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq"= 7(EO;= 6/H+* addr:city#Göteborg addr:housenumber#1B addr:interpolation#odd addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq"V 7(EOQC 6/H*o addr:city#Göteborg addr:housenumber#1C addr:interpolation#odd addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq"b 7(EN~+ 6/H/_ addr:city#Göteborg addr:housenumber#1D addr:interpolation#odd addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq$& 7(EMh{ 6/H,- addr:city#Göteborg addr:housenumber#2A addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq$. 7(EMe> 6/H)_ addr:city#Göteborg addr:housenumber#2B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq$T 7(EN;' 6/H(v addr:city#Göteborg addr:housenumber#4B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq$c 7(EN6T 6/H&^ addr:city#Göteborg addr:housenumber#4C addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq%9 5'ymb 5"JQ+ addr:city#Göteborg addr:housenumber#6B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq%F 7(ENd] 6/H+) addr:city#Göteborg addr:housenumber#6C addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq%S 7(ENig 6/H%3 addr:city#Göteborg addr:housenumber#8B addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jq&& 7(ENd+ 6/H#! addr:city#Göteborg addr:housenumber#8C addr:interpolation#even addr:street#Doktor_Hjorts_gata building#entrance
+n 5jqFv 7(EODU 6/H&Z highway#turning_circle

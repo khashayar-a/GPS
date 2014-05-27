@@ -1,0 +1,23 @@
+n ?ziF 7(ESS# 6/Jhm highway#traffic_signals
+n ?ziH 7(EOmz 6/K,8 highway#traffic_signals
+n w5U0 7(EOf8 6/K(3 highway#traffic_signals
+n w5Ue 7(ESIG 6/Je@ highway#traffic_signals
+n w5Y> 7(EV*G 6/JIv highway#traffic_signals
+n ".Vw1 7(ELq] 6/JYy traffic_calming#hump
+n "7U@5 7(EOIq 5"Jeu crossing#uncontrolled highway#crossing
+n "v+*4 6fL.q 6/J2H highway#traffic_signals
+n $s(W^ 7(EV3( 5"Jg; crossing#traffic_signals highway#traffic_signals
+n %7umW 7(ELfE 5"JmW name#Willys shop#supermarket
+n %8"Ch 6fK9B 6/K,1 name#Elisedal railway#tram_stop
+n %8"E% 7(ESm# 6/Jce name#Almedal railway#tram_stop
+n &$MhZ 7(ENJU 5"J_| bicycle#yes crossing#uncontrolled;island highway#crossing
+n &|YiK 6fJnN 5"Jp, name#Varbergsgatan railway#tram_stop
+n 1fKFM 6fKFl 6/Jsm traffic_calming#hump
+n 1fKFu 7(ENp@ 6/J#l crossing#uncontrolled highway#crossing
+n 1fKH# 7(ENo> 6/J"| traffic_calming#hump
+n 1fKHg 7(EN{' 6/J-J traffic_calming#hump
+n 1kg8' 5'yk6 6/JWr traffic_calming#hump
+n 1kg9n 7(EOQ\ 5"Jk@ highway#turning_circle
+n 1kg:8 7(EK*d 6/JUP crossing#uncontrolled highway#crossing
+n 1kg:l 7(EK1M 6/K0) traffic_calming#hump
+n 1kg>u 7(ELyj 6/Jw| crossing#uncontrolled highway#crossing

@@ -1,0 +1,49 @@
+n @eb| 7(E[TB 6/HA< highway#traffic_signals
+n "1=+D 7(EVaW 5"JPd highway#traffic_signals
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n "4v=S 7(EQ~1 6/HfZ traffic_calming#hump
+n "7Uy\ 7(ESlX 6/H2G highway#turning_circle
+n "fHxh 7(EOWH 6/Hd6 highway#turning_circle
+n "{sYt 7(EVJY 6/H!D highway#traffic_signals
+n #+uFz 7(EOzY 6/GwO is_in#Göteborg name#Guldheden place#suburb
+n ${zKV 7(EMXY 6/H"# highway#turning_circle
+n %%\9c 6fK@h 5"JP. name#Dr_Fries_Torg railway#tram_stop
+n %%\:U 7(ELCn 6/H@z name#Dr_Sydows_Gata railway#tram_stop
+n %16!' 7(EO~_ 6/HDp addr:housenumber#2 addr:street#Dr_Wigardhs_gata
+n %1L^% 6fKc} 6/HWT addr:housenumber#5 addr:street#Rännvägen
+n -DIe@ 6fKa\ 6/H_@ amenity#pub name#Basen wheelchair#yes
+n -Kqlq 6fK~O 5"JWY crossing#uncontrolled highway#crossing
+n .N$yu 7(EP6c 6/Gx_ amenity#post_box
+n .N$z# 7(EP(& 5"JO4 amenity#atm
+n 1[]Pg 7(E[Dj 6/HBF crossing#traffic_signals highway#crossing
+n 1aUv\ 7(EPT0 6/H"= crossing#uncontrolled highway#crossing
+n 1aUvb 6fKDY 6/H)% crossing#uncontrolled highway#crossing
+n 1aUvw 7(EPQl 6/H#r crossing#uncontrolled highway#crossing
+n 1aUv} 7(EPqS 6/H!A crossing#uncontrolled highway#crossing
+n 1aUwA 7(EP@$ 6/G{2 crossing#uncontrolled highway#crossing
+n 1aUwC 7(EPa{ 6/G~_ crossing#uncontrolled highway#crossing
+n 1aUwI 7(EP]O 6/H(\ crossing#uncontrolled highway#crossing
+n 1aUwN 7(EP+l 6/H"5 crossing#uncontrolled highway#crossing
+n 1d!$u 7(EQFP 6/HTK traffic_calming#hump
+n 1d!%> 7(EVK- 6/Hq& crossing#uncontrolled highway#crossing
+n 1d!'7 6fKbJ 6/I(L crossing#uncontrolled;island highway#crossing
+n 1eE#& 7(EQ7n 6/G^+ traffic_calming#hump
+n 1eE#3 7(EPEK 6/Gw$ crossing#uncontrolled highway#crossing
+n 1eE#9 7(EPI$ 6/H>g crossing#uncontrolled highway#crossing
+n 1eE#B 7(EPP` 6/GkT traffic_calming#hump
+n 1eE#O 6fKBA 6/Gvi traffic_calming#hump
+n 1eE%] 7(ERQ| 6/GPS traffic_calming#hump
+n 1eE&i 7(EPA} 6/H=m crossing#uncontrolled highway#crossing
+n 1eE'O 6fK>g 6/Gs9 crossing#uncontrolled highway#crossing
+n 1egB| 7(ES3u 6/Hp> traffic_calming#hump
+n 1egD$ 7(ESRC 6/H_? amenity#bicycle_parking
+n 1egGu 7(ESz~ 6/H[q amenity#bicycle_parking
+n 1lJ`Y 7(ELrL 6/H_0 bicycle#yes crossing#island highway#crossing
+n 1m4*o 7(EXWr 6/H\@ crossing#uncontrolled highway#crossing
+n 1m4+j 7(EY7& 6/HUw crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"P' 7(EZDk 6/HK+ crossing#uncontrolled highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 2A(h# 7(EO{v 6/Gs` name#Hemköp old_name#Jiffy shop#supermarket
+n 5jq&4 7(EPi6 5"JUP amenity#restaurant cuisine#regional email#info@butlercatering.se name#Restaurang_Einstein phone#0317724170 smoking#no website#http://butlercatering.se/

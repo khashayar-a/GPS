@@ -1,0 +1,24 @@
+w "N#)t amenity#ferry_terminal area#yes bicycle#yes foot#yes name#Eriksberg operator#Västtrafik public_transport#platform
+d 1c_@W 7(Ebe\ 5"Ip`
+d 1c_@Y 7(Eb`o 6/AO@
+d 1c_@Q 7(Eb]r 6/AO%
+d 1c_@I 7(Eb[` 6/AOg
+d 1c_@9 7(EbUD 6/AO(
+d %;8)# 7(EbXi 6/AMv
+d 1c_@C 6fM0@ 6/ALc
+d 1c_@3 7(EbbF 4.NV
+d 1c_@& 7(Eb_D 6/ANO
+d 1c_?r 7(Eb`> 6/ANW
+d 1c_?| 6fM1+ 6/AM7
+d 1c_@, 7(Ebdh 6/AMK
+d 1c_@W 7(Ebe\ 5"Ip`
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n $k=eu 7(Ebll 6/AEb highway#mini_roundabout
+n $_l5X 7(Eiw` 5"Ix, highway#bus_stop name#Nordviksgatan
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n $_l5v 7(EeHE 6/A~, highway#bus_stop name#Eriksberg_Centrum
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n /]\Mw 7(Eb36 6/A{f light:status#extinguished seamark:type#light_major
+n $rwua 7(Eb$t 6/A^% gns_classification#ADM2 gns_uni#-3418324 is_in:country#Sweden is_in:country_code#SE is_in:county#Västra_Götalands_län name#Göteborgs_kommun place#municipality population#500197
+n $g==? 7(Ed]V 6/A?] highway#bus_stop name#Eriksberg_Krokäng wheelchair#yes

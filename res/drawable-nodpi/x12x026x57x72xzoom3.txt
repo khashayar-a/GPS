@@ -1,0 +1,236 @@
+w "uJ7} building#yes
+d 5_0hO 7(E{8h 6/N0"
+d 5_0h[ 7(E{06 6/N0X
+d 5_0iI 7(E{#I 6/N)&
+d 5_0i~ 7(E{,V 6/N(S
+d 5_0hO 7(E{8h 6/N0"
+w "2np6 amenity#parking fee#yes parking#surface
+d .kc&D 7(Ey3w 6/N%&
+d .kc&@ 7(Ey7l 6/N*{
+d .kc&T 7(ExZ5 6/N,K
+d .kc&B 7(ExYZ 6/N+V
+d .kc&< 7(ExU2 6/N+`
+d .kc&P 7(ExTI 6/N*Y
+d .kc&G 7(ExY! 6/N*K
+d .kc&O 7(ExWx 6/N(|
+d .kc&R 7(ExW\ 5"K+0
+d .kc&: 7(ExVd 6/N'Q
+d .kc&X 7(ExWq 6/N'J
+d .kc&5 7(ExW8 6/N&V
+d .kc&D 7(Ey3w 6/N%&
+w "\(+d building#yes
+d 3$2nu 7(E|:] 5"K*v
+d 3$2nz 7(E|He 6/N-:
+d 3$2nt 7(E|]~ 6/N+l
+d 3$2nx 7(E|O| 6/N$[
+d 3$2nu 7(E|:] 5"K*v
+w "uJ8! building#yes
+d 5_0h, 7(Ex,_ 6/N-K
+d 5_0hZ 7(Ex$f 6/N/%
+d 5_0hE 7(Ex_8 6/N9$
+d 5_0ih 7(Exbr 6/N89
+d 5_0h2 7(ExgZ 6/N7&
+d 5_0h, 7(Ex,_ 6/N-K
+w "uJ8) building#yes
+d 5_0iA 7(Ey=< 6/NAy
+d 5_0iQ 7(Ey5` 6/NC^
+d 5_0hl 7(EyJB 5"K.3
+d 5_0i_ 7(EyL` 6/NF=
+d 5_0h& 6fOKJ 6/NE$
+d 5_0iA 7(Ey=< 6/NAy
+w "3Sh| building#yes
+d .s]L] 7(E{TY 6/N8?
+d .s]M^ 6fO^x 6/N8\
+d .s]Lr 7(E{U8 6/N9w
+d .s]LT 7(E{QX 5"K,r
+d .s]L] 7(E{TY 6/N8?
+w "\(*s amenity#parking parking#surface surface#asphalt
+d 3$2ki 7(E|Vk 5"K*b
+d 3$2k} 6fOgd 6/N$4
+d 3$2kg 7(E|]P 6/N)~
+d 3$2kv 7(E|b6 6/N)c
+d 3$2ki 7(E|Vk 5"K*b
+w "uJ8+ building#yes
+d 5_0ij 7(E{f1 6/NBv
+d 5_0j" 7(E{dA 6/NE(
+d 5_0hM 7(E|-^ 6/NFe
+d 5_0hI 7(E|/J 6/NDG
+d 5_0ij 7(E{f1 6/NBv
+w "uJ8. building#yes
+d 5_0iR 7(Ezqt 6/N7_
+d 5_0iB 7(Ezi! 6/N7<
+d 5_0hW 7(Ez_< 6/N=I
+d 5_0hx 7(Ez:D 6/N;K
+d 5_0i# 7(Ez6L 6/N=3
+d 5_0it 7(EzXT 6/N?E
+d 5_0i| 7(EzZ+ 6/N>F
+d 5_0iy 7(Ezg1 6/N?;
+d 5_0iR 7(Ezqt 6/N7_
+w "uJ8" building#yes
+d 5_0iz 7(Ezmx 6/N,3
+d 5_0i^ 7(EzeE 6/N,^
+d 5_0h( 7(Ezp& 6/N42
+d 5_0i- 7(Ezyh 6/N3R
+d 5_0iz 7(Ezmx 6/N,3
+w "uJ8$ building#yes
+d 5_0i% 7(Ey\~ 6/N:F
+d 5_0j* 7(Eya9 6/N<Q
+d 5_0hA 7(Ey/t 6/N@@
+d 5_0hJ 7(Ey*^ 6/N?@
+d 5_0hr 7(Ey._ 6/N>6
+d 5_0i% 7(Ey\~ 6/N:F
+w "uJ8- building#yes
+d 5_0hp 7(E|O0 6/N<A
+d 5_0h6 7(E|Fx 6/N<&
+d 5_0hD 7(E|?# 6/NCS
+d 5_0hk 7(E|I$ 6/NCz
+d 5_0hp 7(E|O0 6/N<A
+w "oq:o building#yes
+d 5,Y&s 7(E{'@ 6/M|I
+d 5,Y&5 7(E{+l 6/N$N
+d 5,Y&$ 7(E{!8 6/N$g
+d 5,Y&J 7(Ezzj 5"K*1
+d 5,Y&s 7(E{'@ 6/M|I
+w "uJ7y building#yes
+d 5_0iG 6fONL 6/NB{
+d 5_0iF 7(EytL 6/NDv
+d 5_0hN 7(EyT/ 6/NGH
+d 5_0i_ 7(EyL` 6/NF=
+d 5_0h& 6fOKJ 6/NE$
+d 5_0iG 6fONL 6/NB{
+w "uJ8# building#yes
+d 5_0h| 7(EzY3 6/N,H
+d 5_0ir 7(Ez\q 6/N.X
+d 5_0iK 7(Ez)% 6/N1Z
+d 5_0i? 7(Ez%b 6/N/P
+d 5_0h| 7(EzY3 6/N,H
+w "uJ8' building#yes
+d 5_0i: 7(E{wp 6/N0(
+d 5_0i. 6fOa1 6/N02
+d 5_0h_ 7(E{qg 6/N7t
+d 5_0iO 7(E{zu 6/N7Z
+d 5_0i: 7(E{wp 6/N0(
+w "uJ8* building#yes
+d 5_0iU 7(E{St 6/N-U
+d 5_0iP 7(E{K{ 6/N-{
+d 5_0iW 7(E{R_ 6/N5T
+d 5_0ip 7(E{\D 6/N5,
+d 5_0iU 7(E{St 6/N-U
+w "uJ7{ building#yes
+d 5_0hL 7(Ez\q 6/NAy
+d 5_0iE 6fOU- 6/NAJ
+d 5_0i/ 7(EzI% 5"K.D
+d 5_0hg 7(EzR3 6/NI2
+d 5_0hL 7(Ez\q 6/NAy
+w "uJ7| building#yes
+d 5_0i0 7(E|8\ 6/N4<
+d 5_0ha 7(E|/N 6/N47
+d 5_0il 7(E|+n 6/N;t
+d 5_0is 7(E|6O 6/N;t
+d 5_0i0 7(E|8\ 6/N4<
+w "\(*l amenity#parking parking#surface surface#asphalt
+d 3$2l" 7(E|l; 6/N"Q
+d 3$2ku 7(E|yu 6/N)I
+d 3$2kq 7(E}%% 6/N(i
+d 3$2kx 7(E|uN 5"K*O
+d 3$2l" 7(E|l; 6/N"Q
+w "\(*j amenity#parking parking#surface surface#asphalt
+d 3$2kh 7(E|\X 6/N#D
+d 3$2kl 7(E|f2 6/N(0
+d 3$2kw 6fOj[ 6/N'Q
+d 3$2kr 7(E|ey 5"K*W
+d 3$2kh 7(E|\X 6/N#D
+w "uJ8& building#yes
+d 5_0ht 7(EyzU 6/N2h
+d 5_0hc 7(Eyr" 6/N2b
+d 5_0i3 6fONC 6/N:y
+d 5_0i2 7(Eyx} 6/N:y
+d 5_0ht 7(EyzU 6/N2h
+w "Rgif highway#unclassified name#Torpavallsgatan
+d 22H'0 7(E{l, 5"K)4
+d 22H'- 7(E{nB 6/Mv0
+d 22H'. 7(E{tm 5"K)~
+d #8\5Y 7(E|#F 6/N#3
+d .s]M1 7(E|4R 6/N+.
+d 3$2l! 7(E|<w 6/N.n
+d .s]MF 7(E|B> 6/N12
+d [.Q 7(E|Np 6/N6B
+d .s]L} 7(E|]N 6/N<i
+d .s]M' 7(E|j@ 6/NA~
+d .s]Mp 7(E|xT 6/NH&
+d .s]Lq 7(E}&w 6/NMD
+d .s]Mn 7(E}2P 6/NRP
+d .s]N1 7(E}?W 6/NX[
+d .s]N3 7(E}KX 6/N^6
+d [.R 7(E}^9 6/Nf}
+w "uJ8, building#yes
+d 5_0i\ 7(E{K{ 6/N8G
+d 5_0hv 7(E{O" 6/N:Q
+d 5_0iZ 7(E{02 6/N<8
+d 5_0j( 7(E{(! 6/N@a
+d 5_0j& 7(Ez}0 5"K-Q
+d 5_0hz 7(E{'z 6/N:>
+d 5_0i\ 7(E{K{ 6/N8G
+w "uJ8% building#yes
+d 5_0hm 6fOL_ 6/N0R
+d 5_0i* 7(Eybj 6/N2r
+d 5_0hH 7(EyOW 6/N4R
+d 5_0hK 7(EyNx 6/N3|
+d 5_0iq 7(ExhF 6/N9?
+d 5_0ih 7(Exbr 6/N89
+d 5_0h2 7(ExgZ 6/N7&
+d 5_0hm 6fOL_ 6/N0R
+w "onlF building#yes
+d 5,<tQ 7(Ey't 6/M{9
+d 5,<ss 7(Ey+4 6/N"O
+d 5,<tp 7(Ey)v 5"K*U
+d 5,<tn 7(Ey*J 6/N#@
+d 5,<tN 7(Ey&i 6/N#H
+d 5,<sF 6fOG0 6/N#0
+d 5,<s[ 7(Ey$( 6/N#6
+d 5,<sI 7(Ey#d 6/N"`
+d 5,<tI 5'z7B 6/N#6
+d 5,<sk 7(Exj` 6/N$'
+d 5,<sg 7(Exfy 6/N$/
+d 5,<sY 7(Exf@ 6/N#8
+d 5,<sV 7(Exdt 6/N#5
+d 5,<t\ 7(Exa] 6/M|,
+d 5,<tQ 7(Ey't 6/M{9
+w Ar}4 leisure#pitch sport#tennis
+d $oqEx 7(E}K\ 5"K-X
+d $oqEy 7(E}W@ 5"K.0
+d $oqEz 7(E}8, 6/NHt
+d $oqE{ 7(E},H 6/NC6
+d $oqEx 7(E}K\ 5"K-X
+w "uJ7z building#yes
+d 5_0i( 7(E{UG 5"K--
+d 5_0io 7(E{Tl 6/N>V
+d 5_0he 7(E{}< 5"K-G
+d 5_0j$ 7(E{}u 4.Z[
+d 5_0i( 7(E{UG 5"K--
+w "\(*m amenity#parking parking#surface surface#asphalt
+d 3$2k{ 7(E|}^ 6/M}j
+d 3$2kk 7(E|y< 6/M~%
+d 5,DCe 7(E}#x 6/N$L
+d 3$2ky 7(E}.; 5"K+;
+d 3$2ko 7(E}3= 6/N)H
+d 5,DB$ 7(E}(X 6/N$0
+d 3$2k{ 7(E|}^ 6/M}j
+w "uJ8( building#yes
+d 5_0in 7(Ez-> 6/N;^
+d 5_0hi 7(Ez$1 6/N;>
+d 5_0h/ 7(Ey|( 6/NA(
+d 5_0i= 7(Ez'R 6/NAN
+d 5_0in 7(Ez-> 6/N;^
+w "uJ7~ building#yes
+d 5_0hr 7(Ey._ 6/N>6
+d 5_0hn 7(Ey'% 6/N?s
+d 5_0i1 7(Exqp 6/N<l
+d 5_0h] 6fOF" 6/N;0
+d 5_0hr 7(Ey._ 6/N>6
+w ?&mf leisure#pitch name#Torpavallen sport#soccer
+d $M`5\ 7(E}*n 6/N+2
+d $M`5] 7(E|S` 6/N.o
+d $M`5^ 7(E|z3 6/N@f
+d $M`5_ 6fOpy 6/N<~
+d $M`5\ 7(E}*n 6/N+2

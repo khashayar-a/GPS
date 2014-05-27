@@ -1,0 +1,36 @@
+w "l@=4 bicycle#designated foot#designated highway#path segregated#no
+d 4e`IQ 7(Eei" 6/Bu_
+d 4e`IN 7(Eegq 6/Bxu
+w @[FM bicycle#yes foot#yes highway#footway
+d $k=G] 7(E`PT 6/A+)
+d $k=G^ 7(E`In 6/A-i
+d $k=G_ 7(E`In 6/A.a
+d $k=G` 7(E`Ki 6/A/?
+d $k=Ga 7(Ea3T 6/A82
+d $k=Gb 7(Eb`+ 6/AJ0
+d 1c_@7 6fM1X 6/ALD
+d $k=Gc 7(Ec8: 6/AWr
+d $k=Gd 7(EcN6 6/A_J
+d $k=Ge 7(Ec\D 6/AdU
+d $k=Gf 7(Ecwb 6/Apt
+d $k=Gg 7(Edav 6/BOk
+d $k=Gh 7(Eddo 6/BPb
+d $k=Gi 7(Edh8 6/BQ'
+d $k=Gj 7(Edn* 6/BQ8
+d $k=Gk 6fME4 5"IzN
+d $k=Gl 7(EdvF 6/BRl
+d $k=Gm 7(Ee$X 6/BUB
+d $k=Gn 7(Ee.o 6/BVK
+d $a@di 6fMK+ 6/BXL
+d $a@`p 7(Eg]# 6/BZ>
+w F72I highway#service
+d "Y"Ty 7(EeLP 6/C$~
+d %Fzti 6fMK" 5"J!c
+d %Fztj 7(EeN? 6/C0,
+d %Fzy2 7(EeS$ 6/C0(
+d %Fztl 7(Ee_W 6/C/b
+w 1>Qe bicycle#designated foot#designated highway#path name#Dockpromenaden segregated#no
+d "Y"Ty 7(EeLP 6/C$~
+d "Y"VF 7(Ee5{ 6/C%D
+d "Y"VM 7(Ee6; 6/C5A
+d "Y"VR 7(EeK7 6/C6I

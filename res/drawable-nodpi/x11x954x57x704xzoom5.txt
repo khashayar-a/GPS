@@ -1,0 +1,21 @@
+n ">aF/ 7(EeQB 6/F%3 highway#traffic_signals
+n $G!7I 7(EhzP 6/FOP highway#traffic_signals
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %"Anh 7(EjrW 6/Fga amenity#pub name#Ölrepubliken wheelchair#limited
+n %#{,X 7(Egd! 6/FvO highway#crossing
+n %$=WF 6fMZr 6/Fx} highway#crossing
+n &hOkB 7(EiA3 6/FHF description#A_low_bridge_passed_on_the_Paddan_boat_tour. name#Osthyveln tourism#attraction
+n 'QJI5 7(Ei:D 5"J>{ artwork_type#sculpture name#Kalmar_Nyckel tourism#artwork
+n (9qGa 7(Ej/9 6/Fbp building#yes
+n (9qJ~ 7(EjC9 6/FiY building#yes
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n )R~!* 6fNJ> 6/G5* ferry#yes public_transport#stop_position
+n +<nXl 6fM^f 6/F@6 amenity#bicycle_rental capacity#25 name#Stora_Badhusgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#4
+n +<nYO 7(EidP 6/FJd amenity#bicycle_rental capacity#20 name#Packhusplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#43
+n .c%j" 7(Eg@c 6/FgM amenity#restaurant cuisine#international name#Bliss wheelchair#limited
+n /?~nX 7(EgJb 6/Fj$ amenity#restaurant name#m2 wheelchair#no
+n 2Y+o[ 7(Eh_8 6/FH9 addr:postcode#411_18 addr:street#Skeppsbroplatsen_1 amenity#restaurant cuisine#mongolisk int_name#Returant_Bamboo name#Restaurang_Bamboo website#http://www.restaurangbamboo.se/
+n 5uv0j 7(EgBT 5"JD2 addr:city#Göteborg addr:housenumber#1 addr:interpolation#odd addr:street#Drottninggatan
+n 5uv0o 7(EgME 6/FdL addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Drottninggatan

@@ -1,0 +1,61 @@
+n ?tt0 7(EW'~ 6/Ej0 highway#traffic_signals
+n FJT1 7(EYaf 6/EcP highway#traffic_signals
+n Hmqk 7(E[@* 6/F8~ highway#traffic_signals
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n I>AE 7(EYa[ 6/Eel highway#traffic_signals
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n ""c/M 7(EYcr 5"JD6 highway#turning_circle
+n ""c[! 6fL,P 6/FMI highway#turning_circle
+n "iX<1 7(EXpz 6/EzC highway#traffic_signals
+n #?sV" 7(E[;W 6/F:h highway#traffic_signals
+n #?sVF 7(EW"G 6/Em) highway#traffic_signals
+n #?sVM 7(EXo. 6/E|e highway#traffic_signals
+n #?s{! 7(EY"T 6/F!/ highway#traffic_signals
+n #?s{# 7(EY'Z 6/E}B highway#traffic_signals
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $~P?< 7(EYS@ 6/F(5 highway#traffic_signals
+n %%[^P 7(EY86 6/F8i name#Seminariegatan railway#tram_stop
+n %%[^Q 7(E[!R 6/FN| name#Brunnsgatan railway#tram_stop
+n %yyfs 7(E[>W 6/F_e highway#turning_circle
+n &l1F+ 7(E[k6 6/F'| name#Vindruvans_Livs shop#convenience
+n &l1J5 7(E[<E 6/F5N name#7-Eleven shop#convenience
+n &l1J7 7(EZ;6 5"JAF name#Hemköp_Brunnsgatan shop#supermarket
+n &l1[" 7(E[E0 5"J?: amenity#post_box
+n &l1[& 7(EZB& 6/FK, amenity#post_box
+n &xbU: 7(EYo$ 6/F%J amenity#cafe name#Egg_&amp;_Milk smoking#no wheelchair#limited
+n &|<wg 7(EYR. 6/F,6 addr:city#Göteborg addr:country#SE addr:housenumber#26 addr:postcode#413_14 addr:street#Övre_Husargatan amenity#cafe name#Le_pain_Francais smoking#no wheelchair#limited
+n (^dYn 7(E[/. 6/FCK amenity#cafe name#Mondo_Cafe_Glassbar
+n (aL8@ 7(EZg' 6/FAL amenity#parking
+n (aL8A 7(EZGA 6/FIa amenity#parking
+n (aL@) 7(EYSx 4.Rf addr:housenumber#25 addr:postcode#413_14 addr:street#Sveagatan amenity#restaurant microbrewery#no name#Gyllene_Prag smoking#no website#www.gylleneprag.se wheelchair#limited
+n (t`ap 7(E\2Y 6/Eya name#Ashtanga_Yoga_Shala_Göteborg shop#yoga website#http://www.ashtanga.se/
+n (tbIj 7(E[k6 6/F-P amenity#restaurant cuisine#thai name#Thai_Food_&amp;_Take_Away wheelchair#no
+n *x35U 7(E[b< 6/F+< amenity#restaurant name#Plain_Kitchen website#http://www.plainkitchen.se wheelchair#no
+n +<nW6 7(EZfI 6/FEx amenity#bicycle_rental capacity#20 name#Brunnsgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#32
+n +<nWp 6fL]/ 6/FF? amenity#bicycle_rental capacity#30 name#Skanstorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#35
+n 0EJMm 7(EY%' 6/ExH amenity#restaurant microbrewery#no name#Aberdeen smoking#no wheelchair#limited
+n 0EJMp 6fL7k 6/Ew, name#Sveaplans_Kvartersbutik shop#convenience
+n 0R&QY 7(EZuj 6/F=" addr:housenumber#1 addr:postcode#Box_7222 addr:street#Brunnsgatan alt_name#Övre_Husargatan amenity#bank atm#yes clnr#6681 name#Handelsbanken operator#Handelsbanken website#www.handelsbanken.se/ovre_husargatan wheelchair#yes
+n 0R&|( 7(E\:O 6/FCG name#Cykel_City shop#bicycle
+n 0R&|* 7(EY_: 5"J>H name#bikeplace shop#bicycle
+n 0t*y< 7(EY~n 6/F`D barrier#bollard bicycle#yes foot#yes
+n 0uNE. 7(EY3? 6/FA< name#Annedal old_name#Albostaden place#suburb
+n 1T.Hm 7(EZ%D 6/F'2 amenity#bicycle_rental capacity#20 name#Kastellgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#34
+n 4"\Vb 7(EZk> 6/Fk{ addr:housenumber#5 addr:street#Spekebergsgatan
+n 4"]0c 6fL== 6/FjD addr:housenumber#11 addr:street#Muraregatan
+n 4"]0d 7(EYy# 6/Fi" addr:housenumber#13 addr:street#Muraregatan
+n 4"]0e 7(EYj$ 6/FgI addr:housenumber#15 addr:street#Muraregatan
+n 4"]0l 7(EYx* 6/Fbx addr:housenumber#24 addr:street#Brunnsgatan
+n 4"]0o 6fL;T 6/Ff& addr:housenumber#26 addr:street#Brunnsgatan
+n 4"]0q 7(EYi( 6/Fc{ addr:housenumber#27 addr:street#Brunnsgatan
+n 4"]0u 6fL>i 6/Fku addr:housenumber#9 addr:street#Muraregatan
+n 4"^`r 7(EYk= 6/F$i addr:city#Göteborg addr:country#SE addr:housenumber#23A addr:street#Övre_Husargatan
+n 4"^`s 7(EYvN 6/F&2 addr:city#Göteborg addr:country#SE addr:housenumber#23B addr:street#Övre_Husargatan
+n 4"_,j 7(EYh2 6/F#R amenity#restaurant microbrewery#no name#Cafe_Svea smoking#no
+n 4"_,k 7(EYgv 6/F"6 addr:city#Göteborg addr:country#SE addr:housenumber#1 addr:street#Nordenskiöldsgatan
+n 4"_,l 7(EYgv 6/E}; addr:city#Göteborg addr:country#SE addr:housenumber#3 addr:street#Nordenskiöldsgatan
+n 4"_,m 7(EYh) 6/Ezg addr:city#Göteborg addr:country#SE addr:housenumber#5 addr:street#Nordenskiöldsgatan
+n 4"_,n 7(EYk5 6/Ey~ addr:housenumber#24 addr:street#Sveagatan amenity#restaurant microbrewery#no name#Min_Bror_och_Jag smoking#no website#http://minbrorochjag.se/ wheelchair#no
+n 4"jO{ 7(EZrq 5"JCX amenity#school name#Annedalsskolan

@@ -1,0 +1,883 @@
+w "=*[9 building#yes
+d /~wSn 7(Ex2{ 6/D>5
+d /~wNg 7(Ex.m 6/D>7
+d /~wPO 6fO>V 6/D=%
+d /~wM` 5'z6l 5"J-4
+d /~wSn 7(Ex2{ 6/D>5
+w "?s0N building#yes
+d 0@coM 7(EvzN 6/Dz2
+d 0@ciB 7(Ew*j 6/Dz>
+d 0@cpo 7(Ew,* 6/Dtm
+d 0@cmq 7(Ew"0 6/Dta
+d 0@cj} 7(Ev`= 6/Dv>
+d 0@cow 7(Ev`D 6/Dv^
+d 0@clu 7(Ev2d 6/D{h
+d 0@cjI 7(Ev-7 6/Dy~
+d 0@crK 7(EvX( 6/Du,
+d 0@cnn 7(EvVy 6/Dt>
+d 0@cpd 7(Ew"2 6/DrQ
+d 0@cgw 7(Ew-c 6/DrU
+d 0@ckf 7(Ew-b 6/DrX
+d 0@cr3 7(Ew9` 6/Drb
+d 0@cj9 7(Ew7= 6/D|T
+d 0@cjK 7(Ew*: 5"J3T
+d 0@cq@ 7(Ew*; 6/D|E
+d 0@cfm 7(Ev|` 6/D|;
+d 0@crN 7(EvBM 6/E!,
+d 0@cmw 7(Ev?P 6/D|}
+d 0@coM 7(EvzN 6/Dz2
+w "-RJc building#yes
+d .0G}> 7(EvlE 6/Dj(
+d .0G{] 7(Evp} 6/Dlw
+d .0G|> 7(Evs- 6/Dn8
+d .0G|q 7(EvsW 6/DnQ
+d .0G|] 7(Evi[ 6/Do(
+d .0G|n 7(EvbI 6/Dj]
+d .0G}> 7(EvlE 6/Dj(
+w "=*[w building#yes
+d /~wL) 7(EwB{ 6/DRh
+d /~wSE 7(Ew<r 6/DQ]
+d /~wQh 7(EwC) 6/DPL
+d /~wN% 7(EwI2 6/DQX
+d /~wL) 7(EwB{ 6/DRh
+w CQ[, building#yes
+d %$@)k 7(Ew~X 6/Dp`
+d %$@)j 7(EwQe 6/Dp5
+d %$@)i 7(EwQe 6/DmV
+d %$@)h 7(Ex!( 5"J2(
+d .0G{Z 7(Ex)) 5"J2)
+d %$@*+ 6fO>$ 6/DlQ
+d %$@*, 7(Ex?F 6/Dle
+d %$@*- 7(Ex>< 6/Dps
+d %$@*. 7(Ex(X 6/Dph
+d %$@)k 7(Ew~X 6/Dp`
+w "-RJZ building#yes
+d .0GzZ 7(Ew~j 6/Da{
+d .0G{i 7(EwbX 6/Dab
+d .0H!; 7(Ewa~ 6/Dct
+d .0Gz` 7(Ewg\ 6/Dcy
+d .0G{0 6fO:n 6/DeW
+d .0G|i 7(Ewt\ 6/Deb
+d .0Gz{ 7(Ewu. 6/Dci
+d .0G}X 7(Ew~: 5"J1)
+d .0GzZ 7(Ew~j 6/Da{
+w "=*[} building#yes
+d /~wP0 7(Ewz? 6/DPJ
+d /~wX/ 7(Ewy~ 6/DR6
+d /~wLG 7(Ewkk 6/DR-
+d /~wVO 7(Ewl, 6/DPA
+d /~wP0 7(Ewz? 6/DPJ
+w "?s0~ building#yes
+d 0@cp[ 6fN|A 6/D}X
+d 0@cpp 7(Et7Y 6/E(R
+d 0@che 7(Esfp 6/D~>
+d 0@cf> 7(Et5^ 6/DuD
+d 0@cp[ 6fN|A 6/D}X
+w "=*[\ building#yes
+d /~wRl 7(Eu|# 6/D5z
+d /~wQk 7(Eu|> 6/D8t
+d /~wJ\ 7(Euqs 6/D8x
+d /~wV+ 7(EuqW 6/D5~
+d /~wRl 7(Eu|# 6/D5z
+w "#2"( building#yes
+d ,yrI? 7(ExJ# 6/D(+
+d ,yrIF 7(ExLL 6/D)x
+d ,yrIH 7(Ey)X 6/D&q
+d ,yrIK 7(ExvR 6/Cu?
+d ,yrIM 7(Exi+ 6/Cv"
+d ,yrIO 7(Exwg 6/D%N
+d ,yrI? 7(ExJ# 6/D(+
+w "=*[' building#yes
+d /~wT@ 7(Ew'P 6/D,f
+d /~wPm 7(Ew'B 6/D*h
+d /~wS3 6fO5! 6/D*f
+d /~wRQ 7(Ew-/ 6/D,d
+d /~wRc 7(Ew.2 6/D,d
+d /~wQ> 7(Ew.: 6/D-l
+d /~wX} 7(Ew"j 6/D-o
+d /~wU] 7(Ew"b 5"J+W
+d /~wT@ 7(Ew'P 6/D,f
+w "=*[` building#yes
+d /~wP3 7(Ewp4 6/DBW
+d /~wQ@ 7(Ewtd 6/DDs
+d /~wO5 7(Ewkb 6/DEO
+d /~wR" 7(Ewg2 6/DC4
+d /~wP3 7(Ewp4 6/DBW
+w "=*\, building#yes
+d /~wLK 7(EwK/ 6/DF)
+d /~wX4 7(Ew@Y 6/DFs
+d /~wT{ 7(Ew=: 6/DE=
+d /~wND 7(EwGn 6/DDQ
+d /~wLK 7(EwK/ 6/DF)
+w "-RJ[ building#yes
+d .0G}< 6fN{L 6/Dq"
+d .0G{_ 7(EtZf 5"J2Y
+d .0G~Y 7(EtPP 6/Drk
+d .0G~` 7(EtL) 6/Dse
+d .0G{F 6fNzt 6/Du<
+d .0G}l 7(EtNR 6/Dvr
+d .0G~m 7(Et>` 6/Ds}
+d .0G~n 7(Et>o 6/DsM
+d .0G{C 7(EtLF 5"J2D
+d .0G}< 6fN{L 6/Dq"
+w "-RJn building#yes
+d .0G}W 7(Eu+[ 6/DvO
+d .0G|w 7(Et|V 6/Dx~
+d .0G~# 7(Etu= 6/DwQ
+d .0G}B 6fN}z 6/DwD
+d .0G}8 7(Eu#+ 6/Dtx
+d .0G~d 7(Eu$j 6/Du8
+d .0G}W 7(Eu+[ 6/DvO
+w "-6+2 building#yes
+d .-2Z< 7(Et1* 6/DmD
+d .-2[W 7(EtES 6/DmV
+d .-2Zo 7(EtG_ 6/Dm3
+d .-2[U 6fNy] 6/Dj%
+d .-2[8 6fNx^ 6/Dit
+d .-2ZB 7(Et>= 6/DkV
+d .-2[C 7(Et1: 6/DkR
+d .-2Z< 7(Et1* 6/DmD
+w Er%\ building#yes
+d %@YeO 7(Et]r 6/DA?
+d %@Ygu 7(EtY{ 6/DA?
+d %@YeP 7(EtFz 6/DA?
+d %@YeR 7(EtFz 6/DDt
+d %@YeS 7(Et^p 6/DDt
+d %@Ygw 7(Et^8 6/DBb
+d %@YeO 7(Et]r 6/DA?
+w "=*[$ building#yes
+d /~wLM 7(Ev"D 6/D][
+d /~wVS 7(Euov 6/D]T
+d /~wJr 7(Eup4 6/DZ}
+d /~wR$ 7(Ev"` 6/D[%
+d /~wLM 7(Ev"D 6/D][
+w "=*[s building#yes
+d /~wWq 7(Ew9q 6/DN^
+d /~wO} 7(Ew-: 6/DOQ
+d /~wRX 7(Ew)G 6/DMT
+d /~wQ3 7(Ew6! 6/DLa
+d /~wWq 7(Ew9q 6/DN^
+w "?s0z building#yes
+d 0@cpG 7(Eug) 6/DgP
+d 0@cn, 7(Ev>P 6/Deg
+d 0@coU 7(Ev>6 6/Dgp
+d 0@coC 7(Ev<Q 6/Don
+d 0@cf` 7(Euf* 5"J28
+d 0@ci; 7(Euf* 6/Dlo
+d 0@cpx 7(Eul0 6/Dlo
+d 0@cr5 7(Eul0 6/DmT
+d 0@cg% 7(Ev1| 6/Dml
+d 0@cqN 7(Ev31 6/Dh4
+d 0@clU 7(EuqO 6/Di7
+d 0@cr. 7(Euq_ 6/DkL
+d 0@cg? 7(EupO 6/Dka
+d 0@crX 7(EupD 6/Dl(
+d 0@cn] 7(Euf* 6/Dl#
+d 0@cpG 7(Eug) 6/DgP
+w "#3'v building#yes
+d ,y|t0 7(Ex5] 6/D.H
+d ,y|t3 7(ExMH 6/D/+
+d ,y|t5 7(ExKX 6/D1;
+d ,y|t6 7(ExEO 6/D10
+d ,y|t7 7(ExDt 5"J,*
+d ,y|t8 7(ExMH 6/D22
+d ,y|t9 7(ExL3 6/D4B
+d ,y|t< 7(Ex9v 6/D3k
+d ,y|t? 7(Ex;- 6/D1[
+d ,y|tA 7(Ex@! 6/D1f
+d ,y|tC 4b?F 6/D0x
+d ,y|tF 7(Ex34 6/D0X
+d ,y|t0 7(Ex5] 6/D.H
+w "=*[+ building#yes
+d /~wR' 6fO2- 6/D`T
+d /~wSV 7(Eve> 6/D`n
+d /~wNH 7(Evcl 6/D_+
+d /~wPH 7(Evlj 6/D^o
+d /~wR' 6fO2- 6/D`T
+w "=*[% building#yes
+d /~wT4 7(Euab 6/D9x
+d /~wUM 7(EuRj 6/D9z
+d /~wS. 7(EuRd 6/D82
+d /~wW> 7(Eua\ 6/D80
+d /~wT4 7(Euab 6/D9x
+w "=*[E building#yes
+d /~wQ= 7(EwV5 6/DSE
+d /~wOw 7(EwN# 6/DU&
+d /~wM: 6fO7c 6/DT$
+d /~wJ] 6fO8R 6/DRB
+d /~wQ= 7(EwV5 6/DSE
+w "-6+9 building#yes
+d .-2Z| 7(EtS4 5"J1s
+d .-2[0 7(EtR@ 6/Dmh
+d .-2[- 7(EuFz 6/Do!
+d .-2Y] 7(EuIk 6/DhG
+d .-2[Y 7(EuFn 6/DhC
+d .-2Zs 7(EuG0 6/Dgp
+d .-2[! 7(EuC] 5"J1N
+d .-2[F 7(EuAo 6/DgE
+d .-2[H 5'z4# 6/DgA
+d .-2YN 7(Eu6U 6/DiI
+d .-2[R 7(Eu:8 6/DiN
+d .-2YU 6fO#E 6/Dlg
+d .-2Z| 7(EtS4 5"J1s
+w "=*Z| building#yes
+d /~wU+ 7(Ex(} 5"J-o
+d /~wOH 7(Ew~< 6/DCB
+d /~wQE 7(Ew~# 6/DAj
+d /~wST 7(Ex(d 6/DAf
+d /~wU+ 7(Ex(} 5"J-o
+w "-RJ^ building#yes
+d .0G{p 7(EtbX 6/DwL
+d .0Gzk 7(EtlL 6/Dy4
+d .0G~# 7(Etu= 6/DwQ
+d .0G|w 7(Et|V 6/Dx~
+d .0G|x 7(Etn" 6/D{b
+d .0G}= 7(EtjQ 6/D{b
+d .0G~! 7(EtZl 6/Dy"
+d .0G{p 7(EtbX 6/DwL
+w "#2"8 building#yes
+d ,yrJE 7(Eu-g 6/D&F
+d ,yrJH 7(Eu,R 6/D(k
+d ,yrL0 7(Et~z 6/D(@
+d ,yrL2 7(Etpx 6/D04
+d ,yrJR 7(Eu02 6/D.%
+d ,yrJU 6fO#- 6/D0U
+d ,yrL4 7(Etp> 6/D3<
+d ,yrL6 7(Etb< 6/D0U
+d ,yrL7 7(Etu3 6/D&&
+d ,yrJE 7(Eu-g 6/D&F
+w "=*[g building#yes
+d /~wOy 7(EwnK 6/DMY
+d /~wP! 7(EwfJ 5"J.t
+d /~wKv 7(EweM 6/DL^
+d /~wWa 7(EwmN 6/DLH
+d /~wOy 7(EwnK 6/DMY
+w "=*Z~ building#yes
+d /~wWo 7(EvA| 6/D.t
+d /~wTT 7(Ev30 6/D/X
+d /~wO{ 7(Ev-$ 6/D/t
+d /~wS: 7(Ev*K 6/D-~
+d /~wRV 7(Ev0$ 6/D-e
+d /~wL& 7(Ev?E 6/D,~
+d /~wWo 7(EvA| 6/D.t
+w CQ[% building#yes
+d %$@)- 6fO4o 6/DkM
+d %$@). 7(Ew,+ 6/Dgy
+d %$@)/ 7(Ew6J 6/Dh$
+d %$@)0 7(Ew5J 6/DmN
+d .0GzV 7(Ew+F 6/DmF
+d %$@)1 7(Evy> 6/Dn7
+d .0G~j 7(Evxx 6/Dm~
+d .0G~$ 7(Evvl 6/Dl[
+d %$@)2 7(EvvK 6/DlF
+d %$@)- 6fO4o 6/DkM
+w "?s0x building#yes
+d 0@cm$ 7(EvST 6/DhW
+d 0@chN 7(EvJ> 6/DhQ
+d 0@cjX 7(EvJw 6/DeZ
+d 0@coH 6fO/R 6/De`
+d 0@cff 7(EvTC 6/Dd|
+d 0@clA 7(Ev[u 5"J14
+d 0@cni 7(EvZ~ 6/Di<
+d 0@crn 7(EvSG 6/Di7
+d 0@cm$ 7(EvST 6/DhW
+w "=*[? building#yes
+d /~wT[ 7(EvF0 6/D.3
+d /~wWs 7(EvBh 6/D.J
+d /~wLx 7(Ev@: 6/D-6
+d /~wNw 7(EvC_ 6/D,}
+d /~wT[ 7(EvF0 6/D.3
+w "=*[> building#yes
+d /~wRi 7(EvDA 6/D0g
+d /~wL. 7(EvM~ 6/D0Y
+d /~wO/ 7(EvN] 5"J,+
+d /~wM< 7(EvD~ 6/D25
+d /~wRi 7(EvDA 6/D0g
+w "?s0W building#yes
+d 0@cp= 7(EvZp 5"J1r
+d 0@ck6 7(EvYs 6/Doz
+d 0@crT 7(EvQf 6/Dot
+d 0@cl: 7(EvQt 6/Do4
+d 0@cgB 7(EvHi 5"J25
+d 0@cj6 7(EvII 6/Dl3
+d 0@cnX 7(EvRa 6/Dl:
+d 0@cgT 7(EvRp 6/DkV
+d 0@cp= 7(EvZp 5"J1r
+w "-RJt building#yes
+d .0G|> 7(Evs- 6/Dn8
+d .0G~j 7(Evxx 6/Dm~
+d .0G~$ 7(Evvl 6/Dl[
+d .0G{] 7(Evp} 6/Dlw
+d .0G|> 7(Evs- 6/Dn8
+w "=*[) building#yes
+d /~wP' 6fO6; 5"J/?
+d /~wM4 7(Ew76 6/DQe
+d /~wO# 6fO6H 6/DP|
+d /~wV( 7(Ew=b 6/DQI
+d /~wP' 6fO6; 5"J/?
+w "=*[k building#yes
+d /~wXc 7(Ew$5 6/DRa
+d /~wY' 7(Ev|` 6/DSd
+d /~wS1 7(Evyb 5"J/H
+d /~wS? 7(Evz7 5"J/G
+d /~wWV 7(EvzL 6/DS"
+d /~wOu 7(Evq[ 5"J/7
+d /~wN# 6fO3% 6/DP9
+d /~wKp 7(Ew"= 6/DQy
+d /~wUx 7(Ew!: 6/DR-
+d /~wXc 7(Ew$5 6/DRa
+w "=*\P building#yes
+d /~wTn 7(Evx~ 5"J.8
+d /~wLC 7(Evp` 6/DGG
+d /~wN? 7(Evpw 6/DE}
+d /~wTr 6fO36 6/DF$
+d /~wTn 7(Evx~ 5"J.8
+w "=*\K building#yes
+d /~wPM 7(Ex;? 6/D=q
+d /~wNa 7(Ex<+ 6/D?X
+d /~wLb 7(Ex4$ 6/D?d
+d /~wR< 7(Ex38 5"J-=
+d /~wPM 7(Ex;? 6/D=q
+w "=*\E building#yes
+d /~wS' 7(Ew=8 4.Q@
+d /~wSe 7(Ew>v 6/DHh
+d /~wR@ 7(Ew;G 6/DI#
+d /~wU2 7(Ew9g 6/DH8
+d /~wS' 7(Ew=8 4.Q@
+w "=*[J building#yes
+d /~wKS 7(Ew_( 6/DM~
+d /~wRP 7(EwR: 6/DN;
+d /~wT- 6fO8W 6/DKv
+d /~wXV 7(Ew]U 6/DK[
+d /~wKS 7(Ew_( 6/DM~
+w &bOj highway#unclassified name#Rambergsvägen
+d E=Y? 7(Ep.4 6/D<X
+d E=Y@ 7(EpZH 6/D9I
+d &;tS> 7(Ep]A 5"J,p
+d E=YA 7(Epm< 6/D9X
+d &;tS. 7(Epy! 6/D;P
+d E=YB 7(Ep{' 6/D;o
+d E=YC 6fNZ] 6/D@D
+d E=YD 7(Eq5T 6/DDF
+d E=YE 7(EqB= 6/DEx
+d E=YF 7(EqR+ 6/DEj
+d &;tRq 7(EqT9 6/DET
+d E=YG 7(Eq]@ 6/DD.
+d E=YH 7(Eq_t 6/D?8
+d E=YI 7(EqjT 6/D<G
+d E=YJ 7(Eqq6 6/D;M
+d E=YK 7(Er"# 4.Q4
+d E=YL 7(Er4E 6/D=d
+d E=YM 7(ErL= 6/D@,
+d &;s7B 7(ErtK 6/D@V
+d E=YN 7(Ervu 6/D@V
+d &;_9t 7(Erxj 6/D@M
+d &;ZON 7(Es-} 6/D?A
+d E=YO 7(EsCP 6/D>5
+d E=YP 7(Ess} 6/D;-
+d $dI)u 7(Es~p 6/D:,
+d E=YQ 6fNwJ 6/D8G
+d E=YR 7(EtgQ 6/D58
+w "=*\/ building#yes
+d /~wT> 7(Ew[R 6/D[k
+d /~wNq 7(Ew[o 6/D]Y
+d /~wPj 7(Ew]1 6/D]X
+d /~wX\ 7(Ew]D 6/D^k
+d /~wQa 7(EwWB 6/D^n
+d /~wLq 7(EwW/ 6/D]`
+d /~wQ) 7(EwPk 6/D]d
+d /~wW] 7(EwPM 6/D[q
+d /~wT> 7(Ew[R 6/D[k
+w "=*[V building#yes
+d /~wL] 7(Ew1\ 6/DFJ
+d /~wSx 7(Ew4T 6/DF8
+d /~wPN 7(Ew7V 6/DGm
+d /~wPh 7(Ew*y 6/DH_
+d /~wW2 7(Ew't 6/DG(
+d /~wNX 7(Ew+1 6/DFq
+d /~wQP 7(Ew*= 6/DFG
+d /~wOa 6fO5D 6/DE|
+d /~wL] 7(Ew1\ 6/DFJ
+w "#2"/ building#yes
+d ,yrJC 7(EuGB 6/D'>
+d ,yrJE 7(Eu-g 6/D&F
+d ,yrJH 7(Eu,R 6/D(k
+d ,yrJK 7(Eu<~ 6/D)M
+d ,yrJO 7(Eu;i 6/D-M
+d ,yrJR 7(Eu02 6/D.%
+d ,yrJU 6fO#- 6/D0U
+d ,yrJX 7(EuHV 5"J+o
+d ,yrJC 7(EuGB 6/D'>
+w "=*[T building#yes
+d /~wU. 7(Eufo 6/D2|
+d /~wXY 7(EuWK 6/D2}
+d /~wUK 7(EuWJ 6/D16
+d /~wW0 7(Euf~ 5"J,#
+d /~wRE 7(Euf~ 6/D1t
+d /~wLn 7(EujC 6/D1t
+d /~wLe 7(EujD 6/D3X
+d /~wS" 7(Eufo 6/D3X
+d /~wU. 7(Eufo 6/D2|
+w "-RJT building#yes
+d .0GzK 7(Et}v 6/DsU
+d .0G~} 7(Eu,H 6/Dsb
+d .0G~d 7(Eu$j 6/Du8
+d .0G}W 7(Eu+[ 6/DvO
+d .0G}A 7(Eu9R 6/DsU
+d .0G|_ 7(Eu6\ 6/Dr'
+d .0G{g 7(Et~f 6/Dqd
+d .0GzK 7(Et}v 6/DsU
+w "=*[4 building#yes
+d /~wO+ 7(Ex<P 5"J.]
+d /~wVF 7(Ex42 5"J.]
+d /~wJn 7(Ex42 5"J.;
+d /~wTW 7(Ex<P 5"J.;
+d /~wO+ 7(Ex<P 5"J.]
+w "=*\L building#yes
+d /~wN~ 7(EvQa 6/D.~
+d /~wQ2 7(EvG/ 6/D/6
+d /~wJ[ 6fO.* 6/D-C
+d /~wM1 6fO// 6/D--
+d /~wN~ 7(EvQa 6/D.~
+w "=*Zv building#yes
+d /~wWR 7(Ewb2 6/DJ.
+d /~wKm 7(Ewb, 6/DH]
+d /~wM~ 7(Ewe8 6/DHK
+d /~wM. 7(Ewe2 6/DJ,
+d /~wL- 7(EweI 6/DK4
+d /~wN' 7(Ew_4 6/DK9
+d /~wJT 7(Ew^{ 6/DJ1
+d /~wWR 7(Ewb2 6/DJ.
+w "=*[j building#yes
+d /~wW5 7(Ev`j 6/D9E
+d /~wPl 7(EvZ) 6/D9I
+d /~wKO 7(EvZ( 6/D9A
+d /~wOt 7(EvVQ 6/D9C
+d /~wKV 7(EvV? 6/D8@
+d /~wMc 7(EvYv 6/D8=
+d /~wNu 7(EvYh 6/D7R
+d /~wT0 6fO1* 6/D7L
+d /~wS{ 7(Evd, 6/D8@
+d /~wN" 7(Evem 6/D8?
+d /~wX_ 7(Evf& 5"J,r
+d /~wLt 7(Ev`n 6/D9_
+d /~wW5 7(Ev`j 6/D9E
+w "=*\$ building#yes
+d /~wTq 7(Ewvq 6/DJK
+d /~wN< 7(EwiW 6/DJ[
+d /~wSO 7(Ewh| 5"J.F
+d /~wQm 7(Ewv8 6/DHi
+d /~wTq 7(Ewvq 6/DJK
+w "=*[e building#yes
+d /~wRw 7(Eu"9 6/D8o
+d /~wMO 6fN~b 6/D8o
+d /~wLI 7(Et{t 6/D8+
+d /~wR. 7(Etr| 6/D8,
+d /~wS[ 7(Etrx 6/D6h
+d /~wVh 7(Eu+' 6/D6f
+d /~wK. 6fO"" 5"J,d
+d /~wNA 7(Eu"7 6/D8.
+d /~wRw 7(Eu"9 6/D8o
+w "=*\' building#yes
+d /~wR! 7(Ex88 6/DSr
+d /~wSR 7(Ex8# 6/DUR
+d /~wWr 7(Ex-P 6/DUM
+d /~wL, 7(Ex-e 6/DSm
+d /~wR! 7(Ex88 6/DSr
+w Er%[ building#yes
+d %@Ycz 7(Et5s 6/D:+
+d %@Yc{ 7(Etg[ 6/D:+
+d %@Yc~ 7(Eth+ 6/D=q
+d %@Ygy 7(Ete^ 5"J-<
+d %@Yf# 7(EtY| 6/D={
+d %@Yd! 7(Et7A 6/D>5
+d %@Ycz 7(Et5s 6/D:+
+w "=*\= building#yes
+d /~wLZ 7(Ex&G 6/D>m
+d /~wR* 7(Ewx< 5"J-E
+d /~wJ| 7(Ewx2 6/D=*
+d /~wVf 7(Ex&< 6/D='
+d /~wLZ 7(Ex&G 6/D>m
+w "=*Zz building#yes
+d /~wK4 7(Ex>f 6/DB4
+d /~wMT 7(Ex>p 6/DCq
+d /~wS_ 7(Ex0j 6/DCu
+d /~wVq 7(Ex0` 5"J-e
+d /~wK4 7(Ex>f 6/DB4
+w "=*[c building#yes
+d /~wRR 7(Ex*~ 6/DO'
+d /~wQ+ 7(Ew~v 6/DO%
+d /~wN{ 7(Ew~~ 6/DMB
+d /~wTR 7(Ex+( 6/DMD
+d /~wRR 7(Ex*~ 6/DO'
+w "=*[b building#yes
+d /~wMD 7(Ew^Y 6/DDo
+d /~wMM 7(EwU9 6/DET
+d /~wRv 5'z61 6/DD'
+d /~wQC 7(Ew[B 6/DCB
+d /~wMD 7(Ew^Y 6/DDo
+w "-RJh building#yes
+d .0G{_ 7(EtZf 5"J2Y
+d .0GzK 7(Et}v 6/DsU
+d .0G{g 7(Et~f 6/Dqd
+d .0G}< 6fN{L 6/Dq"
+d .0G{_ 7(EtZf 5"J2Y
+w "=*[0 building#yes
+d /~wQM 6fO7G 6/DZo
+d /~wR| 7(EwDh 5"J0B
+d /~wM\ 7(Ew7B 6/D\I
+d /~wON 7(Ew7\ 6/DZg
+d /~wQM 6fO7G 6/DZo
+w Er%d building#yes
+d %@Yf# 7(EtY| 6/D={
+d %@Ygu 7(EtY{ 6/DA?
+d %@YeO 7(Et]r 6/DA?
+d %@Ygw 7(Et^8 6/DBb
+d %@Ygx 7(Etf0 6/DBb
+d %@Ygy 7(Ete^ 5"J-<
+d %@Yf# 7(EtY| 6/D={
+w "=*[{ building#yes
+d /~wRm 7(Ew(E 6/D_M
+d /~wRx 7(Ew). 6/DaI
+d /~wLU 7(Evya 6/DaZ
+d /~wX9 7(Evxx 6/D__
+d /~wRm 7(Ew(E 6/D_M
+w "=*[< building#yes
+d /~wVz 7(Ex-| 6/D<t
+d /~wPJ 7(Ex./ 6/D>D
+d /~wNU 7(Ex)@ 6/D>F
+d /~wK7 7(Ex)/ 6/D<v
+d /~wVz 7(Ex-| 6/D<t
+w KM-i area#yes leisure#pitch sport#soccer surface#gravel
+d &<o2k 7(Ev=G 6/DGG
+d &<o2l 7(Ev=P 6/DL{
+d &<o2r 7(Eur? 5"J.l
+d &<o2q 7(Eus9 6/DGD
+d &<o2k 7(Ev=G 6/DGG
+w "-6+. building#yes
+d .-2Z? 7(Et?H 6/Dfl
+d .-2[: 7(Et>" 6/Dir
+d .-2[8 6fNx^ 6/Dit
+d .-2[U 6fNy] 6/Dj%
+d .-2[e 7(EtJk 6/Df}
+d .-2Z? 7(Et?H 6/Dfl
+w "-RJ] building#yes
+d .0Gzx 6fOBr 6/DhN
+d .0G|$ 6fOA- 5"J1S
+d .0G{R 7(ExH] 6/Dfz
+d .0G|m 7(ExCe 6/Dfu
+d .0Gzz 7(ExD@ 6/DdU
+d .0G}* 7(Excf 6/Ddp
+d .0H!3 7(Exc8 6/Dfb
+d .0G|l 7(ExZ+ 6/DfZ
+d .0Gzx 6fOBr 6/DhN
+w "=*\< building#yes
+d /~wOL 7(Ew'@ 6/DTo
+d /~wN[ 7(Ew%6 6/DU:
+d /~wPK 7(Ew!u 6/DTc
+d /~wMR 7(Ew&_ 6/DSd
+d /~wK1 7(Ew)L 6/DT3
+d /~wR2 7(Ew,F 6/DSX
+d /~wS( 7(Ew5z 6/DU4
+d /~wMe 7(Ew0B 6/DVC
+d /~wOL 7(Ew'@ 6/DTo
+w "=*[D building#yes
+d /~wSL 7(Ewri 6/DVu
+d /~wQl 7(Ews= 6/DYf
+d /~wP* 7(Ewfn 6/DYn
+d /~wV, 7(Ewf< 5"J/l
+d /~wSL 7(Ewri 6/DVu
+w "?s1# building#yes
+d 0@ck& 5'z6w 6/D}%
+d 0@cp1 7(Ex2} 6/D|~
+d 0@cfC 7(Ex3* 6/D|0
+d 0@cg: 7(EwB@ 6/D{Q
+d 0@cpr 7(EwD' 6/Dsb
+d 0@cr7 7(EwFT 6/Ds:
+d 0@cr& 7(Ex?> 6/Ds~
+d 0@chn 7(Ex>r 6/Dy|
+d 0@ck& 5'z6w 6/D}%
+w "=*Zs building#yes
+d /~wLA 7(Eufm 5"J,T
+d /~wQA 7(EuWX 6/D6M
+d /~wRj 7(EuWI 6/D4c
+d /~wJp 7(Eufg 6/D4_
+d /~wO8 7(Eufn 6/D5I
+d /~wO1 7(Euiz 6/D5H
+d /~wVJ 7(Euj+ 6/D74
+d /~wP, 7(Euft 6/D75
+d /~wLA 7(Eufm 5"J,T
+w "-RJa building#yes
+d .0H!* 7(ExI~ 6/D]{
+d .0G~3 7(Ex+C 6/D]g
+d .0G~f 7(Ex*{ 6/D_h
+d .0G{l 7(Ex/y 6/D_k
+d .0G~B 7(Ex/X 4.QX
+d .0G~l 6fO@A 6/Da\
+d .0G~] 7(Ex@n 6/D_X
+d .0G{w 7(ExI^ 6/D_^
+d .0H!* 7(ExI~ 6/D]{
+w "-RJr building#yes
+d .0G{F 6fNzt 6/Du<
+d .0G{p 7(EtbX 6/DwL
+d .0G~! 7(EtZl 6/Dy"
+d .0G}l 7(EtNR 6/Dvr
+d .0G{F 6fNzt 6/Du<
+w "=*\? building#yes
+d /~wY$ 7(Ev9O 6/D2U
+d /~wT< 7(Ev/L 6/D2j
+d /~wWT 7(Ev.J 6/D10
+d /~wPr 7(Ev8N 6/D0z
+d /~wY$ 7(Ev9O 6/D2U
+w CQ[D building#yes
+d %$@*^ 7(ExRz 6/DwN
+d %$@*` 7(ExQz 6/E""
+d %$@*a 7(ExrY 6/E"#
+d ..8tN 7(Exsf 6/Dy$
+d %$@*b 7(Exl* 6/DwP
+d %$@*^ 7(ExRz 6/DwN
+w "=*[y building#yes
+d /~wVZ 7(Ew(K 6/DZT
+d /~wX2 7(Ew(F 6/D\T
+d /~wTx 7(Evx8 6/D\S
+d /~wJx 7(Evx= 6/DZR
+d /~wVZ 7(Ew(K 6/DZT
+w "=*[2 building#yes
+d /~wN^ 7(EwBX 6/D]z
+d /~wU0 7(EwBX 6/D_S
+d /~wXJ 6fO67 6/D_S
+d /~wMJ 6fO67 6/D]z
+d /~wN^ 7(EwBX 6/D]z
+w "-6+8 building#yes
+d .-2Yk 7(Et1O 6/Dk5
+d .-2[C 7(Et1: 6/DkR
+d .-2Z< 7(Et1* 6/DmD
+d .-2Z] 7(EsyH 6/Dm3
+d .-2[I 7(Esz+ 6/Dj~
+d .-2Yk 7(Et1O 6/Dk5
+w "=*[/ building#yes
+d /~wSQ 7(EwD" 6/DLu
+d /~wVL 7(Ew<o 6/DMN
+d /~wP. 7(Ew9c 6/DL/
+d /~wQ~ 7(Ew@t 6/DKU
+d /~wSQ 7(EwD" 6/DLu
+w "=*[8 amenity#parking
+d /~wOJ 7(Ev:& 3"B!
+d /~wR~ 7(EuWE 6/D&z
+d /~wOR 7(EuV\ 6/D+4
+d /~wNc 7(EuV\ 6/D-4
+d /~wXU 7(Ev:Y 6/D)H
+d /~wOJ 7(Ev:& 3"B!
+w "=*\5 building#yes
+d /~wW6 7(EvyY 6/DT_
+d /~wT+ 7(Evp9 6/DV^
+d /~wRF 7(Eviv 6/DUZ
+d /~wKR 7(Evs8 6/DS[
+d /~wW6 7(EvyY 6/DT_
+w "=*[[ building#yes
+d /~wVW 6fO1F 5"J,K
+d /~wJu 6fO1G 6/D6\
+d /~wTv 6fO0@ 6/D6_
+d /~wX- 6fO0? 6/D5P
+d /~wVW 6fO1F 5"J,K
+w "=*\G building#yes
+d /~wQR 7(Evxk 6/D-G
+d /~wS) 7(Evn_ 6/D-L
+d /~wMf 7(EvnI 6/D+_
+d /~wOf 7(EvxT 6/D+Z
+d /~wQR 7(Evxk 6/D-G
+w "-6+* building#yes
+d .-2ZM 7(Eu^k 6/DiT
+d .-2Yi 7(Eu_; 6/Dg^
+d .-2[f 7(EuQD 6/DgR
+d .-2Yg 6fO%k 5"J1^
+d .-2[3 7(EuU/ 6/DiS
+d .-2ZX 7(EuU* 6/Dif
+d .-2YL 7(Eu[$ 6/Dik
+d .-2[i 7(Eu[+ 6/DiQ
+d .-2ZM 7(Eu^k 6/DiT
+w "=*\H building#yes
+d /~wSf 7(EuAP 6/D6.
+d /~wVy 7(EuAW 6/D7Q
+d /~wQH 7(Eu:t 6/D7S
+d /~wKL 7(Eu:w 6/D85
+d /~wU4 7(Eu42 6/D86
+d /~wOK 7(Eu4. 6/D7V
+d /~wMb 7(Eu,5 6/D7W
+d /~wOc 7(Eu,. 6/D62
+d /~wSf 7(EuAP 6/D6.
+w "=*\B building#yes
+d /~wKr 7(EwX< 6/DTv
+d /~wLv 7(Ew`6 5"J/c
+d /~wXv 7(EwZK 6/DWL
+d /~wN$ 7(EwRQ 5"J/f
+d /~wKr 7(EwX< 6/DTv
+w "=*\A building#yes
+d /~wM^ 7(Euy! 6/D49
+d /~wQ5 7(Eu~J 6/D49
+d /~wRZ 7(Eu~J 6/D5,
+d /~wM7 7(Euu{ 6/D5,
+d /~wOP 7(Euu{ 6/D4>
+d /~wO3 7(Euq, 5"J,@
+d /~wTp 7(Euq. 6/D3O
+d /~wWY 7(Eutb 6/D3O
+d /~wL1 7(Eutg 6/D0}
+d /~wWw 7(Eu|j 6/D0~
+d /~wQ( 7(Eu|f 6/D3Q
+d /~wL| 7(Euz} 6/D3P
+d /~wN: 7(Euy" 6/D3P
+d /~wM^ 7(Euy! 6/D49
+w C<oP leisure#park
+d %!j<l 7(Es7x 6/D:{
+d %!j<m 7(Er|) 6/DK>
+d %!j<n 7(Ese< 6/DOb
+d %!j<o 7(Esvp 6/DHN
+d %!j<p 7(Esw@ 6/D9.
+d %!j<q 6fNyV 6/D3+
+d %!j<r 7(EtFb 6/D/C
+d %!j<s 6fNvF 6/D,~
+d %!j<t 7(Esyi 6/D.n
+d %!j<u 7(Esk. 5"J,@
+d %!j<v 7(Es\Q 6/D9j
+d %!j<l 7(Es7x 6/D:{
+w "-RJY amenity#parking fee#yes parking#surface
+d .0G{j 6fOF` 6/Dg|
+d .0G~J 7(Ey!* 6/Di)
+d .0H!! 7(Exvd 6/Dl(
+d .0G~p 7(Extf 6/Dl&
+d .0Gzj 7(Exn$ 4.Qc
+d .0G~S 7(ExiZ 6/Dn{
+d .0G|@ 7(Exel 6/Do5
+d .0G|4 7(Exap 6/Do8
+d .0G}7 7(Ex[. 6/Do=
+d .0G{O 7(ExUA 6/Do[
+d .0G{E 7(ExN] 5"J29
+d .0G{A 7(ExO9 6/Dn0
+d .0G{n 7(ExOr 5"J1}
+d .0G{^ 7(ExS` 6/Dk{
+d .0G~5 7(ExqS 6/Dh1
+d .0GzW 7(Ext; 6/Dh\
+d .0G~- 7(ExvS 6/DhA
+d .0G}b 7(Exyw 6/Dgw
+d .0G{j 6fOF` 6/Dg|
+w "-RJq building#yes
+d .0G~{ 7(Ew$_ 5"J1?
+d .0G|: 7(EvrW 6/Dfc
+d .0G|# 7(Evp| 6/Ddy
+d .0Gzm 7(Ew#& 6/DdI
+d .0G~{ 7(Ew$_ 5"J1?
+w Er6- amenity#kindergarten building#yes
+d %@`:n 7(Ew;s 6/D+<
+d %@`:o 7(Ewuv 6/D-,
+d %@`:p 7(Ewsz 6/D/q
+d %@`:q 7(Ew9I 6/D.$
+d %@`:n 7(Ew;s 6/D+<
+w "=*\M building#yes
+d /~wJq 7(Evy/ 6/DK8
+d /~wMB 7(Evv. 6/DIn
+d /~wWu 7(Ew!# 6/DI0
+d /~wL/ 7(Ew$$ 6/DJW
+d /~wJq 7(Evy/ 6/DK8
+w "=*[t building#yes
+d /~wLz 6fO'| 6/D7B
+d /~wS= 6fO'| 6/D7~
+d /~wUr 7(Eu]Q 6/D7~
+d /~wKf 7(Eu]Q 6/D7B
+d /~wLz 6fO'| 6/D7B
+w "=*[p building#yes
+d /~wTt 6fO-O 6/D_D
+d /~wP6 7(Ev-q 6/D_D
+d /~wNF 7(Ev-q 6/D]Q
+d /~wX, 6fO-O 6/D]Q
+d /~wTt 6fO-O 6/D_D
+w "=*\8 building#yes
+d /~wK5 7(Eud^ 6/DdD
+d /~wRD 7(EuSr 6/Ddd
+d /~wSi 7(EuRi 5"J0}
+d /~wQN 7(EucU 6/DbL
+d /~wK5 7(Eud^ 6/DdD
+w "=*Zw building#yes
+d /~wUH 7(Ev\S 6/D00
+d /~wQW 7(Ev\S 6/D01
+d /~wUY 7(Ev^l 6/D0-
+d /~wOn 7(Ev_a 6/D1[
+d /~wWE 7(EvW< 6/D1l
+d /~wKj 7(EvVH 6/D0?
+d /~wOh 7(EvVJ 6/D0?
+d /~wS, 7(EvVD 6/D06
+d /~wW. 7(EvV; 6/D06
+d /~wP% 7(EvV. 6/D/~
+d /~wSD 7(EvXA 6/D/z
+d /~wKH 7(EvX8 6/D/j
+d /~wQc 7(Ev\Z 6/D/b
+d /~wS/ 7(Ev\t 6/D00
+d /~wUH 7(Ev\S 6/D00
+w "-RJf building#yes
+d .0GzR 6fOD> 6/DOL
+d .0G|. 7(ExJR 6/DOL
+d .0G|- 7(ExJ6 6/DQQ
+d .0G{| 7(ExOc 6/DQQ
+d .0H!1 6fOAp 6/DS+
+d .0H!- 7(ExYi 6/DS+
+d .0G|1 7(ExYi 6/DSQ
+d .0H!$ 7(Ex^@ 6/DSK
+d .0H!, 7(Ex^$ 6/DS#
+d .0H!% 6fOCS 6/DS#
+d .0G{= 7(Ex`[ 6/DQ>
+d .0G{+ 7(Exgk 6/DQ<
+d .0GzR 6fOD> 6/DOL
+w "=*[P building#yes
+d /~wR: 7(EvdW 6/D-/
+d /~wVl 7(Eve[ 6/D-k
+d /~wK3 7(EvbO 6/D-|
+d /~wRu 7(Evbz 6/D.9
+d /~wL_ 7(Evc` 6/D.c
+d /~wXP 7(EvYW 6/D/;
+d /~wRz 7(EvWE 6/D-x
+d /~wPL 7(EvZ3 6/D-i
+d /~wU6 7(EvW8 6/D+z
+d /~wNe 7(Eva_ 6/D+B
+d /~wR: 7(EvdW 6/D-/
+w "?s0r building#yes
+d 0@ciJ 7(EuMG 6/DrK
+d 0@coE 7(EulZ 6/Ds(
+d 0@cgE 7(EuxR 6/Dx^
+d 0@cpI 7(EuW; 6/D~/
+d 0@ci6 7(Eu:b 6/E%f
+d 0@cl> 7(Eu2f 6/E$>
+d 0@co| 7(EuK0 6/D}R
+d 0@cn( 7(EuP( 6/D|V
+d 0@ciG 7(EukO 6/Dx%
+d 0@cn` 6fO'm 6/Du%
+d 0@clH 7(EuR# 4.Qj
+d 0@cqD 7(EuB] 6/Dwd
+d 0@cgy 7(EuEb 6/Dx8
+d 0@cgL 6fO!* 6/E!D
+d 0@ck^ 7(Etw{ 6/D}|
+d 0@cr) 7(Eu=N 6/Dvt
+d 0@cnd 7(Eu:' 6/Dv;
+d 0@ciJ 7(EuMG 6/DrK
+w "=*[n building#yes
+d /~wRk 7(Ev]f 6/D`L
+d /~wMG 7(EvO7 5"J0k
+d /~wO@ 7(EvMU 5"J0X
+d /~wLD 7(Ev\' 5"J0T
+d /~wRk 7(Ev]f 6/D`L
+w "=*[5 building#yes
+d /~wQ? 7(Ex+j 6/DKl
+d /~wRg 7(Ex#" 6/DKl
+d /~wWz 7(Ex#" 6/DH0
+d /~wL? 7(Ex+j 6/DH0
+d /~wQ? 7(Ex+j 6/DKl
+w "=*[- building#yes
+d /~wTU 7(Ex($ 6/DUy
+d /~wN& 7(Ex([ 6/DXl
+d /~wSA 7(Ew{" 6/DXt
+d /~wQf 7(EwzI 6/DV"
+d /~wTU 7(Ex($ 6/DUy
+w "=*\D building#yes
+d /~wU[ 7(EwF\ 5"J/j
+d /~wU{ 7(EwO^ 5"J/z
+d /~wNy 6fO7k 6/DYe
+d /~wL~ 7(Ew?q 6/DX#
+d /~wU[ 7(EwF\ 5"J/j

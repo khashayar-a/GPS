@@ -1,0 +1,7 @@
+n (/!$d 6fOcO 6/H]W railway#switch
+n (/!1: 7(E~)w 6/Hfd railway#switch
+n -Zz6b 6fOdW 6/G}l is_in#Hisingen.Göteborg,Sverige name#Ringön place#suburb
+n .BlPZ 7(E|;| 6/H9[ name#Mekonomen_Ringön shop#car_repair
+n 1&ZBl 7(F#'U 6/IC: railway#crossing
+n 1&ZC( 7(F#6d 6/I?\ railway#crossing
+n 1&ZC1 7(F!q6 6/Hv@ railway#switch

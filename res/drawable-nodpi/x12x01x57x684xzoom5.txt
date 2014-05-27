@@ -1,0 +1,5 @@
+n 4hn2D 7(ES1R 6/Lt5 tourism#viewpoint
+n 20G:h 7(EOK) 6/Lff barrier#lift_gate bicycle#yes foot#yes
+n %uTn} 7(EX)) 6/M0< amenity#toilets
+n 1H]>q 7(ENHh 6/M"S barrier#lift_gate bicycle#yes foot#yes motorcar#yes
+n 4g*`\ 7(EX/~ 5"JxP barrier#cycle_barrier bicycle#no foot#yes horse#no motorcycle#no

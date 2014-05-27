@@ -1,0 +1,12 @@
+n 1aJ 6fIH' 6/Ldx highway#motorway_junction name#Lackarebäcksmotet ref#68
+n 1aQ 7(E1I6 6/M(N highway#motorway_junction name#Mölndalsbro ref#67
+n XB? 7(EQ/e 6/KU4 highway#traffic_signals
+n XBG 7(EP^1 6/KQ^ highway#traffic_signals
+n [rc 7(EL9R 6/Kx= highway#motorway_junction name#Kallebäcksmotet ref#70
+n :ei* 7(EU8h 5"Jls name#Almedal railway#technical_station ref#Am
+n A<4N 7(E8MM 6/Lv( highway#motorway_junction name#Lackarebäcksmotet ref#68
+n C2@e 7(EOtU 6/KeA crossing#no highway#traffic_signals
+n "f*3Y 7(EQS> 6/KW5 highway#bus_stop name#Kallebäcksvägen network#Västtrafik
+n 20G:h 7(EOK) 6/Lff barrier#lift_gate bicycle#yes foot#yes
+n 3Yl6Z 7(EPbd 6/K}K amenity#post_box
+n 3Yl6] 7(EPet 6/KzC amenity#recycling

@@ -1,0 +1,18 @@
+n "`;~q 7(F'AN 6/H|Q traffic_calming#hump
+n %7KT# 7(F%2F 6/GXk highway#turning_circle
+n %hT^? 6fP`U 6/H:O highway#bus_stop name#Balladgatan
+n %hT^F 7(F'b_ 6/HH< highway#bus_stop name#Balladgatan
+n %hT^I 6fP^1 6/HH! highway#bus_stop name#Balladgatan
+n %i_yT 7(F(1v 6/HL? highway#turning_circle
+n &#a'f 7(F#EN 6/Fn( railway#level_crossing
+n 't`%i 7(F(/F 6/H)6 shop#convenience
+n 't`%o 7(F$1{ 6/Gh) name#ICA_Brunnsbo shop#supermarket
+n 't`%v 7(F#kt 6/Gdc amenity#place_of_worship name#Brunnsbokyrkan religion#christian
+n 't`%~ 7(F$9h 6/GmV amenity#restaurant name#Brunnsbo_Pizzeria
+n 't`&9 7(F$'7 6/Gf1 amenity#post_box
+n 'tcNh 7(F'@| 6/H$& amenity#recycling
+n 'tcNm 7(F&|C 6/H&c amenity#recycling
+n 'tcO, 7(F%V8 6/Gmj amenity#recycling
+n 'u"rP 7(F&E5 6/Goi is_in#Göteborg name#Brunnsbo place#suburb
+n *#&_B 6fP>H 6/H/G fixme#continue
+n 5u}1U 7(F&LR 5"JRh highway#turning_circle

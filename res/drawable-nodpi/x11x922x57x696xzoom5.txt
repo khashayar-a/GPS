@@ -1,0 +1,30 @@
+n K#@ 7(E^dJ 6/Bqd name#Kaptensgatan railway#tram_stop
+n K'iz 7(E_6z 5"J"P highway#turning_circle
+n "(yGN 7(E[Mk 6/Az9 name#Chapmans_Torg railway#tram_stop
+n "(yGS 7(EXPA 6/AOl name#Jaegerdorffsplatsen railway#tram_stop
+n $0T-# 5'y~~ 5"I~e amenity#fuel name#Preem_-_Göteborg,_Trb_Fiskhamnen
+n $a(k[ 7(E^o| 6/BsW name#ICA_Supermarket shop#supermarket
+n 'QOa+ 7(E_+W 6/B{J amenity#atm operator#Handelsbanken
+n -u`hV 7(E^'` 6/BYz amenity#restaurant name#Pizzeria_Venedig
+n /]\N( 7(Ea!& 6/B:N seamark:buoy_special_purpose:colour#yellow seamark:buoy_special_purpose:shape#spar seamark:topmark:colour#yellow seamark:topmark:shape#x-shape seamark:type#buoy_special_purpose
+n 4`%~a 7(E`J| 6/Bps addr:housenumber#1 addr:street#Fiskhamnen
+n 4`%~e 7(E_hU 6/BYB addr:housenumber#11 addr:street#Fiskhamnen
+n 4`%~f 7(EaJ* 5"I~Q addr:housenumber#13 addr:street#Fiskhamnen
+n 4`%~g 7(Ea.J 5"I}j addr:housenumber#15 addr:street#Fiskhamnen
+n 4`%~i 5'y~o 6/BiS addr:housenumber#17 addr:street#Fiskhamnen
+n 4`%~j 7(E`Q[ 6/B_W addr:housenumber#19 addr:street#Fiskhamnen
+n 4`%~k 7(E_Mp 5"Iz$ addr:housenumber#2 addr:street#Fiskhamnsgatan
+n 4`%~l 7(E_In 5"Iy= addr:housenumber#2 addr:street#Skärgårdsgatan
+n 4`%~n 7(E`<i 6/BVw addr:housenumber#21 addr:street#Fiskhamnen
+n 4`%~o 7(E`4B 6/BQ: addr:housenumber#23 addr:street#Fiskhamnen
+n 4`%~p 7(E`,` 6/BKE addr:housenumber#25 addr:street#Fiskhamnen
+n 4`%~r 6fLv! 6/BE{ addr:housenumber#27 addr:street#Fiskhamnen
+n 4`%~s 7(E`As 6/Bm@ addr:housenumber#3 addr:street#Fiskhamnen
+n 4`%~u 7(E_u. 6/B9s addr:housenumber#31 addr:street#Fiskhamnen
+n 4`%~v 7(E_UT 6/BHl addr:housenumber#4 addr:street#Fiskhamnsgatan
+n 4`%~w 7(E_0k 6/BG} addr:housenumber#4 addr:street#Skärgårdsgatan
+n 4`%~x 7(E`/> 6/BjX addr:housenumber#5 addr:street#Fiskhamnen
+n 4`%~y 7(E_Cq 6/B=Y addr:housenumber#6A addr:street#Fiskhamnsgatan
+n 4`%~z 7(E_>I 6/B9i addr:housenumber#6B addr:street#Fiskhamnsgatan
+n 4`%~} 7(E`-w 6/Bf9 addr:housenumber#7 addr:street#Fiskhamnen
+n 4`&!( 7(E_{+ 6/B_i addr:housenumber#9 addr:street#Fiskhamnen

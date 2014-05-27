@@ -1,0 +1,9 @@
+n %!;vw 7(EOy* 6/DSH name#Säldammen tourism#zoo
+n &p%5P 7(EQxt 6/DmV amenity#cafe name#Björngårdsvillan
+n &p%5R 7(ES`W 6/DUN amenity#cafe name#Café_Bräket
+n *?,`T 6fKXc 6/D-# ele#79.0124890 name#081 wpt_symbol#Scenic_Area
+n *?,`w 7(ER?> 6/D3q ele#77.4628600 name#080 wpt_symbol#Picnic_Area
+n *?,`~ 6fKEJ 6/D,\ ele#69.6833340 name#079 wpt_symbol#Picnic_Area
+n *?,a& 7(EQdx 6/DGy ele#69.2896800 name#078 wpt_symbol#Picnic_Area
+n *?,eI 7(ET7n 6/D*, ele#67.2008210 name#083 tourism#viewpoint
+n +z|$r 7(ET6O 5"J1# tourism#viewpoint

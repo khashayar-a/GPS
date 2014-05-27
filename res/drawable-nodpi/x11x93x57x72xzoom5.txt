@@ -1,0 +1,66 @@
+w T!5Y foot#yes name#Wieselgrensplatsen_Läge_B public_transport#platform
+d 'if:s 7(EyCY 6/ChS
+d 'if:u 7(EyJL 6/Cn;
+w SB.- name#Wieselgrensplatsen_Läge_A public_transport#platform
+d 'Zk]J 7(EyCF 6/Cn9
+d 'Zk]N 6fOI2 6/Cgw
+n @@:u 7(Ew%h 6/Ayz highway#crossing
+n @@;# 7(EyQS 6/C^W highway#traffic_signals
+n @@;E 7(ExvL 6/C]K highway#traffic_signals
+n E@SD 7(EyQQ 6/Dsu highway#traffic_signals
+n Ec=@ 7(Ey&T 6/Dsb highway#traffic_signals
+n "77NO 7(Ex-B 6/BuK name#Rambergsvallen_Läge_B public_transport#stop_position tram#yes
+n "="T) 6fOY( 5"J'9 highway#traffic_signals
+n "="TI 7(EyEG 6/CkH name#Wieselgrensplatsen_Läge_B public_transport#stop_position tram#yes
+n "="V` 7(Ez|D 6/CaG highway#traffic_signals
+n "`;Wb 7(EzaB 6/Dt\ highway#traffic_signals
+n #329~ 7(E|w8 6/C!X highway#turning_circle
+n #^6!* 7(EzR, 6/Ca& highway#crossing
+n #^6!+ 7(EzR, 6/C_6 highway#crossing
+n $(D<s 6fOI> 6/Cgm railway#crossing
+n $8[6^ 7(EwAR 6/Aw> highway#traffic_signals
+n $hZSp 7(EzDO 6/C~r name#Willys shop#supermarket
+n $hZTQ 7(EzEj 6/Ceu name#Coop shop#supermarket
+n $io:] 7(Ewux 6/CVL highway#crossing
+n $io;t 7(ExuH 6/C[q highway#crossing
+n $ioG# 7(Ez|: 6/Cc@ highway#crossing
+n $ioR` 7(E|b? 6/CbX highway#traffic_signals
+n $ioWb 7(EyL} 6/C\V highway#crossing
+n $ioWd 7(Ey_} 6/C^` highway#crossing
+n $ioWe 7(EydK 6/C`l highway#crossing
+n $|G/m 7(E|{D 6/C{T barrier#gate
+n %:`FC 7(E|aa 6/Ce@ barrier#kissing_gate bicycle#yes foot#yes
+n %Ik\) 7(E}bX 5"J'a crossing#island highway#traffic_signals
+n &#YFG 7(Ey\( 6/CdR highway#traffic_signals
+n &#YFK 7(Eycj 6/CbK highway#crossing
+n &#YFL 7(Exmb 5"J'= highway#crossing
+n &#YFM 7(Exo. 6/C]9 highway#crossing
+n 'j^B} 7(Ew%+ 6/AyE highway#traffic_signals
+n 'tl11 7(Ev|= 6/AuB highway#traffic_signals
+n (sN$4 7(EyQ{ 6/Dd} bus#yes local_ref#C name#Vågmästareplatsen_Läge_C public_transport#stop_position
+n .cm2F 7(E{}. 6/C&" traffic_calming#yes
+n .cm5% 7(E{#B 6/BrE traffic_calming#yes
+n .cm5' 7(E{O# 6/Bzi traffic_calming#yes
+n .cm5R 7(E{|l 6/C7B traffic_calming#yes
+n .cm7k 7(Ez<Z 6/Bce traffic_calming#yes
+n .cm7y 7(E{zY 5"J$M traffic_calming#yes
+n /~0dD 7(Ez<> 6/Co- amenity#bank name#Swedbank_Wieselgrensplatsen
+n /~0dF 7(EzA] 6/Cp= amenity#atm
+n /~0dH 7(Eyfw 6/CV8 amenity#atm
+n /~0dI 7(EzB5 6/CZ" name#Wiesel_Matcenter shop#supermarket
+n /~0dK 7(Ez&k 6/CwL amenity#hospital name#Capio_Lundby_Sjukhus
+n /~L(3 7(Exla 6/CpS amenity#cafe
+n /~L(7 6fOU% 6/C{Z amenity#pharmacy name#Medstop_apotek_Nordstjärnan
+n /~L(: 7(Ez;{ 6/C^0 highway#bus_stop name#Wieselgrensplatsen
+n /~L(= 7(Ez;% 6/Cas highway#bus_stop name#Wieselgrensplatsen
+n 0!uXt 7(Ezu^ 6/D&r barrier#block
+n 0!uY9 7(EzNE 6/Co_ shop#greengrocer
+n 00atW 7(Ez>H 6/Cqy amenity#dentist name#Folktandvården
+n 0@ch! 7(EzBV 6/Cgo amenity#post_office
+n 0@cpi 7(EzA' 5"J'p amenity#post_box
+n 1u%UY 7(Ex9e 5"I~< bus#yes local_ref#D name#Rambergsvallen_Läge_D public_transport#stop_position
+n 3WM!o 7(Ezhf 6/CP" amenity#restaurant name#Divan_Orientalisk_grill_&amp;_kök opening_hours#Mo-Sa_10:00-22:00,_Su_11:00-21:00
+n 4J'3; 7(Ex(_ 6/BuC name#Rambergsvallen_Läge_A public_transport#stop_position tram#yes
+n 4J'3y 7(Ey@Z 6/CkL name#Wieselgrensplatsen_Läge_A public_transport#stop_position tram#yes
+n 4JK|n 7(Ey@[ 6/CgZ railway#crossing
+n 4UGdD 7(E}Ej 6/CcH highway#bus_stop name#Bjurslättsskolan

@@ -1,0 +1,465 @@
+w Sbu= access#private amenity#parking parking#multi-storey
+d 'c+pM 7(F(iZ 6/>i%
+d 'c+pT 7(F(T| 6/>hU
+d 'c+pQ 7(F(c# 6/>X7
+d 'c+pO 7(F(v@ 6/>Xi
+d 'c+pM 7(F(iZ 6/>i%
+w S!0[ building#yes
+d 'QPln 7(F*+0 6/?0O
+d 'QPlp 7(F)R{ 6/?.e
+d 'QPls 7(F)V- 6/?+=
+d 'QPlv 7(F*.@ 5"IZZ
+d 'QPln 7(F*+0 6/?0O
+w R%w( amenity#parking fee#yes parking#surface
+d %)\ON 7(F,`* 6/?X|
+d 'A&b? 7(F,no 6/?YQ
+d 'A&b4 7(F,qT 6/?V,
+d 'A&b5 7(F,lZ 6/?SE
+d 'A&b8 7(F,MN 6/?Q!
+d 'A&b9 7(F,IJ 6/?R6
+d 'T1P. 6fQ0/ 6/?SQ
+d 'A&b< 7(F,`n 6/?TP
+d 'A&b= 7(F,cA 5"I^f
+d %)\ON 7(F,`* 6/?X|
+w Sbt{ building#yes
+d 'c+mg 7(F*J* 6/>nx
+d 'c+mh 7(F)nj 6/>lt
+d 'c+mi 7(F)qz 5"IW;
+d 'c+mj 7(F*M: 6/>km
+d 'c+mg 7(F*J* 6/>nx
+w Sbtt amenity#parking parking#surface
+d 'c+m$ 7(F+c8 6/>qM
+d 'c+m* 6fQ'E 6/>tz
+d 'c+m( 7(F+(q 6/>sW
+d 'c+m& 7(F++; 6/>p+
+d 'c+m$ 7(F+c8 6/>qM
+w S!0N amenity#parking layer#-1 parking#underground
+d 'QPkM 7(F*0n 6/?(W
+d 'QPkT 7(F)Z# 6/?&{
+d 'QPkR 7(F)bP 6/>{\
+d 'QPkO 7(F*:/ 5"IY9
+d 'QPkM 7(F*0n 6/?(W
+w Sbty building#yes
+d 'c+m_ 7(F+N3 6/>kJ
+d 'c+mb 7(F+K[ 6/>nf
+d 'c+ma 7(F*mO 6/>m)
+d 'c+m` 7(F*p' 6/>ik
+d 'c+m_ 7(F+N3 6/>kJ
+w S*ds addr:housenumber#11A,11B,11C,11D,13 addr:street#Bernhards_Gränd building#yes
+d 'T1Ua 5'zEh 6/?O)
+d 'T1Ue 7(F*Sa 6/?Pt
+d 'T1Uh 7(F*Qh 5"I^C
+d 'T1Uk 7(F*3' 6/?Q9
+d 'T1Um 7(F*/: 5"I^P
+d 'T1Up 7(F*%8 6/?S[
+d 'T1Ua 5'zEh 6/?O)
+w S!0> addr:housenumber#31,33,35,37 building#yes
+d 'QPix 7(F-<c 6/?#+
+d 'QPi{ 7(F,Yl 6/?!>
+d 'QPj! 7(F,\4 6/>|:
+d 'QPj$ 7(F-?+ 6/>~'
+d 'QPix 7(F-<c 6/?#+
+w S!0j leisure#playground
+d 'QPnT 7(F,M` 6/?+_
+d 'QPnW 7(F,HW 6/?)h
+d 'QPnZ 7(F,<o 6/?)O
+d 'QPn\ 7(F,5J 6/?+*
+d 'QPna 7(F,8t 5"IZ\
+d 'QPnb 7(F,FR 6/?-d
+d 'QPnT 7(F,M` 6/?+_
+w S*d~ leisure#playground
+d 'T1Vu 7(F*f( 6/?N#
+d 'T1Vv 7(F*]R 6/?Q&
+d 'T1Vy 7(F*PI 6/?Mz
+d 'T1Vu 7(F*f( 6/?N#
+w S*d} leisure#playground
+d 'T1Vk 7(F+DH 6/?N*
+d 'T1Vn 7(F+@: 6/?PR
+d 'T1Vr 6fQ#C 6/?NA
+d 'T1Vk 7(F+DH 6/?N*
+w Sbu% building#yes
+d 'c+n9 7(F+7r 6/>[k
+d 'c+n: 6fQ## 6/>^|
+d 'c+n; 7(F*Z% 6/>]=
+d 'c+n< 7(F*cS 6/>Qw
+d 'c+n= 6fP}w 6/>RG
+d 'c+n? 7(F*m? 6/>ZZ
+d 'c+n9 7(F+7r 6/>[k
+w S!0@ addr:housenumber#15,17,19,21 building#yes
+d 'QPj/ 6fQ(j 6/>|"
+d 'QPj6 7(F+l' 6/?!O
+d 'QPj3 7(F++- 6/>}d
+d 'QPj1 7(F+-o 6/>z7
+d 'QPj/ 6fQ(j 6/>|"
+w ShH\ building#yes
+d 'dc0C 7(F([$ 6/>SV
+d 'dc0D 7(F(KV 6/>dN
+d 'dc0G 7(F(9x 5"IVb
+d 'dc0H 6fPfp 5"IU!
+d 'dc0C 7(F([$ 6/>SV
+w S!0V amenity#parking parking#surface
+d 'QPl= 7(F*@x 6/>y;
+d 'QPlF 7(F*>a 6/>{d
+d 'QPlC 7(F*$c 6/>zs
+d 'QPl@ 7(F*&z 6/>xJ
+d 'QPl= 7(F*@x 6/>y;
+w Sbtu building#yes
+d 'c+m, 7(F-/< 6/>cX
+d 'c+m2 7(F-,0 6/>f~
+d 'c+m0 7(F,Un 6/>e>
+d 'c+m. 7(F,Xz 6/>av
+d 'c+m, 7(F-/< 6/>cX
+w Sbu# building#yes
+d 'c+n$ 7(F,5b 6/>\n
+d 'c+n& 7(F,2o 6/>`;
+d 'c+n( 7(F+XD 6/>^\
+d 'c+n* 7(F+ax 6/>S,
+d 'c+n- 7(F+s& 6/>S[
+d 'c+n/ 7(F+lD 6/>[a
+d 'c+n$ 7(F,5b 6/>\n
+w Sbtz building#yes
+d 'c+mc 5'zFS 6/>fU
+d 'c+mf 7(F*uu 6/>i'
+d 'c+me 7(F*=8 6/>g9
+d 'c+md 7(F*?S 6/>dg
+d 'c+mc 5'zFS 6/>fU
+w Sbts amenity#parking parking#surface
+d 'c+lz 7(F,Yw 6/>t!
+d 'c+m" 7(F,W/ 6/>wB
+d 'c+l~ 7(F+n: 6/>u<
+d 'c+l| 7(F+q$ 6/>qz
+d 'c+lz 7(F,Yw 6/>t!
+w Sbu; access#private amenity#parking parking#surface
+d 'c+p2 7(F)!L 6/>[U
+d 'c+p4 7(F)-f 6/>\&
+d 'c+p7 7(F)&o 6/>ay
+d 'c+p9 7(F(xU 6/>aJ
+d 'c+p2 7(F)!L 6/>[U
+w Sbu! building#yes
+d 'c+mw 7(F)Fb 6/>^-
+d 'c+mz 7(F)DW 6/>`D
+d 'c+my 7(F).i 6/>_^
+d 'c+mx 7(F)0u 6/>]G
+d 'c+mw 7(F)Fb 6/>^-
+w Sbu? amenity#parking fee#yes parking#surface
+d 'c+pM 7(F(iZ 6/>i%
+d 'c+p\ 7(F(d~ 5"IWu
+d 'c+p^ 7(F(Q6 6/>oL
+d 'c+pT 7(F(T| 6/>hU
+d 'c+pM 7(F(iZ 6/>i%
+w ShH] building#yes
+d 'dc0I 7(F(I> 6/>f]
+d 'dc0J 7(F(B! 6/>pJ
+d 'dc0K 7(F(1~ 6/>p#
+d 'dc0M 7(F(9> 6/>f6
+d 'dc0I 7(F(I> 6/>f]
+w ShHK building#yes
+d 'dc/^ 7(F(^X 5"IY;
+d 'dc/_ 7(F(YI 6/?%n
+d 'dc/` 7(F'P% 6/?"e
+d 'dc/a 7(F'R; 6/>~+
+d 'dc/b 7(F(NC 6/?"m
+d 'dc/c 7(F(Q= 6/>}D
+d 'dc/^ 7(F(^X 5"IY;
+w .d<. highway#unclassified
+d @@;] 7(F(-p 6/?7x
+d *glm: 7(F(+J 6/?;7
+d )@m&Q 7(F(*a 6/?<:
+d "=&NT 7(F(+* 6/?>H
+d )@m&O 6fPd' 6/??j
+d )@m&N 7(F(10 6/?A,
+d "=&NW 7(F(7: 6/?B4
+d )@m&L 7(F(=H 6/?B|
+d )@m&J 7(F(DK 6/?CA
+d )@m&E 7(F(L[ 6/?CA
+d "=&Nd 7(F(T& 6/?C#
+d )@m&F 7(F([G 6/?B@
+d "=&N| 7(F(`V 6/?AH
+d )@m&H 7(F(c~ 6/?@^
+d )@m&C 6fPiq 6/??6
+d "=&O& 7(F(j/ 6/?=R
+w S*dk building#yes
+d 'T1TI 6fPf+ 5"I^<
+d 'T1TL 7(F),. 6/?TV
+d 'T1TO 6fPm& 6/?W"
+d 4fW^^ 7(F(s= 6/?V9
+d 4fW^X 7(F([K 6/?UC
+d 4fW^W 7(F(C` 6/?TM
+d 'T1TS 7(F(?K 6/?T>
+d 'T1TI 6fPf+ 5"I^<
+w Sbu' building#yes
+d 'c+nN 7(F*8V 6/>Zf
+d 'c+nP 7(F)l) 5"IU`
+d 'c+nR 7(F)q= 6/>R5
+d 'c+na 7(F)aF 6/>Qn
+d 'c+nc 7(F)Yg 6/>\n
+d 'c+nf 6fPwd 6/>^8
+d 'c+nN 7(F*8V 6/>Zf
+w ^LcZ area#yes highway#pedestrian name#Länsmanstorget
+d )@m$[ 7(F)O! 6/>xb
+d )@m&` 6fPrR 6/>y4
+d 'QPlV 7(F)^d 6/>z}
+d )@m&b 7(F)]G 6/>|R
+d )@m%4 7(F)L4 6/>|"
+d )@m$[ 7(F)O! 6/>xb
+w S!0? addr:housenumber#23,25,27,29 building#yes
+d 'QPj& 7(F,R; 6/>})
+d 'QPj( 7(F+mi 6/>{9
+d 'QPj* 7(F+p0 6/>x3
+d 'QPj- 7(F,T` 6/>z#
+d 'QPj& 7(F,R; 6/>})
+w Sbt| building#yes
+d 'c+mk 7(F)e< 6/>h/
+d 'c+mn 7(F)b| 5"IWJ
+d 'c+mm 7(F)&p 6/>iq
+d 'c+ml 7(F))0 6/>f\
+d 'c+mk 7(F)e< 6/>h/
+w S!0^ amenity#public_building building#yes name#Vårvindens_fritidsgård
+d 'QPmM 7(F*p0 5"IZi
+d 'QPmP 7(F*i$ 6/?5D
+d 'QPmQ 7(F*Q8 6/?4O
+d 'QPmT 7(F*Tn 6/?1-
+d 'QPmV 7(F*D) 6/?0P
+d 'QPmZ 7(F*B) 5"I[.
+d 'QPm\ 7(F*4j 6/?1t
+d 'QPm_ 7(F*:@ 6/?,_
+d 'QPmM 7(F*p0 5"IZi
+w S!0M building#yes name#Länsmanstorget shop#mall
+d 'QPkA 7(F*$; 6/?(5
+d 'QPkI 7(F)YA 6/?')
+d 'QPkG 7(F)f[ 6/>vc
+d 'QPkk 7(F*!{ 6/>w]
+d 'QPkm 6fPu: 3"AR
+d 'QPkD 7(F*,1 6/>|j
+d 'QPkA 7(F*$; 6/?(5
+w .d<0 highway#unclassified name#Temperaturgatan
+d "=&O- 7(F(s. 5"I[D
+d )@m&6 7(F(vI 6/?1/
+w S!0A addr:housenumber#7,9,11,13 building#yes
+d 'QPj8 7(F+/c 5"IXq
+d 'QPj9 7(F*MQ 5"IXa
+d 'QPj; 7(F*P1 5"IX@
+d 'QPj= 7(F+2B 6/>u~
+d 'QPj8 7(F+/c 5"IXq
+w ShHL building#yes
+d 'dc/d 6fPi] 6/>t'
+d 'dc/h 7(F(cH 6/>w=
+d 'dc/f 7(F(0+ 6/>v4
+d 'dc/e 7(F(2( 6/>r|
+d 'dc/d 6fPi] 6/>t'
+w S!0\ building#yes
+d 'QPmG 7(F+&\ 6/?&O
+d 'QPl{ 7(F+#E 6/?*+
+d 'QPly 7(F*A@ 6/?(*
+d 'QPmK 7(F*DW 6/?$N
+d (]U9l 7(F*OQ 6/?$f
+d (]U9n 7(F*\> 5"IYn
+d (]U9p 7(F*jy 6/?%h
+d (]U9r 7(F*xA 6/?&5
+d 'QPmG 7(F+&\ 6/?&O
+w S!0U access#private amenity#parking parking#multi-storey
+d 'QPl1 7(F)e. 6/>qE
+d 'QPl: 7(F)aV 6/>u$
+d 'QPl7 7(F)/[ 6/>s>
+d 'QPl5 7(F)33 6/>o`
+d 'QPl1 7(F)e. 6/>qE
+w ^Lco highway#unclassified name#Temperaturgatan oneway#yes
+d )@m&6 7(F(vI 6/?1/
+d "=&L{ 7(F)%! 6/?*s
+w S*dr addr:housenumber#5A,5B,5C,5D,7,9A,9B addr:street#Bernhards_Gränd building#yes
+d 'T1UI 7(F*k[ 5"I]v
+d 'T1UK 7(F+8. 6/?Ol
+d 'T1UN 7(F+5V 5"I^=
+d 'T1UR 7(F*t} 6/?Pd
+d 'T1UZ 7(F*p: 6/?Te
+d 'T1U] 7(F*d? 6/?T6
+d 'T1UI 7(F*k[ 5"I]v
+w S*dj amenity#parking
+d 'T1T? 7(F+pT 6/?Kf
+d 'T1TB 7(F*S9 5"I\p
+d 'T1TE 7(F*L] 6/?Fp
+d 'T1TG 7(F+ix 6/?O1
+d 'T1T? 7(F+pT 6/?Kf
+w S!0T amenity#parking parking#multi-storey
+d 'QPl& 7(F*<` 6/>s/
+d 'QPl/ 7(F*9/ 6/>vp
+d 'QPl+ 7(F)j- 6/>u@
+d 'QPl) 7(F)m^ 3"AQ
+d 'QPl& 7(F*<` 6/>s/
+w S!0m amenity#parking fee#yes parking#multi-storey
+d 'QPnr 7(F,'m 6/?4u
+d 'QPn| 6fQ*f 6/?8d
+d 'QPny 7(F+(S 6/?5r
+d 'QPnv 7(F++~ 6/?2%
+d 'QPnr 7(F,'m 6/?4u
+w RXih addr:housenumber#20,22,24,26 building#yes
+d 'Jq)F 6fQ'| 5"I[+
+d 'Jq)L 7(F+iM 6/?.M
+d 'Jq)J 7(F,P6 6/?0@
+d 'Jq)H 7(F,MJ 6/?3y
+d 'Jq)F 6fQ'| 5"I[+
+w S*e% building#yes name#Netto shop#supermarket
+d 'T1W& 7(F)@^ 6/?@_
+d 'T1WF 7(F)UV 6/?A[
+d 'T1WD 7(F)Kx 6/?Hz
+d 'T1W@ 7(F)7, 6/?H"
+d 'T1W& 7(F)@^ 6/?@_
+w Sbt~ building#yes
+d 'c+ms 7(F)\. 6/>b<
+d 'c+mv 7(F)ZL 6/>dj
+d 'c+mu 7(F)>a 6/>d,
+d 'c+mt 7(F)@C 6/>a\
+d 'c+ms 7(F)\. 6/>b<
+w ^Lc^ building#yes
+d )@m%$ 7(F)J0 5"IXp
+d )@m%& 7(F)I$ 6/>zv
+d )@m%) 7(F)K_ 6/>z}
+d )@m%- 7(F)JF 6/>|_
+d )@m%. 7(F)1_ 6/>|"
+d )@m%/ 6fPn" 6/>z)
+d )@m%1 7(F)8a 6/>z7
+d )@m$V 7(F)9] 6/>x{
+d )@m%" 7(F)?" 6/>y*
+d )@m%' 7(F)>. 5"IXx
+d )@m%+ 7(F)E~ 5"IXz
+d )@m%0 7(F)Fq 6/>y>
+d )@m%$ 7(F)J0 5"IXp
+w S*dp addr:housenumber#2 addr:street#Norra_Fjädermolnsgatan building#yes
+d 'T1U! 7(F,CK 6/?T_
+d 'T1U$ 7(F,>; 6/?Xp
+d 'T1U% 7(F,30 5"I^z
+d 'T1U) 7(F,5P 6/?VE
+d 'T1U2 7(F,#U 6/?Ur
+d 'T1U4 6fQ*r 6/?SE
+d 'T1U! 7(F,CK 6/?T_
+w ^Lcn highway#unclassified name#Temperaturgatan oneway#yes
+d %'~7r 7(F(s= 6/?*s
+d )@m%l 7(F(tL 6/?,w
+d )@m&6 7(F(vI 6/?1/
+w S!0W access#private amenity#parking parking#surface
+d 'QPlJ 7(F*<A 6/>}t
+d 'QPlL 7(F*3t 6/?(v
+d 'QPlP 7(F*&] 6/?(M
+d 'QPlT 6fPw" 5"IY8
+d 'QPlJ 7(F*<A 6/>}t
+w Sbtw building#yes
+d 'c+mJ 7(F,^i 6/>h.
+d 'c+mM 7(F,V> 6/>r2
+d 'c+mO 7(F+sN 6/>p:
+d 'c+mQ 7(F+|[ 6/>eH
+d 'c+mS 7(F,1T 6/>e|
+d 'c+mV 6fQ+K 6/>m3
+d 'c+mX 7(F,LD 6/>n0
+d 'c+mZ 6fQ/; 6/>gh
+d 'c+mJ 7(F,^i 6/>h.
+w Sbtr amenity#parking parking#surface
+d 'c+lr 7(F-?E 5"IXq
+d 'c+ls 7(F,`4 6/>wx
+d 'c+lu 7(F,c" 6/>t,
+d 'c+lx 7(F-B3 6/>uc
+d 'c+lr 7(F-?E 5"IXq
+w RXig addr:housenumber#5,7,9,11 building#yes
+d 'Jq)A 7(F,EB 5"I[P
+d 'Jq)B 7(F-0! 6/?7_
+d 'Jq)C 6fQ5) 6/?:z
+d 'Jq)E 7(F,C5 6/?9<
+d 'Jq)A 7(F,EB 5"I[P
+w S*e' area#yes highway#pedestrian
+d 'T1WM 7(F,2d 6/?W"
+d 'T1WO 6fQ+d 6/?Z4
+d 'T1WS 7(F+y1 6/?[p
+d 'T1WT 7(F+oZ 6/?[F
+d 'T1WX 7(F+xR 6/?R>
+d 'T1W\ 7(F,#t 6/?Rd
+d 'T1Wc 7(F+}a 6/?VN
+d 'T1WM 7(F,2d 6/?W"
+w S!0g addr:housenumber#12,14,16,18 building#yes
+d 'QPn5 7(F+e( 6/?,x
+d 'QPn> 7(F+bC 6/?/s
+d 'QPn: 7(F+"y 6/?-n
+d 'QPn9 7(F+%] 6/?*t
+d 'QPn5 7(F+e( 6/?,x
+w .d<+ highway#unclassified junction#roundabout
+d "=&L{ 7(F)%! 6/?*s
+d "=&M$ 6fPle 5"IZC
+d )@m%n 6fPlx 6/?)o
+d %'~7o 7(F)(H 6/?(y
+d %'~7p 7(F)&6 6/?("
+d "=&M< 7(F)%J 6/?'p
+d )@m%M 7(F)"d 6/?'K
+d )@m%C 7(F(|V 6/?'3
+d )@m%E 7(F(xA 6/?'8
+d %'~7q 7(F(sn 6/?'a
+d )@m%F 7(F(r^ 6/?'u
+d )@m%H 7(F(p' 6/?(n
+d )@m%J 7(F(op 6/?)X
+d "=&M[ 7(F(qz 6/?*W
+d %'~7r 7(F(s= 6/?*s
+d )@m%p 7(F(w= 6/?+@
+d )@m%q 7(F({z 6/?+L
+d )@m%s 7(F)"< 6/?+7
+d "=&L{ 7(F)%! 6/?*s
+w S*e! amenity#parking parking#surface
+d 'T1V{ 7(F(u5 6/?>g
+d 'T1W( 7(F(n( 6/?D#
+d 'T1V} 6fPj' 6/?F*
+d 'T1W, 7(F(um 6/?FX
+d 'T1W@ 7(F)7, 6/?H"
+d 'T1W& 7(F)@^ 6/?@_
+d 'T1WJ 7(F)?@ 6/?@Y
+d 'T1V{ 7(F(u5 6/?>g
+w S!0n amenity#parking fee#yes parking#surface
+d 'QPo! 7(F,<r 6/?5.
+d 'QPo% 7(F,9P 6/?9x
+d 'QPo( 7(F,%J 6/?9J
+d 'QPo) 7(F,(l 6/?4^
+d 'QPo! 7(F,<r 6/?5.
+w Sbtx building#yes
+d 'c+m[ 7(F+s; 6/>dq
+d 'c+m^ 5'zGG 6/>g_
+d 'c+m] 7(F+3# 6/>f5
+d 'c+m\ 7(F+4s 6/>cG
+d 'c+m[ 7(F+s; 6/>dq
+w .d</ bridge#yes highway#unclassified layer#1
+d "=&O& 7(F(j/ 6/?=R
+d "=&O- 7(F(s. 5"I[D
+w S*dq addr:housenumber#1A,1B,1C,1D,3 addr:street#Bernhards_Gränd building#yes
+d 'T1U6 7(F+KC 5"I^"
+d 32\{l 7(F+d3 6/?P&
+d 'T1Vh 7(F+cA 6/?Pp
+d 'T1U9 7(F+t! 6/?QM
+d 'T1U= 7(F+r+ 6/?S7
+d 32\{j 7(F+_Y 6/?RS
+d 32\{k 7(F+`L 6/?Qf
+d 'T1U@ 7(F+Sp 6/?Q:
+d 'T1UB 7(F+Ph 6/?T,
+d 'T1UF 7(F+FE 6/?Sf
+d 'T1U6 7(F+KC 5"I^"
+w S!0K building#yes
+d 'QPjq 7(F*I? 6/>xQ
+d 'QPjx 6fPzq 6/>xr
+d 'QPjw 7(F*Q: 6/>~(
+d 'QPjs 7(F*E( 6/>}f
+d 'QPjq 7(F*I? 6/>xQ
+w ^Lc] amenity#place_of_worship building#yes denomination#lutheran name#Länsmansgårdens_kyrka religion#christian
+d )@m$J 7(F)M@ 6/>wt
+d )@m$~ 6fPpQ 6/>yL
+d )@m%$ 7(F)J0 5"IXp
+d )@m%0 7(F)Fq 6/>y>
+d )@m%" 7(F)?" 6/>y*
+d )@m$V 7(F)9] 6/>x{
+d )@m$R 7(F)8O 6/>xw
+d )@m$T 7(F)9d 6/>wB
+d )@m$J 7(F)M@ 6/>wt
+w jB@% leisure#playground
+d *i?z7 7(F,<` 6/>k1
+d *i?y_ 7(F,;" 6/>ln
+d *i?y4 7(F,/t 5"IWT
+d *i?z* 7(F,1T 6/>jj
+d *i?z7 7(F,<` 6/>k1
+w Sbt} building#yes
+d 'c+mo 7(F*2t 6/>`+
+d 'c+mp 7(F*0j 6/>cl
+d 'c+mq 7(F*#] 6/>cS
+d 'c+mr 6fPv( 6/>_p
+d 'c+mo 7(F*2t 6/>`+

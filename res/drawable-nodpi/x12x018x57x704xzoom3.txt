@@ -1,0 +1,170 @@
+w "2VKs building#yes
+d .i.n& 7(Egc" 5"K*+
+d .i.nE 7(Eg_^ 6/M}~
+d .i.mq 7(Eg:S 6/M{f
+d .i.mu 7(Eg>A 6/Myn
+d .i.n& 7(Egc" 5"K*+
+w "T*1( building#yes
+d 2=kE6 7(EgC+ 6/MT5
+d 2=kE] 7(Eg>` 6/M]U
+d 2=kEO 7(Eg4I 6/M]E
+d 2=kEB 7(Eg8r 6/MT%
+d 2=kE6 7(EgC+ 6/MT5
+w "T*eb building#yes
+d 2=sl; 7(Ef[p 6/MU!
+d 2=sl@ 7(EfW) 5"K',
+d 2=sl7 7(EfLd 6/M]}
+d 2=sl: 7(EfQL 5"K&2
+d 2=sl; 7(Ef[p 6/MU!
+w "e!y7 building#yes
+d 3z!C= 7(Eh=D 6/Mg=
+d 3z!C; 7(Eh;; 6/Me,
+d 3z!C' 7(Egg* 5"K'}
+d 3z!C- 7(Egi3 6/Mh}
+d 3z!C= 7(Eh=D 6/Mg=
+w "2VWJ building#yes
+d .i0>N 7(EgG[ 6/N"~
+d .i0>H 7(EgEi 6/N%"
+d .i0>D 5'z&e 6/N$*
+d .i0>E 7(Eg+4 6/N"(
+d .i0>N 7(EgG[ 6/N"~
+w "T*1* building#yes
+d 2=kEQ 7(Ef~E 6/MTZ
+d 2=kED 7(Efx4 5"K'>
+d 2=kE7 7(Efma 6/M_u
+d 2=kEV 7(Efsr 6/MTG
+d 2=kEQ 7(Ef~E 6/MTZ
+w "2V72 amenity#parking
+d .i+|: 7(EihM 6/Mzy
+d .i+{q 7(Ei}= 6/Mze
+d .i+|& 7(Ei~l 6/M{b
+d .iR<) 7(Ej$0 6/M{`
+d .i+|0 7(Ej&& 6/M{^
+d .i+{o 7(Ej%h 6/M}a
+d .i+|- 7(Eii! 6/M}~
+d .i+|: 7(EihM 6/Mzy
+w "2V8[ amenity#parking
+d .i,"3 7(Ei@u 4.Z<
+d .i,"5 6fMr% 6/My2
+d .i,"4 7(Ei[z 6/Mz(
+d .i,"2 7(EiAH 6/MzZ
+d .i,"3 7(Ei@u 4.Z<
+w "2VWH building#yes
+d .i0>G 7(Eg7G 6/M{~
+d .i0>P 7(Eg<a 6/M|>
+d .i0>M 7(Eg9J 6/M~6
+d .i0>I 7(Eg40 6/M}v
+d .i0>G 7(Eg7G 6/M{~
+w "e!y: building#yes
+d 3z!Bz 7(Eg\V 6/Mik
+d 3z!B{ 7(Eg_2 6/Mgl
+d 3z!Bx 7(Eg7| 6/Me~
+d 3z!Bu 7(Eg5B 6/Mg~
+d 3z!Bz 7(Eg\V 6/Mik
+w "2Ton building#yes
+d .h|^| 6fMuP 6/N!h
+d .h|^t 7(Ei~v 6/N#[
+d .h|^` 7(EiM[ 6/N$L
+d .h|^v 7(EiLd 6/N"Z
+d .h|^| 6fMuP 6/N!h
+w "e!y6 building#yes
+d 3z!C9 7(Eh5F 6/M_p
+d 3z!C4 7(Eh1w 6/M]s
+d 3z!C/ 6fM`` 6/M`7
+d 3z!C1 7(Egm2 6/Mb4
+d 3z!C9 7(Eh5F 6/M_p
+w "e!y0 building#yes
+d 3z!Bn 7(Eg&F 5"K(3
+d 3z!Bq 7(Eg,j 6/Mg$
+d 3z!Bk 7(Efi5 6/Mc&
+d 3z!Bh 7(Efbo 6/Mdy
+d 3z!Bn 7(Eg&F 5"K(3
+w "2VHZ building#yes
+d .i.@t 7(Eh20 6/N$Y
+d .i.@U 7(Eh08 6/N&g
+d .i.@Y 7(EgTc 6/N$y
+d .i.@M 7(EgV\ 6/N"k
+d .i.@t 7(Eh20 6/N$Y
+w "2V9x building#yes
+d .i,0c 7(Ei'' 6/Mtj
+d .i,0f 7(Ei49 6/MtK
+d .i,0_ 7(Ei58 6/Muz
+d .i,0a 6fMnM 5"K)O
+d .i!~R 7(Ei8s 6/MwU
+d .i,0] 7(Ei)B 6/Mws
+d .i,0c 7(Ei'' 6/Mtj
+w "2U8Q building#yes
+d .i!~X 7(Ei=@ 6/MyZ
+d .i!~Q 7(EiA" 6/N"h
+d .i!~< 7(Ei6P 6/N"y
+d .i!~1 7(Ei2o 6/Myl
+d .i!~X 7(Ei=@ 6/MyZ
+w "2VWI building#yes
+d .i0>C 6fMV8 6/Mzr
+d .i0>J 7(Efc$ 6/Mxl
+d .i0>O 7(Eg*@ 6/M{'
+d .i0>U 7(Eg&g 6/M}.
+d .i0>C 6fMV8 6/Mzr
+w "T*1' building#yes
+d 2=kEK 7(Eg=* 6/M_H
+d 2=kEF 7(Egbg 6/Mb*
+d 2=kE. 7(Eg^w 6/Mc}
+d 2=kE0 7(Eg9: 6/Ma=
+d 2=kEK 7(Eg=* 6/M_H
+w "2x5: amenity#parking
+d .lO2# 7(Eh1Z 6/N$'
+d .lO2/ 7(Eh86 6/N#s
+d .lO2k 7(Eh6i 6/N"*
+d .lO2: 7(Eh0/ 6/N"<
+d .lO2# 7(Eh1Z 6/N$'
+w "2VHY amenity#parking
+d .i.@H 7(Eh$2 6/M~!
+d .i.@O 6fMa+ 6/M~8
+d .i.@D 7(Egmo 6/N!4
+d .i.@[ 7(Eh$H 5"K*F
+d .i.@H 7(Eh$2 6/M~!
+w "2Tlv building#yes
+d .h{}m 7(Ej.: 6/Mv-
+d .h{}< 7(EjgB 6/M|p
+d .h{}: 7(Ejac 6/M~R
+d .h{}F 6fMvC 6/Mwn
+d .h{}m 7(Ej.: 6/Mv-
+w "2VHX building#yes
+d .i.@x 7(EgmC 6/M{>
+d .i.@} 6fMdV 6/M}P
+d .i.@S 7(Eh5} 6/M{Z
+d .i.@^ 7(Egpb 6/MyI
+d .i.@x 7(EgmC 6/M{>
+w "2U8O building#yes
+d .i!~4 7(Ei<r 6/MuY
+d .i!~M 7(Ej!L 6/Msy
+d .i!~T 7(Ej"h 6/Mui
+d .i!~R 7(Ei8s 6/MwU
+d .i,0a 6fMnM 5"K)O
+d .i!~c 6fMnL 6/Muf
+d .i!~4 7(Ei<r 6/MuY
+w "e!y8 building#yes
+d 3z!Bf 7(Ef]p 6/Mf>
+d 3z!Bd 7(EfTS 6/Mgv
+d 3z!BV 6fMR\ 6/Mba
+d 3z!BW 7(EfDx 6/Ma4
+d 3z!Bf 7(Ef]p 6/Mf>
+w "2Tm= building#yes
+d .h|,K 7(EjPH 6/N"n
+d .h|,P 6fMzP 6/N$f
+d .h|,S 7(Ej,~ 6/N%m
+d .h|,M 7(Ej+G 6/N#v
+d .h|,K 7(EjPH 6/N"n
+w "2V7/ amenity#parking
+d .i+|# 7(Ei]C 6/Mz_
+d .i+|6 7(Eiu2 6/Mz;
+d .i+|* 7(Eitj 6/MyF
+d .i+|3 7(Ei\z 6/Myi
+d .iR=* 7(Ei]' 6/Mz$
+d .i+|# 7(Ei]C 6/Mz_
+w "2w#H amenity#parking
+d .lK<X 7(EiBB 6/Msk
+d .kh%" 6fMo~ 5"K):
+d .kh#R 7(EiH0 6/Mu;
+d .lK<Y 7(EiC\ 6/MuF
+d .lK<X 7(EiBB 6/Msk

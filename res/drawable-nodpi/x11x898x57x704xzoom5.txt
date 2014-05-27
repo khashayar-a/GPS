@@ -1,0 +1,81 @@
+n $NQ;/ 7(Ei}F 6/@K2 traffic_calming#yes
+n $_qU8 7(El7f 6/@*! highway#mini_roundabout
+n $_qVs 6fN;A 6/@"K highway#mini_roundabout
+n $_qWg 7(EkJM 4.ML highway#turning_circle
+n $kUDr 7(Ehug 6/@C; highway#turning_circle
+n $lwtN 7(EhH: 6/@J= highway#turning_circle
+n $lwtO 7(EhSB 5"Ig# barrier#gate
+n $msl@ 7(EiMq 6/?xn highway#turning_circle
+n $mslT 7(EhzX 6/?q7 highway#turning_circle
+n $msnf 7(EjG1 6/@4g amenity#place_of_worship denomination#jehovahs_witness name#Rikets_sal religion#christian
+n /8fPY 7(EjKr 5"I^D addr:housenumber#15B addr:street#Ellen_Hanssons_Väg
+n /8fT< 7(EjBZ 5"I^S addr:housenumber#15A addr:street#Ellen_Hanssons_Väg
+n /8i|Q 7(EjEb 6/@8/ addr:housenumber#1A addr:street#Dysiksgatan
+n /8i~( 7(Ej3? 6/@2p addr:housenumber#3 addr:street#Södra_Vårvindsgatan
+n /8m#( 7(Eo*t 6/@LZ highway#bus_stop name#Kyrkbytorget
+n 0fssf 7(Eo)\ 6/?z( highway#mini_roundabout
+n 0zG44 7(EiZ\ 6/@/, name#Familjefrisören shop#hairdresser
+n 0zG45 7(EhCM 6/?sB addr:housenumber#25 addr:street#Kaprifolievägen
+n 0zG4Q 7(EilC 6/?{X addr:housenumber#7 addr:street#Arlagången
+n 0zG4\ 7(Ei_A 6/?yM addr:housenumber#9 addr:street#Arlagången
+n 0zG4n 7(EhFC 6/?q= addr:housenumber#5 addr:street#Diakonissgatan
+n 0zG4p 7(EiJ( 6/@3" addr:housenumber#6A addr:street#Södra_Vårvindsgatan
+n 0zG4x 6fMi, 6/?mc addr:housenumber#1 addr:street#Särlagången
+n 0zG5C 7(EiW{ 6/@,n addr:housenumber#1 addr:street#Kaprifolievägen
+n 0zG5S 7(Ej,| 5"Ic0 addr:housenumber#2 addr:street#Visthusgatan
+n 0zG6# 7(Ej87 6/@#u addr:housenumber#1 addr:street#Visthusgatan
+n 0zG6, 6fMu; 6/@"{ addr:housenumber#3 addr:street#Arlagången
+n 0zG68 6fMq- 6/@-s addr:housenumber#2 addr:street#Kaprifolievägen
+n 0zG6d 7(EiuP 6/?zk addr:housenumber#4 addr:street#Visthusgatan
+n 0zG6m 7(Eil3 6/?wy addr:housenumber#4 addr:street#Visthusgatan
+n 0zG6{ 7(Ei]p 6/?vq addr:housenumber#11 addr:street#Arlagången
+n 0zG7# 7(Eh(B 6/?vc addr:housenumber#4 addr:street#Diakonissgatan
+n 0zG77 7(Egtg 6/?z~ addr:housenumber#25 addr:street#Dysiksgatan
+n 0zG7j 7(Eipn 6/?}^ addr:housenumber#5 addr:street#Arlagången
+n 0zG7r 7(Eh4J 6/?ut addr:housenumber#26 addr:street#Kaprifolievägen
+n 0zG8! 7(EiF) 6/?br addr:housenumber#25 addr:street#Visthusgatan
+n 0zG8. 7(EhoN 6/?kq addr:housenumber#2 addr:street#Särlagången
+n 0zG8P 7(Ei}T 6/?}` addr:housenumber#4 addr:street#Visthusgatan
+n 0zG8d 7(Ej(Y 6/@"T addr:housenumber#4 addr:street#Visthusgatan
+n 0zG8q 7(Eiv8 6/@'P addr:housenumber#2 addr:street#Arlagången
+n 0zG8{ 7(EhZf 6/?my addr:housenumber#6 addr:street#Diakonissgatan
+n 0zG9# 7(Ei,N 6/?eu addr:housenumber#8 addr:street#Diakonissgatan
+n 0zG9& 7(Ei=Y 6/@2f addr:housenumber#1C addr:street#Dysiksgatan amenity#fast_food cuisine#pizza name#Bräcke_Pizzeria opening_hours#Mo-Fr_11:00-22:00;Sa-Su_12:00-22:00 phone#+46317149488 website#http://www.onlinepizza.se
+n 0zG9, 7(Eify 6/?ux addr:housenumber#4 addr:street#Visthusgatan
+n 0zG91 7(EiDM 5"I_n addr:housenumber#3 addr:street#Diakonissgatan
+n 0zG94 7(Eie[ 6/@3D addr:housenumber#1 addr:street#Södra_Vårvindsgatan
+n 0zG9D 7(Egr} 6/?y* addr:housenumber#3 addr:street#Diakonissgatan
+n 0zG9p 7(Ei78 6/?e= addr:housenumber#26 addr:street#Visthusgatan
+n 0zG9r 7(Ej#- 6/@&D addr:housenumber#1 addr:street#Arlagången
+n 0zG:! 7(Ej4$ 6/@&X addr:housenumber#14 addr:street#Södra_Vårvindsgatan
+n 0zG:% 7(Eio\ 6/@6[ addr:housenumber#1B addr:street#Dysiksgatan
+n 0zG:+ 7(EiN5 6/@2$ addr:housenumber#6B addr:street#Södra_Vårvindsgatan
+n 0zG:9 7(EhvK 6/?h` addr:housenumber#7 addr:street#Diakonissgatan
+n 0z_{% 7(EiJW 6/@/a addr:housenumber#8 addr:street#Södra_Vårvindsgatan
+n 0z_{& 7(EjA~ 6/@%( addr:housenumber#16 addr:street#Södra_Vårvindsgatan name#Bräcke_Solarium opening_hours#Mo-Su_07:00-21:00 phone#+46733766954 shop#beauty
+n 0z_{' 7(EipG 5"Icn addr:housenumber#12A addr:street#Södra_Vårvindsgatan
+n 0z_{( 7(EidB 6/@-> addr:housenumber#10 addr:street#Södra_Vårvindsgatan name#Bloms_Cykel_och_Motor_AB opening_hours#Mo-Fr_10:00-18:00;_Sa_10:00-13:00;_Su_12:30-13:30 shop#bicycle
+n 0z_{) 7(EizC 6/@)J addr:housenumber#12C addr:street#Södra_Vårvindsgatan
+n 0z_{* 7(Eiu_ 6/@*: addr:housenumber#12B addr:street#Södra_Vårvindsgatan
+n 0{v^? 7(Eg:i 6/?qU addr:housenumber#3 addr:street#Sommersgatan
+n 0{v_h 7(EhAf 6/?`H addr:housenumber#8 addr:street#Sommersgatan
+n 0{vb( 7(EhRR 5"I_< addr:housenumber#1 addr:street#Stenåldersvägen
+n 0{vcL 7(EgD# 5"Ia> addr:housenumber#4 addr:street#Sommersgatan
+n 0{vcu 7(Ehf( 6/?Z$ addr:housenumber#10 addr:street#Sommersgatan
+n 0{vd: 7(Eh[R 5"I_; addr:housenumber#9 addr:street#Sommersgatan
+n 0{vd? 7(Egl~ 6/?hz addr:housenumber#6 addr:street#Sommersgatan
+n 0{vdJ 7(EhEr 6/?^" addr:housenumber#2 addr:street#Stenåldersvägen
+n 0{veA 7(Eg.] 5"IaN addr:housenumber#27 addr:street#Dysiksgatan
+n 0{vff 6fM_l 6/?k1 addr:housenumber#5 addr:street#Sommersgatan
+n 0{vg3 7(EgI^ 5"Ia& addr:housenumber#2 addr:street#Stamrotesvägen
+n 0{vh- 7(EgSS 6/?kg addr:housenumber#1 addr:street#Stamrotesvägen
+n 0{viX 7(Egzi 6/?e? addr:housenumber#1 addr:street#Fornminnesvägen
+n 0{vj) 7(EhiF 6/?X" addr:housenumber#2 addr:street#Slånbärsvägen
+n 0{vlx 7(Eh'? 6/?e! addr:housenumber#7 addr:street#Sommersgatan
+n 0{vmG 7(Ego0 6/?g4 addr:housenumber#2 addr:street#Fornminnesvägen
+n 0{}0J 7(Eio~ 6/?UX addr:housenumber#36 addr:street#Edvard_Rodhes_väg
+n 0{}0V 7(Eh{5 6/?TV addr:housenumber#1 addr:street#Slånbärsvägen
+n 0{}0] 7(Ei%! 6/?UC addr:housenumber#11 addr:street#Sommersgatan
+n 0{}12 6fMlh 6/?SH addr:housenumber#96 addr:street#Västra_bräckevägen
+n 0~%Np 7(EiRs 6/@6E amenity#post_box operator#Posten
+n 1u%T; 7(EiIv 6/?WJ highway#bus_stop name#Bräcke_Östergård

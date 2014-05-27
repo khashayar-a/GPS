@@ -1,0 +1,46 @@
+n :4I; 7(F!"F 6/H@K name#Göteborg-Kville railway#technical_station ref#Gk
+n :4IA 7(F#<G 5"JE+ railway#level_crossing
+n "`:v- 7(F#Ib 6/Fv; highway#traffic_signals
+n "`;(- 7(F&"7 6/FIZ crossing#traffic_signals highway#traffic_signals railway#level_crossing
+n "`@PF 7(F<a6 6/E?L railway#crossing
+n #+|Re 7(Fw[< 6/AKi railway#level_crossing
+n #HyU> 7(EzqZ 6/FKT railway#switch
+n &#a'f 7(F#EN 6/Fn( railway#level_crossing
+n &O2K) 7(FH^0 6/Dp| highway#crossing
+n &O2K* 7(FD'V 6/E!/ highway#crossing
+n &O2K+ 7(F5Pq 6/Ea8 highway#crossing
+n *;%}< 7(Fyg[ 6/A2Y name#Säve railway#technical_station ref#Sve
+n *>k}Q 7(F"xf 5"JFf highway#bus_stop name#Anekdotgatan
+n *>k}S 6fP3N 6/G,E highway#bus_stop name#Anekdotgatan
+n *>k}U 7(F#)^ 6/G`\ highway#bus_stop name#Brunnsbotorget
+n .>Fn7 6fPQN 6/FHb crossing#traffic_signals highway#traffic_signals railway#level_crossing
+n 1&ZA{ 7(E{]m 6/F`d railway#switch
+n 1&ZA| 7(E~n` 5"JSQ railway#switch
+n 1&ZB* 7(E{Bv 6/FRe railway#switch
+n 1&ZB4 7(E{Wk 6/FUI railway#switch
+n 1&ZB: 7(E|5f 6/Fn" railway#switch
+n 1&ZBn 7(Ez-a 5"J@o railway#railway_crossing
+n 1&ZB{ 6fObN 5"JD> railway#switch
+n 1&ZC1 7(F!q6 6/Hv@ railway#switch
+n 1&ZC? 7(F!.{ 5"JU$ railway#switch
+n 1&ZCL 6fO{& 6/H4# railway#switch
+n 1&ZCe 7(F""" 6/Hz; railway#switch
+n 1&ZCg 7(E{u` 6/FfX railway#switch
+n 1&ZCu 7(EyjD 6/F@. railway#switch
+n 1&ZD0 7(E~7x 6/Glh railway#switch
+n 1&ZD6 7(E~Nq 5"JMP railway#switch
+n 1&ZD8 7(E~K8 6/H%Z railway#switch
+n 1&ZD9 7(Ezp7 6/FOb railway#switch
+n 1&ZD< 7(E~0G 6/Gm% railway#switch
+n 1&ZDW 7(E~TH 5"JM_ railway#switch
+n 1&ZE- 7(E~BQ 6/GyA railway#switch
+n 1&ZE; 7(E~;b 6/Gt] railway#switch
+n 1&ZEB 6fOW' 6/FO; railway#switch
+n 1&ZEZ 7(EzUT 6/FKU railway#switch
+n 1&ZEh 7(E{%j 6/FNx railway#switch
+n 1&ZEk 7(E~=6 5"JNj railway#switch
+n 1&ZEl 7(E~Ne 6/Glk railway#switch
+n 1&ZEn 7(F"aO 6/I(X railway#switch
+n 1&ZEp 7(E{B@ 6/FQ^ railway#switch
+n 1&ZEs 7(F"*^ 6/H|6 railway#switch
+n 3e^o( 7(G/!| 6/?{) railway#crossing

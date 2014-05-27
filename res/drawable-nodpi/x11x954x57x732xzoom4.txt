@@ -1,0 +1,15 @@
+w MF&< highway#footway
+d .@&S+ 7(F)g, 6/Etu
+d .@&S, 7(F)oz 6/Es9
+d .@&S4 7(F)uJ 4.Rb
+d &O2K& 7(F)y< 6/Eq;
+d &O2K' 7(F)sZ 6/EbE
+w ",2sp highway#service
+d ."7&} 7(F(L# 6/Eyt
+d ."7'" 7(F(nJ 6/E}=
+w ",2sq highway#service
+d ."7&u 7(F)j# 6/F.K
+d ."7&_ 7(F)eZ 6/F*z
+w ",2sm highway#service
+d ."7&r 7(F)'O 6/F1v
+d ."7&j 6fPlN 6/F.\

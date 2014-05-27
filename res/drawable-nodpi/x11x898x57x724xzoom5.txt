@@ -1,0 +1,26 @@
+n $|Gw; 7(E}i= 6/@@} highway#turning_circle
+n .~+,u 7(F"zw 6/?Q. amenity#fast_food cuisine#pizza name#Galatali phone#+4631533933
+n /'&wE 7(F%1\ 6/@Q) traffic_calming#yes
+n /+`%e 7(F"Nt 6/?K* traffic_calming#yes
+n /+`&W 7(F$8u 6/?eH traffic_calming#yes
+n /+`'D 7(F#O& 6/?U7 traffic_calming#yes
+n /+`'m 7(E}R: 6/?th name#Champion_Livs opening_hours#Mo-Fr_09:00-21:00;Sa-Su_10:00-21:00 shop#convenience
+n /?_>: 7(E}jR 6/@J? addr:housenumber#15 addr:street#Skeppsbyggaregatan
+n /?_E) 7(E}j1 6/@Mp addr:housenumber#2A addr:street#Rösebergsgatan
+n 0JWAu 7(E}En 6/@#H amenity#post_box
+n 0JWD> 7(E~&: 6/?x) amenity#recycling recycling:batteries#yes recycling:cans#no recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 0JWDH 7(E}UI 6/@&< name#Svartedalens_Servicebutik opening_hours#mo-th_10:00-23:00;fr-sa_10:00-24:00;su_10:00-22:00 shop#convenience
+n 0JWE~ 7(E}NV 6/@&< amenity#pub name#Svartedalens_Krog
+n 3`4eP 7(F",c 6/?Q4 addr:housenumber#11 addr:street#Badvädersgatan
+n 3`4eR 7(F";[ 6/?Qm addr:housenumber#13 addr:street#Badvädersgatan
+n 3`4eT 7(F"JT 6/?RI addr:housenumber#15 addr:street#Badvädersgatan
+n 3`4eV 7(F"YL 6/?S$ addr:housenumber#17 addr:street#Badvädersgatan
+n 3`4eX 7(F"hE 6/?S] addr:housenumber#19 addr:street#Badvädersgatan
+n 3`4eZ 7(F#3! 6/?Z8 addr:housenumber#21 addr:street#Badvädersgatan
+n 3`4e\ 7(F#@P 6/?Zg addr:housenumber#23 addr:street#Badvädersgatan
+n 3`4e^ 7(F#N" 6/?[9 addr:housenumber#25 addr:street#Badvädersgatan
+n 3`4e` 7(F#[Q 5"I_; addr:housenumber#27 addr:street#Badvädersgatan
+n 3`4f2 7(F!{j 5"I^0 addr:housenumber#9 addr:street#Badvädersgatan
+n 4~}UI 7(F#mK 6/?q] traffic_calming#hump
+n 4~}UX 7(F%4: 6/?ii traffic_calming#hump
+n 4~}Uf 7(F&5` 6/?o( highway#turning_circle

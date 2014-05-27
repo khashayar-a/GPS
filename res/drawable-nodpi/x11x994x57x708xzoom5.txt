@@ -1,0 +1,13 @@
+n 1a' 7(Ep=S 6/JTl highway#motorway_junction name#Olskroksmotet ref#74
+n 1a0 7(EjR1 6/J[, highway#motorway_junction name#Ullevimotet ref#73
+n 1a6 7(Ebhf 5"Jg[ highway#motorway_junction name#Gårda ref#72
+n [rg 6fM[V 6/JU" highway#motorway_junction name#Ullevimotet ref#73
+n :ei# 7(Eo2a 6/Ji> name#Gubbero railway#technical_station ref#Gro
+n j?W[ 7(EoU> 6/JxJ highway#turning_circle
+n "uxh! 7(Em4$ 6/K:k highway#turning_circle
+n ##}sa 7(E_d? 6/JUQ name#Liseberg railway#station ref#Lis
+n $m]X> 7(EnIH 6/J{` amenity#pub name#Underbar
+n 'hYu+ 7(El`? 6/Ju@ highway#bus_stop name#Norra_Gubberogatan
+n 'hYuQ 7(El$m 6/K7N highway#bus_stop name#Överåsvallen
+n +]qp! 7(EmOq 6/J\/ name#Spar_Hotel_Garda stars#3 tourism#hotel
+n ,tBOt 7(ElX` 6/JGi highway#crossing

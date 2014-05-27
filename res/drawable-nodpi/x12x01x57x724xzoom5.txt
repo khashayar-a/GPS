@@ -1,0 +1,14 @@
+n L"1 7(E}Us 6/L_Z highway#motorway_junction name#Ånäsmotet ref#75a
+n :4Hg 7(F)=: 6/RWU name#Sävedalen railway#technical_station ref#Sel
+n :4Hs 7(E}b2 6/LS" name#Göteborg_Sävenäs railway#technical_station ref#Gsv
+n :?HP 7(E}T+ 6/M.I highway#motorway_junction name#Munkebäcksmotet ref#76
+n &%6;y 7(F"$; 6/K~# crossing#traffic_signals highway#traffic_signals
+n (kop, 7(E~.f 6/Mz1 name#Sävenäs railway#station ref#Säv
+n )^B2v 7(E~#a 6/MzL name#Sävenäs railway#station ref#Säv
+n +/iyt 7(F!(5 6/L=Y amenity#parking
+n +/i}O 7(F!}Y 6/L9< amenity#parking
+n 0>!:Q 7(E}8N 5"Jwp railway#railway_crossing
+n 0>!;4 7(E}H: 6/LEr railway#switch
+n 0>!=# 7(E}/# 6/L.n railway#switch
+n 0>!=j 7(E}?P 6/L>2 railway#railway_crossing
+n 4F"H| 7(E}Cu 6/LVr highway#motorway_junction name#Ånäsmotet ref#75b

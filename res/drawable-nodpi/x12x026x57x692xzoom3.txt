@@ -1,0 +1,64 @@
+w B#@a highway#unclassified
+d $qV[c 7(E[,V 6/O*M
+d $qV[d 6fLK& 6/N~F
+d $qV[e 7(E[aQ 6/Nw[
+w B#@^ amenity#parking
+d $qV[N 7(EZHe 6/Nyk
+d $qV[O 7(EZFY 5"K3W
+d .<;f2 7(EZ?c 6/N|Y
+d .<;f- 7(EYrm 6/N{]
+d $qV[P 7(EYAm 6/NzW
+d .<;fB 7(EYBp 6/Ny3
+d $qV[Q 7(EYD5 6/NwD
+d $qV[N 7(EZHe 6/Nyk
+w \/JL highway#unclassified
+d &K(w@ 7(E\@! 6/N`;
+d (},]~ 7(E\5P 6/N^>
+d (},^! 7(E\+- 6/NY|
+w "cJa~ building#yes
+d 3jvmx 7(EXyR 6/NB@
+d 3jvmy 7(EXvN 6/NC`
+d 3jvmz 7(EX|t 6/ND5
+d 3jvm{ 7(EY"1 6/NBj
+d 3jvmx 7(EXyR 6/NB@
+w Lz({ highway#unclassified
+d &K(w? 7(E\6q 6/N``
+d &K(w@ 7(E\@! 6/N`;
+d &K(wA 7(E\Po 6/N^u
+d &K(wB 7(E\_p 5"K0N
+d &K(wC 7(E\gL 6/N]~
+w \/JK highway#unclassified
+d (},]w 7(E]^n 6/Nuk
+d (},]x 7(E]Xy 6/Ns4
+d (},]y 7(E]UF 6/Np(
+d (},]z 7(E]P, 6/Nm3
+d (},]{ 7(E]Dq 6/NiT
+d (},]| 6fLZ| 6/NeS
+d (},]} 7(E\v[ 6/Nan
+d &K(wC 7(E\gL 6/N]~
+w "cJb# building#yes
+d 3jvn$ 7(EY?5 6/NFM
+d 3jvn% 6fL6E 6/NF3
+d 3jvn( 7(EY8h 6/NG5
+d 3jvn' 7(EY=" 6/NGQ
+d 3jvn$ 7(EY?5 6/NFM
+w B#@[ amenity#parking
+d $qV[? 7(EX<s 6/Nog
+d .<;Q_ 7(EXA( 6/Not
+d .<;Qa 7(EXA{ 6/NoD
+d $qV[@ 7(EY-Y 6/Nr&
+d $qV[A 7(EY$A 5"K3@
+d $qV[B 7(EX4h 6/Nw8
+d $qV[? 7(EX<s 6/Nog
+w "cJb/ building#yes
+d 3jvn) 7(EYF6 6/NAS
+d 3jvmf 7(EY=t 5"K-Z
+d 3jvms 7(EY<M 6/NAv
+d 3jvm[ 7(EY?` 6/NB%
+d 3jvnA 7(EY=( 6/NCp
+d 3jvmt 7(EY9u 6/NC_
+d 3jvmu 7(EY8* 6/NDf
+d 3jvmw 7(EY;A 6/NDv
+d 3jvmv 7(EY:] 5"K.&
+d 3jvn& 7(EY?~ 6/NEj
+d 3jvn) 7(EYF6 6/NAS

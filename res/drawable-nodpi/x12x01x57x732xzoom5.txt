@@ -1,0 +1,6 @@
+n 'l3xy 7(F)!{ 6/L`Y amenity#recycling
+n )EpM\ 7(F(>[ 6/Lm5 building#yes
+n )G+hB 6fPh4 6/LC@ amenity#telephone
+n 1hi9) 7(F+C7 6/Lq} highway#turning_circle
+n 1hi9f 7(F+7[ 6/Lxk barrier#gate
+n 3\P>U 7(F*d& 6/M&B highway#turning_circle

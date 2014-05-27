@@ -1,0 +1,22 @@
+n :4IA 7(F#<G 5"JE+ railway#level_crossing
+n "XE\Z 7(F'4| 6/F8w highway#turning_circle
+n "XExA 7(F3Jl 6/Eft highway#turning_circle
+n "`:v- 7(F#Ib 6/Fv; highway#traffic_signals
+n "`;(- 7(F&"7 6/FIZ crossing#traffic_signals highway#traffic_signals railway#level_crossing
+n "`@PF 7(F<a6 6/E?L railway#crossing
+n #+|Re 7(Fw[< 6/AKi railway#level_crossing
+n $0T-d 5'z@V 4.Re amenity#fuel name#Preem_-_Hisings_Backa,_Trb_Arendal
+n &#a'f 7(F#EN 6/Fn( railway#level_crossing
+n &C3CT 6fP:$ 6/Ee, highway#bus_stop name#Deltavägen
+n &O2K) 7(FH^0 6/Dp| highway#crossing
+n &O2K* 7(FD'V 6/E!/ highway#crossing
+n &O2K+ 7(F5Pq 6/Ea8 highway#crossing
+n *;%}< 7(Fyg[ 6/A2Y name#Säve railway#technical_station ref#Sve
+n .>Fm} 7(F%{k 6/FNz highway#traffic_signals
+n .>Fn7 6fPQN 6/FHb crossing#traffic_signals highway#traffic_signals railway#level_crossing
+n .>FnD 7(F&8` 6/FM5 highway#traffic_signals
+n .@&S" 7(F&!\ 6/FOm highway#traffic_signals
+n .@&S* 7(F&<B 6/FL" highway#traffic_signals
+n .@&S/ 7(F&"^ 6/FH) highway#traffic_signals
+n 2seQQ 7(F$L4 5"J<V amenity#fuel brand#Fordonsgas fuel:1_25#no fuel:1_50#no fuel:biodiesel#no fuel:biogas#yes fuel:cng#yes fuel:diesel#no fuel:e10#no fuel:e85#no fuel:electricity#no fuel:GTL_diesel#no fuel:HGV_diesel#no fuel:lpg#no fuel:octane_100#no fuel:octane_91#no fuel:octane_95#no fuel:octane_98#no name#Fordonsgas_Gbg_Deltavägen operator#Fordonsgas
+n 3e^o( 7(G/!| 6/?{) railway#crossing

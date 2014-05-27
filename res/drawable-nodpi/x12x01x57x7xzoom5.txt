@@ -1,0 +1,15 @@
+n 1nA>, 7(Em/P 6/MeK name#Torp railway#tram_stop ref#C
+n 3jxSu 5'z!1 6/M6@ highway#turning_circle
+n $0T3g 5'z"h 5"J~| amenity#fuel contact:street#Delsjövägen name#Tanka-Göteborg
+n 1nEK; 7(Ec+" 6/Lt| name#Bögatan railway#tram_stop
+n "qe;S 7(Ea_g 6/L0} name#Ekmanska railway#tram_stop
+n "qe;u 7(EhwK 6/Mk3 name#Welandergatan railway#tram_stop
+n 1nEJS 7(EdsP 6/M[f name#Töpelsgatan railway#tram_stop
+n 1nA>: 7(ElkX 6/Me* name#Torp railway#tram_stop ref#D
+n 1nEJ4 7(EavG 6/KP< name#Bäckeliden railway#tram_stop
+n %%[Bh 7(Eayn 6/KK} name#Bäckeliden railway#tram_stop
+n )M("c 7(EhUW 6/MmK name#Welandergatan railway#tram_stop
+n "qe;i 7(Eda2 5"K&R name#Töpelsgatan railway#tram_stop
+n %Z}n? 7(EbWj 6/M+y amenity#parking
+n %%[=O 7(Ec<x 6/Lyb name#Bögatan railway#tram_stop
+n 1nEIq 7(EaVj 6/L+x name#Ekmanska railway#tram_stop

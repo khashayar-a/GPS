@@ -1,0 +1,31 @@
+n E_S- 7(E\EX 6/IEN highway#turning_circle
+n "74uR 7(EZ%X 6/HZY highway#turning_circle
+n "74zA 7(E[7q 6/I0. highway#turning_circle
+n "7VW1 7(EY&Y 6/IO) highway#turning_circle
+n ${KV} 7(E]n- 6/I!B highway#turning_circle
+n &qFNP 7(EYN> 6/Hlh highway#bus_stop name#Vidblicksgatan
+n &qF`@ 7(EX}z 6/Hnq highway#bus_stop name#Vidblicksgatan
+n )"Rva 7(E[hm 6/IG% amenity#university name#Humanistiska_Fakulteten_vid_Göteborgs_Universitet
+n )"Rve 7(E\'N 6/ID3 amenity#cafe name#Café_Näckrosen
+n -Kka, 7(EX0z 6/H{/ crossing#uncontrolled highway#crossing supervised#no
+n -KkaR 7(EX,D 5"JXt crossing#uncontrolled highway#crossing supervised#no
+n -L[yj 7(EY@X 6/Hke crossing#uncontrolled highway#crossing
+n -L[yr 7(EXm. 5"JX; crossing#uncontrolled highway#crossing
+n -L[yt 7(E\0- 6/HXo highway#turning_circle
+n -L[yy 7(EXhl 6/HrL crossing#uncontrolled highway#crossing
+n -L[z$ 7(EYD} 5"JWY crossing#uncontrolled highway#crossing
+n -L[z- 7(EYGk 6/Hjm traffic_calming#bump
+n -L[z3 7(EWzJ 6/H}b traffic_calming#bump
+n -L[z6 7(EY3K 6/Ho9 traffic_calming#bump
+n -L[zC 7(E\VC 6/Hh{ barrier#block bicycle#yes foot#yes
+n -L[zQ 7(EX18 6/Hy8 traffic_calming#bump
+n -L[zS 7(EZ"0 6/Hgs amenity#vending_machine vending#parking_tickets
+n -L[zW 7(EZt_ 6/Hg8 crossing#uncontrolled highway#crossing
+n -XP#9 7(E\CE 6/IF| amenity#bicycle_parking
+n -XP$1 7(E\6| 6/ID3 amenity#bicycle_parking
+n 0mQFz 7(EYT_ 6/Hp[ name#Johanneberg_Matbutik shop#convenience
+n 1_lTY 7(E[W- 5"JT6 highway#turning_circle
+n 5+`g% 7(EY(w 6/HY: name#Gibraltargatans_Frukt_och_Grönt shop#greengrocer
+n 516=^ 7(EY!w 5"J]6 addr:city#Göteborg addr:housenumber#23 addr:interpolation#odd addr:street#Olof_Rudbecksgatan building#entrance
+n 516=m 7(EY-& 6/IF# addr:city#Göteborg addr:housenumber#25 addr:interpolation#odd addr:street#Olof_Rudbecksgatan building#entrance
+n 516FR 7(EYeR 6/I<9 alt_name#Libanesfästet name#Linbanefästet tourism#viewpoint

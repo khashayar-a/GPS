@@ -1,0 +1,214 @@
+n @eb| 7(E[TB 6/HA< highway#traffic_signals
+n ".Vv] 7(EKMf 6/I<{ crossing#uncontrolled highway#crossing
+n "1=+D 7(EVaW 5"JPd highway#traffic_signals
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n "4v=S 7(EQ~1 6/HfZ traffic_calming#hump
+n "7VAH 6fKfM 5"J[A highway#turning_circle
+n "`\IL 7(EUvZ 6/HK0 barrier#gate bicycle#yes foot#yes
+n "fHxh 7(EOWH 6/Hd6 highway#turning_circle
+n "iI2} 7(ERzA 6/IH9 highway#turning_circle
+n "{sYt 7(EVJY 6/H!D highway#traffic_signals
+n $g[hl 6fL%` 6/HVW highway#turning_circle
+n %0Xdp 7(ESHZ 6/H^f amenity#parking capacity#2 parking#surface
+n %1L^( 7(ESeO 6/HZW addr:housenumber#7 addr:street#Rännvägen
+n %1L^) 7(ES>J 6/H]O addr:housenumber#9 addr:street#Rännvägen
+n %1MCL 7(ESZ4 5"JVA addr:housenumber#8 addr:street#Rännvägen
+n %;tP1 7(ES^W 6/IOV name#Willys shop#convenience
+n %UH>F 7(EP?| 6/IA0 bus#yes highway#bus_stop name#Pilbågsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n %UH>G 7(ERL| 6/IIm highway#bus_stop name#Bergsprängaregatan operator#Västtrafik shelter#yes
+n &$MhR 7(ER0N 6/I9B crossing#traffic_signals;island highway#crossing
+n &$MhU 7(EPW> 6/IGt bicycle#yes crossing#uncontrolled highway#crossing
+n &$MhV 7(EOot 6/IP& bicycle#yes crossing#uncontrolled highway#crossing
+n &$MhZ 7(ENJU 5"J_| bicycle#yes crossing#uncontrolled;island highway#crossing
+n '$SGg 7(EU64 6/H{f crossing#uncontrolled highway#crossing
+n *<['t 7(E[M7 6/H>R bicycle#yes crossing#traffic_signals highway#crossing
+n *<[(| 7(ER*} 6/I3Z bicycle#yes crossing#traffic_signals;island highway#crossing
+n *<[+S 7(EREi 6/I1| highway#turning_circle
+n -DIe@ 6fKa\ 6/H_@ amenity#pub name#Basen wheelchair#yes
+n -JM7O 6fKR$ 6/I0[ amenity#pub food#yes name#Johannebar
+n -JM7Q 7(ERa8 6/IPd amenity#restaurant building#entrance cuisine#thai name#Baan_Thai
+n -JM7\ 7(ER_l 6/IOo amenity#pharmacy building#entrance dispensing#yes name#Apoteket_Svalan opening_hours#Mo-Fr_08:30-19:30;Sa_10:00-14:00 operator#apoteksgruppen
+n -JM7_ 7(ET!m 6/I*h amenity#restaurant name#Miss_Fajitas
+n -JM7` 7(ESHt 6/I/Z name#Johan_Konditori shop#bakery
+n -JM7c 7(ETCy 5"J]F amenity#cafe name#Café!_Smarro
+n -JM7g 7(ESAD 6/ILm amenity#fast_food cuisine#pizza name#Harvest_Gatukök_&amp;_Pizzeria
+n -JPqf 6fKdq 6/ITa addr:city#Göteborg addr:housenumber#55 addr:interpolation#odd addr:street#Eklandagatan
+n -JhR- 7(ESdd 6/Hr0 addr:housenumber#1 addr:street#Elektrovägen building#entrance
+n -Kn^& 7(ET%I 6/Hm4 amenity#parking capacity:disabled#1 parking#surface
+n -Kqlq 6fK~O 5"JWY crossing#uncontrolled highway#crossing
+n -N:,5 5'yqK 6/HqN crossing#uncontrolled highway#crossing traffic_calming#hump
+n -N:,N 7(EQ}n 6/I2^ amenity#telephone
+n -N:,X 7(ERf] 6/I"c amenity#recycling recycling:batteries#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n -N:,n 7(ER~b 6/I,B amenity#post_box
+n -N=>T 7(EQxB 4.Uh amenity#bicycle_parking covered#yes
+n -XTzO 7(EQ$N 6/II6 amenity#parking parking#surface
+n 04nif 7(ESg- 6/Hcv amenity#bbq covered#no fuel#charcoal
+n 04nij 7(ES=M 5"JX` amenity#fast_food cuisine#sandwich name#Alpa_Baguetteria shop#kiosk
+n 0s-_j 7(ESrD 6/H_o amenity#waste_basket
+n 0t*y" 7(ES,o 6/Hf. amenity#bench
+n 0t*y% 7(ES;i 6/HgF amenity#bench
+n 0t*y3 6fKb5 6/Hbt amenity#bench
+n 0t*yA 7(ES/L 6/Hca amenity#bench
+n 0t*yG 7(ESiJ 6/Hd. amenity#bench
+n 1[Tn6 7(EQ)o 6/I>X bicycle#yes crossing#uncontrolled highway#crossing
+n 1[To; 7(EPr8 6/I;y crossing#uncontrolled highway#crossing
+n 1[]P+ 7(ET)- 6/I#\ amenity#recycling
+n 1[]Pg 7(E[Dj 6/HBF crossing#traffic_signals highway#crossing
+n 1^Yg2 7(ESOi 6/Hf< barrier#bollard
+n 1^Yi1 7(ET>S 6/I(. amenity#restaurant name#Pasta_Pasta
+n 1cyab 7(ES:v 6/IQ4 crossing#traffic_signals highway#crossing
+n 1cyaf 7(ES3r 6/IP0 crossing#traffic_signals highway#crossing
+n 1cyb3 7(ES&7 6/IPi crossing#traffic_signals highway#crossing
+n 1cybB 7(ER}S 6/IR# crossing#traffic_signals highway#crossing
+n 1d!$u 7(EQFP 6/HTK traffic_calming#hump
+n 1d!%# 7(EQ%E 6/I@~ bicycle#yes crossing#uncontrolled highway#crossing
+n 1d!%' 7(EQ~{ 6/I6v crossing#traffic_signals highway#crossing
+n 1d!%< 7(ER(f 6/I8H highway#traffic_signals
+n 1d!%> 7(EVK- 6/Hq& crossing#uncontrolled highway#crossing
+n 1d!%y 7(EPrt 6/I:_ crossing#uncontrolled highway#crossing
+n 1d!&> 6fKKs 6/I8Z bicycle#yes crossing#uncontrolled highway#crossing
+n 1d!'7 6fKbJ 6/I(L crossing#uncontrolled;island highway#crossing
+n 1d!': 7(EO]p 6/I<U barrier#gate
+n 1d!'X 7(EPAV 6/I<o crossing#uncontrolled;island highway#crossing
+n 1d!'b 7(ESf. 6/I*A crossing#uncontrolled;island highway#crossing
+n 1dCly 7(ES+` 6/I/E crossing#uncontrolled;island
+n 1egB| 7(ES3u 6/Hp> traffic_calming#hump
+n 1egCC 7(ESq: 6/HZm amenity#bicycle_parking
+n 1egD$ 7(ESRC 6/H_? amenity#bicycle_parking
+n 1egD6 7(ET-0 4.UL barrier#bollard
+n 1egDs 7(ESD~ 6/H`W amenity#bicycle_parking
+n 1egDt 7(ET+' 6/Hlx barrier#bollard
+n 1egE} 7(ESEk 6/Hdg amenity#bench
+n 1egFD 7(ETCq 5"JWP natural#tree
+n 1egFn 7(ESY3 6/Hjs barrier#gate
+n 1egFz 7(ET)$ 6/Hm* barrier#bollard
+n 1egF| 7(ET>n 6/HlK natural#tree
+n 1egG\ 7(ESL: 5"JXe amenity#waste_basket
+n 1egGu 7(ESz~ 6/H[q amenity#bicycle_parking
+n 1egHL 7(ET:% 6/Hlv natural#tree
+n 1eh2: 7(EUzH 6/HgW crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1eh2r 7(EU$2 6/Ho; crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1fKF4 7(EMb: 6/Iam crossing#uncontrolled;island highway#crossing
+n 1fKF_ 7(EN9a 6/I`g crossing#uncontrolled;island highway#crossing
+n 1fKI* 7(ENP9 6/I_/ crossing#uncontrolled;island highway#crossing
+n 1fsrW 7(ESob 6/Hz7 amenity#vending_machine vending#parking_tickets
+n 1fsr[ 7(ESFI 6/Hah barrier#bollard
+n 1fsrj 7(ETG! 6/Hor amenity#bicycle_parking
+n 1fss) 5'ys# 5"JXN crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1f})F 7(ET:E 6/Hkq amenity#bicycle_parking capacity#1 capacity:disabled#1 parking#surface
+n 1f})^ 7(ET@+ 6/HlE amenity#bicycle_parking capacity#1 capacity:disabled#1 parking#surface
+n 1f}** 7(ETY\ 6/Hn+ building#entrance
+n 1g?E7 7(ES>0 6/Hb9 natural#tree
+n 1g?E9 7(ESIi 6/Hc( artwork_type#sculpture tourism#artwork
+n 1g?E; 7(ES=3 6/Hag amenity#bicycle_parking
+n 1g?E> 7(ESNs 6/Hf[ barrier#bollard
+n 1kg63 7(ELVD 6/Id% crossing#uncontrolled;island highway#crossing
+n 1lJ_r 7(EIpz 6/I1` crossing#uncontrolled;island highway#crossing
+n 1lJ`/ 6fJ}& 6/I;; crossing#uncontrolled;island highway#crossing
+n 1lJ`3 7(EPJ` 6/IH/ crossing#uncontrolled highway#crossing
+n 1m4*o 7(EXWr 6/H\@ crossing#uncontrolled highway#crossing
+n 1m4+j 7(EY7& 6/HUw crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"P' 7(EZDk 6/HK+ crossing#uncontrolled highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 2R$N2 7(ERi, 6/IK5 highway#bus_stop name#Bergsprängaregatan operator#Västtrafik shelter#yes
+n 2R$NP 7(ER#X 6/I8e crossing#traffic_signals highway#crossing
+n 2R$NT 7(ER'[ 6/I4< highway#traffic_signals
+n 2R$Na 7(ER64 6/I5? highway#traffic_signals
+n 2R$Ng 7(ER6I 6/I9k highway#traffic_signals
+n 2R$Nr 7(ER<P 6/I5| crossing#traffic_signals;island highway#crossing
+n 2Ub:] 7(ERsP 6/I/| bus#yes highway#bus_stop name#Engdahlsgatan operator#Västtrafik public_transport#stop_position shelter#no
+n 2Ub:a 7(ERzj 6/I2h bus#yes highway#bus_stop name#Engdahlsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 2Ub:z 7(EPW[ 6/IDG bus#yes highway#bus_stop name#Pilbågsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 2Ub;% 7(EP__ 6/I=N bus#yes highway#bus_stop name#Pilbågsgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 5*Ws8 7(EV%e 6/HJD barrier#block bicycle#yes foot#yes
+n 516:S 7(ES+Y 6/I24 amenity#fast_food cuisine#sandwich name#Alpa_Baguetteria
+n 516:T 7(ERC, 4.Us name#Antikvariat_Pan shop#books
+n 516:V 5'yr` 6/I+c amenity#restaurant cuisine#pizza name#Campus_Pizzeria
+n 516:b 7(ESu* 5"J]3 name#Data_Assistent shop#computer
+n 516:f 7(ES8Q 6/ILf name#Eklandakiosken shop#kiosk
+n 516:n 7(ESaD 6/I-C name#Gibraltargatans_Zoo shop#pet
+n 516:p 5'yqv 6/IMD name#Gröna_Oasen shop#greengrocer
+n 516:q 7(ES*9 6/IMD name#Gröna_Oasen shop#florist
+n 516:~ 6fKb; 6/IF. addr:city#Göteborg addr:housenumber#1 addr:interpolation#odd addr:street#von_Gerdesgatan
+n 516;= 7(ESgj 5"J\* addr:city#Göteborg addr:housenumber#11 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516;S 7(ESSF 6/I;n addr:city#Göteborg addr:housenumber#13 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516;k 7(ES?x 5"J\* addr:city#Göteborg addr:housenumber#15 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516;l 7(ET9[ 5"J[( addr:city#Göteborg addr:housenumber#15A addr:interpolation#odd addr:street#Rosensköldsgatan
+n 516;p 7(ETDd 6/I1n addr:city#Göteborg addr:housenumber#15B addr:interpolation#odd addr:street#Rosensköldsgatan
+n 516<! 7(ES.* 5"J\* addr:city#Göteborg addr:housenumber#17 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516<9 7(ESNc 6/I'H addr:city#Göteborg addr:housenumber#19A addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516<= 7(ESB@ 6/I(R addr:city#Göteborg addr:housenumber#19B addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516<D 7(ES5~ 6/I)] addr:city#Göteborg addr:housenumber#19C addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516<S 7(ERuO 6/Hm9 addr:city#Göteborg addr:housenumber#1A addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516<] 7(ERi^ 6/Hn! addr:city#Göteborg addr:housenumber#1B addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516<h 7(ER]z 6/Hnf addr:city#Göteborg addr:housenumber#1C addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516<x 6fK_B 6/I$u addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516=( 7(ETE! 6/IJl addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Lemansgatan
+n 516=) 7(ES&X 6/I!# addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Lindströmsgatan building#entrance
+n 516=2 7(EReE 6/IF* addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Mackliersgatan
+n 516=G 7(ERk& 6/I-C addr:city#Göteborg addr:housenumber#21A addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516=J 7(ER_3 6/I.I addr:city#Göteborg addr:housenumber#21B addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516=R 7(ERSn 6/I/J addr:city#Göteborg addr:housenumber#21C addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516=S 7(ERH8 5"JZz addr:city#Göteborg addr:housenumber#21D addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516=\ 7(ER<x 6/I1L addr:city#Göteborg addr:housenumber#21E addr:interpolation#odd addr:street#Gibraltargatan building#entrance
+n 516># 7(ERxO 6/Hq` addr:city#Göteborg addr:housenumber#2B addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516>$ 7(ERnG 6/Hr? addr:city#Göteborg addr:housenumber#2C addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516>% 7(ERdr 6/Hrv addr:city#Göteborg addr:housenumber#2D addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516>: 7(ESgy 6/IF. addr:city#Göteborg addr:housenumber#3 addr:interpolation#odd addr:street#von_Gerdesgatan
+n 516>T 7(ERST 6/H}w addr:city#Göteborg addr:housenumber#3A addr:interpolation#odd addr:street#Lindströmsgatan building#entrance
+n 516>W 7(ER6~ 6/Hp{ addr:city#Göteborg addr:housenumber#3A addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516>X 7(ERG$ 4.U] addr:city#Göteborg addr:housenumber#3B addr:interpolation#odd addr:street#Lindströmsgatan building#entrance
+n 516>b 7(ER,U 6/HqV addr:city#Göteborg addr:housenumber#3B addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516>d 7(ER;4 6/I!c addr:city#Göteborg addr:housenumber#3C addr:interpolation#odd addr:street#Lindströmsgatan building#entrance
+n 516>j 7(EQ~L 6/Hr? addr:city#Göteborg addr:housenumber#3C addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 516>p 6fKQA 6/I"c addr:city#Göteborg addr:housenumber#3D addr:interpolation#odd addr:street#Lindströmsgatan building#entrance
+n 516>{ 7(ESM1 6/H}' addr:city#Göteborg addr:housenumber#4 addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516?' 7(ERA: 6/I&p addr:city#Göteborg addr:housenumber#4 addr:interpolation#even addr:street#Lindströmsgatan building#entrance
+n 516?* 7(ER{X 6/IF* addr:city#Göteborg addr:housenumber#4 addr:interpolation#even addr:street#Mackliersgatan
+n 516@+ 7(ESAM 6/I!; addr:city#Göteborg addr:housenumber#4A addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516@0 7(ERH( 6/Hw# addr:city#Göteborg addr:housenumber#4A addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516@7 7(ES4n 6/I"7 addr:city#Göteborg addr:housenumber#4B addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516@; 7(ER9b 6/Hu} addr:city#Göteborg addr:housenumber#4B addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516@= 7(ES(! 6/I#? addr:city#Göteborg addr:housenumber#4C addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516@C 7(ER.r 6/Hvb addr:city#Göteborg addr:housenumber#4C addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516@G 7(ERu3 6/I#N addr:city#Göteborg addr:housenumber#4D addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516@L 7(ER%[ 6/Hw9 addr:city#Göteborg addr:housenumber#4D addr:interpolation#even addr:street#Wallenbergsgatan building#entrance
+n 516@m 7(ESSx 6/IF. addr:city#Göteborg addr:housenumber#5 addr:interpolation#odd addr:street#von_Gerdesgatan
+n 516A! 7(ETF" 6/I(, addr:city#Göteborg addr:housenumber#52 addr:interpolation#even addr:street#Gibraltargatan
+n 516AC 7(ES{B 6/I,# addr:city#Göteborg addr:housenumber#54 addr:interpolation#even addr:street#Gibraltargatan
+n 516Ac 7(ESj8 6/I-H addr:city#Göteborg addr:housenumber#56 addr:interpolation#even addr:street#Gibraltargatan
+n 516B& 7(ESVz 5"JZl addr:city#Göteborg addr:housenumber#58 addr:interpolation#even addr:street#Gibraltargatan
+n 516Bp 7(ESF6 6/I0] addr:city#Göteborg addr:housenumber#60 addr:interpolation#even addr:street#Gibraltargatan
+n 516C2 7(ES3W 6/I2+ addr:city#Göteborg addr:housenumber#62 addr:interpolation#even addr:street#Gibraltargatan
+n 516CA 7(ERj` 6/I5T addr:city#Göteborg addr:housenumber#64 addr:interpolation#even addr:street#Gibraltargatan
+n 516CT 7(ER[+ 6/I6u addr:city#Göteborg addr:housenumber#66 addr:interpolation#even addr:street#Gibraltargatan
+n 516Ca 7(ER66 6/I)y addr:city#Göteborg addr:housenumber#67A addr:interpolation#odd addr:street#Eklandagatan building#entrance
+n 516Ce 7(ERC0 6/I(v addr:city#Göteborg addr:housenumber#67B addr:interpolation#odd addr:street#Eklandagatan building#entrance
+n 516Cm 7(ERQ& 6/I'o addr:city#Göteborg addr:housenumber#67C addr:interpolation#odd addr:street#Eklandagatan building#entrance
+n 516Cr 7(ER^8 6/I&f addr:city#Göteborg addr:housenumber#67D addr:interpolation#odd addr:street#Eklandagatan building#entrance
+n 516Cw 7(ERJ9 5"J[f addr:city#Göteborg addr:housenumber#68 addr:interpolation#even addr:street#Gibraltargatan
+n 516D* 7(ES6N 6/HwK addr:city#Göteborg addr:housenumber#6A addr:interpolation#even addr:street#Engdahlsgatan
+n 516D- 7(ES-Z 6/Hx: addr:city#Göteborg addr:housenumber#6B addr:interpolation#even addr:street#Engdahlsgatan
+n 516D1 7(ES$e 6/Hxy addr:city#Göteborg addr:housenumber#6C addr:interpolation#even addr:street#Engdahlsgatan
+n 516D: 7(ERz7 6/HyX addr:city#Göteborg addr:housenumber#6D addr:interpolation#even addr:street#Engdahlsgatan
+n 516D< 7(ERpp 6/Hz3 addr:city#Göteborg addr:housenumber#6E addr:interpolation#even addr:street#Engdahlsgatan
+n 516DZ 6fK\J 6/IF+ addr:city#Göteborg addr:housenumber#7 addr:interpolation#odd addr:street#von_Gerdesgatan
+n 516D^ 7(ET>B 5"J\* addr:city#Göteborg addr:housenumber#7 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516E& 7(ER]: 6/IQ; addr:city#Göteborg addr:housenumber#76 addr:interpolation#even addr:street#Eklandagatan
+n 516E) 7(ERRN 6/IN$ addr:city#Göteborg addr:housenumber#78B addr:interpolation#even addr:street#Eklandagatan
+n 516En 7(ER,X 6/IDf addr:city#Göteborg addr:housenumber#80 addr:interpolation#even addr:street#Eklandagatan
+n 516Ep 7(ER&z 6/I@K addr:city#Göteborg addr:housenumber#82 addr:interpolation#even addr:street#Eklandagatan
+n 516E~ 7(ES)[ 6/Hre addr:city#Göteborg addr:housenumber#8A addr:interpolation#even addr:street#Engdahlsgatan building#entrance
+n 516F1 7(ESy| 5"J\) addr:city#Göteborg addr:housenumber#9 addr:interpolation#odd addr:street#Örnehufvudsgatan
+n 516FK 7(ESk; 6/I,W name#Hårfager shop#hairdresser
+n 516FN 7(ES?S 6/I0O amenity#cafe name#Johannebergs_Glass
+n 516F] 7(ES-7 6/I*0 name#Mona_Livs shop#convenience
+n 516Fb 7(ERe} 6/I5H name#PCNode.net shop#computer
+n 516Fh 7(ES%{ 6/I*X name#Salong_Im_Cosmetica shop#hairdresser
+n 516G& 7(ESd| 6/I-/ amenity#restaurant cuisine#sushi name#Yuko_Sushi
+n 547"G 7(EP>b 6/IG] crossing#uncontrolled highway#crossing
+n 5jq#/ 7(ERU= 6/HmG addr:city#Göteborg addr:housenumber#1D addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 5jq#L 7(ER_l 6/Hli addr:city#Göteborg addr:housenumber#1E addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance
+n 5jq#W 7(ERfm 6/HlB addr:city#Göteborg addr:housenumber#1F addr:interpolation#odd addr:street#Wallenbergsgatan building#entrance

@@ -1,0 +1,92 @@
+n 1a< 7(EYI. 6/Jp8 highway#motorway_junction name#Kallebäcksmotet ref#70
+n XBC 7(ETq1 6/KQ} highway#traffic_signals
+n XBD 7(EUU# 6/KYE highway#traffic_signals
+n [rl 7(E]|K 6/J`t highway#motorway_junction name#Örgrytemotet ref#71
+n :ei* 7(EU8h 5"Jls name#Almedal railway#technical_station ref#Am
+n ?ziF 7(ESS# 6/Jhm highway#traffic_signals
+n ?ziH 7(EOmz 6/K,8 highway#traffic_signals
+n w5U0 7(EOf8 6/K(3 highway#traffic_signals
+n w5Ue 7(ESIG 6/Je@ highway#traffic_signals
+n w5Y> 7(EV*G 6/JIv highway#traffic_signals
+n "v+*4 6fL.q 6/J2H highway#traffic_signals
+n ##}sa 7(E_d? 6/JUQ name#Liseberg railway#station ref#Lis
+n $s(W^ 7(EV3( 5"Jg; crossing#traffic_signals highway#traffic_signals
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %8"Ch 6fK9B 6/K,1 name#Elisedal railway#tram_stop
+n %8"E% 7(ESm# 6/Jce name#Almedal railway#tram_stop
+n &|YiK 6fJnN 5"Jp, name#Varbergsgatan railway#tram_stop
+n )7)?4 7(EU^% 6/JJQ addr:city#Göteborg addr:country#SE addr:housenumber#23 addr:postcode#412_63 addr:street#Mölndalsvägen name#Göteborgs_Vandrarhem phone#+4631-401050 tourism#hostel website#http://www.goteborgsvandrarhem.se/
+n .':H4 6fKtY 6/JGr name#Södra_Vägens_Låsservice shop#locksmith
+n .':I8 7(EUeA 6/JI\ name#Salong_Marie shop#hairdresser
+n .':JZ 7(EUCJ 6/JM2 email#info@th-pettersson.se fax#031-40_28_62 name#TH_Pettersson opening_hours#Mo-Fr_08:00-18:00;_Sa_10:00-14:00 phone#031-40_73_00 shop#tyres website#http://www.th-pettersson.se/
+n .':M> 7(EUNJ 6/JL, name#Coop_Nära shop#convenience
+n .2+[H 6fKt, 6/JU` name#Lundbergs office#company
+n .2+[V 7(EU~# 6/JTm amenity#bank atm#yes name#Handelsbanken operator#Handelsbanken
+n .2+[Y 7(EU?H 6/J[[ name#CSC office#company
+n .2+[Z 7(EUs@ 6/JV* name#FM_Mattsson office#company
+n .2+[[ 7(EU8w 6/J[o name#Prima_Finn-Power_Sweden office#company
+n .2+[b 7(EU@z 6/J[7 name#Boom_Box_/_Claptrax office#company
+n .2+[e 7(EUh. 5"Jh- amenity#restaurant cuisine#regional name#San_souan
+n .2+[h 7(EUD1 6/JZd name#OFFICE_Management office#company
+n .2+[k 7(EU?x 5"Jh^ name#Kriminalvårdens_Tranpsorttjänst office#company
+n .2+[v 6fKuV 6/JTl name#Företagshuset office#company
+n .2+[y 7(EUB[ 6/JZt name#Martinsson_Konsult_&amp;_Försäljning_AB office#company
+n .2+\% 7(EUw% 6/JU} name#Broström office#company
+n .2+\( 7(EUrd 6/JV, name#Autodesk_AB office#company
+n .2+\) 7(EU8" 6/J[o name#Getinge_Sverige_AB office#company
+n .2+\* 7(EUu3 6/JV% name#CA_consultadministration_ab office#company
+n .2+\2 7(EUtW 6/JV& name#Maersk_Line_och_Safemarine office#company
+n .2+\5 7(EUo3 6/JUf name#Barabamba_/_EWO office#company
+n .2+\7 7(EU?` 6/J[U name#Barex_Nordic_Freefloat office#company
+n .2+\; 7(EU7L 6/J[o name#Fläktwoods office#company
+n .2+\A 7(EU@2 6/J[I name#Mundipharma_AB office#company
+n .2+\C 7(EUw_ 5"Jh* name#Bokningsbolaget office#company
+n .2+\D 7(EUA4 5"Jh[ name#Jingle_Bills office#company
+n .2+\E 7(EUsz 6/JV( name#DAMCO office#company
+n .2+\G 7(EU@J 6/J[C name#Sapa_Profiler_AB office#company
+n .2+\I 7(EU@b 6/J[= name#IDNet office#company
+n .2+\J 7(EUm7 5"Jh) name#Adwise_Consulting office#company
+n .2+\K 7(EUn5 6/JUk name#SB_Bokslut_AB office#company
+n .2+\M 7(EUr* 6/JV. name#Thor_Nordic office#company
+n .2+\N 7(EUCG 6/JZj name#Mobilus_Digital_Rehab_AB office#company
+n .2+\O 7(EUAL 6/J[, name#Parkhouse_Media office#company
+n .2+\P 7(EUvI 6/JV! name#FS_Dynamics office#company
+n .2+\Q 7(EU8O 6/J[o name#Kvarterskliniken_Administration_Me3+ office#company
+n .2+\R 6fKta 6/JV# name#Proact_IT_Sweden_AB office#company
+n .2+\T 7(EUCf 6/JZf name#pe3_Företagshälsa/Motorhälsan office#company
+n .:#jp 7(EU?x 5"Jh^ name#Kriminalvårdens_Tranpsorttjänst office#company
+n .:#k3 7(EUAL 6/J[, name#Parkhouse_Media office#company
+n .:#k9 7(EUtW 6/JV& name#Maersk_Line_och_Safemarine office#company
+n .:#k< 7(EUm7 5"Jh) name#Adwise_Consulting office#company
+n .:#kL 7(EUn5 6/JUk name#SB_Bokslut_AB office#company
+n .:#ks 7(EU~# 6/JTm amenity#bank atm#yes name#Handelsbanken operator#Handelsbanken
+n .:#kw 7(EUs@ 6/JV* name#FM_Mattsson office#company
+n .:#l9 7(EU@2 6/J[I name#Mundipharma_AB office#company
+n .:#l? 7(EU@z 6/J[7 name#Boom_Box_/_Claptrax office#company
+n .:#lQ 7(EU8O 6/J[o name#Kvarterskliniken_Administration_Me3+ office#company
+n .:#lV 6fKta 6/JV# name#Proact_IT_Sweden_AB office#company
+n .:#lb 6fKt, 6/JU` name#Lundbergs office#company
+n .:#lw 7(EUh. 5"Jh- amenity#restaurant cuisine#regional name#San_souan
+n .:#m% 7(EUCG 6/JZj name#Mobilus_Digital_Rehab_AB office#company
+n .:#m7 6fKuV 6/JTl name#Företagshuset office#company
+n .:#m: 7(EUw_ 5"Jh* name#Bokningsbolaget office#company
+n .:#ma 7(EU?H 6/J[[ name#CSC office#company
+n .:#me 7(EUA4 5"Jh[ name#Jingle_Bills office#company
+n .:#mh 7(EU8" 6/J[o name#Getinge_Sverige_AB office#company
+n .:#m} 7(EUo3 6/JUf name#Barabamba_/_EWO office#company
+n .:#n) 7(EUCf 6/JZf name#pe3_Företagshälsa/Motorhälsan office#company
+n .:#n< 7(EUD1 6/JZd name#OFFICE_Management office#company
+n .:#n? 7(EUr* 6/JV. name#Thor_Nordic office#company
+n .:#nC 7(EUrd 6/JV, name#Autodesk_AB office#company
+n .:#nb 7(EU8w 6/J[o name#Prima_Finn-Power_Sweden office#company
+n .:#nf 7(EU7L 6/J[o name#Fläktwoods office#company
+n .:#np 7(EUw% 6/JU} name#Broström office#company
+n .:#o$ 7(EUB[ 6/JZt name#Martinsson_Konsult_&amp;_Försäljning_AB office#company
+n .:#o0 7(EU@J 6/J[C name#Sapa_Profiler_AB office#company
+n .:#oh 7(EUvI 6/JV! name#FS_Dynamics office#company
+n .:#p# 7(EU@b 6/J[= name#IDNet office#company
+n .:#p? 7(EUsz 6/JV( name#DAMCO office#company
+n .:#pD 7(EUu3 6/JV% name#CA_consultadministration_ab office#company
+n .:#pI 7(EU?` 6/J[U name#Barex_Nordic_Freefloat office#company

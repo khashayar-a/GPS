@@ -1,0 +1,50 @@
+n 1|r 7(F=\a 6/J)# highway#motorway_junction name#Backadalsmotet ref#78
+n :4I5 7(F#FU 6/I2T railway#switch
+n :4I; 7(F!"F 6/H@K name#Göteborg-Kville railway#technical_station ref#Gk
+n "`;~q 7(F'AN 6/H|Q traffic_calming#hump
+n #2|aU 7(F62, 6/Iq# highway#motorway_junction name#Backadalsmotet ref#78
+n $0T/N 7(F&.g 6/II0 amenity#fuel contact:city#GÖTEBORG_/_Hisingen contact:postcode#42246 contact:street#Tingstadsmotet:_E6_/_GP-huset fuel:diesel#yes fuel:e85#yes fuel:octane_95#yes name#JET_Tingstadsmotet
+n $gY(6 7(FIKI 6/J6e highway#motorway_junction name#Bäckebolsmotet ref#79
+n $gY*8 7(FB7l 6/J-% highway#motorway_junction name#Bäckebolsmotet ref#79
+n $heTF 7(F*:_ 6/IEk highway#motorway_junction name#Tingstadsmotet ref#77
+n $heWi 7(F&>A 6/I%] amenity#fuel name#Statoil
+n $heX9 7(F&20 6/IC6 amenity#fast_food name#Sibylla
+n %hT^N 7(F'Vq 6/Hr2 highway#bus_stop name#Tingstadsmotet
+n %hT^S 7(F'Et 6/Hsf highway#bus_stop name#Tingstadsmotet
+n %hT_0 7(F2UH 6/I\I traffic_calming#hump
+n %hT_R 7(F8c& 6/Ilp traffic_calming#hump
+n %i_vt 7(F7"[ 6/Ig( traffic_calming#hump
+n %i_v{ 7(F5,9 6/I\q traffic_calming#hump
+n %i_w# 7(F3d* 6/ITV traffic_calming#hump
+n %i_w8 7(F/_v 6/IOT traffic_calming#hump
+n %i_w= 7(F.:4 6/IJt traffic_calming#hump
+n %i_wK 7(F*B5 6/I<a traffic_calming#hump
+n &#`~R 7(F%I_ 6/I_V railway#crossing
+n &6lR] 7(F'q} 5"J[] highway#traffic_signals
+n &NxnH 7(F&?, 6/I3P highway#motorway_junction name#Tingstadsmotet ref#77
+n &f1g* 7(Fj$F 6/K75 highway#motorway_junction name#Kärramotet ref#81
+n 'u"BO 7(F#/H 6/He: highway#turning_circle
+n (/!EY 7(F"xM 6/I6t railway#switch
+n (5*qg 7(F&[J 6/Htq name#Quality_Hotel_Winn tourism#hotel
+n *""Xn 7(F%Z` 6/I-N highway#motorway_junction name#Ringömotet ref#76
+n *""Xz 7(F'X$ 6/I5w highway#traffic_signals
+n *"Lr3 7(F"Om 6/HJ! highway#turning_circle
+n 1&ZBM 7(F#'e 5"J\z railway#level_crossing
+n 1&ZBb 7(F#b` 6/I60 railway#buffer_stop
+n 1&ZBl 7(F#'U 6/IC: railway#crossing
+n 1&ZB~ 7(F"h> 6/I1H railway#switch
+n 1&ZC( 7(F#6d 6/I?\ railway#crossing
+n 1&ZDa 7(F#9P 6/I@@ railway#level_crossing
+n 1&ZEj 7(F!'V 6/HH' railway#switch
+n 1&ZEs 7(F"*^ 6/H|6 railway#switch
+n 3EZ|C 7(F1{s 6/JEZ railway#switch
+n 3EZ|[ 6fQpW 6/JIt railway#switch
+n 3EZ}m 7(F4zE 6/JN% railway#switch
+n 3EZ~& 7(F(Z0 6/J"- railway#switch
+n 3EZ~m 7(F/2Y 6/J=o railway#switch
+n 3E[!0 7(FEML 6/JUT railway#switch
+n 3E[!8 7(FGY! 6/J`2 railway#switch
+n 3E[!> 7(FCg4 6/JVp railway#switch
+n 3E[!@ 7(FGw? 6/Jav railway#switch
+n 3E[!x 7(F?L% 5"Jht railway#switch
+n 3E["& 7(FC)m 6/JW~ railway#switch

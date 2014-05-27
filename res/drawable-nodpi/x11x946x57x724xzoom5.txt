@@ -1,0 +1,10 @@
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n $0T-( 5'z?3 5"J5e amenity#fuel name#Preem_-_Göteborg,_Trb_Ångpanneg
+n %:^eN 6fP7: 6/ChR highway#crossing
+n &C3CT 6fP:$ 6/Ee, highway#bus_stop name#Deltavägen
+n (_`Kx 7(F"!K 6/D}^ amenity#fuel name#Hydro/ST1
+n ,[Wh@ 7(E}?l 6/ECm amenity#fast_food
+n .0NfY 7(F!]9 6/DyO highway#give_way
+n .0NgO 7(E~JL 6/DxB highway#give_way
+n .BnNy 7(E~_r 6/Ee. name#Mekonomen_Backaplan shop#car_repair website#www.mekonomen.se
+n .Bo,D 7(F!Tp 6/Epg name#SIBA shop#hifi

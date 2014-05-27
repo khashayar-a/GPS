@@ -1,0 +1,27 @@
+n iGNI 7(Eb8x 6/Ed= name#Järntorget railway#tram_stop
+n ">aF/ 7(EeQB 6/F%3 highway#traffic_signals
+n #(i4; 7(Ee~8 4.Rg highway#traffic_signals
+n $0T3e 7(Eb;e 6/F;N amenity#fuel contact:street#Pusterviksplatsen name#Tanka-Göteborg
+n $1Cwm 7(Eb!1 6/Eh; name#Järntorget railway#tram_stop
+n $qv|M 7(Eb/% 6/FI1 amenity#parking
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %#{/& 7(EfUM 6/F{{ highway#crossing
+n %#{<Q 7(Ee~& 6/G!$ highway#crossing
+n %mj:A 7(EbU? 6/FUg amenity#restaurant name#Rio_Rio wheelchair#no
+n &w8)[ 7(Ec2& 6/F=w name#Fiskekyrkan shop#convenience wheelchair#limited
+n &{x{] 7(Eca* 6/FiH club#jazz name#Nefertiti_Jazz_Club
+n (m0dD 7(Ediy 6/F'_ amenity#cafe cuisine#coffee_shop name#Språkcaféet smoking#no website#http://www.sprakcafeet.com wheelchair#yes
+n )@S\m 7(Ee?l 6/Eu8 man_made#chimney material#metal
+n )@S]- 7(EeG. 6/E~d man_made#chimney material#metal
+n *iw^[ 7(Ec]| 6/EzF amenity#bank atm#yes operator#Nordea
+n *iw^a 7(Ec`U 6/EzV amenity#atm name#Nordea operator#Nordea
+n +<nXq 7(Ee,o 6/F%= amenity#bicycle_rental capacity#20 name#Esperantoplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#8
+n ,(@Lm 7(EcUz 6/F=& amenity#parking fee#yes wheelchair#yes
+n ,(@M. 7(Ec]q 6/F9r amenity#parking fee#yes parking#multi-storey
+n 0uNAx 7(EcqW 6/Es6 name#Pustervik old_name#10:e_kvarteret place#suburb
+n 1Vs&_ 7(Ebmz 5"JC" amenity#bicycle_rental capacity#20 name#Rosenlundsplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#18
+n 47$=C 6fMEM 6/FWi amenity#restaurant cuisine#indian name#Indiska_Hörnet
+n 4qDv] 7(Eca$ 6/F^p name#Hemköp_Rosenlund shop#supermarket
+n 6#O@B 7(Ede[ 6/F/6 historic#ruins name#Bastionen_Carolus_Rex

@@ -1,0 +1,12 @@
+n /&m$k 7(F/<| 6/H=5 amenity#parking
+n /-6#1 7(F0+_ 6/H(J highway#bus_stop
+n /-6#0 7(F06j 6/H.* highway#bus_stop
+n /?itU 7(F0J9 6/HP! highway#turning_circle
+n /&m%{ 7(F1:2 6/H.z amenity#parking
+n 5u}61 7(F-Bf 6/HR\ highway#turning_circle
+n /-5g{ 7(F8"4 6/HS. traffic_calming#yes
+n /-4.a 7(F4r1 6/H51 traffic_calming#yes
+n #2|R5 7(F4nk 5"JR1 traffic_calming#yes
+n 0h2{s 7(F0.` 6/Gl? highway#turning_circle
+n #2|Pq 7(F0<j 6/H+} traffic_calming#yes
+n /-4.x 7(F0<; 6/H*F traffic_calming#yes

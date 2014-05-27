@@ -1,0 +1,193 @@
+w &fq0 foot#yes highway#cycleway name#Viktoriagatan
+d EbRV 7(E\V} 6/G=D
+d EbRN 7(E]GT 6/G=;
+w tH?O highway#service name#Övre_Besvärsgatan service#driveway
+d +\c`S 7(EZON 6/G61
+d +\c`T 7(EZ*: 6/G6F
+d $~4]Q 7(EYzt 5"JH}
+w DQze highway#footway
+d %0SqB 7(E\l' 6/GQN
+d %0Sld 7(E\^u 6/GSK
+d %0Sle 7(E\HA 6/GVF
+d %0Slf 7(E\=Z 6/GWO
+d %0Slg 7(E\!V 6/GY;
+d %0Slh 7(E[yc 6/GZ}
+d %0Sli 7(E[ob 6/G\Y
+d %0Slj 7(E[co 6/G]R
+d %0SkT 6fLI& 6/G`7
+w CE5b highway#steps
+d %"fTA 7(E[8: 6/FsT
+d "l9%V 7(E[5^ 6/Fw<
+w I]F@ highway#service
+d %y}hU 7(EZx} 6/GMl
+d %y}rQ 6fLFp 6/GP@
+d %y}rS 7(E[+z 6/GP+
+d %y}rU 7(E[D= 5"JK'
+d %y}rX 7(E[=8 6/GKF
+d %y}rZ 7(E[@2 6/GGD
+d %y}r\ 7(E[F$ 6/GEw
+w DQzY highway#service
+d %0SkT 6fLI& 6/G`7
+d "BX~A 7(EZb] 6/GiN
+w >P(z highway#service name#Landalaberget
+d $Gn"& 7(EXcv 6/GYh
+d $~4]r 7(EXj. 6/GZJ
+d $Gn"L 7(EX{0 6/G[Q
+d $Gn"M 7(EY+& 6/GYR
+d $Gn"N 7(EYBb 6/GVs
+d $Gn"O 7(EYRN 6/GV!
+d $~4]a 7(EYa$ 6/GWV
+d $Gn"P 7(EYdi 6/GW_
+d $Gn"Q 7(EYj& 6/GV1
+d $Gn"R 7(EYk? 6/GTS
+d $Gn"S 7(EZ@0 6/GN=
+w C00$ highway#footway
+d "6i@1 7(EX6o 5"JH,
+d $~4]G 7(EXYR 6/G,l
+d $~4]H 7(EXf^ 6/G+|
+d $~4]I 7(EXpu 6/G,+
+d $~4]J 7(EXx8 6/G-.
+d $~4]K 7(EY!r 6/G/0
+d $~4]L 7(EY*S 6/G0.
+d $~4]M 7(EY8K 6/G0j
+d $~4]N 7(EYM3 6/G0\
+d $~4]O 7(EYa/ 6/G/u
+d $~4]P 7(EYnl 6/G3n
+w I]FP highway#steps
+d %y}sW 7(E[F- 6/G>y
+d %y}r\ 7(E[F$ 6/GEw
+w CE5_ highway#footway
+d $~4]O 7(EYa/ 6/G/u
+d %"fT3 7(EYPB 6/G'o
+d %"fT4 7(EYI, 6/G#M
+d %"fT5 7(EYGv 6/F~L
+d %"fT7 7(EYJ? 6/F}@
+d %"fT8 7(EYS0 5"JF=
+d %"fT9 7(EYdK 6/Fyl
+d %"fT: 7(EZ!E 6/Fwb
+d %"fT< 7(EZ8= 5"JEf
+d %"fT= 7(EZP" 6/Fut
+d %"fT> 7(EZu! 6/FuQ
+d "l9%V 7(E[5^ 6/Fw<
+w "MPPB highway#footway
+d 1_lVL 7(EY|[ 6/G`e
+d 1_lUl 7(EY>0 6/GhH
+d 1_lVH 7(EY6' 6/GiP
+w I]Gh highway#steps
+d %y}rU 7(E[D= 5"JK'
+d %y~*s 7(E[NZ 6/GPY
+w C00& highway#service service#driveway
+d $~4]P 7(EYnl 6/G3n
+d $~4]Q 7(EYzt 5"JH}
+d +[_Qw 7(EZ(Q 6/G=z
+d $~4]` 7(EZ+p 6/G?H
+d EbRW 7(EZ.X 6/G@c
+w C00) highway#service name#Landalaberget
+d $Gn"P 7(EYdi 6/GW_
+d $~4]b 7(EYkW 6/G]@
+w C00# highway#footway
+d $~4]P 7(EYnl 6/G3n
+d $~4]R 7(EYxj 6/G2~
+d $~4]S 7(EZ+& 6/G1V
+d $~4]T 7(EZ<^ 5"JH(
+d $~4]U 7(EZR2 6/G-O
+d $~4]V 7(EZYS 6/G,B
+d $~4]W 7(EZ\z 6/G*y
+d $~4]X 7(EZ\I 6/G)L
+d $~4]Y 7(EZY: 6/G(@
+d $~4]Z 7(EZTm 6/G&z
+d $~4][ 6fLAj 5"JG,
+d $~4]\ 7(EZJ% 6/G%s
+d $~4]^ 7(EZEp 6/G%e
+d $~4]_ 7(EZA, 6/G%w
+w I]GA highway#footway
+d %y}rU 7(E[D= 5"JK'
+d 1^Yid 7(E[AM 5"JK3
+d %y~3S 7(E[;$ 6/GP9
+d 1^Yg< 7(E[9w 5"JKE
+d %y~3U 7(E[<2 6/GQ2
+d %y~*s 7(E[NZ 6/GPY
+d %y~*t 7(E[bx 6/GT%
+d %y~*u 7(E[DP 6/GUY
+d %y~*v 7(E[9A 6/GVX
+d %y~*w 7(E[-S 6/GXq
+d 1^Yk[ 7(E[#D 6/GY6
+d %y~*x 6fLER 6/GZf
+d 1^Yk) 7(EZpn 6/GYh
+d "6i,& 4b<[ 6/GY+
+w >P)" highway#service name#Landalaberget
+d $Gn"O 7(EYRN 6/GV!
+d $Gn"| 4b<P 6/GTq
+d $Gn"} 6fL9H 6/GSL
+d $Gn"~ 7(EYdX 6/GSb
+d $Gn"R 7(EYk? 6/GTS
+w C00( highway#service name#Landalaberget
+d $Gn"} 6fL9H 6/GSL
+d $~4]p 7(EYVy 6/GR$
+d $Gn"* 6fL9% 6/GP8
+w Bh33 foot#yes highway#cycleway name#Arthur_Lunds_gångväg
+d "7Ut6 7(EWsZ 6/Gb~
+d "7Ut7 7(EX5i 6/G_d
+d $Gn"& 7(EXcv 6/GYh
+d $Gn"' 7(EXdv 6/GX\
+d $Gn"( 7(EXl6 6/GVl
+d $Gn") 7(EYKd 6/GOz
+d $Gn"* 6fL9% 6/GP8
+d $y_>a 7(EZ1T 6/GI@
+w "E>Nf bicycle#yes foot#yes highway#path
+d *<[%o 7(E[\< 6/H@d
+d 1^Ykp 7(E[TQ 6/H=u
+d 1_lT' 7(E[Gm 6/H9*
+d *<[+o 7(E[AK 6/H6J
+d 1_lVr 6fLHM 6/H10
+d *<[+q 7(EZzp 6/H(B
+d 0vR=j 7(EZ|f 5"JPZ
+d 1^YjI 7(EZzj 6/H&8
+d 1^YjQ 7(EZrw 6/H"{
+d 0vR<= 7(EZoW 6/H!V
+d *<[&c 7(EZfi 6/G~t
+d 1^Yj4 7(EZM* 6/Guf
+d 1n"Q. 7(EZCz 6/Gs#
+d 0vR=f 7(EYvr 6/Gfm
+d 1^Yhs 7(EZHb 6/G`i
+d 1_lWn 7(EZpH 6/G[n
+d %y~*x 6fLER 6/GZf
+w C00' highway#footway
+d $y_>a 7(EZ1T 6/GI@
+d $Gn"S 7(EZ@0 6/GN=
+d 1^YjX 7(EZOK 6/GR}
+d "6i,' 7(EZT@ 6/GSU
+w I]HH highway#steps
+d %y}r\ 7(E[F$ 6/GEw
+d %y~6% 7(E[LD 6/GG"
+d %y~6& 7(E[DW 6/GHM
+d %y~6' 7(E[CV 5"JJW
+w >P)& highway#service name#Landalaberget
+d "6i,' 7(EZT@ 6/GSU
+d $~4]q 7(EZM9 6/GSl
+d $~4]b 7(EYkW 6/G]@
+d $Gn#^ 7(EX~Q 6/Gf*
+d $~4]l 7(EXhw 6/GhL
+w F@K5 foot#yes highway#footway
+d Ec!^ 7(E]-2 6/G+Z
+d %H-]F 6fL]C 6/G)_
+d %H-]G 7(E]mc 6/G+q
+d %H-]H 7(E]v! 6/G+X
+d %H-]I 7(E^/v 6/G(+
+w t9$D highway#service name#Övre_Besvärsgatan service#driveway
+d +[_R8 7(EZgy 6/G64
+d +[_R9 7(EZgy 6/G8.
+d +[_R: 7(EZf+ 6/G9F
+d +[_R> 7(EZa6 6/G:3
+d +[_R? 7(EZYv 6/G:I
+d +[_R@ 7(EZKs 6/G:t
+d +[_RB 6fL>l 6/G:{
+d +[_Qw 7(EZ(Q 6/G=z
+w CE5g highway#footway
+d ""c<R 7(E]/` 6/Fpi
+d %"fTE 7(E]DU 6/Fq&
+d %"fTF 7(E]Vq 6/Fpv
+d ""bv= 7(E]oY 6/FpG
+w "MPPC highway#steps
+d 1_lW. 7(EYt0 6/G^:
+d 1_lVL 7(EY|[ 6/G`e

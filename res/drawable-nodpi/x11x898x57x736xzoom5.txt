@@ -1,0 +1,11 @@
+n $mQg9 6fQe8 6/?Q( barrier#gate
+n $pcfY 7(F-Sc 6/@8v barrier#cycle_barrier
+n $pcsH 7(F/Ec 6/@(V barrier#gate
+n 'A&b* 7(F,&p 6/?KZ crossing#island
+n 'T1R5 7(F)\* 5"I\3 crossing#island crossing_ref#zebra highway#crossing traffic_calming#hump
+n *N\*] 6fQ[+ 6/@11 highway#bus_stop name#Klara shelter#yes
+n *N\2e 7(F15e 6/@)G highway#bus_stop name#Klara
+n ,3jdQ 7(F/D8 6/@(H barrier#cycle_barrier
+n ,3jdW 7(F/px 6/?rR barrier#gate bicycle#yes foot#yes
+n 4UGdW 7(F/6( 6/?al highway#bus_stop name#Solstrålegatan
+n 4UGd\ 7(F/_1 6/?l4 highway#bus_stop name#Solstrålegatan

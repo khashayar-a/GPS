@@ -1,0 +1,270 @@
+w J]AX foot#yes highway#steps
+d &.Gu% 7(EsBb 6/CHj
+d &.Gu& 7(EsGp 6/CIH
+w F74I bicycle#yes foot#yes highway#cycleway
+d +oTh- 7(En), 6/BIS
+d %F{Hp 7(En19 6/BL+
+d %F{Hq 7(En9U 6/BO`
+d %F{OC 7(En;" 6/BRY
+d %F{OD 7(En:$ 6/BWR
+d %F{OF 6fN?# 6/BeX
+d %F{OG 7(En4` 6/Bgb
+d %F{OH 7(EnSG 6/Br3
+d %F{OI 7(EoAO 6/C/`
+d %ai#C 6fNKd 6/C7Y
+d %F{Vp 7(EoV{ 6/C8S
+d %F{Vq 7(Eo_f 6/C91
+d %F{Vs 6fNN< 6/C9m
+d %F{U/ 7(Eo{% 6/C9\
+d %F{U# 7(EpCD 6/C98
+w KA:& highway#footway surface#paved
+d &;_9S 7(Eq;C 6/C~T
+d &;_9T 7(Eq;~ 6/D!.
+w K@sp highway#steps
+d &;ZOk 7(Eqgd 6/Cj9
+d &;ZOl 7(Eq^4 6/Cip
+w KA:, highway#steps
+d &;_9Z 7(EqB* 6/D$z
+d &;_9[ 7(EqA` 6/D%7
+w F77p foot#yes highway#footway surface#unpaved
+d %F|74 7(Esw` 6/C@g
+d %F|75 7(Esud 6/CC=
+d %F|76 7(Esor 6/CFX
+d %F|77 7(Es_; 4.PG
+d %F|79 7(EsW| 6/CKt
+d %F|7: 7(EsGe 6/CN9
+w F77| foot#yes highway#footway surface#paved
+d %F|<M 6fNm^ 6/C:T
+d %F|<O 7(ErxQ 6/C>*
+d %F|<P 7(Ery} 6/C?M
+d %F|<Q 7(Eru/ 6/CAJ
+d %F|<R 7(Ero8 6/CC5
+w Kj`5 highway#footway surface#paved
+d &@8J` 7(ErB5 6/CYV
+d &@8Ja 7(ErGy 6/CYe
+w K@sl highway#footway surface#paved
+d &;ZOX 7(ErrE 5"J*m
+d &;ZO? 7(Ernd 6/D%1
+d &;ZO@ 6fNhG 6/D#~
+d &;ZO[ 7(ErU$ 6/D#L
+w K@sY highway#steps
+d &;ZO< 7(Es^H 6/D':
+d &;ZOB 7(EsYV 6/D&y
+w F77q foot#yes highway#footway surface#paved
+d %F|74 7(Esw` 6/C@g
+d %F|8y 7(Esx] 6/C>f
+d %F|8z 7(Et#I 6/C:T
+d %F|8{ 7(Et%D 6/C8~
+w F78) foot#yes highway#steps surface#paved
+d %F|8{ 7(Et%D 6/C8~
+d %F|8} 7(Et%r 6/C79
+d %F|8~ 7(Et'? 6/C5t
+w &bP4 highway#service name#Herkulesgatan
+d E=\e 7(Ep6@ 6/Bj+
+d #o)Tu 7(Ep$d 6/Bh.
+d #o)Tn 7(EoX) 6/Bb9
+d #o)Tf 7(Eo@V 6/B\|
+d #o)T^ 7(Eo'V 6/BN,
+d #o)TV 7(En\G 6/BGP
+d #o)TO 7(EnW~ 6/BCa
+d #o)TG 7(Ench 6/BBz
+d #o)T> 7(EoS` 6/B?:
+d #o)T5 7(Eon. 6/B@t
+d #o)T/ 7(EoxI 6/BC|
+d #o)T) 7(Ep3H 6/BNq
+d #o)T# 7(Ep7o 6/BRn
+d #o)S| 7(Ep3H 6/BUv
+d #o)St 7(EpCX 6/Bce
+d #o)Sm 7(Ep?2 6/BhJ
+d E=\e 7(Ep6@ 6/Bj+
+d E=\f 7(Eozm 6/Bp;
+d &#@R[ 7(Eo~G 6/Br%
+d %F{]a 7(Ep=J 6/C!j
+d E=\m 7(EpFa 6/C&1
+d E=\s 7(EpLl 6/C+/
+d $}HtY 7(EpJD 6/C/t
+d E=\n 7(EpFa 6/C7*
+w KA:) highway#footway surface#paved
+d &;_9V 7(EqBJ 6/D"E
+d &;_9W 7(EqCY 6/D#&
+d &;_9X 7(EqC% 6/D#h
+w KD)H highway#path
+d &;tS> 7(Ep]A 5"J,p
+d &;tS@ 7(EpW^ 6/D8d
+d &;tSC 7(EpBH 6/D4S
+d &;tSE 7(Ep8I 6/D.T
+d &;tSG 7(Ep6v 6/D,>
+d &;tSI 7(Ep+/ 6/D)H
+d &;tSK 7(Ep)D 6/D%;
+d &;tSN 7(Ep&} 5"J*G
+d &;tSQ 7(Ep$c 6/CzT
+d &;tSS 7(Ep#& 6/Cyh
+d &;tSU 7(Eo{8 6/Cy+
+w K@sV highway#footway surface#paved
+d E=ZN 7(Et@~ 6/CeR
+d &;ZO9 7(Et=S 6/CgN
+d &;ZO1 7(Et6n 6/Cl:
+d &;ZO2 7(Et"z 6/CvC
+w J]AW foot#yes highway#footway surface#unpaved
+d %F|<R 7(Ero8 6/CC5
+d &.Gu" 7(Erqq 5"J$T
+d &.Gu# 7(Er~d 6/CF6
+d &.Gu$ 7(Es7& 6/CE[
+d &.Gu% 7(EsBb 6/CHj
+w K@sg highway#footway surface#paved
+d &;ZOV 7(EsG< 6/D%t
+d &;ZO= 7(Es0< 6/D$o
+w C*'+ highway#service
+d $}HuC 7(EpdN 6/CT=
+d $}HvS 7(Epf\ 6/CLf
+d $}Hv* 7(Epi@ 6/CC5
+d $}Hv% 7(Epiq 6/CAF
+d $}Hv& 7(Epk> 6/C9!
+d $}Hv' 7(Ephs 6/C5[
+d $}Hv( 7(Epf> 5"J"z
+w K@sn highway#steps
+d &;ZO[ 7(ErU$ 6/D#L
+d &;ZO\ 7(ErR] 6/D#5
+w K@sh highway#steps
+d &;ZOU 7(EsK8 6/D&,
+d &;ZOV 7(EsG< 6/D%t
+w K@so highway#footway surface#paved
+d &;ZOA 7(ErEq 6/D!Y
+d E=Yr 7(Er?m 6/C~8
+d &;ZO^ 7(Er?. 6/C{J
+d &;ZO_ 7(Er?8 6/Cx.
+d &;ZO` 7(ErAB 5"J)K
+d &;ZOa 7(ErKd 4.Pm
+d &;ZOe 7(ErE> 6/Cr_
+d &;ZOf 7(Er3i 6/Cr"
+d &;ZOg 6fNd! 6/Cpr
+d &;ZOh 6fNd% 6/Cl|
+d &;ZOi 7(Er,D 6/ClR
+d &;ZOj 7(Eqxo 6/Ck4
+d &;ZOk 7(Eqgd 6/Cj9
+w KA:' highway#steps
+d &;_9T 7(Eq;~ 6/D!.
+d &;_9U 7(Eq<z 6/D!E
+w K@sZ highway#footway surface#paved
+d &;ZOB 7(EsYV 6/D&y
+d &;ZOU 7(EsK8 6/D&,
+w K@sm highway#footway surface#paved
+d &;ZO\ 7(ErR] 6/D#5
+d &;ZOA 7(ErEq 6/D!Y
+w Kj`4 highway#path
+d &@8JU 7(Eq0Y 6/C7[
+d &@8JV 7(Eq[S 6/C7`
+d &@8JW 7(EqjH 5"J#1
+d &@8JX 6fNaT 6/C4m
+d &@8JY 7(Eq}= 6/C4]
+d &@8JZ 7(Er;A 6/C2R
+d &@8J[ 6fNf' 6/C0<
+d &@8J\ 7(ErGC 6/C-t
+d &@8J] 7(ErQ` 6/C,<
+d &@8J^ 7(Erg~ 6/C+t
+d &@8J_ 7(ErxX 6/C+.
+w K@sj highway#footway surface#paved
+d &;ZOW 7(Es-& 6/D$a
+d &;ZO> 7(Es"L 6/D$I
+d &;ZOY 7(Eru$ 6/D$|
+w F77~ foot#yes highway#steps surface#paved
+d %F|<K 7(EsC! 6/C6l
+d %F|<M 6fNm^ 6/C:T
+w KA:* highway#steps
+d &;_9X 7(EqC% 6/D#h
+d &;_9Y 7(EqBo 6/D#y
+w Kj`9 highway#footway surface#paved
+d &@8Jg 7(Er\) 6/CW~
+d &@8Jd 7(EraZ 5"J&B
+d &@8Je 7(ErcH 6/CUe
+w KA:( highway#footway surface#paved
+d &;_9U 7(Eq<z 6/D!E
+d &;_9V 7(EqBJ 6/D"E
+w J]AY foot#yes highway#footway surface#paved
+d &.Gu+ 7(Et7b 6/C1i
+d %F|9" 7(Et+6 6/C2?
+d %F|<B 7(Et!M 6/C2.
+d %F|<C 7(Esw2 6/C26
+d %F|<E 7(Esnt 6/C3H
+d %F|<G 7(EsVP 6/C3H
+d %F|<I 7(EsKj 6/C3|
+d %F|<J 7(EsDz 6/C5k
+d %F|<K 7(EsC! 6/C6l
+w F78' foot#yes highway#footway surface#paved
+d %F|8~ 7(Et'? 6/C5t
+d %F|9! 7(Et,4 6/C3.
+d %F|9" 7(Et+6 6/C2?
+w Kj`8 highway#steps
+d &@8Jc 7(ErY\ 6/CX;
+d &@8Jg 7(Er\) 6/CW~
+w C*&| highway#service
+d $}HuG 7(Eppf 6/C[i
+d $}HuJ 7(EpUt 6/CZf
+w KA:# highway#steps
+d &;_9P 7(Eq7a 6/C|h
+d &;_9Q 7(Eq6> 6/C|{
+w K@si highway#steps
+d &;ZO= 7(Es0< 6/D$o
+d &;ZOW 7(Es-& 6/D$a
+w K@sk highway#steps
+d &;ZOY 7(Eru$ 6/D$|
+d &;ZOX 7(ErrE 5"J*m
+w NVjK highway#footway
+d E=ZA 7(EsZU 6/Ca3
+d &aM38 7(EsjA 6/Ci$
+d &aM39 7(Esm: 6/Cr9
+d &aM3: 7(Esne 6/CvC
+d &aM37 7(Eszl 6/Cy-
+w F77l foot#yes highway#footway surface#unpaved
+d %F|4W 7(Et1( 6/CL}
+d %F|5^ 7(Et)G 6/CQN
+w K@sX highway#footway surface#paved
+d &;ZO2 7(Et"z 6/CvC
+d &aM37 7(Eszl 6/Cy-
+d &;ZO3 7(EsgH 6/D#q
+d &;ZO< 7(Es^H 6/D':
+d &;ZOE 7(Es]B 6/D(t
+w C*'5 highway#service
+d $}Hw4 7(Ep9^ 5"J&R
+d $}Hw: 7(Ep.M 6/CXA
+w KA:- highway#footway surface#paved
+d &;_9[ 7(EqA` 6/D%7
+d &;_9\ 7(Eq>@ 5"J+2
+d &;_9] 7(Eq9u 6/D*,
+w H3(M bicycle#yes highway#cycleway
+d %ai#b 7(Eo7p 6/C9Q
+d %ai#z 7(Eo9> 5"J#]
+d &aM3. 7(Eo:4 4.P;
+d %ai$1 7(Eo;9 6/C>1
+d %ai$2 7(EoP7 6/CZV
+d %ai&" 7(EoS0 6/C]F
+d %ai&# 7(EoY" 6/CeI
+d %ai&$ 6fNM- 6/Cu{
+d %ai&% 7(EoiY 5"J*t
+d %ai&& 7(EooK 6/D1A
+d %ai&' 7(Eorr 6/D7U
+d %ai'O 7(Eovi 6/DAP
+d %ai'P 7(Eo|[ 6/DKT
+d %ai'Q 7(Ep-f 6/DVP
+d %ai'R 7(Ep/b 6/DW|
+w KA:% highway#steps
+d &;_9R 7(Eq;& 6/C~7
+d &;_9S 7(Eq;C 6/C~T
+w Kj`7 highway#footway surface#paved
+d &@8Jf 7(ErJv 6/CY`
+d &@8Jb 7(ErQ* 6/CY5
+d &@8Jc 7(ErY\ 6/CX;
+w KA:+ highway#footway surface#paved
+d &;_9Y 7(EqBo 6/D#y
+d &;_9Z 7(EqB* 6/D$z
+w C*&o highway#service
+d $}Ht1 7(Eo{< 6/C;*
+d %F{U/ 7(Eo{% 6/C9\
+d $}HtV 7(Eoym 6/C2/
+d $}HtY 7(EpJD 6/C/t
+w KA:$ highway#footway surface#paved
+d &;_9Q 7(Eq6> 6/C|{
+d &;_9R 7(Eq;& 6/C~7
+w Kj`6 highway#steps
+d &@8Ja 7(ErGy 6/CYe
+d &@8Jf 7(ErJv 6/CY`

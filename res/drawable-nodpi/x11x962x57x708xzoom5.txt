@@ -1,0 +1,124 @@
+w `&x@ amenity#ferry_terminal bicycle#permissive foot#yes name#Lilla_Bommen public_transport#platform
+d $NRlk 7(EoA` 6/G6b
+d 4e`KC 7(EoB@ 6/G68
+d 4e`KF 7(EoEO 6/G6D
+d 4e`KH 7(EoKN 6/G6*
+d $NRll 7(EoL^ 6/G5I
+d )R~!* 6fNJ> 6/G5*
+d )S$1s 7(EoA8 6/G4r
+d )S$0a 7(Eo>~ 6/G6W
+d 4e`KA 7(Eo@Q 6/G6]
+d $NRlk 7(EoA` 6/G6b
+n "hny: 7(Emr) 6/GZ" highway#traffic_signals
+n $1D$# 6fN'[ 6/GW% amenity#atm
+n $1D$$ 7(Em,Y 6/GN_ amenity#atm operator#Handelsbanken
+n $G!On 7(En>, 5"JJ\ highway#traffic_signals
+n $G!c# 7(Eo!~ 6/G\6 highway#traffic_signals
+n $G!k" 7(Eou2 6/G`! highway#traffic_signals
+n $\#gC 7(ElNE 6/G>V name#Lilla_Bommen railway#tram_stop
+n $\#x` 7(Ej:G 6/GIP name#Brunnsparken railway#tram_stop
+n $_H=+ 7(Ell} 6/G@Y amenity#bank name#Nordea operator#Nordea
+n $`i*? 7(El]A 6/GY< highway#turning_circle
+n $a.0U 7(El08 6/GR% name#Hemköp shop#supermarket
+n $e6ca 7(Ek{3 6/G=q amenity#atm operator#Danske_Bank
+n $e6dk 7(ElLM 6/G,] amenity#restaurant description#sushi
+n $v52b 7(Em^G 6/Fh~ highway#turning_circle
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $~PKy 7(EkS_ 6/G%d barrier#bollard
+n %#<Ux 7(EmX_ 6/GQ} highway#traffic_signals
+n &[k^b 7(Em51 6/GF> amenity#parking name#P-hus_Nordstan parking#multi-storey
+n &[k^c 7(ElWc 6/GN6 amenity#parking name#P-hus_Nordstan parking#multi-storey
+n &[k^d 7(EmMf 6/GVX amenity#parking name#P-hus_Nordstan parking#multi-storey
+n &^:an 6fN-t 6/G;v addr:city#Göteborg addr:housenumber#7 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n &^:jy 7(El+= 6/G<{ addr:city#Göteborg addr:housenumber#11 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n &^:jz 6fN+" 6/G9Q addr:city#Göteborg addr:housenumber#9 addr:interpolation#odd addr:postcode#41110 addr:street#Spannmålsgatan
+n &^:j{ 7(Ekhu 6/G?> addr:city#Göterborg addr:housenumber#13 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n &^:j| 7(EkQt 6/G=1 addr:city#Göteborg addr:housenumber#13 addr:interpolation#odd addr:postcode#41110 addr:street#Kronhusgatan
+n &^:j} 7(Ek]; 6/G>* addr:city#Göteborg addr:housenumber#16 addr:interpolation#even addr:postcode#41110 addr:street#Kronhusgatan
+n &^:j~ 7(EkSn 6/G?v addr:city#Göteborg addr:housenumber#17 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n &^:k! 7(EkOK 6/GG5 addr:city#Göteborg addr:housenumber#24 addr:interpolation#even addr:postcode#41109 addr:street#Östra_Hamngatan
+n &^:k" 7(EkGN 6/GG[ amenity#atm operator#SEB
+n &^;5e 7(El3= 6/GDp addr:city#Göteborg addr:housenumber#18 addr:interpolation#even addr:postcode#41109 addr:street#Östra_Hamngatan
+n &^;5j 7(Elf4 6/GAp addr:city#Göteborg addr:housenumber#16 addr:interpolation#even addr:postcode#41109 addr:street#Östra_Hamngatan
+n &^;5m 7(ElM? 6/GI& addr:city#Göteborg addr:housenumber#14 addr:interpolation#even addr:postcode#41109 addr:street#Spannmålsgatan
+n &^;5o 6fN/" 6/GJG amenity#restaurant cuisine#sushi name#Asienköket
+n &^?Lc 7(Ely9 6/G9N addr:city#Göteborg addr:housenumber#3 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n &^?Ld 7(ElM+ 6/G;B amenity#restaurant cuisine#italian email#info@othello.se fax#031138220 name#Ristorante_Othello phone#031135152 website#http://www.othello.se/
+n &^?Lf 7(ElCF 6/G-* amenity#restaurant cuisine#pizza
+n &^?Lh 7(Elt[ 6/G@M amenity#cafe name#Café_green_&amp;_rum
+n &^?Lk 7(Em', 6/G4= leisure#fitness_centre name#Sportlife
+n &^?Lm 7(Em%^ 6/G2n addr:city#Göteborg addr:housenumber#6 addr:interpolation#all addr:postcode#41110 addr:street#Sankt_Eriksgatan
+n &^?Ln 7(Em!: 6/G-u addr:city#Göteborg addr:housenumber#5 addr:interpolation#all addr:postcode#41110 addr:street#Sankt_Eriksgatan
+n &^?Lp 7(Em"e 6/G/~ amenity#restaurant name#Swedish_Taste wheelchair#yes
+n &^?Lr 7(Elyr 6/G&0 addr:city#Göteborg addr:housenumber#4 addr:interpolation#all addr:postcode#41110 addr:street#Sankt_Eriksgatan
+n &^?Lv 7(Elz* 6/G'| amenity#restaurant name#Bommen
+n &^?Lw 7(Em#o 6/F}z addr:city#Göteborg addr:housenumber#3 addr:interpolation#all addr:postcode#41110 addr:street#Sankt_Eriksgatan
+n &^?Lx 7(Em%= 6/G!a amenity#restaurant name#Bergmans
+n &^?Lz 6fN3Y 6/G"& addr:city#Göteborg addr:housenumber#1 addr:interpolation#odd addr:postcode#41110 addr:street#Nedre_Kvarnbergsgatan
+n &^?L~ 7(ElSO 6/G$| addr:city#Göteborg addr:housenumber#5 addr:interpolation#odd addr:postcode#41110 addr:street#Nedre_Kvarnbergsgatan
+n &^?M" 7(Elv- 6/G$8 addr:city#Göteborg addr:housenumber#2A addr:interpolation#alphabetic addr:postcode#41110 addr:street#Nedre_Kvarnbergsgatan
+n &^?M& 7(EliK 6/G$| addr:city#Göteborg addr:housenumber#2B addr:interpolation#alphabetic addr:postcode#41110 addr:street#Nedre_Kvarnbergsgatan
+n &^?ka 7(Em=j 6/G02 highway#bus_stop name#Lilla_Bommen shelter#yes
+n &^?kb 7(En.> 5"JEs amenity#theatre contact:website#http://opera.se/ name#Göteborgsoperan wikipedia#sv:Göteborgsoperan
+n &^@%? 7(EnF4 6/FuB amenity#restaurant
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n (i!qy 7(EkF` 6/G/u amenity#restaurant name#Office_Food
+n (i!qz 7(EkAQ 5"JHH addr:housenumber#9 amenity#school name#NTI_Gymnasiet
+n )Nn?= 7(El%M 6/GpV highway#crossing
+n )R~!* 6fNJ> 6/G5* ferry#yes public_transport#stop_position
+n *0Ptt 7(Em{4 6/G8E attraction#big_wheel
+n +<nYG 7(Eo+3 6/G=7 amenity#bicycle_rental capacity#20 name#Lilla_Bommen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#1
+n +<nYX 7(Emgi 6/G:U amenity#bicycle_rental capacity#25 name#Kanaltorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#9
+n +]r6R 7(ElJl 6/GCo name#MacForum_(Apple_Computers) shop#computer
+n .(I,P 7(ElUX 6/GMr amenity#parking capacity:motorbike#yes fee#no motorcycle#designated parking#surface
+n .(I:j 7(El.T 6/GBw amenity#parking capacity:motorbike#yes fee#no motorcycle#designated parking#surface
+n 1:y5+ 6fN'w 6/GVZ information#office opening_hours#Mo-Fr_10:00-20:00;_Sa_10:00-18:00;_Su_11:00-17:00 tourism#information
+n 2;uUe 7(Em") 6/G?J amenity#public_building name#Försäkringskassan
+n 2;uUi 7(El}R 6/G?` amenity#public_building name#Kronofogden
+n 2;uUl 6fN#$ 6/GGB amenity#bicycle_parking bicycle_parking#stands
+n 2;uU{ 7(EkVI 5"JJ8 amenity#bicycle_parking bicycle_parking#stands
+n 2;uU~ 5'z+$ 4.T( amenity#waste_basket
+n 2;uV# 7(Ekbc 6/G@E amenity#bicycle_parking bicycle_parking#stands
+n 2;uV% 7(El*i 6/GC& amenity#bicycle_parking bicycle_parking#stands
+n 2;uV( 7(El~t 6/G?P amenity#public_building name#Skatteverket
+n 2@kTI 7(Elew 4.T@ amenity#parking name#P-hus_Nordstan parking#multi-storey
+n 3Y`3% 7(Eo'? 6/Fw| amenity#bench backrest#no material#wood seats#4
+n 3Y`3) 7(Eo,M 6/F|q historic#monument
+n 3Y`3, 6fNGt 5"JF% amenity#bench backrest#no material#wood seats#4
+n 3Y`3. 7(Eo1, 6/Fz/ amenity#bench backrest#no material#wood seats#4
+n 5rNd4 7(Ek,~ 6/GA] amenity#restaurant name#Andrum phone#031138504
+n 5rNd; 6fN)G 6/G>. amenity#bank name#Danske_Bank operator#Danske_Bank
+n 5rNd< 7(Ek:p 6/GA& name#Gain_Trading_Asien_Livs shop#convenience
+n 5rNdB 7(Eka4 6/G?g name#Hollywood shop#clothes website#http://www.hollywood.se
+n 5rNdD 7(Ek5a 6/GAC addr:city#Göteborg addr:housenumber#19 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n 5rNdL 7(ElU/ 6/G;* addr:city#Göteborg addr:housenumber#5 addr:interpolation#odd addr:postcode#41110 addr:street#Östra_Hamngatan
+n 5rNdM 7(El;M 5"JI@ name#Löplabbet shop#shoes website#http://www.loplabbet.se
+n 5rNdN 7(EkEC 6/G@[ amenity#restaurant cuisine#asian fax#031139768 name#Malaysia_Saté_Restaurant phone#0317115710 website#http://www.malaysiasate.se/
+n 5rNdP 7(El*] 6/G=0 name#Medicinhistoriska_Muséet tourism#museum website#http://www.sahlgrenska.se/museum
+n 5rNdQ 7(Em#d 4.T& amenity#public_building name#Pensionsmyndigheten
+n 5rNdS 7(Ek<h 6/GHA amenity#bank name#SEB operator#SEB
+n 5rNeI 7(Ekh3 6/GF> name#Åhléns_City operator#Åhléns shop#mall
+n 5rNeJ 7(El^} 6/G:N name#4-Gott shop#confectionery website#http://www.4-gott.se/
+n 5uv0V 7(Em5h 6/GNF name#Clas_Ohlson shop#hardware
+n 5uv0Z 7(El+. 6/GWl name#Din_Sko shop#shoes
+n 5uv0_ 7(ElBP 6/GV` amenity#pub name#Fair_Play
+n 5uv0a 6fN!} 6/GI6 amenity#cafe name#Festival_Café_&amp;_Konditori
+n 5uv0d 7(El`q 5"JK= name#Glitter shop#jewelry
+n 5uv12 7(Elyj 6/GOG name#Life shop#yes website#http://www.lifebutiken.se/
+n 5uv16 7(Em7, 6/GPp amenity#fast_food cuisine#burger name#McDonald's wheelchair#yes
+n 5uv1; 7(El-. 6/GQ| name#Nordstan_Sko_&amp;_Lås_ab shop#yes
+n 5uv1D 7(Elh= 6/GSN name#Pressbyrån shop#kiosk
+n 5uv1E 7(Ek{0 6/GXI amenity#pub name#Restaurang_Murveln
+n 5uv1I 7(Elyk 6/GRD amenity#fast_food cuisine#sandwich name#Subway wheelchair#yes
+n 5uv1M 7(Em:D 6/GMw name#SweetNail shop#beauty
+n 5uv1P 6fN4v 6/GQR name#Systembolaget opening_hours#Mo-We_10:00-18:00;_Th_10:00-19:00;_Fr_10:00-20:00;_Sa_10:00-15:00 shop#alcohol website#http://www.systembolaget.se/
+n 5uv1Q 7(EmB] 6/GPT name#Team_Sportia shop#sports
+n 5uv1S 7(Elq' 6/GRw name#Teknikmagasinet shop#electronics
+n 5uv1X 7(Em"U 6/GO8 name#The_Phone_House shop#mobile_phone
+n 5uv1^ 6fN75 6/GMP amenity#toilets name#Toalett_&amp;_Lounge
+n 5uv1b 6fN'A 6/GZ+ name#Ur_&amp;_Penn shop#jewelry
+n 5uv1c 7(Eltu 6/GOh name#Verner_&amp;_Verner shop#kitchen website#http://www.verner-verner.se/
+n 5uv1h 6fN,D 6/GWA name#ecco shop#shoes
+n 5uv1i 7(Ekl2 6/GY< name#interflora shop#florist

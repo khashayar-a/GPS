@@ -1,0 +1,9 @@
+n j&b] 7(Ek8c 6/C'F highway#traffic_signals
+n $_l5X 7(Eiw` 5"Ix, highway#bus_stop name#Nordviksgatan
+n $_l5v 7(EeHE 6/A~, highway#bus_stop name#Eriksberg_Centrum
+n $g==? 7(Ed]V 6/A?] highway#bus_stop name#Eriksberg_Krokäng wheelchair#yes
+n $hz?P 7(EjLG 5"J!u amenity#bank name#Bohusbanken
+n %ahxw 7(EhXZ 5"J"d barrier#gate
+n %ahxx 7(EhRe 5"J!x barrier#gate
+n )tfE9 7(Ei[[ 6/B6n crossing#island crossing_ref#zebra highway#crossing
+n -Zyck 7(Ef`_ 6/C,# is_in#Hisingen,_Göteborg,_Sverige name#Slottsberget place#hamlet

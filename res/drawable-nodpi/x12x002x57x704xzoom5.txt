@@ -1,0 +1,5 @@
+n $MZrk 7(EjWF 6/L,S amenity#school name#Gamla_Lundenskolan
+n $oNkR 7(Ei'\ 6/K"h highway#turning_circle
+n &;)c] 7(EgEy 6/KtD amenity#atm
+n 'b)wd 7(EjtF 6/KsP highway#bus_stop name#Kärralundsgatan shelter#yes
+n 56M4- 7(Ee?H 6/KS^ bicycle#yes crossing#island highway#crossing

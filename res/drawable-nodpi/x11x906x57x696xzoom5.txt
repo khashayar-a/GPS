@@ -1,0 +1,14 @@
+n %"Ho; 7(E\Aw 6/@8L barrier#gate
+n %"IX8 7(E_6~ 6/@i2 man_made#crane name#Eriksberskranen
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n &C2n, 7(E`>Z 6/@XT name#De_fyra_vindarnas_plats tourism#viewpoint wheelchair#limited
+n /]\N0 7(E^r$ 6/@|& seamark:buoy_special_purpose:colour#yellow seamark:buoy_special_purpose:shape#spar seamark:topmark:colour#yellow seamark:topmark:shape#x-shape seamark:type#buoy_special_purpose
+n /]\Nc 6fLt, 6/A*N seamark:buoy_special_purpose:colour#yellow seamark:buoy_special_purpose:shape#spar seamark:topmark:colour#yellow seamark:topmark:shape#x-shape seamark:type#buoy_special_purpose
+n 08e4u 7(E`m8 6/@rf addr:housenumber#43 addr:street#Ostindiefararen amenity#restaurant name#Pizzeria_Livia phone#+4631650100 wheelchair#yes
+n 1b:o6 7(E^J7 6/@M( tourism#viewpoint wheelchair#yes
+n 1b:tJ 7(E^k& 6/@[R addr:housenumber#59 addr:street#Monsungatan
+n 1b:w! 7(E^eX 6/@\> addr:housenumber#61 addr:street#Monsungatan
+n 5"KQD 6fM)| 6/A>} amenity#restaurant name#Faro_Resturang phone#+4631508270

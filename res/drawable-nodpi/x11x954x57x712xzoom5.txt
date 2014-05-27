@@ -1,0 +1,8 @@
+n .f3f_ 7(Ew"V 5"J=< railway#switch
+n .f3fv 7(EqzL 6/Ev> railway#switch
+n .f20: 7(EqMu 6/F;Y name#Norra_Frihamnspiren place#locality
+n .f3gH 7(Er!z 6/EsT railway#buffer_stop
+n .f3f{ 7(Ewkq 6/F() railway#crossing
+n ."F10 6fN[. 6/Fa` name#Frihamnen place#hamlet
+n .f3fB 7(EsQ( 6/Erz railway#switch
+n #HzJw 7(Ex<! 6/F-" railway#level_crossing

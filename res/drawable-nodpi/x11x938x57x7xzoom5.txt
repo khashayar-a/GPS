@@ -1,0 +1,7 @@
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n %B,{1 7(Ec@b 5"J/I amenity#ferry_terminal name#Stena_Line_Danmarksterminalen
+n ,[&qc 7(EbJm 6/Cwo barrier#lift_gate
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position

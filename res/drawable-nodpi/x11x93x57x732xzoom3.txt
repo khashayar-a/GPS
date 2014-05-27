@@ -1,0 +1,59 @@
+w ",1)_ building#yes
+d ."#fc 7(F,sT 6/Cy-
+d ."#e( 7(F,i( 6/Cy5
+d ."#fO 7(F,iL 6/Czs
+d ."#cW 7(F,iP 6/C{%
+d ."#fA 7(F,s{ 6/Cz{
+d ."#fc 7(F,sT 6/Cy-
+w ",1)H building#yes
+d ."#g! 7(F,d@ 5"J)~
+d ."#f& 6fQ1+ 6/Cy9
+d ."#e( 7(F,i( 6/Cy5
+d ."#fO 7(F,iL 6/Czs
+d ."#g! 7(F,d@ 5"J)~
+w "crJ( building#yes
+d 3o_TG 7(F(IH 6/D%7
+d 3o_T9 7(F(Gi 6/D&N
+d 3o_TB 7(F(PP 6/D&t
+d 3o_T7 7(F(R/ 6/D%]
+d 3o_TG 7(F(IH 6/D%7
+w ",3Jm building#yes
+d ."=I_ 7(F(Dz 6/C]7
+d ."=G5 7(F(FK 6/C[2
+d ."=FV 7(F(1x 5"J&i
+d ."=En 7(F(1P 6/C[7
+d ."=D@ 7(F'vQ 6/CZY
+d ."=H2 5'zCa 6/C\T
+d ."=Br 7(F(1? 5"J'#
+d ."=HC 7(F(1` 6/C\g
+d ."=I_ 7(F(Dz 6/C]7
+w ",3L$ building#yes
+d ."=Dn 6fPh? 6/Chr
+d ."=D> 7(F(V| 6/Ck$
+d ."=F, 7(F'z? 6/Cij
+d ."=Ca 7(F'z\ 6/Ci?
+d ."=Fu 7(F'Y: 6/Ch_
+d ."=F0 7(F'[* 6/CfJ
+d ."=Eg 6fPbd 6/Cg7
+d ."=DW 6fPbd 6/CgW
+d ."=Dn 6fPh? 6/Chr
+w "crJ* building#yes
+d 3o_T5 7(F(um 6/C~|
+d 3o_T3 7(F(jM 6/C~Z
+d 3o_T@ 7(F(kG 4.Px
+d 3o_TD 7(F(vg 6/C}v
+d 3o_T5 7(F(um 6/C~|
+w ",1)d building#yes
+d ."#fI 7(F,MX 6/Cq@
+d ."#da 7(F,Fp 6/Cq=
+d ."#e< 5'zGw 6/CsY
+d ."#eC 7(F,JW 6/Cs[
+d ."#eG 7(F,Jc 6/Crl
+d ."#g> 7(F,MC 5"J)2
+d ."#fI 7(F,MX 6/Cq@
+w "crJ) building#yes
+d 3o_T; 7(F(zz 6/D#b
+d 3o_TC 7(F(xt 6/D%#
+d 3o_TF 7(F(oL 6/D$P
+d 3o_T= 7(F(qR 5"J*[
+d 3o_T; 7(F(zz 6/D#b

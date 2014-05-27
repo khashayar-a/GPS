@@ -1,0 +1,118 @@
+w "O5km area#yes bus#no public_transport#platform railway#platform ref#A shelter#yes tram#yes wheelchair#no
+d 1mf_8 7(Ey+* 6/FPo
+d 1mf^r 7(Ey/e 6/FP}
+d 1mf^Y 7(Ey.| 6/FRG
+d 1mf^= 7(Ey.Q 5"JB6
+d 1mf_Y 7(Ey-g 6/FT/
+d 1mf_A 7(Ey,o 5"JBH
+d 1mf^V 7(Ey)y 6/FWI
+d 1mf_3 7(Ey%| 6/FZ>
+d 1mf_5 7(Ey%= 6/FZn
+d 1mf^& 7(Ey"x 5"JB|
+d 1mf^u 6fOF^ 6/FZ\
+d 1mf_\ 7(Ey"[ 6/FYg
+d 1mf_. 7(Ey$K 6/FX.
+d 1mf_K 6fOG- 5"JBT
+d 1mf^A 7(Ey'P 6/FUD
+d 1mf^7 7(Ey(H 6/FT4
+d 1mf_e 6fOGN 6/FRM
+d 1mf_8 7(Ey+* 6/FPo
+w "ix=| bus#yes name#Hjalmar_Brantingsplatsen_Läge_G public_transport#platform
+d 4MGzO 7(EyT8 6/Ew8
+d 4MGzi 7(Eysm 6/Ez^
+w "ix=~ bus#yes name#Hjalmar_Brantingsplatsen_Läge_J public_transport#platform
+d 4MGzg 7(Eys* 6/E}&
+d 4MGzM 7(EyQG 4.Rh
+w "ix={ bus#yes name#Hjalmar_Brantingsplatsen_Läge_F public_transport#platform
+d 4MGzz 7(Ey|p 6/Exk
+d 4MGz| 7(Ey}# 6/Eu3
+w "ix>! bus#yes name#Hjalmar_Brantingsplatsen_Läge_K public_transport#platform
+d 4MGzd 7(EyrM 6/E}8
+d 4MGzL 7(EyPt 6/Eyk
+w "ix=} bus#yes name#Hjalmar_Brantingsplatsen_Läge_H public_transport#platform
+d 4MGzN 7(EyT6 6/Elr
+d 4MGzK 7(EyMK 6/Eu*
+w "O5kk area#yes bus#no public_transport#platform railway#platform ref#A shelter#yes tram#yes wheelchair#no
+d 1mf^9 7(Ey"? 6/FPx
+d 1mf_Q 7(Ey#i 6/FP~
+d 1mf_F 7(Ey#7 6/FR&
+d 1mf^? 7(Ey"F 6/FR}
+d 1mf_^ 7(Ex~k 6/FTZ
+d 1mf_b 7(Ex|B 6/FVQ
+d 1mf_U 7(Exz/ 6/FX,
+d 1mf_k 7(Exvz 6/FZ3
+d 1mf^o 7(Exv2 6/FZ^
+d 1mf^\ 7(Extm 6/FZU
+d 1mf^^ 7(Exs` 6/FZL
+d 1mf^5 7(Exus 6/FX|
+d 1mf_H 7(Exx[ 6/FW3
+d 1mf^l 7(Ex{& 6/FUB
+d 1mf^# 7(Ex|_ 6/FT'
+d 1mf_7 7(Ex~H 5"JB1
+d 1mf_, 7(Ey!N 6/FQZ
+d 1mf^9 7(Ey"? 6/FPx
+n :4I; 7(F!"F 6/H@K name#Göteborg-Kville railway#technical_station ref#Gk
+n "77N3 7(Ey%0 6/FUr name#Frihamnen railway#tram_stop
+n "77N9 7(EyA5 6/Ek6 name#Hjalmar_Brantingsplatsen_Läge_B public_transport#stop_position tram#yes
+n #HyU> 7(EzqZ 6/FKT railway#switch
+n $hzh7 7(Ez31 6/FQ[ barrier#gate
+n 'jdcP 6fOH2 6/EZN highway#traffic_signals
+n (sN$@ 7(Eyv( 5"J;i bus#yes name#Hjalmar_Brantingsplatsen_Läge_E public_transport#stop_position
+n (sN$A 7(Ez#d 6/ExJ bus#yes name#Hjalmar_Brantingsplatsen_Läge_F public_transport#stop_position
+n (sN$B 7(EyU@ 6/Ex9 bus#yes name#Hjalmar_Brantingsplatsen_Läge_G public_transport#stop_position
+n (sN$C 7(EyJu 6/EmO bus#yes name#Hjalmar_Brantingsplatsen_Läge_H public_transport#stop_position
+n ,[Y7a 6fOS9 6/Ev{ amenity#fast_food name#Flintston
+n .//^3 7(Exo~ 6/Em= highway#traffic_signals
+n .//^L 7(Ex~H 6/Eq# highway#traffic_signals
+n .//_N 7(Ex{` 6/Es; highway#traffic_signals
+n .//`@ 7(Exi\ 6/Es" highway#give_way
+n .//`a 7(Exw; 6/F$. highway#traffic_signals
+n .0Ng0 7(E{RH 6/Ebw highway#crossing
+n .0Ng> 7(EzZc 6/Er* highway#crossing
+n .0NgV 7(E{t2 6/E^O highway#crossing
+n .BoU? 7(Ez@M 6/F_S shop#hifi
+n .BoUA 7(E{"Q 6/E~[ name#Elgiganten shop#hifi
+n 1&ZAe 7(E{y[ 6/G#I railway#switch
+n 1&ZA{ 7(E{]m 6/F`d railway#switch
+n 1&ZA| 7(E~n` 5"JSQ railway#switch
+n 1&ZB* 7(E{Bv 6/FRe railway#switch
+n 1&ZB4 7(E{Wk 6/FUI railway#switch
+n 1&ZB: 7(E|5f 6/Fn" railway#switch
+n 1&ZB? 7(E{{4 6/Fzb railway#switch
+n 1&ZBn 7(Ez-a 5"J@o railway#railway_crossing
+n 1&ZB{ 6fObN 5"JD> railway#switch
+n 1&ZC$ 7(E~3^ 6/H#o railway#switch
+n 1&ZC' 7(Eyg? 6/FA$ railway#switch
+n 1&ZCL 6fO{& 6/H4# railway#switch
+n 1&ZCX 7(E|A= 6/G/t railway#switch
+n 1&ZCg 7(E{u` 6/FfX railway#switch
+n 1&ZCm 6fOuv 6/G|I railway#switch
+n 1&ZCu 7(EyjD 6/F@. railway#switch
+n 1&ZD( 7(E{d0 6/Fl\ railway#switch
+n 1&ZD0 7(E~7x 6/Glh railway#switch
+n 1&ZD6 7(E~Nq 5"JMP railway#switch
+n 1&ZD8 7(E~K8 6/H%Z railway#switch
+n 1&ZD9 7(Ezp7 6/FOb railway#switch
+n 1&ZD< 7(E~0G 6/Gm% railway#switch
+n 1&ZDG 7(Ez}R 6/FO/ railway#buffer_stop
+n 1&ZDH 5'z<] 5"JP| railway#switch
+n 1&ZDW 7(E~TH 5"JM_ railway#switch
+n 1&ZDX 7(E{O# 6/Fp! railway#switch
+n 1&ZDd 7(E~9i 6/H&' railway#switch
+n 1&ZE* 7(Ez|* 5"JB@ railway#switch
+n 1&ZE- 7(E~BQ 6/GyA railway#switch
+n 1&ZE; 7(E~;b 6/Gt] railway#switch
+n 1&ZEB 6fOW' 6/FO; railway#switch
+n 1&ZEZ 7(EzUT 6/FKU railway#switch
+n 1&ZEh 7(E{%j 6/FNx railway#switch
+n 1&ZEk 7(E~=6 5"JNj railway#switch
+n 1&ZEl 7(E~Ne 6/Glk railway#switch
+n 1&ZEp 7(E{B@ 6/FQ^ railway#switch
+n 1&ZE} 7(E|'8 6/G(R railway#switch
+n 1&ZF# 7(E{=p 6/F^E railway#switch
+n 1&ZF- 7(E~O` 6/H.i railway#switch
+n 1mf_S 6fOJ) 6/Eez railway#crossing
+n 1o1J} 7(Eyq: 6/E|K bus#yes name#Hjalmar_Brantingsplatsen_Läge_J public_transport#stop_position
+n 4J'3} 7(EyAh 6/E`p name#Hjalmar_Brantingsplatsen_Läge_A public_transport#stop_position tram#yes
+n 4MGz; 7(EyS$ 6/EzQ bus#yes name#Hjalmar_Brantingsplatsen_Läge_K public_transport#stop_position
+n 4MGz= 7(Ey?a 6/Eeq railway#crossing

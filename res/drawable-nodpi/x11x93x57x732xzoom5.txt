@@ -1,0 +1,5 @@
+n &I9j1 7(F,I3 6/Cr@ addr:housenumber#6 addr:postcode#41749 addr:street#Bäckedalsvägen
+n %}uhl 7(F(c7 5"J'% highway#turning_circle
+n %}uk: 6fPjK 6/C\s barrier#gate
+n ,Q3bS 7(F*,[ 6/CE* name#Södra_toppen tourism#viewpoint
+n ,Q3bL 6fP|/ 6/CI4 tourism#viewpoint

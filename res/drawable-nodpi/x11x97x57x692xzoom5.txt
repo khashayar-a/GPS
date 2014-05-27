@@ -1,0 +1,65 @@
+w "ohUE bench#yes bus#yes name#Kapellplatsen public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+Gmx 7(EYhf 6/H(~
+d 5+Gn$ 7(EZKz 6/H%g
+w "ohUC bench#yes bus#yes name#Kapellplatsen public_transport#platform ref#Läge_A shelter#yes tram#yes
+d 5+Gmy 7(EYis 6/H*i
+d 5+Gn* 7(EZM[ 6/H'N
+n @SD! 7(EZdr 6/H#[ highway#traffic_signals
+n @eb| 7(E[TB 6/HA< highway#traffic_signals
+n "1=+D 7(EVaW 5"JPd highway#traffic_signals
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n "4v=S 7(EQ~1 6/HfZ traffic_calming#hump
+n "6i.Y 7(EW1> 6/H%U highway#turning_circle
+n "6i8j 6fL.E 5"JPQ highway#turning_circle
+n "{sYt 7(EVJY 6/H!D highway#traffic_signals
+n #+v0n 7(EZNR 6/Ggd is_in#Göteborg name#Landala place#suburb
+n $g,#x 7(E\dZ 6/H)& amenity#recycling
+n $qxj8 7(E[2< 6/H8q barrier#bollard bicycle#yes foot#yes
+n $w#PU 7(E[=( 6/HVS amenity#restaurant name#Thörnströms_Kök
+n $|+z~ 7(EYI8 6/H?2 barrier#bollard bicycle#yes foot#yes
+n $|EA$ 7(EYAF 6/H5` barrier#bollard bicycle#yes foot#yes
+n $~4]q 7(EZM9 6/GSl barrier#gate
+n %!p75 7(E^rO 6/GeQ highway#traffic_signals
+n %!p78 7(E^t) 6/Gf_ highway#traffic_signals
+n %+MZn 7(EZ_| 6/H!i bicycle#yes crossing#traffic_signals highway#crossing
+n %11u) 7(EY%x 6/HX1 highway#bus_stop name#Ålandsgatan shelter#no
+n &^rxc 6fLGT 6/Gg/ addr:housenumber#52 addr:street#Karl_Gustavsgatan
+n &^s!( 7(E[Ha 6/Gb5 addr:housenumber#48 addr:street#Karl_Gustavsgatan
+n '%I3j 7(Ec@1 6/I/2 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n '2,*_ 7(EZ4< 6/GkX amenity#restaurant name#Restaurant_Landala
+n '2,=Z 7(EYb( 6/Gmq amenity#school name#Franska_skolan_i_Göteborg
+n 'V9yz 7(EZ&P 6/Gra barrier#bollard
+n *<[%o 7(E[\< 6/H@d bicycle#yes crossing#traffic_signals highway#crossing
+n *<['t 7(E[M7 6/H>R bicycle#yes crossing#traffic_signals highway#crossing
+n -Kqlq 6fK~O 5"JWY crossing#uncontrolled highway#crossing
+n -L[yt 7(E\0- 6/HXo highway#turning_circle
+n -L[zW 7(EZt_ 6/Hg8 crossing#uncontrolled highway#crossing
+n 1[]Pg 7(E[Dj 6/HBF crossing#traffic_signals highway#crossing
+n 1^YjI 7(EZzj 6/H&8 bicycle#yes crossing#traffic_signals highway#crossing
+n 1^YjQ 7(EZrw 6/H"{ bicycle#yes crossing#traffic_signals highway#crossing
+n 1^YkV 6fL9} 6/H(G crossing#traffic_signals highway#crossing
+n 1_lT2 7(E[dn 6/H3u barrier#bollard bicycle#yes foot#yes
+n 1_lTY 7(E[W- 5"JT6 highway#turning_circle
+n 1_lUC 7(EZ/% 6/GlA building#entrance
+n 1_lW8 7(E[yz 6/H3R building#entrance
+n 1_lWY 7(EYmv 6/Gg{ bicycle#yes crossing#uncontrolled highway#crossing
+n 1_lWt 7(EZ<< 6/Gs} crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1d!%> 7(EVK- 6/Hq& crossing#uncontrolled highway#crossing
+n 1d!'7 6fKbJ 6/I(L crossing#uncontrolled;island highway#crossing
+n 1egB| 7(ES3u 6/Hp> traffic_calming#hump
+n 1k_@U 6fLDI 6/Guu amenity#bicycle_rental capacity#20 name#Kapellplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#46
+n 1m4*o 7(EXWr 6/H\@ crossing#uncontrolled highway#crossing
+n 1m4+j 7(EY7& 6/HUw crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1n"Nz 7(EYLX 6/H+, bicycle#yes crossing#traffic_signals highway#crossing
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"OJ 6fLL> 6/HCB crossing#traffic_signals highway#crossing
+n 1n"P' 7(EZDk 6/HK+ crossing#uncontrolled highway#crossing
+n 1n"Pa 7(EZR\ 6/H$M crossing#traffic_signals highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 1n"QA 7(EYI: 6/H)d bicycle#yes crossing#traffic_signals highway#crossing
+n 5+:Rw 7(EZxt 6/H.H highway#bus_stop name#Kapellplatsen shelter#yes
+n 5+:R~ 7(E[7Z 6/H$_ highway#bus_stop name#Kapellplatsen shelter#yes
+n 5+:SR 7(EY=D 6/HT# highway#bus_stop name#Ålandsgatan shelter#yes
+n 5+Gmh 7(EY~3 6/H'e bus#yes highway#bus_stop name#Kapellplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+Gmm 7(EZ.} 5"JPp bus#yes highway#bus_stop name#Kapellplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes

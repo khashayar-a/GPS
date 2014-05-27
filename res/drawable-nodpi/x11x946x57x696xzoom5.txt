@@ -1,0 +1,33 @@
+n E^*- 7(EaNQ 6/DmM name#Masthuggstorget railway#tram_stop
+n FJT1 7(EYaf 6/EcP highway#traffic_signals
+n FJTF 7(E^(d 5"J95 highway#bus_stop name#Prinsgatan railway#tram_stop
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n $1Cwm 7(Eb!1 6/Eh; name#Järntorget railway#tram_stop
+n $`ixp 7(Ea3q 6/CfD name#Stigbergstorget railway#tram_stop
+n %%[Hv 7(EY;Z 6/EdN name#Olivedalsgatan railway#tram_stop
+n &vfnC 7(E^.+ 5"J8J amenity#cinema name#Haga_bio wheelchair#limited
+n &w4.E 7(E^%m 6/EP2 amenity#pub cuisine#vegetarian name#Haga_bio wheelchair#limited
+n (ta~1 7(E^b% 6/EO; amenity#parking
+n (ta~J 7(E]Z2 6/ESa name#Linnéstadens_Cykel_&amp;_Service shop#bicycle
+n (ta~L 7(E^?; 6/EYZ name#Systembolaget operator#Systembolaget shop#alcohol wheelchair#yes
+n )=K-T 6fM'5 6/E_) highway#bus_stop name#Järntorget
+n )=K-V 7(E_/B 6/EMy highway#bus_stop name#Prinsgatan wheelchair#limited
+n )Abdi 7(E]pb 6/E3J highway#bus_stop name#Oscar_Fredriks_Kyrka
+n )Abdr 5'y{w 6/E62 highway#bus_stop name#Oscar_Fredriks_Kyrka
+n )gD^E 7(E^o7 6/E76 amenity#cafe name#Café_Con_Leche wheelchair#no
+n *>xp' 7(E]p@ 6/EZZ amenity#cafe name#Condeco wheelchair#yes
+n *>xpu 7(E]yk 6/EZE amenity#atm
+n *iu=2 7(EaL_ 6/Ef{ amenity#fast_food name#Burger_King wheelchair#yes
+n *iu=4 7(EaGN 6/Ejk amenity#pub name#Bishop's_Arms wheelchair#yes
+n *iu=5 7(Eace 6/Ei2 amenity#fountain fixme#Bad_wikipedia_link:_Järntorgsbrunnen name#Järntorgsbrunnen tourism#attraction wikipedia#Järntorgsbrunnen
+n ,%*P4 7(E_/* 6/E&0 leisure#playground
+n ,%*PG 7(E`;? 6/E!` amenity#kindergarten language#english name#ABC_-_All_About_Children
+n .Az)u 7(EaWb 6/EoR amenity#pub name#Dubliner's wheelchair#yes
+n .AzEu 7(Ea?4 6/E\E name#Seven_Eleven shop#convenience
+n .AzWF 7(E^l- 6/EX_ name#Seven_Eleven shop#convenience wheelchair#yes
+n 0?_U% 7(E_28 6/EP6 amenity#restaurant name#The_Old_Beefeater_Inn
+n 0Q{i1 6fM!b 6/E?0 amenity#pub name#The_Rover wheelchair#limited
+n 0Q{i4 7(Ea6_ 6/EB> amenity#pub name#Ölstugan_1892_Tullen wheelchair#no
+n 0R&Xx 7(E_bX 6/EZN addr:housenumber#16 addr:postcode#413_04 addr:street#Linnégatan amenity#pharmacy name#Apoteket_Svanen shop#pharmacy wheelchair#yes
+n 1k_A6 7(E_W) 6/Eg8 amenity#bicycle_rental capacity#20 name#Frigångsgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#39
+n 6#J+V 7(EagB 6/E]0 name#Flügger_färg shop#doityourself

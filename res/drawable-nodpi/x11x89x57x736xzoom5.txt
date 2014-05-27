@@ -1,0 +1,42 @@
+n "77N~ 7(ExnP 6/>}* name#Önskevädersgatan railway#tram_stop
+n "77O' 7(E|^} 6/?!8 name#Friskväderstorget railway#tram_stop
+n "77O+ 7(F"5S 6/?"z name#Väderilsgatan railway#tram_stop
+n "77OI 7(F-Z* 6/??\ name#Varmfrontsgatan railway#tram_stop
+n $mQg9 6fQe8 6/?Q( barrier#gate
+n %(!-G 7(F,N" 6/?4C barrier#gate bicycle#yes foot#yes
+n %H<7f 7(Esdz 6/>fz name#Mildvädersgatan railway#tram_stop
+n &8@)N 6fPm8 6/?7S name#Temperaturgatan railway#tram_stop
+n 'B*mX 7(F.m0 6/?N? amenity#recycling recycling:batteries#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 'Jq'6 7(F.9p 5"I\h barrier#gate bicycle#yes foot#yes
+n 'Jq'M 6fQEh 6/?#6 barrier#gate bicycle#yes foot#yes
+n 'QPo^ 6fQ;b 6/?9- name#Gottan shop#kiosk
+n 'QPo{ 7(F/5. 6/?BW amenity#bbq
+n 'c+ot 7(F,^~ 6/>tJ barrier#lift_gate bicycle#yes foot#yes
+n *(Tzn 7(F-sd 6/>e` barrier#gate bicycle#yes foot#yes
+n *gloj 7(Exvr 6/>}l crossing#uncontrolled highway#crossing
+n /gIbc 7(F.x) 6/?E7 addr:housename#8 addr:street#Solstrålegatan building#entrance
+n /gIbo 7(F/'! 6/?FB addr:housename#10 addr:street#Solstrålegatan building#entrance
+n /gIbq 7(F.Y} 6/?B] addr:housename#4 addr:street#Solstrålegatan building#entrance
+n /gIbt 7(F.h1 6/?Cr addr:housename#6 addr:street#Solstrålegatan building#entrance
+n /gIc% 7(F.K[ 6/?AF addr:housename#2 addr:street#Solstrålegatan building#entrance
+n /gim| 7(F'4C 6/<r| power#tower
+n /gin& 7(F#t$ 6/<Yu power#tower
+n /gin9 7(FL{n 6/B5g power#tower
+n /ginF 6fS0L 6/@i* power#tower
+n /ginO 6fRxQ 6/@V} power#tower
+n /gin^ 7(F0mH 6/?%} power#tower
+n /gio+ 7(F*'9 6/=*Q power#tower
+n /gioU 7(FBA2 6/@up power#tower
+n /gio[ 7(F4~R 6/?ij power#tower
+n /gioa 7(F2|` 5"I]C power#tower
+n /gipv 7(FPTt 6/B&q power#tower
+n /gip| 7(F7Y< 6/@#A power#tower
+n /giq% 6fQF! 6/>HN power#tower
+n /gir) 7(F+kV 6/=HB power#tower
+n /girj 7(FD'F 6/A,K power#tower
+n /gis* 7(F0#! 6/>l/ power#tower
+n /gisy 7(F,xK 6/=l? power#tower
+n /git$ 6fP1v 6/<Qv power#tower
+n /gitC 7(FH}\ 6/Ae* power#tower
+n /gitO 7(FFW6 6/AIc power#tower
+n /giti 7(F;4Z 6/@>~ power#tower

@@ -1,0 +1,10 @@
+n /e4#* 7(EV{4 6/@8f man_made#beacon seamark#beacon
+n $gl0q 7(ELXL 6/>vz barrier#bollard bicycle#yes foot#yes
+n /e4&A 7(EW0v 6/@DB man_made#beacon seamark#beacon
+n /e4.: 7(EW!< 6/@BR man_made#beacon seamark#beacon
+n /e3~n 7(EX^@ 6/?WC seamark:buoy_special_purpose:shape#conical seamark:topmark:shape#x-shape seamark:type#buoy_special_purpose
+n /e4(k 7(EW+y 6/@E2 man_made#beacon seamark#beacon
+n 'JN0z 7(EP!6 6/B>E barrier#bollard
+n 'LKqe 7(EU/" 6/?]` historic#memorial name#Röda_sten
+n 4#aGo 7(EU(V 5"Ifc addr:housenumber#10 addr:street#Banehagsgatan
+n /e3~8 5'yuW 5"If4 man_made#beacon seamark#beacon

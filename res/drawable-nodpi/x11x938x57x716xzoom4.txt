@@ -1,0 +1,148 @@
+w Er#z foot#yes highway#steps name#Brantbacken
+d E=C\ 7(EwD% 5"J/\
+d %@Y6. 7(EweT 6/DZl
+d %@Y6/ 7(Ewj% 6/D^W
+w "-RJl foot#yes highway#footway surface#paved
+d $h#jL 7(ExJ( 6/DWY
+d $h#jQ 7(Ex_D 4.QL
+w KM-d highway#path
+d &<o2c 5'z4/ 6/DYH
+d &<o2j 7(EuR5 6/DUj
+d &<o2g 7(Eu_F 6/DSi
+d &<o2h 7(Eukd 6/DQ0
+d &<o2m 7(EuoJ 6/DNR
+w @Uue foot#designated highway#cycleway
+d $`ZMb 7(EzbX 6/Dqt
+d $hZGB 6fOL7 6/DpE
+d )55[\ 7(EyR$ 6/DpB
+d )55[[ 7(Ey&j 6/Dp0
+d $h$;9 7(ExyH 6/Dp,
+d $hZM- 7(ExQw 6/DpE
+d $`ZP' 7(ExJ+ 6/Dph
+d $`ZP) 7(ExA@ 6/Dq=
+d )55[Z 7(Ew@j 5"J2C
+d $`ZP* 7(Evs@ 5"J2@
+d )55[Y 7(Ev@x 6/Dp$
+d $h#f~ 7(EuL( 6/DoY
+d $`ZP, 7(EuGY 6/DoX
+d )55[U 7(EtM7 6/Dn.
+d $dI's 7(Esx< 6/DmF
+d )55[S 7(Esb. 6/DmA
+d .-2[Q 7(Erv4 6/Dl*
+d $`ZP- 7(Er\" 6/Dl!
+d $`ZP. 7(ErJ< 6/Di`
+d $hZ@[ 7(ErA) 6/Dj!
+d Ecr3 7(Er7" 6/Dj8
+d $`ZP/ 7(Er(- 6/Djb
+d $a@Mo 7(Eqp* 6/Dj\
+d $`ZP1 7(EqhQ 6/Dj8
+d .-2Y| 7(Eq\~ 6/Di8
+d $`ZP2 7(Eq7| 6/Dc(
+d )B)K> 7(Eq1# 6/DcH
+d $`ZP3 7(Eq+@ 6/Dcb
+d $`ZP5 7(EpoN 6/D`a
+d $`ZP6 7(Epg| 6/D`<
+d $`ZP7 7(Ep[J 6/D`'
+d $`ZP9 7(EpDQ 6/D`'
+d $`ZP: 7(Ep() 6/D_t
+d $`ZP< 7(Eou4 6/D_i
+d .-%0; 7(EolA 6/D_/
+d $a@Om 7(Eoc] 6/D]q
+d .-%0P 7(EoH< 6/DYC
+d .-%1T 7(EoE@ 6/DW{
+d $`ZP= 7(Eo,d 6/DS0
+d .-%0N 7(Eo'G 6/DS:
+d )B)K; 6fNFh 6/DTR
+d $`ZP> 7(En{( 6/DU[
+d .-%0r 7(En|9 6/DVH
+d $`ZP@ 7(Enz: 6/DW9
+d $`ZPA 7(Enf0 6/DZ`
+d $`ZPB 7(En[$ 6/DY#
+d )B)K1 7(EnV; 6/DY~
+d )B)K/ 7(EnIc 6/D\h
+d )B)K5 7(En<F 5"J0`
+d %"p+< 7(En7) 6/D`h
+w Er(K foot#yes highway#footway tunnel#yes
+d %@Zn1 7(Ew`` 6/D',
+d %@ZnT 7(Ewb- 6/D#L
+w KM-f highway#path
+d &<o2\ 7(EtP8 6/DOH
+d &<o2[ 7(EtO` 6/DQc
+d &<o2^ 7(EtLm 6/DRk
+d &<o2] 7(EtPn 6/DVT
+d &<o2a 7(EtH6 5"J01
+d &<o2b 7(Et;v 6/D[0
+d &<o2_ 7(Et5? 6/D];
+w Er(B highway#service
+d %@Zm- 7(Ev+L 6/D+~
+d %@Zm2 7(Ev*H 6/D'y
+w A2NH foot#yes highway#footway surface#paved
+d $h#h+ 7(Ex?k 6/DW{
+d .0H!( 6fO@} 6/DX'
+w A2N9 bicycle#yes foot#yes highway#footway
+d $h#f~ 7(EuL( 6/DoY
+d $h#f( 7(EuLa 5"J1C
+w A7F3 foot#yes highway#footway
+d $dI)X 7(Est. 5"J0x
+d $hZCe 7(EtF5 6/DdZ
+d &<o2p 7(Et[` 6/De"
+d $h#f( 7(EuLa 5"J1C
+w KM-e highway#path
+d &<o2a 7(EtH6 5"J01
+d &<o2` 7(EtW} 6/DZ8
+d &<o2e 7(Etd" 6/DZ-
+d &<o2f 7(Eu.b 6/DZv
+d &<o2c 5'z4/ 6/DYH
+d &<o2d 7(EuIw 6/DZ]
+d &<o2i 7(EuTl 6/DZ`
+w "-RJX highway#service oneway#yes
+d .0G}1 7(ExIJ 6/Dn3
+d .0G{A 7(ExO9 6/Dn0
+w A2NM foot#yes highway#footway surface#paved
+d $h#iy 7(ExNk 6/D_a
+d .0Gz] 7(ExMR 6/D^P
+d .0Gz_ 7(ExM% 6/D\T
+d $h#jJ 7(ExGk 6/DZC
+d .0H!( 6fO@} 6/DX'
+d $h#jL 7(ExJ( 6/DWY
+w "-RJk foot#yes highway#footway surface#paved
+d $h#np 7(Exen 6/DV4
+d .0G}F 7(Exfs 6/DXE
+d .0G}M 7(ExdI 6/DZv
+d .0G|C 7(ExUl 6/D^b
+d $h#iy 7(ExNk 6/D_a
+d .0G|~ 7(ExL' 6/D`<
+d .0GzF 7(ExFo 6/D`N
+d .0G{! 7(ExCi 6/Daa
+d $h#jN 7(Ex@- 6/Dcz
+d $h#i} 7(Ex;M 6/Dg6
+d .0G}[ 7(Ex?Z 6/Dh[
+d .0H!0 7(ExZ. 6/Dhu
+d $h#j! 7(Ex`n 6/Di>
+w A2NY foot#yes highway#footway surface#paved
+d $h#jQ 7(Ex_D 4.QL
+d $h#no 7(Ex`\ 6/DSd
+d .0G{u 7(Exd6 6/DS3
+d .0Gzh 7(Exh; 6/DS=
+d .0GzO 7(Exh{ 6/DSO
+d .0G}( 7(Exj" 6/DSl
+d .0G{z 7(Exid 6/DTe
+d $h#k[ 7(ExhF 6/DUt
+d $h#np 7(Exen 6/DV4
+d .0G{; 7(Exa/ 6/DUj
+d $h#jQ 7(Ex_D 4.QL
+w Er$` bicycle#yes foot#yes highway#service motorcar#permissive
+d E=C[ 6fO2Q 6/DN"
+d &<o2m 7(EuoJ 6/DNR
+d %@YL8 7(EuI# 6/DN^
+d %@YL: 7(Eu1Z 6/DP+
+d %@YL; 7(EtS[ 6/DOM
+d &<o2\ 7(EtP8 6/DOH
+d %@YL< 7(Esw\ 5"J.f
+w KM-h highway#footway
+d &<o2p 7(Et[` 6/De"
+d .-2ZP 7(EtR* 6/Dgn
+d E=C> 7(EtP2 6/DiG
+w Er(I highway#service
+d %@ZmE 7(Ewau 6/D)|
+d %@Zn1 7(Ew`` 6/D',

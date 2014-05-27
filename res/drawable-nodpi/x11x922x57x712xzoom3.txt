@@ -1,0 +1,251 @@
+w C*&: amenity#parking area#yes
+d $}Hpd 7(Er`) 6/BgP
+d $}Hq] 7(ErY: 6/Bi&
+d $}Hq> 7(ErG5 6/Bm0
+d $}Hq? 7(ErJ\ 6/BmS
+d $}Hq@ 7(Er@E 6/Bo~
+d $}HqB 7(Er[5 5"I}z
+d $}HqC 5'z1w 6/Bm%
+d $}Hpd 7(Er`) 6/BgP
+w "MVA/ building#yes
+d 1`?LK 7(EsR! 6/C&j
+d 1`?LH 7(Es9| 6/C%(
+d 1`?LB 7(Es1v 6/C)&
+d 1`?LD 7(Ertp 6/C'-
+d 1`?LI 7(Er|o 6/C#2
+d 1`?LL 7(EreQ 6/C!R
+d 1`?LC 7(Erar 6/C#@
+d 1`?LE 7(ErpZ 6/C$D
+d 1`?LJ 7(Erhf 6/C(9
+d 1`?LM 7(Es6r 6/C+F
+d 1`?LF 7(Es?@ 6/C'6
+d 1`?LG 6fNpk 6/C(?
+d 1`?LK 7(EsR! 6/C&j
+w "7G8I building#yes
+d /A,^` 7(Et4) 6/BZ`
+d /A,]G 7(Et-m 6/B\&
+d /A,]H 7(EtLN 6/B`y
+d /A,^9 7(EtRh 6/B_U
+d /A,^` 7(Et4) 6/BZ`
+w "7G:E building#yes
+d /A,p{ 7(Et4& 6/Bq{
+d /A,q5 7(Es~' 6/Br/
+d /A,q" 6fNuV 6/Bt?
+d /A,p~ 7(Et4\ 6/Bt-
+d /A,p{ 7(Et4& 6/Bq{
+w F7rc building#yes
+d %G8R. 7(Es2' 6/B}x
+d %G8R/ 7(ErT( 6/Byn
+d %G8R0 7(ErQ] 6/B{3
+d %G8R2 7(Es.0 6/C!N
+d %G8R. 7(Es2' 6/B}x
+w "7G:I building#yes
+d /A,q/ 7(Es|. 6/C!&
+d /A,p} 7(Et<7 6/C#9
+d /A,q. 7(Et@, 6/C!>
+d /A,q6 7(Et!T 6/B},
+d /A,q/ 7(Es|. 6/C!&
+w "=)-[ building#yes
+d /~p)7 7(Eo+{ 6/Bg#
+d /~p'/ 7(En|^ 6/B`d
+d /~p(j 7(Eo*[ 5"I{t
+d /~p'\ 7(Eo8' 6/Bf4
+d /~p'o 7(EoVg 6/Bcy
+d /~p'i 7(Eo[g 6/Bf>
+d /~p'H 7(Eo'b 6/Bj0
+d /~p). 7(Eo"T 6/Bge
+d /~p)7 7(Eo+{ 6/Bg#
+w "7G:G building#yes
+d /A,q5 7(Es~' 6/Br/
+d /A,q) 7(Esi) 6/Br:
+d /A,q* 7(Eskv 6/B}~
+d /A,q/ 7(Es|. 6/C!&
+d /A,q6 7(Et!T 6/B},
+d /A,q4 7(Et!l 6/B||
+d /A,q, 7(EswV 6/B|=
+d /A,q# 6fNtf 6/BtJ
+d /A,q" 6fNuV 6/Bt?
+d /A,q5 7(Es~' 6/Br/
+w @2VC amenity#parking
+d $[3B~ 7(EpX: 6/BcH
+d $[3C! 7(EpIC 6/BYk
+d $[3C" 7(Epyp 5"Iz|
+d $[3C# 7(Eq*i 6/B`8
+d $[3B~ 7(EpX: 6/BcH
+w @2VI building#yes layer#1 name#VLM_-_Volvo_Group
+d $[3C< 7(Er`0 6/BF<
+d $[3C= 7(ErY[ 6/BGY
+d $[3C> 7(Era" 6/BHu
+d $[3C@ 7(ErWg 6/BJb
+d $[3CC 7(ErTS 6/BJ/
+d $[3CF 7(ErPL 6/BK$
+d $[3CJ 7(ErKx 6/BJ=
+d $[3CK 7(Er?T 6/BLg
+d $[3CL 7(ErC6 6/BMC
+d $[3CM 7(Er9l 6/BO?
+d $[3CN 7(Er)S 6/BLX
+d $[3CO 7(Er0T 6/BK1
+d $[3CP 7(Er$: 6/BI#
+d $[3CR 7(Er2a 5"Iy?
+d $[3CT 7(Er9' 6/BG?
+d $[3CU 5'z1< 6/BF%
+d $[3CV 7(ErC( 6/BF\
+d $[3CW 7(ErQf 6/BCf
+d $[3C< 7(Er`0 6/BF<
+w "7G8? building#yes
+d /A,^Q 7(Et3A 6/Bi7
+d /A,^% 7(EshK 6/BiS
+d /A,^7 7(Esh% 6/BgR
+d /A,^G 6fNwF 6/Bg7
+d /A,^Q 7(Et3A 6/Bi7
+w &bP6 highway#unclassified name#Tillgängligheten
+d E=\f 7(Eozm 6/Bp;
+d E=\g 7(EobD 6/Brm
+d &#@R] 7(En~T 6/Bu<
+d E=\h 7(Enyc 4.Ov
+d E=\i 7(Eo)n 6/B}Y
+d $|KWZ 7(Eoq` 6/Bxq
+d E=\j 7(Eouv 6/BxW
+d E=\k 6fNQ' 6/C%$
+d E=\l 7(Ep6} 6/C&1
+d E=\m 7(EpFa 6/C&1
+w "=)-R building#yes
+d /~p(R 7(EpY_ 6/C([
+d /~p(^ 7(EpWO 6/C/-
+d /~p(K 7(EpMw 6/C/#
+d /~p'6 7(EpP( 6/C(P
+d /~p(R 7(EpY_ 6/C([
+w @42Q amenity#parking
+d $[Eia 7(Es7j 5"Iy>
+d $[Eib 7(Es@< 6/BF;
+d $[Eic 7(EsE/ 6/BFt
+d $[Eid 7(EsGj 4.OL
+d $[Eie 7(EsD. 6/BJD
+d $[Eif 7(Es<J 6/BKC
+d $[Eig 7(Erx3 6/BM=
+d $[Eih 7(Erp= 6/BL~
+d $[Eii 6fNj4 6/BL>
+d $[Eij 7(ErhY 6/BKC
+d $[Eik 6fNj! 6/BJ+
+d $[Eil 7(Erj5 6/BI,
+d $[Eim 7(Erl^ 6/BHN
+d $[Ein 6fNjq 6/BGs
+d $[Eia 7(Es7j 5"Iy>
+w "7G8; building#yes
+d /A,], 7(Et"( 6/B^L
+d /A,^I 7(Esxq 6/B_}
+d /A,^L 7(Et9( 6/Be!
+d /A,^- 7(Et@= 6/BcN
+d /A,], 7(Et"( 6/B^L
+w @2VF building#yes layer#1 name#BC_-_Volvo_Powertrain
+d $[3C0 7(Eqor 6/B/.
+d $[E^A 7(Eqol 6/BAV
+d $[3C1 7(EqsV 6/BD"
+d $[3C2 7(Eqc- 6/BDt
+d $[E^N 7(Eq^Y 6/BB$
+d $[3C3 7(Eq^Y 6/B/&
+d $[3C0 7(Eqor 6/B/.
+w "=)-H building#yes
+d /~p(C 7(EoiI 6/Bsp
+d /~p'` 7(EoqD 6/Bu4
+d /~p'0 7(EonA 6/Bw]
+d /~p'Q 7(Eo*4 6/B{X
+d /~p)) 7(En~h 6/By~
+d /~p'l 7(Eo#+ 6/Bw{
+d /~p(C 7(EoiI 6/Bsp
+w "7G8@ building#yes
+d /A,^O 7(Esh\ 6/Bls
+d /A,^M 7(Esh~ 5"I}D
+d /A,^N 7(Et3D 6/BnK
+d /A,]n 7(Et3" 5"I}0
+d /A,^O 7(Esh\ 6/Bls
+w F7rg building#yes
+d %G8S' 6fNn} 6/B~V
+d %G8S( 7(Es8G 6/C"W
+d %G8S) 7(Esgd 6/C&%
+d %G8S* 7(Esk- 6/C$6
+d %G8S' 6fNn} 6/B~V
+w @42S amenity#parking
+d $[Eix 7(Er>9 6/B`p
+d $[Ej! 7(ErJJ 6/Bh!
+d $[Ei~ 7(Er6: 6/Bjh
+d $[Ei} 6fNd5 6/BlG
+d $[Ei| 7(Er$\ 6/Bl{
+d $[Ei{ 7(EqxT 4.Om
+d $[Eiz 7(Eqp. 6/Bf_
+d $[Eiy 7(Eq~I 6/Bc%
+d $[Eix 7(Er>9 6/B`p
+w @41> building#yes name#VLH_-_Volvo
+d $[E^b 7(EqnL 6/BMp
+d $[E^c 7(Eqmd 6/BKd
+d $[E^e 7(Eqrz 6/BJ{
+d $[E^i 7(Er9b 6/BQ3
+d $[E^j 7(Er6c 6/BZ;
+d $[E^s 7(Eql* 6/B_F
+d $[E^t 7(Eqj, 6/B^g
+d $[E^k 7(EqYW 6/B`q
+d $[E^l 7(EqPA 6/B^G
+d $[E^m 7(Eqi= 6/B[>
+d $[E^p 7(Eqk@ 6/B[z
+d $[E^q 7(Er&C 6/BXv
+d $[E^r 7(Er(> 6/BQp
+d $[E^b 7(EqnL 6/BMp
+w "=)-T building#yes
+d /~p)> 7(EofC 6/BhI
+d /~p', 7(Eom~ 6/Bf2
+d /~p'9 7(Ep#M 6/BhQ
+d /~p(h 7(Eoyp 6/Bjg
+d /~p)> 7(EofC 6/BhI
+w @2VE building#yes layer#1 name#VLU_-_Volvo_3P
+d $[3C+ 7(Erj= 6/B;,
+d $[3C, 7(Erj= 6/B?b
+d $[3C. 7(Er(Z 6/B?q
+d $[3C/ 7(Er)# 6/B;;
+d $[3C+ 7(Erj= 6/B;,
+w @42R amenity#parking
+d $[Eio 7(EsT\ 6/BQ}
+d $[Eip 7(Er}; 6/B]L
+d $[Eiq 7(Erv| 6/B]j
+d $[Eir 6fNjm 6/B]>
+d $[Eis 7(Ern/ 6/B\;
+d $[Eit 6fNjm 6/BZr
+d $[Eiu 7(EsFi 6/BP"
+d $[Eiv 7(EsN@ 6/BOb
+d $[Eiw 7(EsV> 6/BP]
+d $[Eio 7(EsT\ 6/BQ}
+w "7G84 building#yes
+d /A,^R 7(Et.' 6/BdK
+d /A,^d 7(Et)" 6/Be]
+d /A,^Z 7(Et.n 6/BfP
+d /A,^5 7(Et3t 6/Be>
+d /A,^R 7(Et.' 6/BdK
+w C!6^ amenity#parking area#yes
+d E=\i 7(Eo)n 6/B}Y
+d $|KX. 7(Eo-d 6/C"/
+d $|KX/ 7(Eowq 6/B{i
+d $|KWZ 7(Eoq` 6/Bxq
+d E=\i 7(Eo)n 6/B}Y
+w @2VD building#yes layer#1 name#VLD_-_Volvo_IT
+d $[3C$ 7(EsM~ 6/B;`
+d $[3C% 7(Es5~ 6/BA$
+d $[3C& 7(Es*3 6/B?=
+d $[3C' 7(Es/` 6/B={
+d $[3C( 7(Es%~ 6/B<T
+d $[3C) 7(Es8y 6/B8R
+d $[3C$ 7(EsM~ 6/B;`
+w "7G8C building#yes
+d /A,^" 7(EsqN 5"I|%
+d /A,^P 7(Esfi 6/Bcu
+d /A,]o 7(Esp< 6/BeA
+d /A,^^ 7(Esrr 6/Bdg
+d /A,^Y 7(EsvI 6/Be<
+d /A,]# 7(Es{; 6/Bd1
+d /A,^! 7(Esz, 6/Bd!
+d /A,^m 7(Es}G 6/Bc8
+d /A,^" 7(EsqN 5"I|%
+w "7G:H building#yes
+d /A,q+ 7(EtJk 6/BzH
+d /A,q7 7(EtFR 6/B|O
+d /A,q8 6fNv0 6/Bz,
+d /A,q2 7(Et*r 6/Bx*
+d /A,q+ 7(EtJk 6/BzH

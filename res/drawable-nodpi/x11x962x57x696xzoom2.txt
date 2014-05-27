@@ -1,0 +1,302 @@
+w "E?ct name#Annedal old_name#Albostaden place#suburb
+d 0uNBW 7(E]x= 5"JBm
+d 0uNHQ 7(E]r4 6/Fkk
+d 0uNB` 7(E]cs 6/Fq.
+d 0uNBh 7(E\f7 6/Fq(
+d 0uNB] 7(E\NL 6/FuC
+d 0_hNP 7(E[xh 6/FxF
+d 0uNBj 7(E[Jr 6/FyM
+d 0uNBY 7(EYgZ 6/Fj(
+d #?u}. 7(EYI- 5"JCx
+d 0uNBk 7(EXIn 6/FY&
+d %"uNi 7(EWiD 6/FZ}
+d $}c;g 7(EWRj 5"JBx
+d 0uNBC 7(EWF5 6/FW!
+d 0uNBi 7(EW!Z 6/FQR
+d 0_hP@ 7(EVY3 6/FS=
+d 0uNDw 7(EV,t 6/FP,
+d 0uNC& 7(EU|V 6/FE}
+d 0uNDm 7(EV8p 5"J>>
+d #?u|] 7(EU(] 6/Em}
+d 0uNDx 7(EUSf 6/EjX
+d 0uNE* 7(EVze 6/El]
+d 0uNDk 7(EX)k 6/Esr
+d 0uNE, 7(EY2^ 6/F&4
+d 0uNE! 7(E[B? 6/F=u
+d 4"k]! 7(E\\e 5"J@Z
+d 4"jl< 7(E]_P 6/FRM
+d 0uNBW 7(E]x= 5"JBm
+w &fp| highway#residential name#Karl_Gustavsgatan
+d EbRK 7(E^G& 6/GK+
+d %0ScK 7(E^,X 6/GJJ
+d %0ScL 7(E]q4 6/GJ:
+d EbRM 7(E]X( 6/GK"
+d 1_lV~ 7(E\yU 6/GPW
+d EbRR 6fLWb 6/GRM
+d EbRY 6fLST 6/GXn
+d EbRS 6fLP6 6/G[T
+w BxJj highway#tertiary name#Vasagatan oneway#yes railway#tram
+d 45_%z 7(E_|% 6/G6<
+d EbMC 7(E_uB 6/G2(
+d 45^.s 7(E_oF 6/G.B
+w "E5KL name#Vasastaden place#suburb
+d 0uNCs 7(Eaqe 5"JL:
+d 0uNE' 7(Eb`: 6/GP4
+d 0uNE% 7(Ecy6 6/G5f
+d 3%T=z 7(Ec\8 6/G3G
+d 3%T=a 7(Ec?* 6/G0j
+d EbUH 6fM5u 6/G.y
+d 0uNDh 7(EbfD 6/Fv;
+d ""bv= 7(E]oY 6/FpG
+d 0uNDr 7(E\jR 6/FsS
+d 0uNBa 7(E\)r 6/Fy8
+d 0uNBb 7(E[c: 6/Fz/
+d #?u}: 7(E[S9 6/G)?
+d 0uNBm 6fLN4 6/G<l
+d 0uNBd 7(E\RA 6/G=+
+d 0uNBf 7(E]R4 6/Gd?
+d 0_hN` 7(E^8K 6/Gk$
+d 0uNHn 7(E`IU 6/G`~
+d 0uNHx 7(E`xn 6/Ggy
+d 0uNCs 7(Eaqe 5"JL:
+w &fpt highway#tertiary name#Vasaplatsen oneway#yes
+d 5^J6A 7(E`w. 6/Gh|
+d %!IGB 7(Ea"] 6/GgP
+d ?}R5 7(Ea() 6/Gfa
+d EbLw 7(Eb!t 6/GZB
+d %*g9] 7(Eb'` 6/GYX
+d %#{K) 7(EbLr 6/GT]
+w &fq/ highway#tertiary name#Viktoriagatan
+d ?zTj 7(Eacx 6/G(J
+d EbM! 7(Ea4E 6/G+,
+d Ebo| 7(E`TW 6/G.Z
+d 45^.] 7(E`3h 6/G0L
+d EbMC 7(E_uB 6/G2(
+w &ft\ highway#residential
+d Ebp# 7(E`t> 6/Fu-
+d EbM! 7(Ea4E 6/G+,
+w &-Yy highway#secondary name#Parkgatan oneway#yes railway#tram
+d ?zTh 6fM%z 6/F^@
+d '&(bj 7(EaRU 6/F_=
+d %%U3/ 7(EaRj 6/Fa`
+d Eb|m 7(EaP& 6/Fm1
+d ?zTi 7(EaLd 6/Fui
+d 45^.u 7(EaQ| 6/FzP
+d 45^.j 6fM&w 6/G"a
+w C/d~ highway#residential name#Nedre_Fogelbergsgatan
+d $~.1r 7(E_Hf 6/G!g
+d 5&V/a 7(E^Xt 5"JG(
+d $~.:( 7(E^S< 6/G&$
+w &fqr highway#residential name#Karl_Gustavsgatan oneway#yes
+d EbM" 7(EaM* 6/G:`
+d EbUt 7(Ea|3 6/G8+
+w "g_MW highway#secondary name#Parkgatan oneway#yes
+d 45^.j 6fM&w 6/G"a
+d ?zTj 7(Eacx 6/G(J
+w &fpu abutters#residential highway#residential name#Storgatan oneway#yes
+d EbLw 7(Eb!t 6/GZB
+d EbLx 7(Ea~5 6/GW6
+d %!p71 7(Eazo 6/GU\
+d EbM$ 7(Eac& 6/GI<
+w "E?cs name#Lorensberg place#suburb
+d 0uNGC 7(EZSM 6/IJb
+d 0uNG( 7(E[I] 5"J\D
+d 0vaXg 7(EZP= 5"JYy
+d 0uNBv 7(EYsO 6/I#x
+d 0uNBQ 7(EYU& 6/Hm#
+d 0uNBI 7(EZ'Z 5"JW-
+d 0uNB4 6fLG. 6/HiS
+d 0uNBP 6fLR3 6/HmP
+d 0uNBH 6fLV. 6/Hl%
+d 0_hMN 7(E\nI 6/Ha-
+d 0vaXo 7(E[w/ 6/HK:
+d 0uNDl 7(EZvN 6/H':
+d 0uND5 7(E^5x 6/Gm3
+d 0uNHn 7(E`IU 6/G`~
+d 0uNHO 7(E`re 6/Gj6
+d 0uNCv 7(EbWf 6/GT(
+d 0uNC} 7(Ed"l 5"JHv
+d 0uNBy 7(EdXH 6/G;I
+d 0uNC$ 7(Ed_2 6/G?v
+d EbWx 7(EdI' 6/GY;
+d EbWy 7(EdUs 6/G\s
+d EbWz 7(EelM 6/Gc=
+d 0uNG$ 7(Ef'o 6/Gl{
+d 0uNFy 7(Eeot 6/Gwb
+d 0uNG" 6fMHh 5"JP0
+d 0uNG) 7(Ea[M 6/HeN
+d 0uNG! 7(E^J` 6/IHS
+d 0uNG& 7(E]i7 5"J^e
+d 0uNFv 7(E]!\ 6/IVx
+d 0vaXt 7(E\az 6/IO'
+d 0vaY$ 7(EZlj 6/IQ\
+d 0uNGC 7(EZSM 6/IJb
+w ,s/@ highway#residential name#Lilla_Bergsgatan oneway#yes
+d ""bv= 7(E]oY 6/FpG
+d ""bv: 7(E]z@ 6/FZ5
+d #?sU} 7(E^&^ 6/FVz
+w CJf| highway#residential name#Haga_Kyrkogata railway#tram
+d Ebp% 7(E_2G 6/Fr{
+d %!F6J 7(E_=p 6/FsA
+d Ebp! 7(E_HC 6/Fsb
+w 0*Oc highway#secondary name#Parkgatan oneway#yes
+d ?zTj 7(Eacx 6/G(J
+d EbUt 7(Ea|3 6/G8+
+d ?zTk 7(Eb!^ 6/G:B
+d EbRJ 7(Eb3u 6/GF]
+d %!p70 7(EbF| 6/GRf
+d ?lnm 7(EbI3 6/GSf
+w "E?cv name#Haga old_name#Hagen place#suburb
+d 0uNAz 7(EaKf 6/EcG
+d 0uNB% 7(Ea|G 6/EpR
+d 0uNB2 7(Eag_ 6/F),
+d 0uNB( 7(EaJF 6/FuX
+d 0uNE0 7(E]t] 5"JE=
+d 0uNHX 7(E]}8 6/F]J
+d 0uNHW 7(E]s2 5"JAy
+d %!F*< 7(E\\r 6/F@>
+d (5pS9 7(E\z& 6/F5)
+d "'a"w 7(E]3r 6/F.R
+d "'a$- 7(E]&? 6/F'1
+d "'a"y 7(E]8J 6/Exc
+d "'a"| 7(E]pw 6/Em2
+d "'a#$ 7(E^)s 6/Efm
+d "'a#- 7(E^!d 6/Ee4
+d 0uND: 7(E^<$ 5"J:8
+d 0`{My 7(E]_\ 6/EY"
+d 0`{P# 7(E_(P 6/ET7
+d 0uNAz 7(EaKf 6/EcG
+w &ft_ highway#residential name#Haga_Kyrkogata oneway#yes
+d Ebp! 7(E_HC 6/Fsb
+d Ebo~ 7(E`0\ 5"JET
+d Eb|] 5'y~D 6/Ft[
+d Ebp# 7(E`t> 6/Fu-
+w C>WJ highway#tertiary name#Viktoriagatan
+d EbMC 7(E_uB 6/G2(
+d %!F6K 7(E_mH 6/G2L
+d EbM9 7(E_d] 6/G2}
+w &ft] highway#residential
+d Ebp# 7(E`t> 6/Fu-
+d Ebp" 7(Ea5[ 6/FuU
+w &fq# highway#residential name#Erik_Dahlbergsgatan oneway#yes
+d EbRL 7(E^]" 6/GX[
+d EbRU 7(E]EA 6/G_u
+d $y_pP 7(E]FH 6/G`n
+d $y_wy 7(E]AJ 6/GbX
+d "BY)` 7(E\`$ 4.TO
+d 1_lTL 7(E\TQ 6/Gk-
+d 1_lU9 7(E\H6 6/Gk3
+d "BY)_ 7(E\@M 6/Gks
+w &fqy highway#residential name#Karl_Gustavsgatan oneway#yes
+d EbM# 7(EaPQ 6/G<r
+d ?zTk 7(Eb!^ 6/G:B
+w D1o: highway#tertiary name#Aschebergsgatan oneway#yes
+d %!p72 7(E`[4 6/G\F
+d %!p73 7(E`R[ 5"JLX
+d %!p74 7(E`Ie 6/G]A
+d %!p75 7(E^rO 6/GeQ
+d %!p76 7(E^(i 6/Gj~
+d %!p77 7(E\V6 6/Gw/
+w 29RS highway#residential name#Haga_Kyrkogata railway#tram
+d Ebp% 7(E_2G 6/Fr{
+d ""bv= 7(E]oY 6/FpG
+w /7j{ highway#tertiary name#Aschebergsgatan oneway#yes
+d '!nuQ 6fL#w 6/H)l
+d 1^YlE 7(EWzZ 6/H+3
+d 1^Yh2 7(EXTJ 6/H+_
+d $g[t] 7(EXuK 6/H,0
+d 1`?^9 7(EY+C 6/H,S
+d "1=GW 7(EYH> 6/H,s
+d 1n"Pr 7(EYP= 6/H,j
+d 1n"O% 7(EYW\ 6/H,[
+d "1=GX 7(EY[- 6/H,S
+d 1n"O5 7(EYbl 6/H,=
+d 1^Yk+ 7(EZ.b 6/H*j
+d "1=GY 7(EZZc 5"JPe
+d "1=GZ 7(EZnG 6/H'-
+d 1^YjI 7(EZzj 6/H&8
+d "1=G[ 7(E[DA 6/H#J
+d "BY-J 7(E[`T 6/H!4
+d %!p78 7(E^t) 6/Gf_
+d %+dV] 7(E_ks 6/Gb0
+d 5+:S8 7(E`G* 6/G_?
+d %!p79 7(E`M1 6/G`V
+w &ft^ highway#residential name#Bellmansgatan oneway#yes
+d Ebo| 7(E`TW 6/G.Z
+d Ebo} 7(E`?: 5"JFW
+d Ebo~ 7(E`0\ 5"JET
+w C=@; highway#tertiary name#Vasagatan oneway#yes
+d %!p79 7(E`M1 6/G`V
+d EaMZ 7(E`n% 6/Ghm
+d 5^J6A 7(E`w. 6/Gh|
+w "o<qg highway#residential
+d 5&V/a 7(E^Xt 5"JG(
+d 5&V/9 7(E^U& 6/G$m
+d 5&V,s 7(E^.U 6/Fx&
+w &ffE highway#tertiary name#Engelbrektsgatan
+d EbRO 7(E^)! 5"JI8
+d EbRK 7(E^G& 6/GK+
+d EbRL 7(E^]" 6/GX[
+d %!p75 7(E^rO 6/GeQ
+d %!p7> 7(E^s< 6/Gf"
+d %!p78 7(E^t) 6/Gf_
+d EaJ? 7(E^yK 6/GrI
+d $fcZ' 7(E^|] 6/Gz|
+d EaJP 7(E_!^ 6/H%K
+d 2k,` 7(E_"b 6/H,#
+d ?}GF 6fLn7 6/H3s
+w &fxw highway#residential name#Västergatan railway#tram
+d Eb~i 7(E[u% 6/Ffv
+d Eb~j 7(E\zX 6/Fi"
+d ""bv= 7(E]oY 6/FpG
+w 6.'h highway#tertiary name#Vasagatan oneway#yes railway#tram
+d Ebp% 7(E_2G 6/Fr{
+d $~.1r 7(E_Hf 6/G!g
+d 45_&7 7(E__@ 6/G/a
+d EbM9 7(E_d] 6/G2}
+d 45^.E 6fLs^ 6/G7@
+w 1a?k highway#tertiary name#Viktoriagatan
+d EbM9 7(E_d] 6/G2}
+d EbRO 7(E^)! 5"JI8
+w &fq. abutters#residential highway#residential name#Storgatan
+d EbM! 7(Ea4E 6/G+,
+d EbM" 7(EaM* 6/G:`
+d EbRG 7(EaNb 6/G;b
+d EbM# 7(EaPQ 6/G<r
+d EbM$ 7(Eac& 6/GI<
+w 1a?l highway#tertiary name#Vasagatan oneway#yes
+d Ebp! 7(E_HC 6/Fsb
+d Eb|\ 7(E_Ht 6/Fqy
+d '&(be 7(E_NT 6/F]E
+d ?x=P 7(E_N{ 6/F\9
+w BxJ7 highway#residential name#Viktoriagatan
+d EbRO 7(E^)! 5"JI8
+d EbRN 7(E]GT 6/G=;
+w "g_MX highway#tertiary name#Vasagatan oneway#yes railway#tram
+d 45^.s 7(E_oF 6/G.B
+d Ebp! 7(E_HC 6/Fsb
+w C=@7 highway#tertiary name#Vasaplatsen oneway#yes
+d %!p70 7(EbF| 6/GRf
+d %!p71 7(Eazo 6/GU\
+d %!p72 7(E`[4 6/G\F
+w &fq' highway#residential name#Erik_Dahlbergsgatan oneway#yes
+d EbRJ 7(Eb3u 6/GF]
+d EbM$ 7(Eac& 6/GI<
+d EbMA 7(E`Fu 6/GOy
+w 1a?q highway#tertiary name#Vasagatan oneway#yes
+d Eb|[ 7(E_=F 6/F[|
+d Ebp% 7(E_2G 6/Fr{
+w &fpv highway#residential name#Karl_Gustavsgatan oneway#yes
+d EbRK 7(E^G& 6/GK+
+d EbM: 7(E`"* 6/GCU
+w &fq( highway#residential name#Erik_Dahlbergsgatan
+d EbMA 7(E`Fu 6/GOy
+d %!F7n 7(E`<- 6/GPS
+d EbM; 7(E`6V 6/GPr
+d EbRL 7(E^]" 6/GX[
+w &fpp highway#residential name#Karl_Gustavsgatan oneway#yes
+d EbMB 7(E`1w 6/GBf
+d EbRG 7(EaNb 6/G;b
+w &fpy highway#residential name#Thorildsgatan
+d EbRN 7(E]GT 6/G=;
+d EbRM 7(E]X( 6/GK"

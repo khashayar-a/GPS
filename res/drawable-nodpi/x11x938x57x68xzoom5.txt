@@ -1,0 +1,9 @@
+n ?t:p 7(EIUz 6/D\B highway#motorway_junction name#Margretebergsmotet
+n ?tt- 7(EP{$ 6/EYl highway#traffic_signals
+n @@#7 7(ENI, 6/E9u highway#motorway_junction name#Margretebergsmotet
+n I>B- 7(EN/T 6/D5} tourism#viewpoint
+n imCK 6fJ~# 6/DxJ name#Botaniska_trädgården railway#tram_stop
+n $0T*a 5'ykR 5"J1| amenity#fuel contact:phone#070-4501849 name#Preem_-_Göteborg,Margretebergsg.
+n %!;:y 7(EF'_ 6/D;j highway#traffic_signals
+n *QfBm 7(ELT% 6/DHr amenity#cafe sport#disc_golf url#http://www.slottskorgen.se
+n 4.?5= 7(EKLe 5"J-Q natural#tree

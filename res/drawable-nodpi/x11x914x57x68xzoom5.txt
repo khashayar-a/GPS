@@ -1,0 +1,37 @@
+n #]J^a 7(EQ~# 6/Azl amenity#taxi
+n #rE@< 7(EOEf 6/A^Z barrier#gate
+n #rEiW 7(EO{9 6/A[F highway#crossing
+n $'TUE 7(EOk^ 6/AUP highway#crossing
+n $'TUJ 7(EObh 6/AW: highway#crossing
+n $[](& 7(EP:' 6/A^K name#Sannaplan railway#tram_stop
+n $[]+Z 7(EN\g 6/@xZ name#Sandarna railway#tram_stop
+n &\f=J 7(ERZf 6/B&Q crossing#uncontrolled highway#crossing
+n &\f=K 6fKVw 5"Iuy crossing#uncontrolled highway#crossing sloped_curb#both
+n 'JN0z 7(EP!6 6/B>E barrier#bollard
+n 'L*L# 6fK\( 6/B-R crossing#uncontrolled highway#crossing sloped_curb#both
+n 'L*Nv 7(ES+1 6/B/D crossing#uncontrolled highway#crossing sloped_curb#both
+n )RoZC 7(ER<{ 6/A|& crossing#uncontrolled highway#crossing
+n )Ro[( 7(ER3a 6/A}h crossing#uncontrolled highway#crossing
+n .cf=n 7(EMX= 6/Ah0 amenity#place_of_worship name#Sankt_Matteus_Kapell
+n 0CqBN 7(EOO{ 6/AEI addr:housenumber#2B addr:street#Jordhyttegatan
+n 0CqDq 7(EOaM 6/AD` addr:housenumber#4B addr:street#Jordhyttegatan
+n 0CqE? 7(EOG4 6/AEl addr:housenumber#2A addr:street#Jordhyttegatan
+n 0CqF@ 7(EOXd 6/AE& addr:housenumber#4A addr:street#Jordhyttegatan
+n 3v5C` 6fK<A 6/ARN addr:housenumber#31A addr:street#Mariagatan
+n 3v5Cb 7(EOp; 6/AQM addr:housenumber#31B addr:street#Mariagatan
+n 3v5Ci 7(EOj/ 5"Ipz addr:housenumber#31C addr:street#Mariagatan
+n 3v5Cj 7(EOd$ 6/AOM addr:housenumber#33A addr:street#Mariagatan
+n 3v5Ck 7(EO]v 6/ANL addr:housenumber#33B addr:street#Mariagatan
+n 3v5Cl 7(EOWj 6/AML addr:housenumber#33C addr:street#Mariagatan
+n 3v5Cp 7(EOkI 6/AIN addr:housenumber#3A addr:street#Jordhyttegatan
+n 3v5Cs 6fK;| 6/AJa addr:housenumber#3B addr:street#Jordhyttegatan
+n 3v5D& 7(EOqf 6/A_, addr:housenumber#6B addr:street#Sannaplan
+n 3v5D. 6fK;- 6/A_} addr:housenumber#8A addr:street#Sannaplan
+n 3v5D1 7(EObU 6/AaD addr:housenumber#8B addr:street#Sannaplan
+n 3v5D3 7(EOdz 6/Ac; addr:housenumber#8C addr:street#Sannaplan
+n 3v5D5 7(EOgA 6/Ae3 addr:housenumber#8D addr:street#Sannaplan
+n 3v5D< 7(EOp8 6/Ai+ addr:housenumber#9C addr:street#Kennedygatan
+n 3v5D@ 7(EOif 6/Ag* addr:housenumber#9D addr:street#Kennedygatan
+n 3vA>R 7(EOxC 6/As* addr:housenumber#15A addr:street#Fridhemsgatan
+n 3vA>S 7(EOvR 6/AqH addr:housenumber#15B addr:street#Fridhemsgatan
+n 3vA>` 7(EOsc 6/Ant addr:housenumber#17A addr:street#Fridhemsgatan

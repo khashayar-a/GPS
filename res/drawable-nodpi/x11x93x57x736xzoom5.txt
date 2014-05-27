@@ -1,0 +1,35 @@
+n $Q'O2 7(F0J| 6/CqZ highway#turning_circle
+n %}uhl 7(F(c7 5"J'% highway#turning_circle
+n %}uk: 6fPjK 6/C\s barrier#gate
+n &E_Av 7(F/yZ 6/CF2 addr:housenumber#45 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_Aw 7(F0)d 5"J%# addr:housenumber#43 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_Ax 6fQN{ 6/CN- addr:housenumber#41B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_Ay 7(F/u9 6/COp addr:housenumber#41A addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_Az 7(F/zp 6/CSh addr:housenumber#39A addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_A{ 7(F0DU 6/CTI addr:housenumber#39B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_A| 7(F0LN 6/CZ3 addr:housenumber#39C addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_So 7(F/N7 6/CL, addr:housenumber#24 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &E_Sq 7(F/X{ 6/CS@ addr:housenumber#22 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j2 7(F,jj 6/C{/ addr:housenumber#8 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j8 7(F,|m 6/D&f addr:housenumber#15 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j: 7(F-;* 6/D#J addr:housenumber#17B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j; 7(F-T# 6/C{3 addr:housenumber#19 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j< 7(F.<Q 6/C~O addr:housenumber#21 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j= 7(F-mj 6/Cvi addr:housenumber#23 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j> 7(F.*| 6/CwA addr:housenumber#25 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9j? 7(F./z 6/Cqx addr:housenumber#27 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jA 7(F.|M 6/Cp* addr:housenumber#31 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jB 7(F/Kl 6/ChR addr:housenumber#33 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jC 7(F/Rl 6/C`( addr:housenumber#35 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jD 7(F-6b 6/CzY addr:housenumber#10A addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jE 7(F-5k 6/Cvl addr:housenumber#10B addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jF 7(F-is 6/Cr< addr:housenumber#12 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jG 7(F/!F 6/C`F addr:housenumber#14 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jH 7(F/1N 5"J&z addr:housenumber#16 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jI 6fQIV 6/CYK addr:housenumber#18 addr:postcode#41749 addr:street#Bäckedalsvägen
+n &I9jX 7(F.Ow 6/CXv addr:housenumber#1 addr:postcode#41749 addr:street#Orkidévägen
+n &I9jY 7(F.iL 6/CWB addr:housenumber#3 addr:postcode#41749 addr:street#Orkidévägen
+n &I9jZ 7(F.pi 6/CQ? addr:housenumber#5 addr:postcode#41749 addr:street#Orkidévägen
+n &I9j[ 7(F/:0 6/CP5 addr:housenumber#7 addr:postcode#41749 addr:street#Orkidévägen
+n ,Q3bL 6fP|/ 6/CI4 tourism#viewpoint
+n ,Q3bS 7(F*,[ 6/CE* name#Södra_toppen tourism#viewpoint

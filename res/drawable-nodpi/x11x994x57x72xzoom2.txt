@@ -1,0 +1,18 @@
+w "mmC5 highway#motorway_link oneway#yes
+d 4tXC8 7(EyH6 6/JJ@
+d $qvSN 7(Ey<L 6/JH)
+d $qvTp 7(Ey(0 6/JBC
+d $qvTr 7(Exs} 6/J9k
+d $qvTt 7(Exfv 6/J1I
+d $bKIQ 7(Ex_' 6/J.4
+w B%r$ bridge#yes highway#motorway_link oneway#yes
+d $qvSI 7(Ey[w 6/JNW
+d 4tXC8 7(EyH6 6/JJ@
+w g`eS highway#motorway_link oneway#yes
+d $qvDa 7(ExGi 6/JG/
+d ;#ZW 7(ExQ( 6/JGp
+d "usVv 7(Ey*B 6/JLR
+d 4tXC< 7(EyEc 6/JNv
+w "mmC6 bridge#yes highway#motorway_link oneway#yes
+d 4tXC< 7(EyEc 6/JNv
+d ;#ZX 7(EyW| 6/JPj

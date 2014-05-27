@@ -1,0 +1,652 @@
+w "(sNj building#yes
+d -XS.k 7(E]8O 6/GT)
+d -XS/G 6fL\L 4.T<
+d -XS/% 7(E]Mb 6/GTM
+d -XS.m 7(E]J0 6/GR|
+d -XS._ 7(E]I+ 6/GRU
+d -XS.k 7(E]8O 6/GT)
+w "-LJW building#yes
+d ./[XX 7(E\1o 6/G.6
+d ./[Lr 7(E\6: 6/G0b
+d ./[X1 7(E\(> 6/G1W
+d ./[AK 6fLP< 5"JH"
+d ./[XX 7(E\1o 6/G.6
+w "-LK3 building#yes
+d ./[Fv 7(E\zG 6/F{'
+d ./[Uz 7(E\~_ 4.Sg
+d ./[U@ 7(E\v\ 6/F~"
+d ./[J0 7(E\x; 6/F~t
+d ./[Y[ 7(E\li 6/G!d
+d ./[My 7(E\g9 6/F|}
+d ./[Fy 7(E\m] 6/F|S
+d ./[V= 7(E\l` 6/F|!
+d ./[Fv 7(E\zG 6/F{'
+w "-LJ~ building#yes
+d ./[GA 7(E[sk 6/Fz`
+d ./[Vw 6fLON 6/F}p
+d ./[@2 7(E[s> 6/F~>
+d ./[Nm 7(E[tq 6/G!0
+d ./[S@ 7(E[jl 6/G!h
+d ./[Xo 7(E[dc 6/F|R
+d ./[B3 7(E[dc 6/F|?
+d ./[PI 7(E[dv 6/F|,
+d ./[Tt 7(E[e| 5"JF=
+d ./[NN 7(E[ki 6/F{Q
+d ./[Rh 7(E[k2 6/F{2
+d ./[GA 7(E[sk 6/Fz`
+w "-yHQ building#yes
+d .3|=n 7(E]!n 6/Gc4
+d .3|=O 7(E\tv 6/Gcq
+d .3|=1 7(E\qM 6/Gan
+d .3|>V 7(E\TF 4.TI
+d .3|=y 7(E\Wp 6/GeX
+d .3|=~ 7(E\Li 6/Gf7
+d .3|=S 7(E\F; 6/GbH
+d .3|=G 7(E\T/ 6/GaX
+d .3|=* 7(E\Si 6/GaD
+d .3|>@ 7(E\kB 6/G_|
+d .3|=o 7(E\k_ 5"JLw
+d .3|=e 7(E\y: 6/G_A
+d .3|=n 7(E]!n 6/Gc4
+w t<,E building#yes
+d +[f,_ 7(E\GM 6/GJ8
+d +[f,a 7(E\Sd 6/GPp
+d +[f,e 7(E\4' 6/GTM
+d +[f,f 7(E[yT 6/GV'
+d +[f,g 7(E[~f 6/GXh
+d +[f,h 7(E\<) 6/GW*
+d +[f,l 7(E\d< 6/GR0
+d +[f,m 7(E\T] 6/GIF
+d +[f,_ 7(E\GM 6/GJ8
+w "-LK$ building#yes
+d ./[?0 7(E]'7 6/G%%
+d ./[=\ 7(E]+O 5"JG8
+d ./[NF 7(E]#M 6/G'~
+d ./[B_ 7(E]%+ 6/G(r
+d ./[RZ 6fLX_ 6/G)b
+d ./[WH 7(E\r) 6/G&{
+d ./[L6 7(E\xM 6/G&Q
+d ./[@a 7(E\wP 6/G%}
+d ./[?0 7(E]'7 6/G%%
+w "-LK# building#yes
+d ./[FC 7(E]mD 6/Fg:
+d ./[UH 7(E]m( 6/Fk<
+d ./[=V 7(E]O% 6/Fjx
+d ./[S^ 7(E]Ok 6/Fg(
+d ./[WC 7(E]ZL 4.SR
+d ./[KG 7(E]Zv 6/Fhu
+d ./[O- 7(E]bV 6/Fh{
+d ./[>R 7(E]d5 6/Fg0
+d ./[FC 7(E]mD 6/Fg:
+w v@L4 building#yes
+d +nEQy 7(E\w( 6/G0]
+d +nEQz 7(E\rt 6/G.X
+d +nEQ| 7(E\Q@ 6/G0}
+d +nER! 7(E\UR 6/G3$
+d +nEQy 7(E\w( 6/G0]
+w S3") building#yes
+d 'V;VE 7(EZ^E 6/GX:
+d 'V;VJ 7(EY~a 6/G_s
+d 'V;VO 7(EYwz 6/G]|
+d 'V;V\ 7(EZW] 6/GVB
+d 'V;VE 7(EZ^E 6/GX:
+w "-LJL building#yes
+d ./[G4 7(E[df 6/Fp$
+d ./[V^ 7(E[c~ 5"JE@
+d ./[Jx 7(E[GV 6/Fq|
+d ./[Na 6fLJS 6/Foc
+d ./[G4 7(E[df 6/Fp$
+w t9$? building#yes
+d +[_R1 7(EZ3N 6/GCC
+d +[_R3 7(EZ4, 6/GEh
+d +[_R4 7(EZp2 6/GE3
+d +[_R6 7(EZoT 6/GBl
+d +[_R1 7(EZ3N 6/GCC
+w "-LJC building#yes
+d ./[S6 7(E\9A 5"JHA
+d ./[Qy 7(E\=& 6/G4O
+d ./[Uf 7(E\>l 6/G4_
+d ./[A0 7(E\?C 6/G5+
+d ./[E4 7(E\>\ 5"JH^
+d ./[Sy 7(E\<O 5"JH_
+d ./[Wk 7(E\:2 6/G5D
+d ./[QD 7(E\:# 6/G58
+d ./[UK 7(E\1x 6/G5h
+d ./[I8 7(E\0l 6/G56
+d ./[M. 7(E\+\ 6/G5T
+d ./[U[ 7(E\,] 6/G5~
+d ./[=q 7(E[~T 6/G6Y
+d ./[MA 7(E[}h 6/G6>
+d ./[Q\ 7(E[{Q 6/G6L
+d ./[Kd 7(E[wg 6/G4G
+d ./[OU 7(E\'G 6/G3F
+d ./[C! 7(E\(m 6/G4-
+d ./[G, 7(E\,] 6/G3r
+d ./[RT 7(E\+V 6/G3?
+d ./[S6 7(E\9A 5"JHA
+w v@L? building#yes
+d +nET> 7(E\[I 6/G<!
+d +nET@ 6fLUj 6/G6|
+d +nETB 7(E\jP 6/G6u
+d +nETD 7(E\jk 6/G9(
+d +nETF 7(E]0D 6/G8v
+d +nETH 7(E]/a 6/G3_
+d +nETI 7(E]@s 6/G3X
+d +nETL 7(E]Ay 6/G;a
+d +nET> 7(E\[I 6/G<!
+w t9$; building#yes
+d +[_Q~ 7(E[6L 6/G2u
+d +[_R" 7(E[7a 6/G:)
+d +[_R# 7(E[4# 6/G:>
+d +[_R% 7(E[4# 6/G=Q
+d +[_R& 7(E[@o 6/G=Q
+d +[_R( 7(E[?Z 6/G:I
+d +[_R* 7(E[Ct 6/G:>
+d +[_R, 7(E[B& 6/G3,
+d +[_Q~ 7(E[6L 6/G2u
+w S3!y building#yes
+d 'V;To 7(EYr< 6/GaM
+d 'V;Tq 7(EYA' 6/GgR
+d 'V;Tt 7(EY:\ 6/Geb
+d 'V;Tu 7(EYkq 6/G_\
+d 'V;To 7(EYr< 6/GaM
+w S3#* building#yes
+d 'V;`p 7(EYR; 6/GS&
+d 'V;`q 7(EXrR 6/GZc
+d 'V;`r 7(EXl\ 6/GY$
+d 'V;`u 7(EYLD 6/GQE
+d 'V;`p 7(EYR; 6/GS&
+w "(sNm building#yes
+d -XS/" 7(E]!) 6/GR3
+d -XS/E 7(E]0l 6/GP^
+d -XS/$ 7(E]6\ 6/GRf
+d -XS.Z 7(E]&w 6/GT;
+d -XS/" 7(E]!) 6/GR3
+w S3"~ building#yes
+d 'V;]{ 7(EZ4j 5"JK!
+d 'V;^" 6fL:I 6/GRt
+d 'V;^' 7(EY]4 6/GQ1
+d 'V;^( 7(EZ.e 6/GK<
+d 'V;]{ 7(EZ4j 5"JK!
+w tH?f building#yes
+d +\cab 7(EZR~ 6/Fjc
+d +\cad 7(EZXo 5"JDD
+d +\caf 7(EZHb 6/Fg&
+d +\cag 6fL@X 6/Fi#
+d +\cab 7(EZR~ 6/Fjc
+w "-LJx building#yes
+d ./[IT 7(E\g> 6/FtP
+d ./[Y& 7(E\kV 6/Fvw
+d ./[LX 7(E\cS 6/FwL
+d ./[Pf 7(E\e2 6/Fx?
+d ./[V? 7(E\Y` 6/Fy0
+d ./[?3 7(E\T0 6/FvI
+d ./[NJ 7(E\ZT 6/Fu|
+d ./[R^ 7(E\YW 6/FuK
+d ./[IT 7(E\g> 6/FtP
+w tH?j building#yes
+d +\caw 7(E[sO 6/G(%
+d +\cax 7(E[[+ 6/G)c
+d +\cay 7(E[_L 6/G+z
+d +\caz 7(E[wp 6/G*<
+d +\caw 7(E[sO 6/G(%
+w "-LJr building#yes
+d ./[VE 7(E[NZ 6/Fut
+d ./[KP 7(E[Lj 5"JEp
+d ./[D} 7(E[?p 6/Fvq
+d ./[I! 7(E[D. 6/Fs<
+d ./[WO 7(E[Q' 6/Fso
+d ./[@h 7(E[O] 6/Fu#
+d ./[I: 7(E[WM 6/FuB
+d ./[M4 7(E[Xv 6/Fv;
+d ./[VE 7(E[NZ 6/Fut
+w "-LK1 building#yes
+d ./[T7 7(E\$$ 6/G#(
+d ./[HK 7(E\'X 6/G$s
+d ./[B? 7(E\#$ 6/G%3
+d ./[F` 7(E\#P 5"JG%
+d ./[U' 7(E[w6 6/G&-
+d ./[Y2 7(E[r[ 6/G#l
+d ./[Ff 7(E[}* 6/G#(
+d ./[K) 7(E[}a 6/G#D
+d ./[T7 7(E\$$ 6/G#(
+w tH?J building#yes
+d +\c`4 7(E[;J 6/GC<
+d +\c`6 7(E[:U 6/G@e
+d +\c`7 7(EZ{r 6/GA(
+d +\c`9 7(EZ|g 4.T+
+d +\c`4 7(E[;J 6/GC<
+w t<,H building#yes
+d +[f-( 7(E]%{ 6/GKR
+d +[f-) 7(E]** 5"JK*
+d EbRP 7(E]K* 6/GK+
+d +[f-* 7(E]@; 6/G>1
+d +[f-+ 7(E]29 6/G>Y
+d +[f-- 7(E]:~ 6/GIL
+d +[f-( 7(E]%{ 6/GKR
+w t9$V building#yes
+d +[_RY 7(E[$f 6/G5(
+d +[_RZ 7(E[$j 6/G2j
+d +[_R\ 7(EZ"F 6/G37
+d +[_R] 7(EZ"B 6/G5I
+d +[_RY 7(E[$f 6/G5(
+w "(sNp building#yes
+d -XS/E 7(E]0l 6/GP^
+d -XS/, 7(E]@\ 5"JK5
+d -XS.o 7(E]Eh 6/GPw
+d -XS.i 7(E]FL 6/GQ4
+d -XS/$ 7(E]6\ 6/GRf
+d -XS/E 7(E]0l 6/GP^
+w S3"u building#yes
+d 'V;]5 7(EZIm 6/GRW
+d 'V;]6 7(EYx, 6/GXN
+d 'V;]8 7(EYr+ 6/GVj
+d 'V;]< 7(EZCl 6/GPs
+d 'V;]5 7(EZIm 6/GRW
+w "-LJ_ building#yes
+d ./[=- 7(E\Id 6/G:7
+d ./[NB 7(E\J( 6/G;Y
+d ./[G\ 7(E\:- 6/G;g
+d ./[L1 7(E\:) 6/G;Y
+d ./[?+ 6fLR/ 6/G;\
+d ./[CR 7(E\6, 6/G:7
+d ./[L= 7(E\:. 6/G:3
+d ./[PD 6fLRN 6/G8p
+d ./[Ct 7(E\F2 6/G8e
+d ./[Gp 7(E\FY 6/G:9
+d ./[=- 7(E\Id 6/G:7
+w "-yHP building#yes
+d .3|=C 5'yz. 6/G]N
+d .3|>3 7(E[sN 6/G_~
+d .3|>& 7(E[CK 6/Gc0
+d .3|=V 7(E[(m 6/GhC
+d .3|=K 7(EZ|$ 6/GfM
+d .3|=/ 7(E[;{ 6/G`t
+d .3|=C 5'yz. 6/G]N
+w "(sNq building#yes
+d -XS/& 7(E]8C 6/G[.
+d -XS/+ 7(E].M 6/GY)
+d -XS.f 7(E]+P 6/GYX
+d -XS/9 7(E]!} 6/GW[
+d -XS.W 7(E]+f 6/GU{
+d -XS/5 6fLZl 6/GUH
+d -XS.t 7(E]6- 5"JK~
+d -XS/B 7(E]7C 5"JK|
+d -XS.x 7(E]C\ 5"JL6
+d -XS/& 7(E]8C 6/G[.
+w v@L3 building#yes
+d +nEQo 7(E]": 6/G20
+d +nEQr 6fLXr 6/G.-
+d +nEQs 7(E]6) 6/G,Z
+d +nEQu 7(E]<f 6/G0]
+d +nEQo 7(E]": 6/G20
+w v@M# building#yes
+d +nEZ; 7(E^SJ 6/Gc'
+d +nEZ< 7(E^K' 6/G^R
+d +nEZ= 7(E^+E 4.TF
+d +nEZ> 7(E^&s 6/G]X
+d +nEZ? 7(E^V^ 6/GZ]
+d +nEZA 7(E^hA 6/Gdl
+d +nEZC 7(E^V% 6/Gf1
+d +nEZE 7(E^Cg 5"JMX
+d +nEZR 6fLe= 6/Gf|
+d +nEZT 7(E^,V 5"JMX
+d +nEZU 7(E]z* 6/Gf<
+d +nEZZ 6fL`e 6/Gdw
+d +nEZ\ 7(E]OF 6/Ga9
+d +nEZ] 6fLbA 6/G^2
+d +nEZ_ 7(E^!C 5"JL~
+d +nEZa 7(E]nB 6/Gb&
+d +nEZc 7(E]w: 6/Gb~
+d -XS/? 6fLc* 6/GbJ
+d +nEZe 7(E^(_ 6/Gd&
+d -XS/! 7(E^0K 6/GdB
+d +nEZf 7(E^>% 5"JMA
+d +nEZg 7(E^Jl 6/Gcr
+d +nEZ; 7(E^SJ 6/Gc'
+w "-LJA building#yes
+d ./[Pz 5'yzq 6/G(+
+d ./[Ea 7(E\[# 6/G)]
+d ./[If 7(E\SB 6/G*/
+d ./[C. 7(E\V. 5"JG_
+d ./[G? 7(E\J5 6/G,F
+d ./[Ur 7(E\DQ 6/G)I
+d ./[Pz 5'yzq 6/G(+
+w "(sNk building#yes
+d -XS/, 7(E]@\ 5"JK5
+d -XS.^ 7(E]Oc 5"JK*
+d -XS.w 7(E]Si 6/GOl
+d -XS.] 7(E]Q1 6/GP!
+d -XS/1 7(E]R$ 6/GPD
+d -XS.[ 6fL]N 6/GQ"
+d -XS/0 6fL]G 6/GP_
+d -XS.o 7(E]Eh 6/GPw
+d -XS/, 7(E]@\ 5"JK5
+w "(sNn building#yes
+d -XS.j 7(E]f% 6/GO%
+d -XS.\ 7(E]ad 6/GO>
+d -XS.Y 7(E]b0 6/GOV
+d -XS/. 7(E]Xi 6/GP.
+d -XS.l 7(E]X2 6/GOl
+d -XS/= 6fL^S 6/GP$
+d -XS.w 7(E]Si 6/GOl
+d -XS.^ 7(E]Oc 5"JK*
+d -XS.T 7(E]b- 6/GLl
+d -XS.j 7(E]f% 6/GO%
+w tH?M building#yes
+d +\c`L 7(EZ!V 6/G>j
+d +\c`N 7(EYSp 6/G2_
+d +\c`P 7(EYIZ 6/G3z
+d +\c`R 7(EYu@ 6/G@(
+d +\c`L 7(EZ!V 6/G>j
+w t9$S building#yes
+d +[_RO 7(EZtc 6/G:H
+d +[_RP 7(EZvP 6/G=\
+d +[_RT 7(EZ4" 6/G>J
+d +[_RV 7(EZ4% 6/G;5
+d +[_RO 7(EZtc 6/G:H
+w tH?r building#yes
+d +\cb7 7(E\.$ 6/G(v
+d +\cb9 5'yzE 6/G&R
+d +\cb; 7(E[xr 6/G'R
+d +\cb< 7(E[}Z 6/G)v
+d +\cb7 7(E\.$ 6/G(v
+w tH?p building#yes
+d +\cb0 7(E\&> 5"JGp
+d +\cb1 7(E\!U 6/G+"
+d +\cb2 7(E\0z 6/G)z
+d +\cb3 7(E\5b 5"JGf
+d +\cb0 7(E\&> 5"JGp
+w "(sNf building#yes
+d -XS/9 7(E]!} 6/GW[
+d -XS/< 6fLY. 6/GVl
+d -XS.z 7(E\um 6/GT"
+d -XS/@ 7(E\v: 6/GS@
+d -XS/" 7(E]!) 6/GR3
+d -XS.Z 7(E]&w 6/GT;
+d -XS.W 7(E]+f 6/GU{
+d -XS/9 7(E]!} 6/GW[
+w tH?n building#yes
+d +\cb( 7(E\!F 5"JIB
+d +\cb* 6fLP# 6/G9/
+d +\cb+ 7(E\,3 6/G9-
+d +\cb, 7(E\,D 6/G<O
+d +\cb( 7(E\!F 5"JIB
+w "-LKK building#yes
+d ./[DT 7(E\l^ 6/FlQ
+d ./[TA 7(E\kf 6/Fnz
+d ./[D7 7(E\47 6/Fn5
+d ./[H: 7(E\5. 6/Fkk
+d ./[DT 7(E\l^ 6/FlQ
+w t<,F building#yes
+d +[f,o 7(E[jm 6/GZ{
+d +[f,p 7(E[^: 6/G[m
+d +[f,q 7(E[Zd 6/GZC
+d +[f,r 6fLG_ 6/G]I
+d +[f,t 7(EZdP 5"JM)
+d +[f,u 7(EZr? 6/Ger
+d +[f,v 7(EZg] 6/GgB
+d +[f,w 7(EZQH 6/Ga-
+d +[f,x 7(E[&Z 5"JLE
+d +[f,z 7(E[cp 6/GW$
+d +[f,o 7(E[jm 6/GZ{
+w t<,G building#yes
+d +[f,{ 7(E\^* 6/G>a
+d +[f,| 7(E\`S 6/GES
+d +[f,~ 7(E\bC 6/GHP
+d +[f-! 7(E\p" 5"JK9
+d -ODH% 7(E\}{ 6/GNV
+d +[f-# 7(E\u; 6/GH0
+d +[f-$ 7(E\q[ 6/GE3
+d +[f-% 7(E\nV 6/G>W
+d +[f,{ 7(E\^* 6/G>a
+w tH?W building#yes
+d +\c`y 7(EZ6` 6/Fis
+d 4"]0u 6fL>i 6/Fku
+d +\c`z 7(EZ/8 6/FlD
+d +\c`| 7(EY~U 5"JDX
+d 4"]0c 6fL== 6/FjD
+d +\c`} 7(EZ'| 6/FhB
+d +\c`y 7(EZ6` 6/Fis
+w S3"j building#yes
+d 'V;\i 7(EYa/ 6/GZa
+d 'V;\q 7(EXrf 6/Gd.
+d 'V;\w 7(EXkV 6/Gb,
+d 'V;\z 7(EYY} 6/GX_
+d 'V;\i 7(EYa/ 6/GZa
+w tH?` building#yes
+d +\caI 7(EZ|H 6/Fq;
+d +\caK 7(EZq$ 6/Fp%
+d 4"\V^ 7(EZo' 6/Fpa
+d 4"\V` 7(EZj* 5"JE@
+d +\caL 7(EZh2 6/Frx
+d +\caM 7(EZsV 6/Ft/
+d +\caI 7(EZ|H 6/Fq;
+w tH?S building#yes
+d +\c`i 7(EZNE 6/FlI
+d +\c`j 7(EZ<~ 6/Fj\
+d +\c`k 7(EZ6- 6/Flz
+d 4"]0t 6fL?P 6/Fm.
+d +\c`l 7(EZGR 6/Fng
+d 4"]0s 6fLA/ 6/FnI
+d +\c`i 7(EZNE 6/FlI
+w "-LJO building#yes
+d ./[>[ 7(E[5+ 6/Ff!
+d ./[=" 7(E[1y 5"JD4
+d ./[N$ 6fLH' 6/Ffj
+d ./[BZ 7(E[-a 6/FgH
+d ./[R9 7(E[.~ 5"JD9
+d ./[KL 7(E[-$ 6/Fh2
+d ./[?7 7(E[.v 6/FhE
+d ./[O6 7(E[-a 6/Fhk
+d ./[Cm 6fLH6 6/Fi1
+d ./[Bd 7(E[0G 6/FiJ
+d ./[Rc 7(E[3h 6/Fil
+d ./[F{ 7(E[2~ 6/Fj%
+d ./[VB 7(E[5P 3"B9
+d ./[@d 7(E[4J 6/Fj_
+d ./[P1 7(E[8; 6/Fk(
+d ./[Dy 7(E[9u 6/FjU
+d ./[T[ 7(E[<> 6/Fjn
+d ./[Se 7(E[>/ 6/Fj6
+d ./[Gf 7(E[?# 6/Fj>
+d ./[WK 7(E[CE 6/Fhv
+d ./[L9 7(E[<S 6/Fh0
+d ./[GL 7(E[?b 6/Fg.
+d ./[>[ 7(E[5+ 6/Ff!
+w "(sNv building#yes
+d -XS.U 6fL_> 4.T:
+d -XS/' 7(E]Xh 6/GSr
+d -XS.c 7(E]Yh 6/GT=
+d -XS/7 7(E]R? 6/GTv
+d -XS/3 6fL^8 6/GTS
+d -XS.r 7(E]NH 6/GTj
+d -XS/% 7(E]Mb 6/GTM
+d -XS.m 7(E]J0 6/GR|
+d -XS.} 7(E]W{ 6/GQo
+d -XS.p 6fL^| 6/GR.
+d -XS.U 6fL_> 4.T:
+w "-LIt building#yes
+d ./[Dv 7(E\NM 6/Fqa
+d ./[Cj 7(E\Mz 6/Fsq
+d ./[Gc 7(E\L. 6/Fsp
+d ./[PG 7(E\L% 6/Ft8
+d ./[Tc 7(E\5- 6/Ft&
+d ./[Gs 7(E\5b 6/Fqb
+d ./[LH 7(E\:r 6/Fqf
+d ./[FE 7(E\:| 6/Fq:
+d ./[J_ 7(E\H^ 6/FqD
+d ./[Xl 7(E\HX 6/Fq\
+d ./[Dv 7(E\NM 6/Fqa
+w "-LJq building#yes
+d ./[Ou 7(E]9: 6/FlW
+d ./[D; 7(E]4> 4.SZ
+d ./[S: 7(E]-U 6/Fo8
+d ./[Vj 7(E\wf 6/Fny
+d ./[Pc 7(E\wf 6/Fm9
+d ./[U# 6fLZ0 6/Fmf
+d ./[H< 7(E](g 6/FmI
+d ./[LT 7(E](/ 6/Flt
+d ./[Wi 7(E]$p 6/Flb
+d ./[A+ 7(E]"J 6/Flo
+d ./[OT 7(E\zJ 6/Fl5
+d ./[Sx 7(E\y7 6/Fk{
+d ./[M( 7(E\y7 6/Fk^
+d ./[Q? 7(E\}X 6/Fj=
+d ./[E- 7(E]3V 5"JDd
+d ./[Ou 7(E]9: 6/FlW
+w "-LI| building#yes
+d ./[Ko 7(E[i] 6/Fs-
+d ./[?p 7(E[n, 6/FvH
+d ./[D( 7(E[ad 6/Fw!
+d ./[O: 7(E[]7 6/Fsd
+d ./[Ko 7(E[i] 6/Fs-
+w I]F) building#yes leisure#sports_centre name#Fjäderborgen sport#badminton
+d %y}f8 7(E[Yv 6/GDd
+d %y~6' 7(E[CV 5"JJW
+d %y}f9 7(E[?x 6/GIG
+d %y}f: 7(E[XV 6/GN2
+d %y}f; 7(E[rT 6/GIN
+d %y}f8 7(E[Yv 6/GDd
+w "-LK! building#yes
+d ./[O2 7(E\P/ 6/G#J
+d ./[CX 7(E\TG 6/G%p
+d ./[Sc 7(E\LD 5"JG.
+d ./[G_ 7(E\N# 6/G'9
+d ./[YG 6fLSB 5"JG>
+d ./[M] 7(E\=! 6/G%B
+d ./[BF 7(E\CE 5"JF~
+d ./[Q} 7(E\BH 6/G$D
+d ./[O2 7(E\P/ 6/G#J
+w "-LJG building#yes
+d ./[@Q 7(E[Zi 5"JDQ
+d ./[P) 7(E[W` 6/Fk/
+d ./[CL 6fLL= 4.SV
+d ./[GN 6fLL+ 6/Fl$
+d ./[A^ 7(E[Vg 6/Fku
+d ./[Eu 7(E[Tp 6/FlR
+d ./[TS 7(E[Rz 6/Fl@
+d ./[XA 7(E[Qg 6/Flf
+d ./[F) 6fLK, 6/FlB
+d ./[J? 7(E[MC 6/Fl\
+d ./[Xd 7(E[I} 6/Fl;
+d ./[Ax 7(E[I7 6/FlR
+d ./[V# 7(E[Fc 6/Fl9
+d ./[>` 7(E[E` 6/FlZ
+d ./[N) 7(E[Al 6/Fl3
+d ./[R= 7(E[CD 6/Fk`
+d ./[BO 7(E[@y 6/FkH
+d ./[Fd 7(E[Bg 6/Fjm
+d ./[U4 7(E[Ar 6/Fje
+d ./[YI 7(E[F, 6/Fi=
+d ./[S= 7(E[M# 6/Fj#
+d ./[Vt 7(E[P* 6/Fh~
+d ./[@Q 7(E[Zi 5"JDQ
+w "-LJc building#yes
+d ./[EH 7(E[xA 6/Flt
+d ./[U" 7(E[x. 6/Fk8
+d ./[Y" 7(E[zV 6/Fi)
+d ./[LR 7(E\!a 6/Fi3
+d ./[PW 7(E\!t 6/Fhl
+d ./[Y? 7(E\,- 6/Fhu
+d ./[BD 7(E\+B 6/Fm?
+d ./[Pu 7(E[}q 6/Fm<
+d ./[U0 7(E[}q 6/Fm&
+d ./[EH 7(E[xA 6/Flt
+w "-LJ; building#yes
+d ./[Qb 7(E\ER 6/Fz%
+d ./[FY 7(E\J2 6/F|F
+d ./[?e 7(E\Ac 6/F|}
+d ./[S% 7(E\CJ 6/F}q
+d ./[VW 7(E\6P 6/F~h
+d ./[D@ 7(E\14 5"JF>
+d ./[HA 7(E\8Z 6/F{V
+d ./[Vs 7(E\7Q 6/F{"
+d ./[Qb 7(E\ER 6/Fz%
+w tH?K building#yes
+d +\c`< 7(E[%4 6/GU\
+d +\c`= 7(EZ|x 6/GSg
+d +\c`> 7(EZp( 6/GU6
+d +\c`? 6fLCv 6/GRT
+d +\c`@ 7(EZ{3 6/GPO
+d +\c`A 7(EZvm 6/GNa
+d 1^Yj+ 7(EZVn 6/GQO
+d +\c`B 7(EZUf 6/GR:
+d +\c`C 7(EZnY 6/GX-
+d 1^YkH 7(EZpu 6/GWl
+d 1^Yft 7(EZq~ 6/GX+
+d 1^Yk; 7(EZv~ 5"JL#
+d 1^YfX 7(EZx! 6/GWG
+d 1^Yi6 7(EZ|k 6/GVQ
+d 1^Yjw 7(EZ}t 6/GVf
+d +\c`< 7(E[%4 6/GU\
+w t<,D building#yes
+d +[f,[ 7(E\>" 6/GB?
+d +[f,\ 7(E\>) 5"JI_
+d +[f,] 7(E\KV 6/G?Z
+d +[f,^ 7(E\KO 6/GB@
+d +[f,[ 7(E\>" 6/GB?
+w tH?d building#yes
+d +\caX 7(EZd" 6/Fo(
+d +\caZ 7(EZT] 6/FmN
+d 4"]0r 7(EZOm 5"JE!
+d +\ca\ 7(EZN> 6/FoN
+d +\ca^ 7(EZ^& 6/Fq(
+d 4"\Vc 7(EZ`V 6/Fp6
+d +\caX 7(EZd" 6/Fo(
+w "-LJY building#yes
+d ./[Ja 7(E[1p 6/Fuf
+d ./[=b 7(E[$" 6/Fu8
+d ./[Bg 7(E['t 6/Fr.
+d ./[QG 7(E[4p 6/Fr]
+d ./[Ja 7(E[1p 6/Fuf
+w "(sNi building#yes
+d -XS.x 7(E]C\ 5"JL6
+d -XS/& 7(E]8C 6/G[.
+d -XS.` 7(E]Gr 6/G^1
+d -XS.~ 7(E]WW 6/G])
+d -XS.S 7(E]SF 6/GZW
+d -XS.q 7(E]M1 6/GZu
+d -XS.x 7(E]C\ 5"JL6
+w "-yHL building#yes
+d .3|=s 5'y{0 6/G\e
+d .3|>2 7(E\i2 6/G]Z
+d .3|>5 7(E\cp 6/GZd
+d .3|=b 7(E[x` 6/G_I
+d .3|=W 7(E[t5 6/G]"
+d .3|=5 7(E\m/ 6/GWF
+d .3|=s 5'y{0 6/G\e
+w tH?H building#yes
+d +\c_y 7(E[6h 6/GEf
+d +\c_{ 7(E[7n 6/GGK
+d +\c_} 7(E[1N 6/GGX
+d +\c`! 7(E[3& 5"JJd
+d +\c`# 7(E[66 6/GJ&
+d +\c`% 7(E[7L 6/GL&
+d +\c`' 7(E[$s 6/GLL
+d +\c`) 7(E[#W 6/GJC
+d +\c`* 7(E['a 6/GJ;
+d +\c`+ 7(E[&< 6/GH#
+d +\c`, 7(E["6 5"JJQ
+d +\c`- 7(E[!% 6/GF4
+d +\c_y 7(E[6h 6/GEf
+w tH?l building#yes
+d +\ca} 7(E\#1 6/G/P
+d +\cb! 7(E[{q 6/G,b
+d +\cb# 7(E[b( 6/G.F
+d +\cb% 7(E[gF 6/G15
+d +\ca} 7(E\#1 6/G/P
+w tH?^ building#yes
+d +\ca< 7(E[1. 6/Fq:
+d +\ca> 7(E[7F 6/Fo3
+d +\ca@ 7(EZ}& 6/Fl[
+d 4"\Vd 7(EZ{0 6/Fm8
+d +\caB 7(EZvl 6/Fnb
+d +\ca< 7(E[1. 6/Fq:
+w tH?b building#yes
+d +\caN 7(EZmP 6/Fk5
+d 4"\Vb 7(EZk> 6/Fk{
+d +\caO 7(EZgl 6/Fm.
+d +\caP 7(EZZ= 6/Fkg
+d +\caR 6fLCP 6/Fin
+d +\caN 7(EZmP 6/Fk5

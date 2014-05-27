@@ -1,0 +1,64 @@
+w "'f*X amenity#bicycle_parking
+d %>Aym 7(ESwR 6/J(V
+d -N!Sl 7(ESuk 6/J'P
+d -N!T3 7(ESg8 6/J(@
+d %>Ayn 7(ESh} 6/J)F
+d %>Aym 7(ESwR 6/J(V
+n "1Qa\ 7(EO}" 5"J_D traffic_calming#hump
+n "1Qb4 6fL#j 6/Ij\ highway#crossing
+n $r2*O 7(E[ZZ 5"J_M crossing#island highway#crossing
+n %>8R` 7(ESK) 5"J^7 amenity#atm operator#Swedbank
+n %>BBh 7(ES|9 6/J4n barrier#gate bicycle#yes foot#yes motorcycle#yes
+n %>Bt9 7(EQz" 6/J1H amenity#recycling
+n %b;Qe 7(ESS' 6/JE\ access#private amenity#recycling
+n %b;tv 7(ERc5 6/J+w traffic_calming#hump
+n &$MhU 7(EPW> 6/IGt bicycle#yes crossing#uncontrolled highway#crossing
+n &$MhV 7(EOot 6/IP& bicycle#yes crossing#uncontrolled highway#crossing
+n &qDa[ 7(ET'q 6/IUp amenity#atm operator#SEB
+n &qEn0 6fK]R 6/IPP amenity#post_box
+n *kRz8 7(EZe% 6/I^N bicycle#no crossing#island crossing_ref#zebra highway#traffic_signals horse#no
+n *kRz^ 7(E\LE 6/I\Y crossing#island highway#crossing
+n -J1K~ 7(ESh6 5"JdN name#SGS_Veckobostäder tourism#hotel
+n -J1L? 7(ET4y 6/JB: barrier#gate bicycle#yes foot#yes motorcycle#no
+n -J4_> 7(ER[H 6/J<G barrier#gate bicycle#yes foot#yes
+n -JM7L 7(ES|> 6/IS& amenity#restaurant cuisine#thai name#Wok_House
+n -JM7Q 7(ERa8 6/IPd amenity#restaurant building#entrance cuisine#thai name#Baan_Thai
+n -JM7\ 7(ER_l 6/IOo amenity#pharmacy building#entrance dispensing#yes name#Apoteket_Svalan opening_hours#Mo-Fr_08:30-19:30;Sa_10:00-14:00 operator#apoteksgruppen
+n -JPqf 6fKdq 6/ITa addr:city#Göteborg addr:housenumber#55 addr:interpolation#odd addr:street#Eklandagatan
+n -Ll#\ 7(ESh# 6/J/n amenity#dentist name#Tandläkargruppen
+n -Ll$# 7(ESlo 6/J.~ name#Krokens_livs shop#convenience
+n -M5h| 7(ESn@ 6/J01 amenity#pub name#Scotty_Bar
+n -N!T8 7(ESd9 5"JcW barrier#bollard bicycle#yes foot#yes
+n -N!TN 7(ESo5 6/J&( crossing#uncontrolled highway#crossing traffic_calming#bump
+n -N!TW 7(ESj% 6/J(L amenity#telephone payment:coins#no
+n -N!Ts 7(ES@T 6/J*n amenity#recycling
+n -XGM/ 7(EQ+o 6/I~' amenity#parking parking#surface
+n -XLC\ 7(ES4q 6/JC{ amenity#bbq leisure#picnic_table
+n -XS^" 7(ESKt 6/JDc access#private amenity#recycling
+n -XS^& 6fK[p 6/IU+ crossing#traffic_signals highway#crossing
+n -XS^) 7(ESH@ 6/JF2 access#private amenity#recycling
+n -XTy{ 7(EPfs 6/IX- amenity#parking parking#surface
+n 1^s$: 7(ES?I 6/IaR barrier#gate bicycle#yes foot#yes
+n 1c?%} 7(EW7m 6/Ig5 bicycle#yes crossing#traffic_signals highway#crossing
+n 1cun/ 7(EY}t 6/IYH bicycle#yes crossing#island crossing_ref#zebra highway#crossing
+n 1cyab 7(ES:v 6/IQ4 crossing#traffic_signals highway#crossing
+n 1cyaf 7(ES3r 6/IP0 crossing#traffic_signals highway#crossing
+n 1cyaj 7(EUT- 6/IaE crossing#island highway#crossing
+n 1cyb3 7(ES&7 6/IPi crossing#traffic_signals highway#crossing
+n 1cybB 7(ER}S 6/IR# crossing#traffic_signals highway#crossing
+n 1cybG 7(ES$M 6/IQ' crossing#traffic_signals highway#crossing
+n 1cybM 7(ETIN 6/IWX highway#turning_circle
+n 1cyb_ 7(ES>? 6/ISB crossing#traffic_signals highway#crossing
+n 1d!%n 7(EP=2 6/IcE traffic_calming#hump
+n 1dClV 7(EVg/ 6/Ir8 traffic_calming#hump
+n 1eHM@ 7(EQM1 6/J(j traffic_calming#hump
+n 516C\ 7(ETF4 6/I^J addr:city#Göteborg addr:housenumber#66B addr:interpolation#even addr:street#Eklandagatan
+n 516C{ 7(ET:< 5"J_N addr:city#Göteborg addr:housenumber#68C addr:interpolation#even addr:street#Eklandagatan
+n 516D! 7(ET12 6/I]= addr:city#Göteborg addr:housenumber#68D addr:interpolation#even addr:street#Eklandagatan
+n 516Df 7(ESu~ 6/I[m addr:city#Göteborg addr:housenumber#70A addr:interpolation#even addr:street#Eklandagatan
+n 516Dg 6fK`x 6/I[1 addr:city#Göteborg addr:housenumber#70B addr:interpolation#even addr:street#Eklandagatan
+n 516Dt 7(ES`t 5"J_/ addr:city#Göteborg addr:housenumber#72C addr:interpolation#even addr:street#Eklandagatan
+n 516Dv 6fK^N 6/IYi addr:city#Göteborg addr:housenumber#72D addr:interpolation#even addr:street#Eklandagatan
+n 516Dx 7(ESGo 6/IY0 addr:city#Göteborg addr:housenumber#72E addr:interpolation#even addr:street#Eklandagatan
+n 516E& 7(ER]: 6/IQ; addr:city#Göteborg addr:housenumber#76 addr:interpolation#even addr:street#Eklandagatan
+n 516E) 7(ERRN 6/IN$ addr:city#Göteborg addr:housenumber#78B addr:interpolation#even addr:street#Eklandagatan

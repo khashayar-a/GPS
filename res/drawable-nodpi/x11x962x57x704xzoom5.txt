@@ -1,0 +1,180 @@
+w "oj]B bench#yes name#Kungsportsplatsen public_transport#platform ref#Läge_A shelter#yes tram#yes
+d 5+`hc 7(EfF\ 6/Gb5
+d 5+`i# 7(Efl[ 6/G]#
+w "ohU8 bench#yes bus#yes name#Domkyrkan public_transport#platform shelter#yes tram#yes
+d 5+Gn^ 7(Eg,& 6/Fz!
+d 5+GnT 7(Efa: 6/F|4
+w "oj]C bench#yes bus#yes name#Kungsportsplatsen public_transport#platform ref#Läge_D shelter#yes
+d 5+`h_ 7(EfBm 6/G^e
+d 5+`hg 7(EfXa 6/G[G
+w "oj]E bench#yes name#Kungsportsplatsen public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+`hP 7(EfA$ 6/G`y
+d 5+`i" 7(Efg# 6/G[g
+w "ohU: bench#yes bus#yes name#Domkyrkan public_transport#platform shelter#yes tram#yes
+d 5+Gn` 7(Eg.6 6/F{`
+d 5+GnU 7(EfcJ 6/F}s
+w "oj]D bench#yes bus#yes name#Kungsportsplatsen public_transport#platform ref#Läge_C shelter#yes
+d 5+`hf 7(EfPf 6/Gbj
+d 5+`i' 7(EfoI 6/G^C
+n JRG 7(EgO; 6/GVj railway#crossing
+n ?l0q 7(Ei`G 6/G`v highway#crossing
+n ?l0v 7(Eh_. 6/GQ> railway#crossing
+n ?l0z 7(Eh)a 5"JKc railway#crossing
+n ?n0y 7(EfY> 6/F~H highway#crossing
+n @5YL 7(Ei<O 6/GRp is_in#Västra_Götaland,_Sweden,_EU is_in:continent#Europe is_in:country#Sweden is_in:county#Västra_Götalands_län name#Göteborg name:1#Gbg name:bs#Geteborg name:en#Gothenburg name:es#Gotemburgo name:eu#Göteborg name:is#Gautaburg name:la#Gothoburgum name:lt#Geteborgas name:lv#Gēteborga name:pt#Gotemburgo name:ru#Гётеборг name:sv#Göteborg place#city population#622287 wikipedia#sv:Göteborg wikipedia:en#Gothenburg
+n #(m5Q 7(Ej0\ 6/G^8 highway#crossing
+n #7oYq 7(EgwP 6/Fny is_in#Göteborg name#Inom_Vallgraven place#suburb
+n $1D$% 7(Ei6t 6/GRi amenity#bank atm#yes name#Swedbank operator#Swedbank
+n $1D$e 7(Ei/V 6/GKA amenity#bank atm#yes name#Handelsbanken operator#Handelsbanken
+n $\#gC 7(ElNE 6/G>V name#Lilla_Bommen railway#tram_stop
+n $\#xG 7(Ej#T 6/GTx name#Brunnsparken railway#tram_stop
+n $\#x` 7(Ej:G 6/GIP name#Brunnsparken railway#tram_stop
+n $\#y4 7(EiUT 6/GWN name#Brunnsparken railway#tram_stop
+n $_"R> 7(Ei#& 6/GAx amenity#pub name#Golden_Days
+n $a.\2 7(EjC* 6/G`w amenity#fast_food cuisine#burger name#McDonald's wheelchair#yes
+n $a._# 6fM~_ 6/G\, amenity#pharmacy name#Apoteket
+n $~PKy 7(EkS_ 6/G%d barrier#bollard
+n %#bXS 7(EgN. 6/GU~ highway#crossing
+n %#bXW 7(Eh]l 6/GPX highway#crossing
+n %#bX^ 6fMcR 6/GS: highway#crossing
+n %#bfz 7(EgR( 6/GXN highway#crossing
+n %#bf} 7(EhaE 6/GRw highway#crossing
+n %#bg" 7(Eh+v 6/GU\ highway#crossing
+n %#{,T 7(EggY 5"JE| highway#crossing
+n %#{,X 7(Egd! 6/FvO highway#crossing
+n %#{-? 7(Eg3k 6/F{t highway#crossing
+n %#{/& 7(EfUM 6/F{{ highway#crossing
+n %#{1X 7(EfZ% 6/F~z highway#crossing
+n %#{<K 7(Ef#o 6/G#P highway#crossing
+n %#{<Q 7(Ee~& 6/G!$ highway#crossing
+n %$=WF 6fMZr 6/Fx} highway#crossing
+n %*Rg7 6fMPT 6/G@v barrier#bollard
+n &8@)C 4b=s 6/Fsg amenity#post_box collection_times#Mo-Fr_18:00;_Su_14:00 operator#Posten ref#84990;84992
+n &8@)D 7(Ej3! 6/GLh amenity#atm operator#Länsförsäkringar
+n &8@)E 7(EjRy 6/GJg amenity#post_box collection_times#Mo-Fr_18:00;_Su_14:00 operator#Posten ref#84970;84971
+n &8@)G 6fM}: 6/GI= amenity#toilets fee#2_SEK opening_hours#24/7
+n &<lk$ 7(Ek'0 6/FyK addr:city#Göteborg addr:housenumber#2F addr:postcode#41113 addr:street#Kronhusgatan name#Galleri_Cosmopolitan tourism#artwork
+n '24-" 7(Ej(S 6/G?U historic#monument name#Gustav_II_Adolfs_staty
+n ((GJ9 7(Egvf 6/GA] name#Hotel_Vanilj tourism#hotel wheelchair#no
+n (7h[C 7(Eij. 6/G^[ shop#kiosk
+n (7h[D 7(EhC` 6/Fw] amenity#cafe name#Konditori_Brogyllen wheelchair#limited
+n (9qJ~ 7(EjC9 6/FiY building#yes
+n ))9zl 7(Eg'x 6/G`v amenity#post_box name#Mailbox
+n )):/^ 7(EgE_ 6/Ga6 amenity#cafe cuisine#coffee_shop name#Cappuccino
+n )):0? 6fM_^ 6/GS, amenity#pub name#O'Learys wheelchair#limited
+n )PKtm 7(Ei`M 6/GR* amenity#fountain name#Johanna
+n )PKtp 7(Eif5 6/GT; amenity#drinking_water
+n *VCUH 7(Efxf 6/F~Z amenity#drinking_water
+n +<nWs 7(EhPM 6/GPX amenity#bicycle_rental name#Östra_Hamngatan_33 network#Styr_och_ställ_Göteborg operator#JCDecaux ref#32
+n +<nY0 6fMe@ 6/Fnh amenity#bicycle_rental capacity#20 name#Lilla_Torget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#2
+n +<nY3 7(Eg.H 6/G#0 amenity#bicycle_rental name#Kyrkogatan_18 network#Styr_och_ställ_Göteborg operator#JCDecaux ref#9
+n +<nYC 5'z)Z 6/GE| amenity#bicycle_rental capacity#40 name#Gustaf_Adolfs_torg network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#13
+n +<nYJ 6fMz! 6/F~^ amenity#bicycle_rental capacity#20 name#Postgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#3 wikipedia#sv:Postgatan
+n +]r0i 7(Ejh/ 6/G&. amenity#cafe name#Café_Kronhuset
+n -(RF# 7(EhS; 6/G]/ name#NK shop#department_store
+n /@!L= 7(EgpY 6/Fs, name#Elite_Plaza tourism#hotel
+n /@!Mv 7(Egs$ 6/Fq8 amenity#restaurant
+n 0uNES 7(EjA. 6/G>G name#Nordstaden place#suburb
+n 2;qIL 7(EgO8 6/GZK name#Akademibokhandeln shop#books
+n 2;qIP 7(Efue 6/G_z information#office name#Göteborg_Turistbyrå tourism#information
+n 2;qIY 7(EgkN 6/GY2 name#Lagerhaus shop#department_store
+n 2;qI[ 7(Eg=+ 6/G[o name#Massinno_Dutti shop#clothes
+n 2;qId 7(EfpV 6/G`A amenity#atm operator#Swedbank
+n 2;qIf 7(Ef}C 6/G^& amenity#waste_basket
+n 2;qIi 7(Eg$M 5"JLq amenity#bicycle_parking bicycle_parking#stands capacity#20
+n 2;qIk 7(EgD6 6/GYf amenity#telephone operator#Telia
+n 2;qIp 7(Eh4F 6/GUL amenity#telephone operator#Telia
+n 2;qIs 7(EhV3 6/GSv amenity#bicycle_parking bicycle_parking#stands capacity#10
+n 2;qIv 7(EhZ6 6/GSh amenity#waste_basket
+n 2;qIw 7(Ei0S 6/GMY amenity#bicycle_parking bicycle_parking#stands
+n 2;qJ! 7(Ei2> 6/GM/ amenity#waste_basket
+n 2;qJ" 7(Egg# 6/GY> name#Synoptik shop#optician
+n 2;qJ% 7(Eh"A 6/GX4 name#Yoko_Yap shop#department_store
+n 2@kTI 7(Elew 4.T@ amenity#parking name#P-hus_Nordstan parking#multi-storey
+n 2gqAN 7(EeMp 6/G&W highway#crossing
+n 2gqAU 7(Ef!L 5"JFc railway#crossing
+n 2gqAX 7(Ef"G 6/G"\ railway#crossing
+n 44+KD 7(Eiu+ 6/G^E natural#tree
+n 44+KE 6fMsk 6/GU^ natural#tree
+n 44+KF 7(EiQ_ 5"JLJ name#Brunnsparken railway#tram_stop
+n 44+KQ 7(EidA 6/GVr natural#tree
+n 44+KS 7(EihS 5"JL8 natural#tree
+n 44+KT 7(Eism 6/GWf natural#tree
+n 44+KU 7(Eii} 6/G]} natural#tree
+n 44+KV 7(Eiox 6/G]k natural#tree
+n 44+K^ 7(Ein* 6/G\x natural#tree
+n 44+K` 7(Eij_ 6/G[5 natural#tree
+n 44+Kc 7(Eill 6/G[z natural#tree
+n 44+Kd 7(Eiox 6/G[( natural#tree
+n 44+Ke 7(Eivk 6/G[Y natural#tree
+n 44+Kf 7(Eian 6/GXs natural#tree
+n 44+Kk 7(Ei_7 6/GW. natural#tree
+n 44+Km 7(Eie@ 6/GT/ natural#tree
+n 44+Kp 7(EiyZ 6/G]9 natural#tree
+n 44+Kr 7(Eit^ 6/GZc natural#tree
+n 44+Kt 7(EilV 6/GXF natural#tree
+n 44+Kv 5'z)@ 6/G^a natural#tree
+n 44+Kx 7(EibQ 6/GV* natural#tree
+n 44+Kz 7(Eihp 6/GU` natural#tree
+n 44+K| 7(Eik- 6/GWa natural#tree
+n 44+L" 7(Eizn 5"JLd natural#tree
+n 44+L$ 7(EiZ& 6/GTB natural#tree
+n 44+L& 7(EigL 6/G[Q natural#tree
+n 44+L- 7(EiqD 6/G[e natural#tree
+n 44+L. 7(Eism 6/G]L natural#tree
+n 44+L/ 7(EixS 6/G\L natural#tree
+n 44+L0 7(Eicf 6/GYg natural#tree
+n 44+L1 7(Eif\ 6/GU* natural#tree
+n 44+L2 7(Eie2 6/GXZ natural#tree
+n 44+L; 7(Eik- 6/GSf natural#tree
+n 44+L< 7(EiiR 6/GVY natural#tree
+n 44+L? 7(Eis& 6/G\a natural#tree
+n 5+Gm2 7(Efo8 6/F{: bus#yes highway#bus_stop name#Domkyrkan operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+Gm8 7(Efrp 6/F}F bus#yes highway#bus_stop name#Domkyrkan operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+`g) 7(Eg-3 6/G]G alt_name#Karl_IX:s_ryttarstaty historic#monument name#Kopparmärra
+n 5+`g: 7(Ef[& 5"JLr name#Kungsportsplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+`gA 7(EffL 6/G`, bus#yes highway#bus_stop name#Kungsportsplatsen operator#Västtrafik public_transport#stop_position shelter#yes
+n 5I&oK 7(Ef{_ 6/GVI addr:housenumber#45 addr:street#Östra_Hamngatan amenity#pharmacy name#Apoteket_Kronan operator#medstop
+n 5f)EV 7(EjNS 6/FjG amenity#restaurant name#Himalaya
+n 5rNdI 7(Ej{: 6/G?M addr:city#Göteborg addr:housenumber#37 addr:interpolation#odd addr:street#Postgatan
+n 5rNe) 7(EiQt 6/G*~ building#entrance
+n 5uv0J 7(Ej;; 6/G[o name#Akademibokhandeln shop#books
+n 5uv0R 7(EhQV 6/GK7 name#Big_Travel shop#travel_agency
+n 5uv0T 7(Eh,t 6/GPH name#Cervera shop#kitchen website#http://www.cervera.se
+n 5uv0W 7(Egw^ 6/GX] amenity#cafe internet_access#yes internet_access:fee#no name#Condeco website#http://www.condeco.com/
+n 5uv0\ 6fMgf 6/GLN name#Elboden shop#electronics
+n 5uv0b 7(Ej+8 6/GMV name#Glasögonhuset shop#optician
+n 5uv0f 7(Ej5k 6/GXe name#Gotter shop#confectionery
+n 5uv0g 7(EhP; 5"JJg amenity#pub gay#welcome name#Gretas opening_hours#Fr-Sa_21:00-04:00 phone#031136949 website#http://www.gretas.nu/
+n 5uv0m 7(Ej&r 6/GMv addr:city#Göteborg addr:housenumber#18 addr:interpolation#even addr:postcode#41109 addr:street#Norra_Hamngatan
+n 5uv0q 7(Ej3K 6/GW[ addr:city#Göteborg addr:housenumber#22 addr:interpolation#even addr:postcode#41109 addr:street#Norra_Hamngatan
+n 5uv0r 7(EjoX 6/GJ3 addr:city#Göteborg addr:housenumber#26-28 addr:interpolation#even addr:postcode#41109 addr:street#Östra_Hamngatan
+n 5uv0s 7(EjCL 6/GL. addr:city#Göteborg addr:housenumber#30-34 addr:interpolation#even addr:postcode#41109 addr:street#Östra_Hamngatan
+n 5uv0u 7(Eh9| 6/GP9 addr:city#Göteborg addr:housenumber#31 addr:interpolation#odd addr:street#Östra_Hamngatan
+n 5uv0y 6fMhn 6/GL- addr:city#Göteborg addr:housenumber#36 addr:interpolation#even addr:street#Drottninggatan
+n 5uv0{ 7(EhR1 6/GK| addr:city#Göteborg addr:housenumber#37 addr:interpolation#odd addr:street#Drottninggatan
+n 5uv0| 7(Egiu 6/GRK addr:city#Göteborg addr:housenumber#37 addr:interpolation#odd addr:street#Östra_Hamngatan
+n 5uv1! 7(Eg$o 6/GV3 addr:city#Göteborg addr:housenumber#45 addr:interpolation#odd addr:street#Östra_Hamngatan
+n 5uv1" 7(Ege% 6/GY@ addr:city#Göteborg addr:housenumber#50a addr:interpolation#even addr:street#Östra_Hamngatan
+n 5uv1$ 7(EgcG 5"JL8 addr:city#Göteborg addr:housenumber#50b addr:interpolation#even addr:street#Östra_Hamngatan
+n 5uv1& 7(Eh5/ 6/GP0 name#Hulténs shop#optician
+n 5uv1, 7(Egsl 6/GQR name#Jedviks shop#yes website#http://www.jedviks.se/
+n 5uv1- 7(Ej.G 6/GT1 amenity#restaurant contact:fax#+46031150008 contact:phone#+46031150005 cuisine#steak_house name#Jensen's_Bøfhus opening_hours#Mo-Su_11:00-21:00 website#http://www.jensens.se/ wheelchair#yes
+n 5uv1/ 7(Eh)p 6/GW~ name#Korsetten shop#boutique website#http://www.korsetten.se/
+n 5uv15 7(Ej<a 6/GLS name#Länsförsäkringar office#insurance
+n 5uv17 7(Eh`a 6/GMD name#Naturkompaniet shop#outdoor
+n 5uv1: 7(Ej0q 6/GUp amenity#bank name#Nordea operator#Nordea
+n 5uv1< 7(Ej*9 6/GR1 amenity#fast_food cuisine#kebab name#Nordstans_Kebab_&amp;_Grill wheelchair#yes
+n 5uv1= 6fN!6 5"JJ_ name#Nordstans_Konfektyr shop#kiosk
+n 5uv1@ 7(EhC[ 6/GOI name#Panduro_Hobby shop#yes
+n 5uv1G 7(EjP0 6/GKn name#Staples shop#stationery website#http://www.staples.se
+n 5uv1O 7(Eje} 6/GJ{ name#Synsam shop#optician
+n 5uv1T 7(Eggb 6/Ft% amenity#pub name#The_Bishops_Arms opening_hours#Mo_16:00-00:00;_Tu-Th_16:00-01:00_Fr-Sa_16:00-02:00;_Su_16:00-23:00 phone#0317204045 website#http://www.bishopsarms.com
+n 5uv1U 7(Eg\z 4.T@ amenity#pub fax#+46317740741 name#The_Dubliner opening_hours#Mo-Th_11:00-03:00;_Fr-Sa_11:00-05:00;_Su_12:00-01:00 phone#+4631139020 website#http://www.dubliner.se/ wheelchair#no
+n 5uv1Y 7(Eg{, 6/GQ0 name#Ticket.se shop#travel_agency website#http://www.ticket.se/
+n 5uv1[ 7(Ej,& 6/GS3 name#Tidpunkten
+n 5uv1e 7(Ej%m 6/GO( name#Ving shop#travel_agency
+n 5uv1g 7(EgSX 6/GSH name#Zara shop#clothes website#http://www.zara.com
+n 5uv2d 7(Ej2* 6/GVh amenity#atm operator#Nordea
+n 5uv3/ 7(Ej(' 6/GPH name#resia shop#travel_agency
+n 5uv30 5'z*@ 6/GJ* name#resia shop#travel_agency

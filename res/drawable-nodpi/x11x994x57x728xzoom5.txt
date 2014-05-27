@@ -1,0 +1,36 @@
+n JOV 7(FJEe 6/K`Y highway#motorway_junction name#Lärjemotet
+n K"r 7(F$\j 6/Jt) highway#motorway_junction name#Slakthusmotet ref#77
+n #8`%V 7(E~m| 6/KC} railway#switch
+n $0T,O 7(F&1* 6/K7X amenity#fuel contact:phone#031-215101 name#Preem_-_Göteborg,Slakthusgatan operator#Preem
+n %[i~K 7(F$wL 6/KW0 railway#switch
+n 'OG53 7(F"mG 6/Ji< highway#motorway_junction name#Slakhusmotet ref#77
+n (=9%I 7(E}\? 6/Jql highway#motorway_junction name#Marieholmsmotet ref#76b
+n *+H_O 7(F%DB 6/KTr traffic_calming#bump
+n .=Vr! 7(F9|Z 6/L_& power#tower
+n .=VrJ 7(F4SD 6/L6X power#tower
+n .=Vra 6fQz" 6/L92 power#tower
+n .=Vs) 7(F,zd 6/KOp power#tower
+n .=VsD 7(F+l\ 6/KH8 power#tower
+n .=VtY 7(F2?c 5"Jv8 power#tower
+n .=Vtr 7(F61B 6/LD5 power#tower
+n .=VuS 7(F*M; 6/KCs power#tower
+n .=Vv2 7(F/tH 6/Kx. power#tower
+n .=VvX 7(F7U[ 6/LJO power#tower
+n .=VwE 7(F*Kh 6/KD` power#tower
+n .=VwT 7(F.M[ 6/K`7 power#tower
+n .=Vw` 7(F9I) 6/LVt power#tower
+n .=Vws 7(F28f 6/L)l power#tower
+n .=Vx# 7(F65E 6/LA~ power#tower
+n .=VxQ 7(F+h) 6/KJ< power#tower
+n .=Vx` 7(F-'" 6/KNI power#tower
+n .=Vyr 7(F1'$ 6/K}+ power#tower
+n .=Vz# 7(F7R1 6/LLb power#tower
+n .=Vz7 7(F.>z 6/K`@ power#tower
+n .=VzV 7(F0~X 6/L!N power#tower
+n .=VzY 7(F9r@ 6/LRZ power#tower
+n .=Vzd 7(F)/I 6/KAo power#tower
+n .=V{? 7(F)-> 5"Jo` power#tower
+n .=V{X 7(F0#8 5"Jtd power#tower
+n /fJ^f 7(F(%J 6/JZu beacon#yes light:category#flood man_made#beacon name#Nr7759 seamark#beacon
+n /fJ^g 7(F'ix 6/JMS beacon#yes light:category#flood man_made#beacon name#Nr7760 seamark#beacon
+n /fJfZ 7(F#KU 6/J;` light:category#flood

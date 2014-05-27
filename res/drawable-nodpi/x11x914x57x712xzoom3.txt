@@ -1,0 +1,461 @@
+w "Exw: amenity#parking
+d 0|=Fg 7(Erx" 6/A`>
+d 0|=I, 6fNk# 6/A`1
+d 0|=H2 7(Ers\ 5"IrI
+d 0|=G6 7(ErhJ 6/A^|
+d 0|=H< 7(EreH 6/Abu
+d 0|=GD 7(Erj, 5"Irm
+d 0|=Fb 7(Ero` 6/Ae"
+d 0|=F/ 7(Erth 6/Ae.
+d 0|=Fg 7(Erx" 6/A`>
+w "36XH building#yes
+d .o~(J 7(Eq*u 6/Aj0
+d .o~)o 7(Eq!< 6/Aig
+d .o~)3 7(Eq(P 6/Acx
+d .o~+u 7(Eq2+ 6/AdA
+d .o~(J 7(Eq*u 6/Aj0
+w @41? building#yes layer#1 name#AB_-_Volvo_3P
+d $[E^u 7(Etsj 6/A{a
+d $[E^v 7(Esnx 6/A{r
+d $[E^w 7(Esm+ 6/Air
+d $[E^x 7(EtU_ 6/Aim
+d $[E^y 6fNz{ 6/Aqu
+d $[E^z 7(Ets0 6/Aqu
+d $[E^u 7(Etsj 6/A{a
+w "36XL addr:housenumber#11 addr:street#Prästvägen building#yes
+d .o~,M 7(Er?E 6/A`A
+d .o~'O 7(Er7^ 6/A`(
+d .o~)G 6fNdf 6/AcC
+d .o~)< 7(ErLj 6/Ad6
+d .o~)) 7(ErP/ 6/A`r
+d .o~*Z 6fNf] 6/A`U
+d .o~*9 7(ErF. 6/Aak
+d .o~*s 6fNfF 6/Aag
+d .o~*# 7(ErE8 6/AaI
+d .o~+# 7(Er?{ 6/Aa8
+d .o~+3 7(Er?] 6/AaU
+d .o~&k 7(Er>5 6/AaP
+d .o~,M 7(Er?E 6/A`A
+w *gds highway#unclassified name#Prästvägen
+d j&lz 6fNnU 6/AaL
+d $k>71 7(Esd` 5"Irt
+d j&l{ 7(Esp0 6/AdD
+d j&l| 7(Eu2Z 6/Ae;
+w "358; building#yes
+d .or6k 6fNUX 6/AbO
+d .or7$ 7(Ep5k 6/AeY
+d .or6w 7(Ep1/ 6/Aci
+d .or77 7(EpT5 6/A`^
+d .or6k 6fNUX 6/AbO
+w "36Xy building#yes
+d .o~,0 7(Epl% 5"IsC
+d .o~*% 7(Epgf 6/AnO
+d .o~*Q 6fNV+ 6/An7
+d .o~,r 7(EpbD 6/AhD
+d .o~,0 7(Epl% 5"IsC
+w "36X% amenity#parking
+d .o~*p 7(Ep-5 6/AVX
+d .o~-j 7(Ep'A 6/AT<
+d .o~(7 7(Ep&< 5"Iq<
+d .o~+! 7(Eoi/ 6/AVU
+d .o~)E 6fNNX 5"Iqo
+d .o~*p 7(Ep-5 6/AVX
+w "3585 building#yes
+d .or6G 7(Eoa: 6/A~B
+d .or7F 7(EoCK 6/A}_
+d .or6l 7(EoB5 6/B!U
+d .or7> 7(Eo`$ 5"Iue
+d .or6G 7(Eoa: 6/A~B
+w ":o'* building#yes
+d /g#c^ 7(Es}. 6/AL^
+d /g#e, 7(Es^* 6/AWq
+d /g#fD 7(Es-" 6/AS)
+d /g#h8 7(EsL% 6/AGt
+d /g#c^ 7(Es}. 6/AL^
+w "358! building#yes
+d .or7. 7(Ep^L 5"Ir'
+d .or6^ 7(Ep<I 6/A^X
+d .or7! 7(Ep7b 6/A\`
+d .or6p 7(EpYe 5"Iqs
+d .or7. 7(Ep^L 5"Ir'
+w "358) building#yes
+d .or7) 7(EpRv 5"IsI
+d .or6x 7(Ep0$ 6/Al@
+d .or6~ 7(Ep+. 6/AjE
+d .or7D 7(EpN" 6/Ag>
+d .or7) 7(EpRv 5"IsI
+w "36X! building#yes
+d .o~-e 7(Er6D 6/A^:
+d .o~)m 7(Er/B 6/A]z
+d .o~)% 7(Er0S 6/A]$
+d .o~&Q 7(Er7U 4.Ne
+d .o~-e 7(Er6D 6/A^:
+w "36Xi amenity#place_of_worship building#church name#Gamla_Lundby_Kyrka religion#christian
+d .o~-k 7(EpR* 6/AJP
+d .o~'` 7(EpFY 6/AJX
+d .o~-c 7(EpG4 6/AMF
+d .o~+) 7(EpRc 6/AM>
+d .o~-k 7(EpR* 6/AJP
+w "36Wg building#yes
+d .o~)- 7(Eq"z 6/Aw<
+d .o~+Q 7(Eq(K 6/Ay)
+d .o~($ 7(EqAy 6/AvC
+d .o~)" 7(Eq<J 6/AtV
+d .o~)- 7(Eq"z 6/Aw<
+w @2VA amenity#parking
+d $[3Bo 7(Et8$ 6/AV8
+d $[3Bp 7(EtqR 6/Abd
+d $[3Bq 7(EtpE 6/Ad5
+d $[3Bk 7(Esmw 6/AbY
+d $[3Bj 7(Esv& 6/A_b
+d $[3Bi 7(Esd[ 6/A]k
+d $[3Bv 7(Et#j 6/ATc
+d %A!A| 7(Et3e 6/AUw
+d $[3Bo 7(Et8$ 6/AV8
+w "36Wh building#yes
+d .o~&" 7(EokX 6/AAH
+d .o~*o 7(Eoj' 6/ADE
+d .o~*= 6fNM5 6/AD9
+d .o~'M 7(EocX 6/AC=
+d .o~&4 7(Eo\% 5"Io[
+d .o~)8 7(Eo[X 5"Iod
+d .o~+2 7(EoT^ 6/AD%
+d .o~(# 7(EoUA 5"IoP
+d .o~%n 7(EoT3 6/AA{
+d .o~+5 7(EoTB 6/AAU
+d .o~&% 7(EoL^ 6/AAI
+d .o~)Z 7(EoL: 6/AB@
+d .o~*( 7(EoDz 6/AB9
+d .o~)w 7(EoEz 6/A?F
+d .o~*I 7(Eo=y 6/A?>
+d .o~%a 7(Eo=] 6/A@7
+d .o~+: 7(Eo6F 6/A@-
+d .o~(n 7(Eo7> 6/A=W
+d .o~%r 7(Eo(K 6/A=G
+d .o~)b 7(Eo*& 6/A:y
+d .o~)W 7(Eo?g 6/A;9
+d .o~-B 7(Eo@p 6/A;:
+d .o~." 7(Eo@6 6/A<N
+d .o~.! 7(Eo>e 5"Inz
+d .o~-i 6fNIS 6/A=a
+d .o~(' 7(EoCf 5"Io(
+d .o~'m 7(EoCm 6/A=@
+d .o~&q 7(EoN@ 6/A=Q
+d .o~*] 7(EoMH 6/A?o
+d .o~*N 7(EoS4 6/A?y
+d .o~*' 7(EoSB 6/A?R
+d .o~+O 7(Eo]s 6/A?`
+d .o~*$ 7(Eo\m 6/AAY
+d .o~'Q 6fNM& 6/AA`
+d .o~&W 7(EoaZ 6/AA<
+d .o~&" 7(EokX 6/AAH
+w "36XN building#yes
+d .o~(4 7(Epm# 6/A\K
+d .o~*J 7(EprD 6/AUv
+d .o~'\ 6fNY# 6/AV0
+d .o~-[ 7(Epur 6/A\b
+d .o~(4 7(Epm# 6/A\K
+w "36W[ building#yes
+d .o~*q 7(Ep"< 6/AQ\
+d .o~*_ 7(Eos> 6/ARx
+d .o~*+ 7(EopV 6/AS3
+d .o~,K 7(EolX 6/AQl
+d .o~'q 7(Eok1 6/AQ=
+d .o~%p 7(Eozu 6/AOf
+d .o~*q 7(Ep"< 6/AQ\
+w @2VH building#yes layer#1 name#L_-_Volvo_Powertrain
+d $[3C8 7(Er7> 6/B(Z
+d $[3C9 7(Er7> 6/B+#
+d $[3C: 7(EqQf 6/B+8
+d $[3C; 7(EqQm 6/B(n
+d $[3C8 7(Er7> 6/B(Z
+w @2VB amenity#parking
+d $[3Bw 7(Esb+ 6/Ah,
+d $[3Bx 7(Es^Y 6/AsV
+d 0|=F\ 7(EsWe 6/Au.
+d 0|=G7 7(EsR] 6/As;
+d $[3By 7(Ero: 6/AsX
+d $[3Bz 7(Erp+ 6/Alq
+d $[3B{ 7(Ermq 6/Ald
+d $[3B| 7(Erws 6/AgR
+d $[3B} 7(Es"R 6/Adl
+d 0|=GF 6fNq^ 6/Ae'
+d 0|=HK 6fNqn 6/AhC
+d $[3Bw 7(Esb+ 6/Ah,
+w "Exw] amenity#parking building#yes parking#multi-storey
+d 0|=Fy 7(ErSj 5"Is6
+d 0|=DH 7(EqwO 6/Ag?
+d 0|=HE 7(EqwR 6/Ah0
+d 0|=Ht 7(Eqr[ 6/Ah1
+d 0|=Gq 7(Eqrk 6/Al]
+d 0|=G# 6fNb) 6/Al\
+d 0|=FJ 7(Eqwt 6/AmD
+d 0|=Fc 7(ErSt 4.Nt
+d 0|=F4 7(ErSm 6/AkB
+d 0|=E_ 7(ErW4 6/AkB
+d 0|=Dz 7(ErW0 6/Aj@
+d 0|=E> 7(ErSv 6/AjA
+d 0|=Fy 7(ErSj 5"Is6
+w "36XQ building#yes
+d .o~,O 7(Eq=^ 5"IqV
+d .o~(5 7(Eq0b 6/AVk
+d .o~&S 7(Eq3u 6/A^?
+d .o~(; 7(Eq@F 6/A^2
+d .o~(V 7(Eq?| 6/A]!
+d .o~,S 6fN\` 6/A\y
+d .o~*} 7(EqA4 6/A[[
+d .o~+d 7(Eq?N 6/A[_
+d .o~,O 7(Eq=^ 5"IqV
+w "36Wy building#yes
+d .o~%l 7(Eo`{ 6/AHj
+d .o~+R 7(EoZw 6/AI=
+d .o~%b 7(EoV. 6/AGB
+d .o~)M 7(Eo\3 6/AFo
+d .o~%l 7(Eo`{ 6/AHj
+w @41= building#yes layer#1 name#A_-_Volvo
+d $[E^[ 7(Er}k 6/B-B
+d $[E^\ 7(Er}l 6/B3{
+d $[E^] 7(Er2< 6/B3|
+d $[E^^ 7(Er2< 6/B-B
+d $[E^[ 7(Er}k 6/B-B
+w "3580 building#yes
+d .or6y 7(Eo1~ 6/Al4
+d .or6` 7(Eo6S 6/Am|
+d .or7_ 7(EozW 6/Agp
+d .or7? 7(Eov$ 6/Af(
+d .or6y 7(Eo1~ 6/Al4
+w "358& building#yes
+d .or6n 5'z/T 6/Ap.
+d .or6_ 7(Ep*s 6/As1
+d .or6e 5'z// 6/Aq3
+d .or7H 7(EpH; 6/An0
+d .or6n 5'z/T 6/Ap.
+w @41< building#yes layer#1 name#BM_-_Volvo
+d $[E^R 7(Es6U 6/B5M
+d $[E^X 7(Es$, 6/B5M
+d $[E^Y 7(Es$- 6/B,>
+d $[E^Z 7(Es6U 6/B,>
+d $[E^R 7(Es6U 6/B5M
+w @2VF building#yes layer#1 name#BC_-_Volvo_Powertrain
+d $[3C0 7(Eqor 6/B/.
+d $[E^A 7(Eqol 6/BAV
+d $[3C1 7(EqsV 6/BD"
+d $[3C2 7(Eqc- 6/BDt
+d $[E^N 7(Eq^Y 6/BB$
+d $[3C3 7(Eq^Y 6/B/&
+d $[3C0 7(Eqor 6/B/.
+w ",2X8 building#yes
+d ."3pz 7(Esh9 5"IlF
+d ."3q/ 7(Et;; 6/A'w
+d ."3r7 7(Es+? 6/AMr
+d ."3pN 7(ErX< 6/AHt
+d ."3pz 7(Esh9 5"IlF
+w "36W_ building#yes
+d .o~%t 7(Eoy< 6/ALh
+d .o~*\ 7(EoqR 6/AMa
+d .o~'_ 7(Eoot 6/AM3
+d .o~)r 7(Eon* 6/AMG
+d .o~+j 7(Eokt 5"IpW
+d .o~,l 7(Eomb 5"IpU
+d .o~(m 7(Eol- 6/AL'
+d .o~(g 7(Eosq 5"IpH
+d .o~%t 7(Eoy< 6/ALh
+w "358( building#yes
+d .or6O 7(EpBU 4.Nz
+d .or6c 7(Eo}? 6/Awm
+d .or6] 7(Ep$^ 5"Iu*
+d .or7< 7(EpGt 6/Avu
+d .or6O 7(EpBU 4.Nz
+w "36Xd building#yes
+d .o~*t 7(Eq$3 5"ItB
+d .o~(M 7(Epze 6/AlW
+d .o~'a 7(Eq') 6/Al,
+d .o~'C 6fNZh 6/Ar&
+d .o~*t 7(Eq$3 5"ItB
+w "36Wv building#yes
+d .o~-} 7(Epv4 6/Axl
+d .o~(9 6fNV& 6/A{g
+d .o~,q 7(Epc~ 6/A}]
+d .o~)+ 7(Ep|_ 5"Iu1
+d .o~-} 7(Epv4 6/Axl
+w @2VG building#yes layer#1 name#O_-_Volvo_Powertrain
+d $[3C4 7(EtU! 6/B,:
+d $[3C5 7(EtTF 6/B3~
+d $[3C6 7(Es6b 6/B3~
+d $[3C7 7(Es6b 6/B,E
+d $[3C4 7(EtU! 6/B,:
+w @41C building#yes layer#1 name#AC_-_Volvo_3P
+d $[E_6 7(EsU3 6/AwE
+d $[E_7 7(EsU3 6/A{'
+d $[E_8 7(Es-# 6/A{,
+d $[E_9 7(Es-# 6/AwN
+d $[E_6 7(EsU3 6/AwE
+w C<[o highway#unclassified name#Prästvägen
+d j&lv 7(Eq'6 6/AR<
+d j&lw 7(Eq.T 6/AT_
+d j&lx 7(ErDC 6/A\%
+d j&ly 7(Es#* 6/A_>
+w ":o'C building#yes
+d /g#^6 7(Es"{ 6/AVO
+d /g#`0 7(Es9@ 6/AXn
+d /g#an 7(Es2G 6/A[/
+d /g#]A 7(Es"_ 6/AYP
+d /g#iE 7(Er}A 6/AZ[
+d /g#cP 7(Ervd 6/AYx
+d /g#^6 7(Es"{ 6/AVO
+w "358* building#yes
+d .or71 7(Eo>P 5"It7
+d .or6v 6fNJ" 5"ItH
+d .or7/ 7(Eotm 6/Ane
+d .or7; 7(Eop4 6/Alw
+d .or71 7(Eo>P 5"It7
+w "ExwF amenity#parking
+d 0|=Ev 7(Erb* 6/A^i
+d 0|=GR 7(Er`o 6/AaB
+d 0|=Fr 7(Er6[ 6/A_d
+d 0|=G, 7(Er:C 6/A]=
+d 0|=Ev 7(Erb* 6/A^i
+w @41@ building#yes layer#1 name#GB_-_Volvo
+d $[E^{ 7(Et6] 6/A}[
+d $[E^| 6fNwf 6/B**
+d $[E^} 7(EsQe 5"IvR
+d $[E^~ 7(EsRA 6/A}l
+d $[E^{ 7(Et6] 6/A}[
+w "36WV building#yes
+d .o~-@ 7(Epn* 6/Af|
+d .o~*M 7(Epcs 6/Af`
+d .o~)P 7(Epho 6/A`f
+d .o~'@ 7(Eps& 6/Aa$
+d .o~-@ 7(Epn* 6/Af|
+w "36X[ building#yes
+d .o~(X 6fNM+ 6/AR:
+d .o~-> 7(EoO[ 6/AT'
+d .o~*m 7(EoS- 6/AUA
+d .o~,R 7(EoQo 6/AUN
+d .o~)p 7(EoW\ 6/AWW
+d .o~,- 7(Eof@ 6/AV$
+d .o~(d 5'z.r 6/AV9
+d .o~%` 7(Eou^ 6/ATi
+d .o~'o 7(Eorh 6/ASm
+d .o~,h 7(Eou: 6/ASV
+d .o~*_ 7(Eos> 6/ARx
+d .o~*+ 7(EopV 6/AS3
+d .o~,K 7(EolX 6/AQl
+d .o~-~ 7(EojD 6/AR#
+d .o~+% 7(Eok| 6/ARb
+d .o~,2 6fNML 6/ASC
+d .o~(X 6fNM+ 6/AR:
+w &g.D alt_name#Lundbyleden highway#trunk lanes#2 layer#-1 maxspeed#70 name#Lundbytunneln oneway#yes ref#155 tunnel#yes
+d Ed<M 7(En%C 6/B>z
+d Ee9q 7(EnXB 6/B*T
+d "75m" 7(EoiU 6/Aj.
+d "75m# 7(EpND 6/ANx
+d $k>3@ 7(EpU" 6/A@]
+d "75m$ 7(Ep\$ 6/A1S
+d "75m% 7(Ep#z 6/@GW
+d "75m' 7(Eo+- 5"I`}
+d "75m( 7(En=R 6/?MM
+d EdbV 6fN69 6/?4^
+d EdbO 7(Ekr< 6/>wP
+d 1qLU/ 7(EkTf 6/>qd
+d 1qLSr 7(EkGN 6/>o9
+d Ed<K 7(Ek7. 5"IW[
+w *gdt highway#unclassified junction#roundabout name#Prästvägen
+d j&xL 7(Es2{ 6/A^(
+d )tdUv 7(Es.m 6/A]v
+d $aA4h 7(Es(} 6/A^.
+d )tdUz 7(Es%U 6/A^Z
+d j&ly 7(Es#* 6/A_>
+d )tdU| 7(Es"1 6/A`)
+d $aA4j 7(Es"^ 6/A`p
+d $k>6| 7(Es%e 5"Ira
+d j&xK 7(Es*@ 6/AbB
+d )tdV' 7(Es.R 6/AbN
+d $aA4l 7(Es2P 5"Irf
+d )tdV* 7(Es62 6/Aaz
+d j&lz 6fNnU 6/AaL
+d )tdV. 6fNne 6/A`e
+d $aA4m 7(Es:+ 6/A_V
+d )tdV3 7(Es89 6/A^q
+d )tdV5 7(Es55 5"Ir@
+d j&xL 7(Es2{ 6/A^(
+w "36X( building#yes
+d .o~(\ 7(Eog/ 6/AH.
+d .o~*8 7(Eon' 6/AIo
+d .o~(Y 7(Eofp 6/AJr
+d .o~** 7(EoeJ 6/AJR
+d .o~*; 6fNM> 6/AJd
+d .o~,G 7(Eo`Y 6/AIq
+d .o~(v 7(Eoas 6/AI`
+d .o~&2 7(Eo_r 6/AI1
+d .o~(\ 7(Eog/ 6/AH.
+w "358+ building#yes
+d .or7A 6fNNG 6/Au[
+d .or7X 7(EoPw 6/AxB
+d .or6B 7(EoL4 6/AvS
+d .or7" 7(Eoj@ 6/Asl
+d .or7A 6fNNG 6/Au[
+w "36XZ building#yes
+d .o~+* 7(Eq@8 6/A_b
+d .o~)A 7(Eq78 6/A_d
+d .o~+f 7(Eq7* 6/A`$
+d .o~*H 7(Eq1/ 6/A`1
+d .o~)N 7(Eq1= 6/Aag
+d .o~(z 7(Eq6O 6/Aad
+d .o~(T 7(Eq6k 6/Abg
+d .o~'] 7(EqA/ 4.Nj
+d .o~.) 7(EqA! 6/Aa!
+d .o~-9 7(EqD4 6/Aa!
+d .o~,D 7(EqD4 6/A`<
+d .o~)l 6fN\T 6/A`;
+d .o~+* 7(Eq@8 6/A_b
+w @2VD building#yes layer#1 name#VLD_-_Volvo_IT
+d $[3C$ 7(EsM~ 6/B;`
+d $[3C% 7(Es5~ 6/BA$
+d $[3C& 7(Es*3 6/B?=
+d $[3C' 7(Es/` 6/B={
+d $[3C( 7(Es%~ 6/B<T
+d $[3C) 7(Es8y 6/B8R
+d $[3C$ 7(EsM~ 6/B;`
+w ":o&F building#yes
+d /g#ja 7(EtGY 6/A>u
+d /g#`d 7(Et0% 6/AGV
+d /g#bN 7(Esax 6/ACB
+d /g#cg 7(EsyN 6/A:b
+d /g#ja 7(EtGY 6/A>u
+w "Exwf amenity#parking
+d 0|=F0 7(EqJk 6/As@
+d 0|=G~ 6fN]I 6/ApP
+d 0|=G3 7(Eqb> 6/An`
+d 0|=FT 7(EquN 6/Am^
+d 0|=F% 7(ErT& 6/AmX
+d 0|=F= 7(ErSx 6/Ao)
+d 0|=Ef 6fNgB 6/Aoz
+d 0|=E' 7(Eqid 6/ArD
+d 0|=F0 7(EqJk 6/As@
+w "3583 building#yes
+d .or6} 7(EoY5 6/AbG
+d .or72 7(Eo]R 6/Ad,
+d .or7c 7(Ep!u 6/Aa+
+d .or6a 6fNO_ 6/A_E
+d .or6} 7(EoY5 6/AbG
+w &7?Q alt_name#Lundbyleden highway#trunk lanes#2 layer#-1 maxspeed#70 name#Lundbytunneln oneway#yes ref#155 tunnel#yes
+d 5I8( 7(Ek*v 6/>oR
+d 1qLU- 7(Ek=u 3"AQ
+d 1qLSt 6fN%H 6/>t-
+d EdbS 7(EkeS 6/>y/
+d Edb^ 6fN4m 5"I[Y
+d "75rq 7(En*0 5"I^$
+d "75rt 6fNEV 6/?n/
+d "75qU 7(Eol| 6/@HX
+d "75qV 7(EpD\ 6/A2J
+d "75qW 7(Ep5~ 6/AMo
+d "75qY 7(EoUU 6/Ahi
+d Ee9p 7(EnG; 6/B(v
+d @uIK 7(EmsU 6/B>,
+w "36XR building#yes
+d .o~'n 7(Epf- 6/Ap<
+d .o~(8 5'z/g 6/Av(
+d .o~(b 7(EpWI 6/Auk
+d .o~+N 7(Ep\) 6/Ap!
+d .o~'n 7(Epf- 6/Ap<

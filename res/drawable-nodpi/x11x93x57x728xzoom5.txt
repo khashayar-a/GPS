@@ -1,0 +1,11 @@
+n @uBV 7(F#PF 5"J(1 crossing#island highway#traffic_signals
+n $|Spy 7(F$E9 6/CL, barrier#gate
+n %}uhl 7(F(c7 5"J'% highway#turning_circle
+n ."(9f 6fPYU 6/D$T highway#crossing
+n ."(9r 7(F'&7 6/D#L highway#crossing
+n ."(<G 7(F&sh 6/D!g highway#bus_stop name#Taklöksvägen
+n ."(=< 7(F'D* 6/D') highway#crossing
+n ."(=C 6fP\W 6/D(F highway#crossing
+n ."(>F 7(F&wl 6/D#3 highway#bus_stop name#Taklöksvägen
+n /A%x6 7(F$ZA 5"J%= amenity#recycling
+n 5mb_X 7(F&qA 6/D&l amenity#parking name#Förskoleparkering

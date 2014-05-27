@@ -1,0 +1,29 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n 5I:6 7(Eo>z 6/C;B highway#traffic_signals
+n EcrK 6fNK. 6/C;8 highway#traffic_signals
+n EcrN 7(En+O 6/Bo} highway#motorway_junction name#Eriksbergsmotet
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n j&b] 7(Ek8c 6/C'F highway#traffic_signals
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n $_I9b 6fM}5 6/C8w highway#bus_stop name#Sannegårdshamnen
+n $_l5X 7(Eiw` 5"Ix, highway#bus_stop name#Nordviksgatan
+n $_l5v 7(EeHE 6/A~, highway#bus_stop name#Eriksberg_Centrum
+n $g==? 7(Ed]V 6/A?] highway#bus_stop name#Eriksberg_Krokäng wheelchair#yes
+n $mR`g 7(EmmY 6/BB; highway#motorway_junction name#Eriksbergsmotet
+n -6jnf 7(EmL6 6/B{. amenity#waste_basket
+n -6jpU 7(Em2M 5"J!# building#entrance
+n -6jrn 7(EmP1 5"J"3 building#entrance
+n -6js] 7(Em5X 6/C&m name#ICA_Kvantum_Sannegården opening_hours#Mo-Su_08:00-22:00 operator#ICA shop#supermarket
+n -6jt1 7(EmtH 5"J!r amenity#waste_basket
+n -6jvP 7(El<+ 6/Bg_ power#sub_station
+n -6jvR 7(EmY" 6/C$n amenity#waste_basket
+n -6jx- 7(EmnT 6/C6U traffic_calming#hump
+n -6jxe 7(Em9= 6/C!D amenity#bicycle_parking capacity#20
+n -6jy& 7(EmO# 6/B|? amenity#waste_basket
+n -6jyG 7(Emq! 6/C(/ amenity#waste_basket
+n -6jzt 7(EmPd 6/C,@ amenity#waste_basket
+n -6j{P 7(EmUh 6/C#J amenity#waste_basket
+n -6j~1 7(Emlt 6/C/b amenity#waste_basket
+n -6k!j 7(Em3s 5"I~z amenity#waste_basket
+n /~p(c 7(Eo5H 6/Bg` amenity#fire_station name#Lundby_Brandstation

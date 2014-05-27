@@ -1,0 +1,57 @@
+n 1a' 7(Ep=S 6/JTl highway#motorway_junction name#Olskroksmotet ref#74
+n 1a0 7(EjR1 6/J[, highway#motorway_junction name#Ullevimotet ref#73
+n 1a6 7(Ebhf 5"Jg[ highway#motorway_junction name#Gårda ref#72
+n [rg 6fM[V 6/JU" highway#motorway_junction name#Ullevimotet ref#73
+n :ei# 7(Eo2a 6/Ji> name#Gubbero railway#technical_station ref#Gro
+n j?W[ 7(EoU> 6/JxJ highway#turning_circle
+n $Wa,L 5'z4P 6/Jql highway#motorway_junction name#Olskroksmotet ref#74
+n $o}'0 7(EqpZ 6/KJh highway#turning_circle
+n $st-9 7(ErWg 6/J^J amenity#parking
+n (%GD# 7(Eq}D 6/Ja[ addr:housenumber#1 addr:street#Kobbarnas_Väg name#Systembolaget_Olskroken shop#alcohol
+n (%GdT 7(Er,& 6/JgE name#Strömwalls_sportfiske shop#outdoor
+n (%Gqc 7(EqQ{ 6/Jf^ amenity#restaurant cuisine#indian name#Rajmahal
+n (%GxH 7(Eq/n 5"Jj5 amenity#restaurant cuisine#pizza name#Cyrano
+n ,tBO< 6fN_U 6/K4_ name#Toppen_Frukt_och_grönt shop#greengrocer tele#031_845530
+n ,tBOF 7(Er0] 6/K<A amenity#restaurant cuisine#thai name#Thai_Nisa tele#031_842639
+n 0>'z@ 7(ExW& 5"Jn? railway#switch
+n 0>'zF 7(E}~% 6/KNR railway#switch
+n 0>'zc 7(Ex+& 5"JmN railway#switch
+n 0>'{9 7(EwvA 6/K)Q railway#switch
+n 0?WZU 7(EvXy 6/Jre railway#switch
+n 0?WZm 7(Ev,: 6/Jk+ railway#switch
+n 0?W[4 7(EuIA 6/J`8 railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0?W\5 7(Ew5L 6/J|Y railway#switch
+n 0?W]d 7(EtFn 6/JR, railway#switch
+n 0?W]{ 7(EwWP 6/K%D railway#switch
+n 0?W^> 7(Es}; 6/JJ8 railway#switch
+n 0?W^L 7(Et|5 6/JY{ railway#switch
+n 0Cgp} 7(EsXW 6/JD- railway#switch
+n 1(:nN 7(Eo\~ 6/Jpa amenity#parking capacity#30 int_name#Lagerstromsplatsen name#Lagerströmsplatsen
+n 2%rn, 7(ErZX 6/K!z bench#yes name#Olskrokstorget railway#tram_stop shelter#yes
+n 2%rn/ 7(ErX< 6/Jy` bench#yes name#Olskrokstorget railway#tram_stop shelter#yes
+n 3k+/p 7(Eu+* 5"Jl\ barrier#bollard
+n 3k+0' 7(EsJ} 6/K#w highway#turning_circle
+n 3k.zo 6fNnt 6/J[L amenity#fuel brand#Statoil fuel:octane_95#yes fuel:octane_98#yes name#Statoil operator#Statoil
+n 43$z? 7(EsP; 6/JYK amenity#car_wash name#Statoil
+n 43$z^ 7(EsFp 6/J[D amenity#car_rental name#Statoil_Biluthyrning
+n 5Hfl- 7(EsRF 6/K6! amenity#post_office name#Posten_Företagscenter operator#Posten_Sverige_AB
+n 5HgJ; 7(Erp( 6/J|J amenity#marketplace name#Olskrokstorget
+n 5Hh7Y 7(Er}2 6/K". name#Olskrokstorgets_Fisk shop#fishmonger
+n 5HhYE 7(ErB{ 6/Ju= amenity#atm fee#no operator#Nordea
+n 5Hh]o 6fNjo 6/Jt[ amenity#post_box operator#Posten_Sverige_AB
+n 5HhcT 7(Erb_ 6/Jr{ amenity#restaurant cuisine#pizza name#Lilla_Restaurangen
+n 5Hi"H 7(ErK3 6/K5) addr:housenumber#17 addr:postcode#Redbergsvägen amenity#restaurant cuisine#chinese name#Yanking
+n 5Hi6Q 7(Er\: 5"Jm{ addr:housenumber#17 addr:street#Redbergsvägen name#Sanaas_Hair_Team shop#hairdresser
+n 5HiW] 7(Es09 6/K:! addr:housenumber#18 addr:postcode#41666 addr:street#Redbergsvägen name#Wranges_Juvelerare shop#jewelry
+n 5Hi{Z 6fNgs 6/Jll shop#greengrocer
+n 5Hj%/ 7(Ero0 6/Jd7 addr:housenumber#2 addr:street#Redbergsvägen name#Järnia_Olskroken shop#doityourself
+n 5Hj:8 7(ErNq 6/JhG addr:housenumber#4 addr:street#Redbergsvägen amenity#pharmacy name#Apoteket_Korpen
+n 5I![L 7(Er60 6/Jmi addr:housenumber#7 addr:street#Redbergsvägen name#Interflora shop#florist
+n 5I!cE 5'z1p 5"Jm* addr:housenumber#12 addr:street#Redbergsvägen name#Bokia shop#books
+n 5I!o/ 7(ErPa 6/K%Q addr:housenumber#13 addr:street#Redbergsvägen amenity#cafe cuisine#coffee_shop name#Le_Paine_Francaise
+n 5I!zG 7(Erm$ 6/K#F name#Krokens_Gatukök shop#kiosk
+n 5fNTu 7(Eq3+ 6/K/= name#Tre_Kringlor shop#bakery
+n 5fQ&{ 7(EpuD 6/K+S amenity#fast_food cuisine#pizza name#Gubbero_Bar
+n 6!Pc+ 7(Ervt 6/K.d addr:housenumber#14-16 addr:street#Redbergsvägen name#ICA_Supermarket_Olskroken shop#supermarket
+n 6"1Te 7(EqMB 6/JUO name#RemoveMe

@@ -1,0 +1,18 @@
+n ?|f: 7(F4A$ 6/N=| highway#traffic_signals
+n %+8^Z 7(F-!] 6/N.C highway#mini_roundabout
+n (ieoc 7(F458 6/N?~ bicycle#yes foot#yes highway#crossing
+n +uHy| 7(F.+p 6/N=Y barrier#entrance
+n /VWjH 7(F..6 6/Njv barrier#gate
+n /Vxu% 5'zPL 6/Ngn barrier#cycle_barrier
+n /X03N 7(F.Vh 6/NCs name#Kvibergs_Museum opening_hours#Thu_12:00-16:00 tourism#museum website#www.kvibergsmuseum.se
+n /X04( 7(F-_L 6/NGh internet_access#yes internet_access:fee#yes name#Kvibergs_Vandrarhem_&amp;_stugby smoking#no tourism#hostel website#www.vandrarhem.com
+n /X04z 7(F/1E 6/NK2 shop#bakery
+n 1<O*@ 7(F4Hr 6/NLD bench#yes name#Nymånegatan railway#tram_stop shelter#yes
+n 2%pPt 7(F4W9 6/NKl bench#yes name#Nymånegatan railway#tram_stop shelter#yes
+n 2%pQ( 7(F1"R 6/N=c bench#yes name#Beväringsgatan railway#tram_stop shelter#yes
+n 2%pQ+ 6fQ6w 6/N'O bench#yes name#Kviberg railway#tram_stop shelter#yes
+n 2%pQ- 7(F-Wb 6/N(h bench#yes name#Kviberg railway#tram_stop shelter#yes
+n 2%pQ7 7(F1:, 6/N?+ bench#yes name#Beväringsgatan railway#tram_stop shelter#yes
+n 2<zX| 7(F.{: 6/Nif barrier#gate
+n 3Wlc- 7(F/1H 6/NL9 amenity#fast_food
+n 3Wo-2 6fQF& 6/NRt barrier#gate

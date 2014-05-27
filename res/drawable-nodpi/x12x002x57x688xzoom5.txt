@@ -1,0 +1,22 @@
+n XB? 7(EQ/e 6/KU4 highway#traffic_signals
+n XBC 7(ETq1 6/KQ} highway#traffic_signals
+n XBD 7(EUU# 6/KYE highway#traffic_signals
+n "1Qc$ 7(EX8C 6/L'q traffic_calming#bump
+n "1^[Y 7(E[k` 6/L/t bench#yes highway#bus_stop name#Skårsplatsen shelter#yes
+n "f*3Y 7(EQS> 6/KW5 highway#bus_stop name#Kallebäcksvägen network#Västtrafik
+n $o;P} 7(EW_X 6/Kpb amenity#place_of_worship denomination#lutheran name#Skårs_kyrka operator#Church_of_Sweden religion#christian
+n $o;TN 6fK}b 5"Jt] amenity#school name#Skårsskolan
+n %8WdQ 7(ETzM 6/KS1 highway#traffic_signals
+n &w4hP 5'yux 5"Jr4 highway#bus_stop name#Skårs_kyrka
+n &w4hQ 7(EWME 6/Krf highway#bus_stop name#Skårs_kyrka
+n &{*J/ 7(EWe2 6/L+q amenity#school name#Hackspettsgatans_förskola
+n &{*J0 7(EWD| 6/KbG amenity#fast_food name#Pizzeria_Blixen
+n 3Yl7] 7(EV@Z 6/K[< amenity#compressed_air
+n 4g*`X 7(EWx@ 5"Jsc amenity#bench backrest#yes seats#3
+n 4g*`_ 7(EX6( 6/Ks7 fixme#continue noexit#no
+n 4g*`a 7(EX^Z 6/Kfl fixme#continue noexit#no
+n 4hn5^ 7(EW;] 6/Kl3 crossing#uncontrolled highway#crossing
+n 4hn5a 7(EW^U 6/KgE amenity#waste_basket
+n 4hn5d 7(EWg# 6/Kw6 crossing#uncontrolled highway#crossing
+n 4hn5i 7(EX6k 6/Kh' amenity#bench backrest#yes
+n 4hn5x 7(EX:g 6/L)' amenity#waste_basket

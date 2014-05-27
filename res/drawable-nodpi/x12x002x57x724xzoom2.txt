@@ -1,0 +1,104 @@
+w ^;.h bicycle#no bridge#yes highway#secondary layer#1 name#Gamlestadsvägen oneway#yes ref#O519
+d $6&Ln 7(F#^g 5"Ju\
+d ?zdo 7(F$#i 6/L!>
+d '.W0B 7(F$8$ 6/L!*
+d ?zdr 7(F$Cf 4.XL
+d '.W/4 6fPDT 6/K|h
+w +yV_ highway#secondary junction#roundabout
+d 'OG6W 7(E}:V 6/L!}
+d %VOt~ 7(E}=^ 6/L#D
+d 'OG6V 7(E}As 6/L$5
+d %VOu% 7(E}Iy 6/L$x
+d 5,2A{ 7(E}Pt 6/L$}
+d qkfG 7(E}Ug 6/L$g
+d %VOu( 7(E}]$ 6/L#k
+d ?zdn 7(E}`u 6/L"[
+d %VOph 7(E}b9 6/L!6
+d (bCx) 7(E}a% 6/K}}
+d %VOu, 6fOrA 6/K}&
+d 5,2A~ 7(E}YE 6/K|/
+d qkel 7(E}V> 6/K{o
+d %VOpj 7(E}O9 6/K{R
+d qkeh 7(E}HX 6/K{`
+d 5,2A0 7(E}BC 6/K|8
+d %VOt} 7(E}=` 6/K}0
+d qkfO 7(E}:: 6/K~|
+d 'OG6W 7(E}:V 6/L!}
+w RvI~ highway#secondary name#Stockholmsgatan oneway#yes
+d (t}4k 7(E|S\ 6/L+8
+d 'OG6N 7(E|X4 6/L+/
+d 'OG6` 7(E|i' 6/L)E
+d 'OG6a 6fOlZ 6/L'm
+d 4F"HU 6fOmZ 6/L&g
+d )@I@D 7(E}:> 6/L%U
+d %VOu% 7(E}Iy 6/L$x
+w Q){} highway#secondary name#Gamlestadsvägen oneway#yes ref#O519
+d %VOu( 7(E}]$ 6/L#k
+d (bCwq 7(E}l2 6/L#u
+d qkfB 7(E}{H 6/L#@
+d 56sM! 7(E~'q 6/L"t
+d ?zdm 7(F!G@ 6/K{P
+d &v,:! 7(F!oZ 6/Kza
+d ?zdl 7(F"%1 6/Kze
+d '.W3< 7(F"Q9 6/K{~
+w ^;?] bicycle#no bridge#yes highway#secondary layer#1 name#Gamlestadsvägen oneway#yes ref#O519
+d 1@=t[ 7(F$dc 6/KyQ
+d 1@=tu 7(F$Z3 6/Kz9
+d 1@=u2 7(F$K+ 6/K{)
+d 1@=ta 7(F$3A 6/K|#
+d ?zdp 5'z?w 6/K|l
+d ?zdk 7(F#TA 6/K|i
+w "ptYO highway#residential layer#-1 name#Ånäsvägen
+d qkep 7(E};8 5"Ju*
+d 1AQ(4 6fOn9 6/Kw9
+d 1AQ(9 7(E}3Z 6/Kt2
+d qket 7(E}2w 6/Kp+
+d qkez 7(E},? 6/Kk}
+d 4V_"* 6fOlC 6/KiN
+d qkg? 7(E|r? 6/Kg{
+d qkgG 7(E|WQ 6/Kgk
+d qkgT 7(E|Gh 6/Kg=
+d $x.!u 7(E|8I 6/Kg8
+d qkgZ 7(E|&5 6/Kg:
+d qkgN 7(E{jD 6/Kg%
+d $x-~| 7(E{ZH 6/Kgc
+d $x-~c 7(E{Ch 6/Ki*
+d qkgb 7(E{(8 6/Kk^
+d qkgk 7(EzvR 6/KlR
+d "qm1p 7(Ez(W 6/Kih
+w +yVc highway#residential name#Ånäsvägen oneway#yes
+d qkeh 7(E}HX 6/K{`
+d qkep 7(E};8 5"Ju*
+w Q){D highway#secondary name#Gamlestadsvägen oneway#yes ref#O519
+d '.W/o 7(F"Sf 6/Kz#
+d (bCwc 7(F"9J 6/Ky/
+d (bCx* 7(F"&$ 6/KxY
+d (bCx+ 7(F!y~ 6/Kx@
+d (bCx, 7(F!i1 6/Kx$
+d (bCx- 7(F!Bk 6/Kxv
+d 1QXt4 7(E~DD 6/K}-
+d 56sM# 7(E~%) 6/K~V
+d (bCx. 7(E}x* 5"JuZ
+d (bCx/ 7(E}n` 6/L!>
+d (bCx) 7(E}a% 6/K}}
+w "ptYF highway#residential name#Ånäsvägen oneway#yes
+d qkep 7(E};8 5"Ju*
+d %VOt} 7(E}=` 6/K}0
+w Q){y bridge#yes highway#secondary layer#1 name#Gamlestadsvägen oneway#yes ref#O519
+d '.W3< 7(F"Q9 6/K{~
+d '.W3= 7(F#I9 6/K~Y
+d $6&Ln 7(F#^g 5"Ju\
+w &._r bridge#yes highway#secondary layer#1 name#Artillerigatan oneway#yes
+d $6&Ln 7(F#^g 5"Ju\
+d $6&Li 7(F$+! 6/L#R
+d 2%qa$ 7(F$8Q 6/L%P
+d $6&Lj 7(F$AI 6/L'd
+w F95U highway#secondary name#Stockholmsgatan oneway#yes
+d 'OG6W 7(E}:V 6/L!}
+d )@I@H 7(E}8e 6/L#O
+d 'OG6U 7(E}.K 6/L%j
+d 'OG6Z 7(E|wo 6/L't
+w *aQA bridge#yes highway#secondary layer#1 name#Gamlestadsvägen oneway#yes ref#O519
+d ?zdk 7(F#TA 6/K|i
+d iIek 7(F"m, 6/K{$
+d '.W/o 7(F"Sf 6/Kz#

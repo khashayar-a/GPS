@@ -1,0 +1,401 @@
+w &5., highway#trunk lanes#2 maxspeed#70 oneway#yes ref#E_6.20
+d @e`1 7(EQql 4.ML
+d @e`2 7(ERTQ 6/@:~
+d 'v;Rh 6fKXv 6/@9;
+w &2$9 bridge#yes highway#trunk_link layer#1 maxspeed#70 oneway#yes
+d @@6q 7(ES7| 6/@5>
+d @@6r 7(ERu` 6/@5Y
+w J7u` highway#trunk_link maxspeed#70 name#Älvsborgsbron oneway#yes
+d 5I4. 7(ERE} 6/@@R
+d 'v;Rc 7(ERV$ 6/@?|
+d $N{w7 7(ERfn 6/@>t
+d 5I4- 7(ES"= 5"IeV
+w "eq;i building#yes
+d 4#aM* 7(EPT? 6/?mF
+d 4#aM3 7(EPYa 6/?nT
+d 4#aM, 7(EPV3 6/?o+
+d 4#aM& 7(EPPp 5"Ia*
+d 4#aM* 7(EPT? 6/?mF
+w Cb=p bridge#yes highway#unclassified layer#1 name#Otterklintsvägen
+d %&JU/ 7(ER6A 6/@Mn
+d %&JU. 7(ERJf 6/@G^
+w &5.- bridge#yes highway#trunk lanes#2 layer#2 maxspeed#70 oneway#yes ref#E_6.20
+d @e`3 6fKB$ 6/@=n
+d @e`1 7(EQql 4.ML
+w &2$( highway#trunk_link lanes#2 layer#1 maxspeed#70 oneway#yes
+d 5I4= 7(EPz< 6/@0C
+d $N{he 7(EQ.o 6/@7,
+d 5I4? 7(EQCn 6/@;?
+d 5I4@ 7(EQ`. 6/@>b
+d $N{w6 7(ER&9 6/@@R
+d 'v;Rb 7(ER5R 6/@@`
+d 5I4. 7(ERE} 6/@@R
+w "eq;_ building#yes
+d 4#aLV 6fK@0 6/?\}
+d 4#aL] 7(EPAl 6/?]D
+d 4#aLW 7(EP>o 6/?^6
+d 4#aLP 7(EP;\ 6/?]n
+d 4#aLV 6fK@0 6/?\}
+w Wh,* highway#unclassified name#Otterklintsvägen
+d $.ShF 7(ES7o 6/@')
+d $.ShG 7(ES3q 6/@$x
+d $.ShH 7(ES*] 6/@!T
+d $.ShI 6fKXY 6/?zY
+d $.ShJ 7(ERn2 6/?x8
+d $.ShK 7(ERaK 6/?u{
+d $.ShL 7(ERQ5 6/?sr
+d $.ShM 7(ER>T 6/?rk
+d $.ShN 7(ER,! 6/?rf
+d $.ShO 7(EQts 5"Ia^
+d $.ShS 7(EQh9 5"Iaa
+d $.ShT 7(EQZP 6/?s(
+w kSmI building#yes
+d *t&cC 7(EPQW 5"Ig*
+d *t&b| 7(EP$# 5"Ig-
+d *t&bq 7(EP#V 6/@J'
+d *t&b_ 7(EPQ, 6/@Ig
+d *t&cC 7(EPQW 5"Ig*
+w &2$' highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d '.W"Y 6fKuq 6/@tG
+d '.W"Z 7(EU5E 6/@gX
+d '.W"[ 7(ET4, 6/@[*
+d $N{g~ 7(ESl. 6/@U@
+d 5I4H 7(ESYc 6/@Q{
+d 5I4C 7(ESM~ 6/@M`
+d $N{h! 7(ESJ) 6/@Ig
+d $N{h" 7(ESI+ 6/@E!
+d 5I4B 7(ESM~ 6/@=7
+d 5I4A 7(ESUl 6/@02
+d $N{h# 7(ESTA 6/@*c
+d 2k6J 7(ESN| 6/@$q
+d $N{h% 7(ESE4 6/?}g
+d $N{h& 7(ES2_ 6/?wB
+d 2k6I 7(ER~+ 6/?r|
+d 2k6H 7(ER_C 6/?nz
+d 2k6G 7(ERBV 6/?m$
+d 2k6F 7(ER$k 6/?l`
+d 5I48 6fKM9 6/?mz
+d 'v;R\ 7(EQT. 6/?o4
+d $N{h' 7(EQD/ 6/?q1
+d $N{h( 7(EQ4E 6/?s~
+d 'v;R] 7(EQ%t 6/?wb
+d $N{h) 7(EPy> 6/?{D
+d 5I4: 7(EPqP 6/@#=
+d $N{h* 7(EPrN 6/@*R
+d 5I4= 7(EPz< 6/@0C
+w "eq;e building#yes
+d 4#aMk 7(ER7Q 6/?yE
+d 4#aMn 7(ER;, 6/?z;
+d 4#aMi 7(ER5@ 6/?{*
+d 4#aMh 7(ER1e 5"Ib?
+d 4#aMk 7(ER7Q 6/?yE
+w "eq;> building#yes
+d 4#aLT 6fK@/ 6/?c~
+d 4#aL^ 7(EPA{ 6/?cp
+d 4#aL_ 7(EPBz 5"I`0
+d 4#aLX 7(EP?M 6/?dh
+d 4#aLT 6fK@/ 6/?c~
+w &.P( highway#trunk maxspeed#70 oneway#yes
+d 5I4\ 7(ET-E 6/@\`
+d 5I4/ 6fKQo 6/@G/
+d $N{q, 7(EQL[ 6/@?<
+d 0CvA~ 7(EQ)< 6/@;h
+d 5I40 7(EPbQ 6/@90
+d 0CvA_ 7(EPNf 6/@8F
+d 5I43 7(EP;? 6/@8-
+d 5I45 7(EOg% 6/@8/
+d 5I6I 7(EN)T 6/@9b
+w "eq;v building#yes
+d 4#aM9 7(EP]D 6/?p.
+d 4#aM@ 7(EP`K 6/?ps
+d 4#aM; 7(EP]\ 6/?q<
+d 4#aM6 7(EPZT 6/?pT
+d 4#aM9 7(EP]D 6/?p.
+w TnuI highway#trunk maxspeed#70 oneway#yes ref#E_6.20
+d 'v;Re 5'yqh 6/@6w
+d @e`4 7(ERc8 5"Ie&
+d $N{oQ 7(ER7o 6/@85
+d @e`5 7(EQdR 6/@7y
+w "eq;) building#yes
+d 4#aM' 7(EPPy 6/?hh
+d 4#aM1 7(EPY1 6/?k2
+d 4#aM- 7(EPV< 6/?kS
+d 4#aM# 7(EPN& 6/?i+
+d 4#aM' 7(EPPy 6/?hh
+w "eq<& building#yes
+d 4#aMA 7(EP`v 6/?mJ
+d 4#aMD 7(EPi; 4.M#
+d 4#aMB 7(EPa[ 6/?pL
+d 4#aM= 7(EP^m 6/?ou
+d 4#aMC 7(EPcV 6/?o'
+d 4#aM< 7(EP^! 6/?mz
+d 4#aMA 7(EP`v 6/?mJ
+w "eq;4 building#yes
+d 4#aMt 7(ERTR 6/?w|
+d 4#aMu 7(ERTR 6/?y?
+d 4#aMq 7(ERO# 6/?y?
+d 4#aMp 7(ERO# 6/?w|
+d 4#aMt 7(ERTR 6/?w|
+w "eq;n building#yes
+d 4#aLo 7(EPH9 6/?fA
+d 4#aLx 7(EPJ7 6/?g6
+d 4#aLk 7(EPEi 5"I`L
+d 4#aLd 7(EPCk 6/?fa
+d 4#aLo 7(EPH9 6/?fA
+w "eq;s building#yes
+d 4#aMO 7(EQ^y 6/?RB
+d 4#aMP 7(EQ`i 6/?S#
+d 4#aMM 7(EQTn 6/?T1
+d 4#aML 7(EQS! 6/?SQ
+d 4#aMO 7(EQ^y 6/?RB
+w "eq<$ building#yes
+d 4#aL{ 7(EPJu 5"I^R
+d 4#aM) 7(EPSW 6/?Uk
+d 4#aM$ 7(EPOp 6/?VQ
+d 4#aLm 7(EPG0 6/?Tx
+d 4#aL{ 7(EPJu 5"I^R
+w "eq;Z building#yes
+d 4#aL[ 7(EP@v 6/?[$
+d 4#aLU 6fK@0 6/?[d
+d 4#aLN 6fK?f 6/?[4
+d 4#aLQ 7(EP<^ 6/?ZR
+d 4#aL[ 7(EP@v 6/?[$
+w TnuL bridge#yes highway#trunk lanes#2 layer#1 maxspeed#70 name#Älvsborgsbron oneway#yes ref#E_6.20
+d 'v;Rh 6fKXv 6/@9;
+d 5I4, 7(ESmz 6/@56
+w "eq;[ building#yes
+d 4#aLy 7(EPJB 6/?jj
+d 4#aM" 7(EPMh 6/?kv
+d 4#aLw 6fKA? 6/?l;
+d 4#aLl 6fK@} 6/?k/
+d 4#aLy 7(EPJB 6/?jj
+w ?.o6 highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d $N{h( 7(EQ4E 6/?s~
+d 'v;R_ 7(EQ$? 6/?w=
+d $N|)/ 7(EPuG 6/?zn
+d $N|)0 7(EPg8 6/@#W
+d $N|)1 7(EP]! 6/@(Y
+d $N|)2 7(EPO* 6/@+R
+d $N|)3 7(EPBG 6/@-W
+d $N|)4 7(EP4! 6/@/%
+d $N|)5 7(EO~7 6/@0%
+d $N|)6 7(EOF> 6/@1w
+d $N|)7 7(ENrk 6/@3|
+d $N|&7 7(ENDF 6/@6#
+d $N{y. 6fK*n 6/@6N
+w ?.og highway#trunk lanes#2 maxspeed#70 oneway#yes
+d @e`0 7(EOxx 6/@=f
+d @e`3 6fKB$ 6/@=n
+w TnuJ highway#unclassified layer#-1 name#Otterklintsvägen tunnel#yes
+d $.ShT 7(EQZP 6/?s(
+d $.ShU 7(EQD5 6/?oT
+w ?.mk highway#trunk lanes#3 maxspeed#70 oneway#yes
+d @e`7 7(EPss 5"Idr
+d 0CvAb 7(EPKK 6/@5%
+d @e`9 7(EP!2 6/@4[
+w &2$8 bridge#yes highway#trunk lanes#3 layer#1 maxspeed#70 name#Älvsborgsbron oneway#yes ref#E_6.20
+d @@6h 7(E[~s 6/?_z
+d @@6o 7(ET(; 6/@1F
+d @@6p 7(ESio 6/@3-
+d @@6q 7(ES7| 6/@5>
+w "?q\A highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d $N|-X 7(EN1\ 6/@>*
+d @e`0 7(EOxx 6/@=f
+w "eq;@ building#yes
+d 4#aM! 7(EPMS 6/?gl
+d 4#aM' 7(EPPy 6/?hh
+d 4#aL| 7(EPLL 6/?i>
+d 4#aLt 7(EPI& 6/?hB
+d 4#aM! 7(EPMS 6/?gl
+w PK"| highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d %&JU) 7(EO-: 6/@?b
+d @e`0 7(EOxx 6/@=f
+w 8,3U highway#trunk oneway#yes
+d ?x8, 7(ER!` 6/@G=
+d %&JU- 7(ESP5 6/@X$
+d ?x8- 7(ESoE 6/@[S
+d 3vg1c 7(ET4! 6/@_l
+d 3vg1i 7(ETV} 6/@d:
+d @@4+ 7(EU4( 6/@l(
+d '.W"y 7(EUyJ 6/@v9
+w PK#! highway#trunk lanes#2 maxspeed#70 oneway#yes
+d @e`9 7(EP!2 6/@4[
+d @e`: 7(EO+} 6/@6S
+d 5I6I 7(EN)T 6/@9b
+w Cb=o highway#unclassified name#Otterklintsvägen
+d %&JU. 7(ERJf 6/@G^
+d $.Sh< 7(EROy 6/@Et
+d 'v;Rd 7(ER\y 6/@Cp
+d $.Sh= 7(ERkO 6/@BV
+d $.Sh? 7(ES*Z 6/@@.
+d $.Sh@ 7(ES1L 6/@?'
+d $.ShA 7(ES8G 4.ML
+d 'v;Rf 7(ES>> 6/@6O
+d $.ShC 7(ES@Z 6/@1{
+d $.ShD 7(ES?| 6/@.f
+d $.ShE 7(ES>& 5"Icq
+d $.ShF 7(ES7o 6/@')
+w <M;? amenity#parking
+d $.Shp 7(ERi% 6/@D1
+d $.Shr 7(ERot 6/@G`
+d $.Sht 7(ES)3 6/@F(
+d $.Shw 7(ES"C 6/@BW
+d $.Shp 7(ERi% 6/@D1
+w "eq;* building#yes
+d 4#aL` 7(EPB~ 5"I`Z
+d 4#aLp 7(EPH@ 6/?hX
+d 4#aLz 7(EPJR 6/?iI
+d 4#aLg 7(EPE2 5"I`b
+d 4#aL` 7(EPB~ 5"I`Z
+w TnuM bridge#yes highway#trunk_link layer#1 maxspeed#70 name#Älvsborgsbron oneway#yes
+d 5I4- 7(ES"= 5"IeV
+d 'v;Ri 7(ESN? 6/@8.
+d 5I4, 7(ESmz 6/@56
+w &2$) bridge#yes highway#trunk lanes#3 layer#1 maxspeed#70 name#Älvsborgsbron oneway#yes ref#E_6.20
+d 5I4, 7(ESmz 6/@56
+d 5I4+ 7(ET+R 6/@37
+d KTN 7(E\$& 6/?a}
+w "eq;o building#yes
+d 4#aMd 7(ER+P 6/@$e
+d 4#aMg 7(ER-f 6/@%^
+d 4#aMc 7(ER(~ 6/@&&
+d 4#aM_ 7(ER&i 6/@%,
+d 4#aMd 7(ER+P 6/@$e
+w "eq:t addr:housenumber#2 addr:street#Banehagsliden building#yes
+d 4#aN< 6fKdY 6/@C6
+d 4#aN: 7(ET+7 6/@HD
+d 4#aN@ 7(ET;< 6/@I5
+d 4#aN> 7(ET6` 6/@L=
+d 4#aN9 7(ET&D 6/@KK
+d 4#aN7 7(ES~6 6/@OU
+d 4#aN? 7(ET8` 6/@Po
+d 4#aN= 7(ET4z 6/@S?
+d 4#aN. 7(EShs 6/@Q,
+d 4#aN2 7(ESqT 6/@K@
+d 4#aN/ 7(ESi( 6/@Jt
+d 4#aN0 7(ESi+ 6/@HX
+d 4#aN3 7(ESsD 6/@A`
+d 4#aN< 6fKdY 6/@C6
+w "eq;5 building#yes
+d 4#aM0 7(EPWx 6/?oN
+d 4#aM5 6fKBx 6/?p$
+d 4#aM+ 7(EPU0 6/?pk
+d 4#aM( 7(EPRo 6/?p7
+d 4#aM0 7(EPWx 6/?oN
+w "eq;/ building#yes
+d 4#aLn 7(EPGO 6/?iu
+d 4#aLu 6fKA8 6/?jV
+d 4#aLi 6fK@p 5"I`l
+d 4#aLb 7(EPCK 6/?j=
+d 4#aLn 7(EPGO 6/?iu
+w "eq;d building#yes
+d 4#aLE 7(EP1> 6/?`m
+d 4#aLJ 7(EP5X 5"I_u
+d 4#aLF 7(EP2& 6/?bG
+d 4#aLA 7(EP-j 6/?a;
+d 4#aLE 7(EP1> 6/?`m
+w dyj? building#yes
+d *&KV* 7(ETG{ 6/@BK
+d *&KUv 7(ETZU 4.M]
+d *&KV+ 7(ETez 5"Ig?
+d *&KV# 7(ETcD 6/@L,
+d 2:(qF 7(ETeu 6/@L%
+d *&KV$ 7(ETuY 6/@M"
+d *&KV% 7(ETu' 6/@MD
+d *&KU} 6fKll 6/@NC
+d *&KUw 6fKlX 5"IgN
+d 2:(qX 7(EU'@ 6/@P*
+d 2:(qB 7(EU)L 6/@P6
+d *&KU{ 7(EU+Z 6/@P;
+d 2:(qA 7(EU.- 5"IgR
+d *&KV. 7(EU1C 6/@O}
+d *&KUz 7(EU<| 6/@I-
+d 2:(qL 7(EU2Y 6/@H!
+d *&KV& 7(EU3V 6/@GQ
+d *&KV( 7(EU$, 5"IfO
+d *&KV! 7(EU"A 6/@Ff
+d *&KU~ 7(ETVy 6/@D4
+d *&KV, 7(ETUQ 6/@CB
+d *&KV* 7(ETG{ 6/@BK
+w &g2? bridge#yes highway#trunk layer#1 maxspeed#70 oneway#yes ref#E_6.20
+d @@6q 7(ES7| 6/@5>
+d 'v;Re 5'yqh 6/@6w
+w TnuH highway#trunk_link maxspeed#70 oneway#yes
+d @@6r 7(ERu` 6/@5Y
+d $NQN} 7(ER<X 6/@6-
+d $NQO% 6fKO! 6/@5O
+d @@6t 7(EQY2 6/@3=
+d @@6v 7(EQCc 5"IdE
+d $NQO) 7(EQ3+ 6/@,v
+d @@6y 7(EQ(r 6/@'Q
+d @@6z 7(EQ'F 6/@"6
+d $NQO* 7(EQ-g 5"IbK
+d $NQO+ 7(EQ8| 6/?vv
+d @@6{ 7(EQF/ 6/?sl
+d @@6| 7(EQZ^ 6/?pk
+d @@6} 7(EQtR 5"Ia6
+d @@6~ 7(ER1C 6/?ns
+d @@7! 7(ERLb 6/?o|
+d $NQO- 7(ERjM 6/?rl
+d $NQO. 7(ES#u 6/?w:
+d $NQO1 7(ES6K 6/?|E
+d $NQO2 7(ESB0 6/@$.
+d @@7" 7(ESH~ 6/@*0
+d @@7# 7(ESJ: 6/@2Z
+d @@7$ 7(ES<k 6/@Dw
+d @@7% 7(ES8F 6/@I_
+d @@7& 7(ES4} 6/@NH
+w TnuK highway#unclassified name#Otterklintsvägen
+d $.ShU 7(EQD5 6/?oT
+d $gktA 7(EQ6N 6/?l'
+d *n/ik 7(EQ9p 6/?j^
+d $gktD 7(EQVI 6/?f>
+w "?q\H highway#trunk lanes#2 maxspeed#70 oneway#yes
+d ?x8' 7(EN-\ 6/@<=
+d ?x8( 7(EO@Q 6/@:T
+d ?x8) 7(EP2v 6/@:*
+d ?x8* 7(EPXB 5"IeG
+d ?x8+ 7(EQ.R 6/@>o
+d ?x8, 7(ER!` 6/@G=
+w "eq;x building#yes
+d 4#aLB 7(EP-v 6/?]H
+d 4#aL? 7(EP)Q 6/?^;
+d 4#aL> 7(EP%j 6/?][
+d 4#aL@ 6fK>, 6/?\g
+d 4#aLB 7(EP-v 6/?]H
+w ?.m: bridge#yes highway#trunk lanes#3 layer#2 maxspeed#70 oneway#yes ref#E_6.20
+d @e`5 7(EQdR 6/@7y
+d @e`6 7(EQLZ 6/@7`
+d @e`7 7(EPss 5"Idr
+w "eq;U building#yes
+d 4#aM7 6fKC4 5"I^Q
+d 4#aM? 6fKCT 6/?Tc
+d 4#aM8 7(EP]. 6/?UC
+d 4#aM4 6fKBs 6/?Ti
+d 4#aM7 6fKC4 5"I^Q
+w "@2C, amenity#parking
+d *t`kX 7(EQlH 6/@Mf
+d 0Cv>G 6fKN< 5"Ig(
+d 0Cv<g 7(EQ<~ 4.MV
+d 0Cv?; 7(EPoy 6/@D|
+d 0Cv>, 7(EPXo 6/@Dk
+d *t`kV 7(EPW> 6/@F|
+d *t`kX 7(EQlH 6/@Mf
+w Cb=n highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d %&JU) 7(EO-: 6/@?b
+d %&JU* 7(EOrN 5"Iey
+d %&JU+ 7(EPlv 6/@BG
+d 0Cv>2 7(EQ3g 6/@D+
+d %&JU, 7(EQ_| 6/@G9
+d %&JU- 7(ESP5 6/@X$
+w "eq;G building#yes
+d 4#aLR 7(EP=d 6/?T@
+d 4#aLM 7(EP9^ 6/?U9
+d 4#aLI 7(EP5R 6/?T[
+d 4#aLL 7(EP9X 6/?Sc
+d 4#aLR 7(EP=d 6/?T@
+w ?.n} highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d @e`9 7(EP!2 6/@4[
+d $N|&5 7(EO@! 6/@4N
+d $N|&6 7(ENs# 3"A]
+d $N|&7 7(ENDF 6/@6#

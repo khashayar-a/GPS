@@ -1,0 +1,219 @@
+w "Naks covered#yes highway#platform operator#Västtrafik public_transport#platform ref#22
+d 1iK}R 7(Em35 6/Gz#
+d 1iK~W 7(Em). 6/GxA
+w "Nal! covered#yes highway#platform operator#Västtrafik public_transport#platform ref#21
+d 1iK}j 7(Em#$ 5"JOD
+d 1iL!p 7(Em-9 6/GzF
+w "Nal$ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#35
+d 1iL!x 7(En#X 6/Gu2
+d 1iK}P 7(Emx" 6/GsK
+w "Nal% covered#yes highway#platform operator#Västtrafik public_transport#platform ref#26
+d 1iL!n 7(EmJr 6/GxT
+d 1iL!8 7(Em@z 6/Gvr
+w "Nakw covered#yes highway#platform operator#Västtrafik public_transport#platform ref#32
+d 1iK~G 6fN;Z 6/Gv=
+d 1iK}\ 7(Emef 6/GtX
+w "NakZ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#40
+d 1iL!f 7(En@m 6/Gs,
+d 1iL!l 7(En7x 5"JN_
+w "Na|! covered#yes highway#platform operator#Västtrafik public_transport#platform ref#20
+d 1iNNL 7(Em>w 6/GlF
+d 1iL"5 7(Em2" 6/Gm"
+d 1iL!< 7(El~0 6/Gn"
+w "Nak~ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#28
+d 1iL"2 7(EmVi 6/Gwl
+d 1iK~~ 7(EmM6 6/Gv+
+w "Nakc amenity#bicycle_parking covered#yes fee#no
+d 1iK}` 7(Em6[ 6/Gi{
+d 1iK|r 7(Em94 6/Gk&
+d 1iL"? 7(Em"$ 6/Glq
+d 1iK~K 7(El}J 6/Gkl
+d 1iK}` 7(Em6[ 6/Gi{
+w "NakT covered#yes highway#platform operator#Västtrafik public_transport#platform ref#24
+d 1iL"$ 7(Em>W 6/Gy>
+d 1iK~S 7(Em5# 6/GwZ
+w "Nak{ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#30
+d 1iL![ 7(Embs 6/Gw'
+d 1iK|@ 6fN9J 6/GuB
+w "NakW covered#yes highway#platform operator#Västtrafik public_transport#platform ref#27
+d 1iK~I 7(EmPj 5"JO?
+d 1iK|F 7(EmG7 6/GvN
+w "NakU covered#yes highway#platform operator#Västtrafik public_transport#platform ref#37
+d 1iK}k 7(En/C 6/GtJ
+d 1iK|Z 6fN=b 6/Grd
+w "Nak[ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#39
+d 1iL!o 7(En;- 6/GsJ
+d 1iK~$ 7(En2) 6/Gq{
+w "Nak^ covered#yes highway#platform operator#Västtrafik public_transport#platform ref#19
+d 1iL"8 7(Elp# 6/Gm0
+d 1iL"; 7(Elrj 5"JNP
+w "NakV covered#yes highway#platform operator#Västtrafik public_transport#platform ref#41
+d 1iK~- 7(EnG8 6/Gra
+d 1iK|A 7(En>! 6/Gq6
+w "Nakb covered#yes highway#platform operator#Västtrafik public_transport#platform ref#33
+d 1iK}Y 7(Emtf 5"JO*
+d 1iK|_ 7(EmkS 6/Gt6
+w "Nal& covered#yes highway#platform operator#Västtrafik public_transport#platform ref#34
+d 1iK|B 7(Em{H 6/GuU
+d 1iK~V 7(Emqk 6/Gsp
+w "Nakk covered#yes highway#platform operator#Västtrafik public_transport#platform ref#31
+d 1iL!} 7(Emh{ 6/Gvb
+d 1iK}f 7(Em__ 6/Gt{
+w "Nal* covered#yes highway#platform operator#Västtrafik public_transport#platform ref#23
+d 1iK~2 7(Em8G 6/Gyb
+d 1iK}, 6fN54 5"JO=
+w "Nakz covered#yes highway#platform operator#Västtrafik public_transport#platform ref#38
+d 1iK}u 7(En5W 6/Gt&
+d 1iK}d 7(En,/ 6/Gr@
+w "Nakx covered#yes highway#platform operator#Västtrafik public_transport#platform ref#25
+d 1iL!~ 7(EmDd 6/Gxw
+d 1iL!H 7(Em;" 5"JO6
+w "Na|" covered#yes highway#platform operator#Västtrafik public_transport#platform ref#18
+d 1iK}F 7(ElEW 6/Go~
+d 1iK|] 7(ElW2 6/GnP
+w "Nakf covered#yes highway#platform operator#Västtrafik public_transport#platform ref#29
+d 1iK|w 6fN9l 6/GwJ
+d 1iL!N 7(EmSA 6/Gue
+w "Nal( covered#yes highway#platform operator#Västtrafik public_transport#platform ref#36
+d 1iK}. 7(En)Q 6/Gtm
+d 1iK|L 7(Em}x 5"JNm
+n E;dm 7(El(< 6/HOf highway#traffic_signals
+n j>-! 6fN&( 6/HOK highway#traffic_signals
+n j>;) 7(Ek;> 6/HXN name#Scandic_Crown tourism#hotel wheelchair#yes
+n "[3DN 7(Emag 6/H{. railway#switch
+n "hncs 7(El@l 6/GkM highway#bus_stop name#Nordstan railway#tram_stop
+n "hny: 7(Emr) 6/GZ" highway#traffic_signals
+n $G!c# 7(Eo!~ 6/G\6 highway#traffic_signals
+n $\$&" 7(Ek0; 6/H'S name#Tidpunkten
+n $\$0L 7(ElU, 6/H%L name#First_Hotel_G tourism#hotel
+n $_"QT 6fM}u 6/H"y name#Centralstationen public_transport#stop_position railway#tram_stop shelter#no tram#yes
+n $_"R= 7(Ek:$ 6/GgW name#Scandic_Europa tourism#hotel
+n $_I3p 7(EkgR 6/H(2 amenity#atm
+n $_I45 7(EkkI 6/H"u amenity#atm
+n $a.\g 7(Ek[\ 6/GaL amenity#fast_food cuisine#burger name#McDonald's_Express wheelchair#yes
+n $qv6q 7(Eo.n 5"JN= amenity#fuel
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %-A55 6fN/( 6/HTU railway#switch
+n %/mU? 7(ErxL 6/IqU railway#switch
+n 'E)1F 7(El@z 6/HLr name#Göteborg-Västgöta railway#abandoned_station
+n (qjC` 7(Ekf2 6/H:a bus#yes highway#bus_stop name#Centralstationen public_transport#stop_position
+n (qjCa 7(Ektw 6/H6* bus#yes highway#bus_stop name#Centralstationen public_transport#stop_position
+n (r$@% 6fN-@ 6/HT3 highway#turning_circle
+n (r&)( 7(El-T 6/HSD highway#bus_stop name#Polhemsplatsen
+n (tim0 6fN*k 6/H7) amenity#taxi
+n (xEiA 7(EmXq 6/Hyn railway#railway_crossing
+n )Nn>d 7(El#J 6/Gn6 railway#crossing
+n )Nn>~ 6fN)n 3"BB highway#crossing
+n )Nn?= 7(El%M 6/GpV highway#crossing
+n )PL>: 6fN1y 6/H"h amenity#fast_food cuisine#sandwich name#Subway
+n )PLA8 7(Ek-m 6/H&; name#Pressbyrån shop#kiosk
+n +<nY\ 7(Em%( 6/Git amenity#bicycle_rental capacity#35 name#Nils_Ericson_Terminalen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#20
+n +~Lx3 5'z-: 6/H%r amenity#car_rental name#Hertz
+n 0,5Vb 7(Er./ 6/IIF railway#switch
+n 0,8]| 7(Erfv 6/Ij> railway#switch
+n 0,8^% 7(Ere! 6/Iev railway#switch
+n 0,8^, 7(ErcO 6/Ids railway#switch
+n 0,8^a 7(Eo>s 6/HD[ railway#switch
+n 0,8^q 7(Eo;, 5"JS9 railway#switch
+n 0,8^t 5'z1I 6/Ic) railway#switch
+n 0,8^w 7(EoAi 6/HC{ railway#switch
+n 0,8_* 7(Eo5y 6/H=S railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0CgoQ 7(ErwZ 5"Je+ railway#switch
+n 0CjB! 7(Em^8 6/HdF railway#switch
+n 0CjB" 7(Em_y 6/HYs railway#switch
+n 0CjBr 7(Em~* 6/I$" railway#switch
+n 0CjB{ 7(EmhP 6/H`\ railway#switch
+n 0CjCc 7(Emx$ 6/HzS railway#railway_crossing
+n 0CjD& 7(En&! 6/H{N railway#switch
+n 0CjDL 7(EmoM 6/HoP railway#switch
+n 0CjDN 7(Emp$ 4.UJ railway#switch
+n 0CjDc 7(Emmx 6/HXx railway#switch
+n 0CjDo 6fN;# 6/H^R railway#switch
+n 0CjE$ 7(EmtA 6/Hc> railway#switch
+n 0CjE( 7(En'B 6/Ht# railway#switch
+n 0CjE) 7(Emg. 6/Hj- railway#switch
+n 0CjE7 7(En%} 6/HzH railway#switch
+n 0CjE? 7(En#= 5"JX' railway#switch
+n 0Cj\> 7(En&^ 6/I%" railway#switch
+n 0Cj\B 7(Emst 6/Hzn railway#switch
+n 0CjfP 7(Er"m 6/J*) railway#switch
+n 0CkBF 7(Emt3 6/I2+ railway#railway_crossing
+n 0CkCC 7(En!M 6/I9^ railway#switch
+n 0CkCO 7(Emj- 6/I+' railway#railway_crossing
+n 0CkCn 7(En1W 6/I<C railway#switch
+n 0EC=w 7(En/2 6/I.< railway#switch
+n 0EC>$ 7(EmV_ 6/HQ\ railway#switch
+n 0EEY@ 7(EmR{ 6/HT@ railway#switch
+n 0EEYH 7(Emw~ 5"JZ\ railway#railway_crossing
+n 0EEYT 7(Eml+ 6/Hy! railway#railway_crossing
+n 0EEYX 7(Em}$ 6/I&J railway#railway_crossing
+n 0EGq/ 7(Em]k 6/H~. railway#railway_crossing
+n 0EGqG 7(Emq8 6/I() railway#railway_crossing
+n 0ELOE 7(EmFu 5"JT` railway#switch
+n 0ELOY 7(EmL, 6/Ha? railway#railway_crossing
+n 0ELOc 7(EmSf 6/HL- railway#switch
+n 0ELOd 7(Em[y 6/Hp3 railway#railway_crossing
+n 0ELOf 7(EmCI 6/HWl railway#switch
+n 0ELOg 7(Emfc 6/Hqu railway#switch
+n 0ELOk 7(EmTI 6/Ho' railway#switch
+n 0ELP& 7(EmSF 6/HcM railway#switch
+n 0ELP' 7(EmQ3 6/Hr\ railway#switch
+n 0ELP) 7(En$H 6/I4! railway#railway_crossing
+n 0ELP\ 7(Emh: 6/I", railway#switch
+n 0ELP_ 7(EmJ@ 6/HV% railway#railway_crossing
+n 0EN=, 7(Em5Y 6/Hm@ railway#railway_crossing
+n 0EN=: 7(El}] 6/Hd+ railway#railway_crossing
+n 0EN=C 7(EmE} 6/Ht0 railway#railway_crossing
+n 0EN=L 7(EmaO 5"JY_ railway#railway_crossing
+n 0EQHR 7(ElOc 6/H'~ noexit#yes
+n 0EQHT 7(Em?g 6/HX7 noexit#yes
+n 0EQH] 7(El?T 6/H(y noexit#yes
+n 0EQH_ 7(Em>O 6/Hg` railway#switch
+n 0EQHb 6fN5V 6/HYh noexit#yes
+n 0EQHr 7(El`1 6/H&v noexit#yes
+n 0EQHs 7(Em41 6/HDM noexit#yes
+n 1<[^p 7(EpSG 6/It; railway#switch
+n 1<\7' 7(Epg: 6/Iwz railway#railway_crossing
+n 1<\7@ 7(EpU! 6/Ise railway#switch
+n 1<g(f 7(El`H 6/GkE highway#bus_stop name#Nordstan
+n 1<g(j 7(El`+ 6/Gf- highway#bus_stop name#Nordstan
+n 1VoDY 7(Ek0s 6/G}| amenity#bicycle_rental capacity#20 name#Drottningtorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#42
+n 1dGV# 7(ElIY 6/H#D alt_name#Göteborgs_centralstation int_name#Gothenburg_Central_Station name#Göteborg_C platforms#9 public_transport#station railway#station wikipedia#sv:Göteborgs_centralstation
+n 2@kTI 7(Elew 4.T@ amenity#parking name#P-hus_Nordstan parking#multi-storey
+n 4+RfN 7(Em{. 6/H~C railway#railway_crossing
+n 4:H+r 6fN', 6/H-P highway#traffic_signals
+n 4:I(V 7(El4U 5"JS; barrier#lift_gate
+n 4LK}; 7(Emjj 6/Gv5 noexit#yes
+n 4LK}> 5'z,u 6/Gv} noexit#yes
+n 4LK}E 7(EmLI 6/Gx( noexit#yes
+n 4LK}L 7(Em}1 6/Gu) noexit#yes
+n 4LK}] 7(En=< 6/Gs8 noexit#yes
+n 4LK}a 7(En%( 6/Gte noexit#yes
+n 4LK}c 7(EmF> 6/GxL noexit#yes
+n 4LK}e 7(EmRh 6/Gwb noexit#yes
+n 4LK}k 7(En+B 6/GtA noexit#yes
+n 4LK~' 7(EmWq 6/GwD noexit#yes
+n 4LK~) 7(Em.: 6/Gyx noexit#yes
+n 4LK~+ 7(Em:\ 6/Gy1 noexit#yes
+n 4LK~, 7(EnBc 6/Grc noexit#yes
+n 4LK~? 7(Emdj 6/GvX noexit#yes
+n 4LK~B 7(Emvj 6/GuN noexit#yes
+n 4LK~E 7(Em@Z 6/Gxl noexit#yes
+n 4LK~G 6fN>n 6/Gs} noexit#yes
+n 4LK~W 7(Em4T 6/GyT noexit#yes
+n 4LK~\ 7(Emq$ 6/Guo noexit#yes
+n 4LK~] 7(EnHL 6/Gr; noexit#yes
+n 4LK~^ 7(En7O 6/GsY noexit#yes
+n 52pE: 7(Et*K 6/J7@ railway#level_crossing
+n 5U!G4 7(Enu< 6/HGh railway#55
+n 5U!G6 6fNF) 6/HH\ railway#56
+n 5U!GA 7(EnjE 6/HG* power#sub_station
+n 5U!GB 6fNDP 6/HDz railway#53
+n 5U!GC 7(En}f 6/HIR railway#57
+n 5U!GE 7(Enqc 5"JSk railway#54
+n 5uv3' 7(EkK8 6/H(! crossing#traffic_signals highway#crossing
+n 5uv3+ 6fN%~ 6/H'M crossing#traffic_signals highway#crossing
+n 5uv3. 7(EkZM 6/H&~ building#entrance

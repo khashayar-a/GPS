@@ -1,0 +1,20 @@
+n &Rv.L 5'z': 5"K.l name#Lisebergs_Camping_&amp;_Stugbyar_Kärralund tourism#camp_site
+n *G_+? 7(Eh6l 6/N]Z disc_golf#tee
+n *G_+@ 6fMr% 6/NQ> disc_golf#basket
+n *G_+B 7(Ehl" 6/NUr disc_golf#basket
+n *G_+C 6fMy< 6/Nsr disc_golf#basket
+n *G_+E 7(EhsU 6/NSP disc_golf#tee
+n *G_+K 7(Ej)& 6/Ne{ disc_golf#tee
+n *G_+M 7(EipZ 6/NeN disc_golf#basket
+n *G_+N 7(Eic- 6/NOs disc_golf#tee
+n *G_+O 7(EhVJ 6/N\p disc_golf#basket
+n *G_+Q 7(Eh2( 6/N~z disc_golf#tee
+n *G_+W 7(Ei.. 6/NNE disc_golf#basket
+n *G_+Y 7(EiiA 6/NV, disc_golf#tee
+n *G_+\ 7(EhPH 6/Noh disc_golf#basket
+n *G_+_ 7(Ei'< 6/Nd: disc_golf#tee
+n .i>MG 7(EiHD 6/N77 building#entrance
+n .i>en 7(EiE? 5"K,} building#entrance
+n .i>ev 7(EiD. 6/N8I building#entrance
+n .i>f* 7(EiFY 6/N=/ building#entrance
+n .lMf' 7(EiNj 6/N4{ amenity#bench

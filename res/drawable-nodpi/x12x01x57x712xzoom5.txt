@@ -1,0 +1,19 @@
+n (%FTr 7(EpyE 6/L^R amenity#fast_food cuisine#pizza name#Pizzeria_Nobel
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 3k"/b 7(Etm; 6/LVY highway#turning_circle
+n 3k+/h 7(Eq6a 5"J|( highway#turning_circle
+n 4HTCH 7(Es4* 6/LhX highway#turning_circle
+n 6!Pbu 7(EqT@ 6/L=) addr:housenumber#3A addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pbv 7(EoCD 6/LYX addr:housenumber#3A addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pbw 7(EqKK 6/L<l addr:housenumber#3B addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pbx 7(EoNq 6/LZF addr:housenumber#3B addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pby 7(EqB. 6/L<L addr:housenumber#3C addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pbz 7(EoZ" 6/L[2 addr:housenumber#3C addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pb{ 6fNMC 6/L[w addr:housenumber#3D addr:interpolation#odd addr:street#Snoilskygatan building#entrance
+n 6!Pb| 7(Eq$W 6/L>* addr:housenumber#4 addr:interpolation#even addr:street#Bielkegatan building#entrance
+n 6!Pb} 7(Eq6U 5"Jx> addr:housenumber#5A addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pb~ 7(Eq(b 6/L;a addr:housenumber#5B addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pc! 7(Epu` 5"Jx6 addr:housenumber#7 addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pc# 7(Ep^g 5"Jx/ addr:housenumber#9AB addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!VEc 7(Eq>k 6/LPX bench#yes bus#yes highway#bus_stop name#Nobelgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!VEd 7(EqF/ 6/LQ# bench#yes bus#yes highway#bus_stop name#Nobelgatan operator#Västtrafik public_transport#stop_position shelter#no shelter_type#public_transport

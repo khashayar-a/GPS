@@ -1,0 +1,280 @@
+w "K1}s highway#service service#parking_aisle
+d 1JOUj 6fMeR 6/A$R
+d 1JOVW 7(Eh,Q 6/A#w
+w "K"'; highway#service
+d 1I=$0 7(EjID 6/A4g
+d 1I=$k 7(Ej,0 6/A4q
+d 1I=&H 7(Eil[ 6/A4|
+w "H&EZ highway#service service#parking_aisle
+d 10:nx 7(Ei)| 6/@TB
+d 10:c@ 7(Ei,\ 6/@WF
+w A[Au foot#yes highway#footway surface#paved
+d $lw1o 7(Edg< 6/@{0
+d $lw<Z 7(Ee&T 6/@tX
+d $lw<l 7(Ee2E 6/@oe
+d $lw<\ 7(Ee=* 6/@m^
+d $lw<m 7(EeMB 5"Ij@
+d $lw<( 7(EeaE 5"Ij;
+d $lw3: 7(Een7 6/@l4
+d $lw3< 7(Eff* 6/@o`
+d $lwL# 7(EgT> 6/@iQ
+d $lw<Y 7(Eg_@ 6/@hd
+d $lw3= 7(Egr9 6/@fg
+d $lw<# 7(EhBV 6/@c8
+d $lw3> 7(Eh\H 6/@bK
+d $lw3? 7(Ei<Y 6/@`k
+d $lw3@ 7(EiG' 6/@a[
+w A[B; foot#yes highway#footway surface#paved
+d $lw:w 7(Egzf 6/@_Q
+d $lw;~ 7(Eh(K 6/@_|
+d $lw<! 7(Eh6+ 5"Ii7
+d $lw<# 7(EhBV 6/@c8
+w "K"'X highway#service
+d 1I=&- 7(Ejx` 6/ACh
+d 1I=&n 7(EjuT 6/A?^
+w ?,c% bicycle#designated foot#designated highway#path segregated#no
+d 1I=%P 7(Ek5# 6/@Rj
+d $NQ7D 7(EjxH 6/@T2
+w "H&IB highway#service service#parking_aisle
+d 10:mk 7(Ei9i 6/@Sk
+d 10:nx 7(Ei)| 6/@TB
+d 10:gR 7(Eh}\ 6/@J@
+w "K"'7 highway#footway
+d 1I=%c 7(Ej[X 6/@UP
+d 1I=$X 6fM|, 5"Ih8
+d 1I=&B 7(Ejgu 6/@[2
+d 1I=&+ 7(Ejtc 6/@a?
+d 1I=%r 7(Ej|q 5"Iis
+d $NQ1g 7(Ejv} 5"IjD
+w "K"'L bicycle#designated foot#designated highway#path segregated#no
+d $kUGL 7(Ei(K 6/@Xt
+d 10:c@ 7(Ei,\ 6/@WF
+w "K"'S highway#service
+d 1I=%a 7(EjYR 6/A?o
+d 1I=&n 7(EjuT 6/A?^
+d 1I=%f 6fN$X 6/A?C
+d 1I=#l 7(EkM0 6/AK{
+d 1I=$^ 7(EkNZ 6/AN/
+d 1I=&G 7(EkUt 6/AT<
+d 1I=%: 7(EkV, 6/AVa
+w "K"'K highway#service
+d 1I=#o 7(EjWD 6/A;g
+d 1I=%' 7(Ej.O 5"Int
+d 1I=%p 7(Eir} 6/A;t
+d 1I=&H 7(Eil[ 6/A4|
+d 1I=$A 6fMsl 6/A-]
+d 1I=&f 7(Eij" 6/A&Y
+d 1I=$g 6fMs$ 6/@yM
+d 1I=&T 7(Eih} 6/@x<
+d 1I=%E 7(EimD 6/@x"
+d 1I=&h 7(Ej:/ 6/@y^
+d 1I=%- 7(EjP% 6/@zP
+d 1I=$o 7(EkWe 6/@~G
+d 1I=%! 7(EkXj 6/A-K
+d 1I=%4 7(EkYC 6/A4]
+d 1I=&] 6fN&b 6/A;V
+d 1I=$U 7(EkE& 6/A;Z
+d 1I=#o 7(EjWD 6/A;g
+w ARbR foot#yes highway#footway
+d $**09 7(EiV# 6/@t(
+d $kULa 7(Ei\} 6/@v4
+d $kUP6 7(Eigd 6/A3Q
+d $lwHB 7(Eit0 6/AQ4
+w "K"'N bicycle#designated foot#designated highway#path segregated#no
+d $lw8L 7(Eh<G 5"IhZ
+d 1I=$( 7(EhVN 6/@W:
+w A[B7 foot#yes highway#footway surface#paved
+d $lwn7 7(Ef]D 6/@L~
+d 10:on 7(Efjd 6/@N]
+d 10:d# 7(Ef^4 6/@T"
+d $lwL^ 7(Efd. 6/@Y5
+d $lw:r 7(EfP\ 6/@`8
+d $lwL_ 7(EfCz 6/@c(
+d $lw:t 7(Een7 6/@k+
+d $lw3: 7(Een7 6/@l4
+w A[BJ foot#yes highway#footway surface#paved
+d $lw<Y 7(Eg_@ 6/@hd
+d $lw<j 7(Eg_0 6/@k~
+d $lwL# 7(EgT> 6/@iQ
+w "K"'R highway#service
+d 1I=$5 7(Ej%- 6/A&N
+d 1I=%h 7(Ej@< 6/A&P
+d 1I=$M 7(EjU` 6/A&Q
+d 1I=&Y 7(EjX" 6/A-\
+w "K"'E highway#service
+d 1I=&Y 7(EjX" 6/A-\
+d 1I=%! 7(EkXj 6/A-K
+w A[B( bicycle#designated foot#designated highway#path segregated#no surface#paved
+d 10:nL 7(Eg-l 6/@F>
+d $lws[ 7(Eggj 6/@KJ
+d 10:eM 6fMe9 6/@Qo
+d $kUGI 7(Eh=< 6/@SU
+d $kUGJ 6fMev 6/@U@
+d $lw8L 7(Eh<G 5"IhZ
+d $lw:u 7(Eh:P 5"Ihd
+d $lw8N 6fMdr 6/@]%
+d $lw:w 7(Egzf 6/@_Q
+d $lw:x 7(Eg<= 6/@cJ
+d $lw8R 7(Ef~O 5"IiI
+d $lw8S 7(EfTS 6/@`8
+d $lw:r 7(EfP\ 6/@`8
+d $lw8T 7(EfL7 6/@`8
+d $lw8V 6fMJd 6/@h*
+d $lw8W 7(Ee7X 6/@hw
+d $lw8X 7(EdG% 6/@dd
+d $lw8Y 7(Ec}a 6/@c\
+w "K"'O highway#service
+d 1I=%4 7(EkYC 6/A4]
+d 1I=#x 7(Ej[c 6/A4_
+w "K"'D bicycle#designated foot#designated highway#path segregated#no
+d 1I=$m 6fMm| 6/@XX
+d 10:c@ 7(Ei,\ 6/@WF
+w Ac_~ bicycle#designated foot#designated highway#path segregated#yes
+d $msz# 7(EiCC 6/@:}
+d $mszK 7(Ei!l 6/@D+
+d 1I=$V 7(Ehq7 6/@G2
+d $lwt` 7(EhXf 6/@Ki
+w "K"'M highway#service
+d 1I=$A 6fMsl 6/A-]
+d 1I=$Z 7(Ej)^ 5"ImM
+d 1I=%J 7(EjE` 6/A-f
+d 1I=%h 7(Ej@< 6/A&P
+d 1I=&h 7(Ej:/ 6/@y^
+w "K"'H highway#service service#parking_aisle
+d 1I=%) 6fM~? 6/@a3
+d 1I=&v 7(Ej{x 6/@cN
+w "K"'G bicycle#designated foot#designated highway#path segregated#no surface#paved
+d $lwt` 7(EhXf 6/@Ki
+d 1I=%s 7(EhIn 6/@OY
+d $kUGI 7(Eh=< 6/@SU
+w "K"'C highway#service service#parking_aisle
+d 1I=&k 7(Ej@" 6/@`"
+d 1I=%] 7(EjKP 6/@_T
+d 1I=$Q 7(EjJ5 6/@^@
+w "K"'d bicycle#designated foot#designated highway#path segregated#yes
+d $msn( 7(Ejjb 6/@Cw
+d $NQ9C 7(EjN? 5"If}
+w APZ/ bicycle#yes foot#yes highway#cycleway
+d $k=pw 7(EdPo 6/A#1
+d $k=vQ 7(EdO% 6/A"U
+d $k=vR 7(Edh{ 6/@|x
+d .BK;\ 7(Edrn 6/@|V
+d $k>+1 7(Ee3P 5"Il#
+d $k=vT 7(EfW= 6/A"N
+d $k>,q 7(Eg&' 6/A%G
+d $k=vV 6fM]b 6/A+Z
+d $k=tj 6fMbo 6/A9a
+d 1JOW@ 7(Eh%G 6/A;I
+d $k>,r 7(Eh(d 6/A>W
+d 1JOT1 6fMjm 6/AS%
+d $k=vY 7(Ei:3 6/A\t
+d +oVa{ 7(Eim; 6/Ack
+d /jr`f 7(Ej', 6/Agb
+d $k=v[ 6fMxS 5"IsX
+d /g#b_ 7(EjY| 6/Alw
+d $k>+5 6fM}k 6/Amt
+d $k>2v 7(Ek%t 6/Am|
+d /jraF 7(Ek0J 6/AmP
+d /jraA 7(EkEP 6/AmS
+d $k>+7 7(Ekr, 5"Isp
+d $mQsF 6fN0@ 6/Amf
+d $k=v_ 7(ElpD 6/AmT
+d $k>0N 7(El}} 6/Ala
+d $k=va 7(Em%t 6/Alc
+d /g#e` 7(Em,3 6/Alg
+d $k>+9 7(Em3F 6/All
+d $k=vc 7(Em8[ 6/Amf
+d $a@pi 7(Em<W 6/An3
+d .op0{ 6fN84 6/Am{
+d .op/~ 7(EmQ3 6/AmY
+d .op0s 7(EmSb 6/Am"
+d $a@pj 7(EmmQ 6/AkI
+d $a@pk 7(En?? 6/Agj
+d $a@pl 7(Eo:W 6/A_U
+d $a@pm 7(Ep/} 6/AW}
+d 0nni@ 7(Ep56 6/AVJ
+d 0nnh6 7(Ep9, 5"IqQ
+d 0nnhe 7(EpWO 6/AS^
+d 0nnf[ 7(EprU 6/ARu
+d $a@rL 7(Eq0, 6/APO
+d $a@rM 7(ErCh 6/AEm
+d $a@rN 7(Ergq 6/A?b
+d $a@rJ 7(Es*2 6/A5I
+d $a@rP 7(Es5: 6/A1;
+d /-&gk 7(EsI8 6/A*G
+d /-&i) 6fNq: 6/A&F
+d *(byQ 7(Es[< 6/A!t
+d /-&e2 7(Es\: 6/@}d
+d /-&hZ 7(Es[e 6/@{b
+d /-&h# 7(EsVC 6/@zY
+d *(byF 7(EsVf 6/@yG
+d /-&do 7(EsVH 6/@xF
+d *(byC 7(EsXW 6/@w.
+d /-&hu 7(EsXO 6/@sl
+d /-&em 7(EsT, 6/@rg
+d *(by6 7(EsWB 6/@q|
+w "K"'Z highway#service
+d 1I=$M 7(EjU` 6/A&Q
+d 1I=%- 7(EjP% 6/@zP
+w "K"'U bicycle#designated foot#designated highway#path segregated#no
+d $lwt` 7(EhXf 6/@Ki
+d $lwtO 7(EhSB 5"Ig#
+w "K1~R highway#service service#parking_aisle
+d 1JOT_ 7(Eh6F 5"Im&
+d 1JOUj 6fMeR 6/A$R
+d 1JOUR 7(Eh@i 5"Il.
+w "K"'` bicycle#designated foot#designated highway#path segregated#no surface#paved
+d $kUGJ 6fMev 6/@U@
+d 1I=$( 7(EhVN 6/@W:
+d $kUGK 7(Eho" 6/@YF
+d $kUGL 7(Ei(K 6/@Xt
+d 1I=$m 6fMm| 6/@XX
+d $kUGM 7(Ei=~ 6/@X:
+w A[BF foot#yes highway#footway surface#paved
+d $lw:w 7(Egzf 6/@_Q
+d $lw<Y 7(Eg_@ 6/@hd
+w A`fL highway#service surface#paved
+d $mRcx 7(EjeX 6/AY_
+d 1I=$8 7(EjgV 6/AW5
+d $mRfo 5'z** 6/AM=
+d 1I=%# 7(Ej[T 6/ADQ
+d 1I=%a 7(EjYR 6/A?o
+d 1I=#o 7(EjWD 6/A;g
+d $mRem 7(EjT4 6/A5b
+d 1I=#x 7(Ej[c 6/A4_
+d 1I=&Y 7(EjX" 6/A-\
+d 1I=%J 7(EjE` 6/A-f
+d 1I=$0 7(EjID 6/A4g
+d $mRem 7(EjT4 6/A5b
+w A[BK foot#yes highway#footway surface#paved
+d $lw<j 7(Eg_0 6/@k~
+d 'x^@x 7(Egdg 6/@oi
+d $lw<s 7(EgiW 6/@r*
+w "H&F/ highway#footway
+d 10:on 7(Efjd 6/@N]
+d 10:p} 7(EfrU 5"IgF
+d 10:bO 7(Efvr 6/@N#
+w "H&E3 area#yes highway#footway
+d 10:bO 7(Efvr 6/@N#
+d 10:nL 7(Eg-l 6/@F>
+d 10:n+ 7(Efv0 6/@Bf
+d 10:qW 7(Ef\t 6/@Jp
+d 10:bO 7(Efvr 6/@N#
+w "K"'I bicycle#designated foot#designated highway#path segregated#no
+d $msn& 7(Ek?1 5"Ih@
+d $NQ5a 7(Ek"] 5"IhP
+w "K"'Y highway#service
+d 1I=%0 7(Ej2a 6/AD/
+d 1I=%' 7(Ej.O 5"Int
+d 1I=$k 7(Ej,0 6/A4q
+d 1I=$Z 7(Ej)^ 5"ImM
+d 1I=$5 7(Ej%- 6/A&N
+d 1I=&f 7(Eij" 6/A&Y
+w "K"'a highway#service service#parking_aisle
+d 1I=%[ 6fN#F 6/@[o
+d 1I=&P 7(Ek64 6/@Z2
+d 1I=%x 7(Ek#l 6/@Zl
+d $NQ5a 7(Ek"] 5"IhP
+w "K"'[ highway#service service#parking_aisle
+d 1I=%` 7(EjR[ 6/@bj
+d 1I=$W 7(EjUp 6/@ee

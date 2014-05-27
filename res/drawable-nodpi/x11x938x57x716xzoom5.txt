@@ -1,0 +1,20 @@
+n 5IAM 7(Ev<n 6/E){ highway#mini_roundabout
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n E@SD 7(EyQQ 6/Dsu highway#traffic_signals
+n Ec=@ 7(Ey&T 6/Dsb highway#traffic_signals
+n "`;Wb 7(EzaB 6/Dt\ highway#traffic_signals
+n $`ZP' 7(ExJ+ 6/Dph highway#crossing
+n $mtQ% 7(EtPb 6/D=5 amenity#school name#Rambergsskolan
+n %$@(A 7(Ew.8 6/Dl^ amenity#place_of_worship name#Brämaregårdens_kyrka religion#christian
+n &;ZOJ 7(Et;) 6/D3S leisure#playground
+n &<o2n 6fNwZ 5"J0J tourism#viewpoint
+n &<o2o 7(Et^& 6/Ddh amenity#waste_basket
+n &<o2s 7(Et0{ 6/Dc, amenity#waste_basket
+n &<o2u 7(Et~s 6/DgT leisure#playground
+n )B)K> 7(Eq1# 6/DcH highway#traffic_signals
+n .0Nee 7(E}3E 6/Dv& highway#traffic_signals
+n .0NgI 7(E|oL 6/Dup highway#traffic_signals
+n /.g.? 7(EvRE 6/DuJ amenity#cafe name#Coffe_Bar_M
+n /~0dJ 7(Eu{Y 6/D*? amenity#recycling
+n /~L(A 7(ExB[ 6/D05 amenity#place_of_worship name#Rambergskyrkan religion#christian
+n 0@cl{ 7(Ewq& 6/DeD name#Klipphuset shop#hairdresser

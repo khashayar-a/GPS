@@ -1,0 +1,51 @@
+w "i_=m name#Rambergsvallen_Läge_B public_transport#platform
+d 4JK|X 6fO?8 6/By8
+d $in7v 7(Ex*^ 6/Bqq
+w A>:V amenity#bicycle_parking area#yes
+d $io-* 7(Ev%` 6/B|H
+d $io-, 7(Eus{ 6/B}C
+d $io-- 7(EuqW 6/B{V
+d $io-/ 6fO*; 6/BzV
+d $io-* 7(Ev%` 6/B|H
+w "i_=n name#Rambergsvallen_Läge_C public_transport#platform
+d 4JK|N 7(Ewg5 6/BiW
+d 4JK|R 6fO;7 6/Bl_
+w "i_=o name#Rambergsvallen_Läge_D public_transport#platform
+d 4JK|Z 7(Ex=l 5"I~(
+d 4JK|] 7(ExAp 6/BxU
+w "i_=l name#Rambergsvallen_Läge_A public_transport#platform
+d $in6x 7(Ew~~ 6/Br@
+d 4JK|U 7(Ex+= 6/Byd
+n @@:u 7(Ew%h 6/Ayz highway#crossing
+n "77NO 7(Ex-B 6/BuK name#Rambergsvallen_Läge_B public_transport#stop_position tram#yes
+n $0T3a 7(Et;x 6/B?_ amenity#fuel contact:street#Gropegårdsgatan name#Tanka-Göteborg
+n $8[6^ 7(EwAR 6/Aw> highway#traffic_signals
+n $io8' 7(Eu_[ 6/C2d highway#crossing
+n $io:] 7(Ewux 6/CVL highway#crossing
+n $k>83 6fNq] 6/Atj barrier#gate
+n $kUZ- 7(EvY. 6/A|D highway#crossing
+n $}Hmb 6fNw| 6/Bpv barrier#gate
+n %F{v[ 7(Er7i 6/Bn9 highway#crossing
+n %F{yP 7(Er8J 6/Bt3 highway#crossing
+n &#eNR 7(Ewac 6/Bn5 amenity#bench
+n &#eNS 7(Ew2. 6/BjZ amenity#bench
+n &#eNT 7(Ew2s 6/Bjp amenity#waste_basket
+n &#eNU 7(EwGZ 6/Bo^ amenity#bench
+n &#eNV 6fO6v 6/Bp| amenity#bench
+n &.GAV 7(EtOh 6/C,y amenity#waste_basket
+n &;vJ@ 6fO"f 6/C-B highway#bus_stop name#Lantmannagatan route_ref#31 shelter#yes towards#Eketrägatan
+n &;vJA 7(Eu8' 6/C,u highway#bus_stop name#Lantmannagatan route_ref#31 shelter#no towards#Backa
+n &^;JE 7(Ex_. 5"I|k amenity#restaurant cuisine#thai
+n &^;LX 7(Ex=@ 6/BgD amenity#post_box
+n &^;Wn 7(ExLZ 6/Bij shop#convenience
+n 'j^Bw 7(EvVT 6/Azo highway#traffic_signals
+n 'j^B} 7(Ew%+ 6/AyE highway#traffic_signals
+n 'j^C= 7(EvST 6/Aw| highway#traffic_signals
+n 'm9li 7(ExTu 6/Bi@ amenity#fast_food name#Pizzeria_Mötet
+n 'tl11 7(Ev|= 6/AuB highway#traffic_signals
+n 0!fdv 7(ExX1 6/Bbx amenity#driving_school license_classes#A;B name#Mötesplatsens_trafikskola
+n 0.e5] 7(Eu\{ 6/C!9 amenity#recycling recycling:batteries#yes recycling:cans#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 1IDo/ 7(EtV5 5"I}p addr:housenumber#3 addr:street#Östra_Keillersgatan amenity#kindergarten name#Östra_Keillersgatan_3_förskola
+n 1u%T[ 7(EwmG 6/Bj| bus#yes local_ref#C name#Rambergsvallen_Läge_C public_transport#stop_position
+n 1u%UY 7(Ex9e 5"I~< bus#yes local_ref#D name#Rambergsvallen_Läge_D public_transport#stop_position
+n 4J'3; 7(Ex(_ 6/BuC name#Rambergsvallen_Läge_A public_transport#stop_position tram#yes

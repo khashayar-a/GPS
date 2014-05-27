@@ -1,0 +1,6 @@
+n 1a' 7(Ep=S 6/JTl highway#motorway_junction name#Olskroksmotet ref#74
+n 1a0 7(EjR1 6/J[, highway#motorway_junction name#Ullevimotet ref#73
+n 1a6 7(Ebhf 5"Jg[ highway#motorway_junction name#Gårda ref#72
+n [rg 6fM[V 6/JU" highway#motorway_junction name#Ullevimotet ref#73
+n ##}sa 7(E_d? 6/JUQ name#Liseberg railway#station ref#Lis
+n $oNkR 7(Ei'\ 6/K"h highway#turning_circle

@@ -1,0 +1,10 @@
+n %"Ho; 7(E\Aw 6/@8L barrier#gate
+n %VE#r 7(E_); 6/@HR tourism#viewpoint wheelchair#yes
+n %VE$! 7(E\u# 6/?x$ barrier#bollard
+n +-KKK 7(E\o? 6/?sV amenity#cafe name#Färjenäs_Café opening_hours#Mo-Th_05:00-14:00 wheelchair#no
+n .0OV> 7(EZ~x 6/?~C barrier#gate
+n /]\N- 7(EZ\< 6/@;, seamark:buoy_lateral:category#port seamark:buoy_lateral:colour#red seamark:buoy_lateral:shape#spar seamark:type#buoy_lateral
+n 1b:op 7(E\M> 6/?p5 addr:housenumber#24 addr:street#Flemmingsgatan
+n 1b:rj 7(E\h@ 5"Iad name#Tonart shop#art
+n 1b:rr 7(E\xI 6/?rn addr:housenumber#3 addr:street#Karl_IX:s_väg
+n 1b:vU 7(E\CR 6/?r~ addr:housenumber#25 addr:street#Flemmingsgatan

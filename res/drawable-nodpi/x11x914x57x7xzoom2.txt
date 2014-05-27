@@ -1,0 +1,56 @@
+w APXH highway#residential
+d $k=eu 7(Ebll 6/AEb
+d $k=ev 7(EdK] 6/A=v
+w CEuw highway#residential name#Kvarnpirsgatan
+d %"lDo 7(Ed3Z 6/ATl
+d %"lF7 6fM7\ 5"Iqd
+w @RzO highway#residential
+d $`:V| 7(EfMn 6/Aj:
+d $`:Wn 6fMT~ 5"Ish
+d $`:Wo 7(EfAn 6/AsP
+d $`:Wp 7(EfD9 6/AuQ
+d $`:Wq 7(Efyx 6/AkL
+d $`:Wr 7(Eg_8 6/Ae}
+d $`:Ws 7(Eg~M 6/Ag(
+d $`:Wt 7(Eh(; 6/AhT
+d $_l5y 7(Eh"m 6/Ak5
+w CEt{ highway#residential name#Mimergatan
+d %"l@3 7(EdP< 6/Ajl
+d %"l@? 7(Ed'( 6/AmP
+w "K1~: highway#residential
+d 1JOV} 7(Egdi 6/A_B
+d $`:X{ 7(EgFq 6/Ad0
+d $`:V| 7(EfMn 6/Aj:
+d $`:V} 7(Ef/i 6/AlD
+d $`:Xl 7(Eegd 6/AmM
+d $`:Xw 7(Ee^e 6/AnK
+d $`:W! 7(EeIM 6/Aph
+d $`:Xn 7(Eebp 6/Apy
+d $`:V} 7(Ef/i 6/AlD
+w AP[A highway#residential
+d $k>"$ 7(EbEb 6/A'j
+d $k=~4 7(EbTG 6/A1|
+d $k>"@ 7(Ebc% 6/A<^
+d $k=eu 7(Ebll 6/AEb
+w CEto highway#residential name#Belegatan
+d w.E$ 6fM@F 6/A`(
+d %"l?{ 7(Ecn/ 6/Abv
+w CEuo highway#residential name#Nimbusgatan
+d %"lD+ 7(Edgr 6/Aww
+d %"lD] 7(Ed.t 6/AyU
+w ARdg highway#residential
+d $kU^H 7(Eeos 6/B8,
+d $kU^I 7(Eed0 6/B9X
+d $kU^J 6fMKh 6/B;?
+d $kU^K 7(EeB~ 6/B?R
+d $kU^L 7(Ee'2 6/B>s
+d $kU^M 7(EddO 6/B>Z
+w ARdh highway#residential
+d $kU^5 7(Eea: 6/B"C
+d $kU^N 6fMMh 6/B&r
+d $kU^O 7(EemJ 5"Ivl
+d $kU^P 7(Eelz 6/B6E
+d $kU^H 7(Eeos 6/B8,
+w @Rz\ highway#residential
+d $`:Xw 7(Ee^e 6/AnK
+d $`:Xn 7(Eebp 6/Apy

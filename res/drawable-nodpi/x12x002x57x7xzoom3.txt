@@ -1,0 +1,159 @@
+w "uVHZ building#yes name#Böskolan
+d 5`P%@ 6fMT" 6/KTP
+d 5`P(' 7(Ef47 6/KPO
+d 5`P%; 7(Ef1\ 6/KO~
+d 5`P(. 7(Ef4~ 6/KOC
+d 5`P%= 7(Ef:1 6/KNF
+d 5`P%? 7(EfJ# 6/KQY
+d 5`P%> 7(EfM( 6/KQ.
+d 5`P%< 7(EfS} 5"Jq0
+d 5`P%@ 6fMT" 6/KTP
+w "uVJ- building#yes
+d 5`P/N 7(EfX_ 6/KGu
+d 5`P/M 7(EfQz 6/KI)
+d 5`P/O 7(EfZl 6/KJb
+d 5`P/P 7(EfaP 6/KIJ
+d 5`P/N 7(EfX_ 6/KGu
+w "T*07 building#yes
+d 2=k%! 7(EbHJ 6/KRC
+d 2=k%; 7(EbM7 6/KT4
+d 2=k$d 6fM-] 6/KU<
+d 2=k$i 7(Eb<X 5"Jq8
+d 2=k%! 7(EbHJ 6/KRC
+w "uVJz building#yes
+d 5`P:e 7(Eetl 5"Jp:
+d 5`P:b 6fMNU 6/KG_
+d 5`P:i 7(Eegb 6/KHB
+d 5`P:d 7(EejJ 6/KJ,
+d 5`P:e 7(Eetl 5"Jp:
+w "uVHY building#yes name#Böskolan
+d 5`P%8 7(EfN= 6/KVe
+d 5`P%7 7(Ef<w 6/KYx
+d 5`P%9 7(EfE% 6/K[K
+d 5`P%: 7(EfW. 6/KX5
+d 5`P%8 7(EfN= 6/KVe
+w "uVK# building#yes
+d 5`P:g 7(EeHX 5"Jp:
+d 5`P:[ 7(EeJw 6/KK}
+d 5`P:= 7(EeX. 6/KKD
+d 5`P:6 7(EeUF 5"Jp3
+d 5`P:g 7(EeHX 5"Jp:
+w "uVJ} building#yes
+d 5`P:9 7(EeD[ 6/KDb
+d 5`P:< 7(Ee?- 6/KBm
+d 5`P:C 7(EeQI 6/K@s
+d 5`P:J 7(EeVZ 6/KBc
+d 5`P:9 7(EeD[ 6/KDb
+w "uVJ~ building#yes
+d 5`P:Q 7(Ef&^ 6/KEp
+d 5`P:U 7(Ef*> 6/KGO
+d 5`P:S 7(Ee~U 6/KH,
+d 5`P:O 7(EezY 5"Jo{
+d 5`P:Q 7(Ef&^ 6/KEp
+w "T*01 building#yes
+d 2=k$y 7(Eco# 6/L)[
+d 2=k$r 7(Eczx 6/L*-
+d 2=k%? 7(EcvU 6/L-_
+d 2=k%4 7(Ecj^ 6/L-.
+d 2=k$y 7(Eco# 6/L)[
+w "T*00 building#yes
+d 2=k%9 7(Ec]% 6/L)n
+d 2=k%< 7(Ec\H 6/L,a
+d 2=k%' 7(EcP[ 6/L,X
+d 2=k%. 7(EcQ7 6/L)e
+d 2=k%9 7(Ec]% 6/L)n
+w "uVI5 building#yes name#Böskolan
+d 5`P(0 7(Eeer 6/KR+
+d 5`P(* 7(Ef)< 6/KOg
+d $oNg4 7(Ef.$ 6/KPi
+d 5`P(' 7(Ef47 6/KPO
+d 5`P%; 7(Ef1\ 6/KO~
+d 5`P(. 7(Ef4~ 6/KOC
+d 5`P(, 7(Ef.X 5"JpP
+d 5`P() 6fMOx 6/KLw
+d 5`P(3 7(Ee`D 6/KO#
+d 5`P(0 7(Eeer 6/KR+
+w "uVHW building#yes name#Örgryte_Nya_Kyrka
+d 5`P%4 7(Ee?g 6/K`D
+d 5`P%+ 7(EeAs 6/K_L
+d 5`P%( 7(EeL8 6/K`Z
+d 5`P%) 7(EeJH 6/KaA
+d 5`P%' 7(EeOO 6/Kb'
+d 5`P%% 7(EeQy 6/Kbg
+d 5`P%/ 7(EeSs 6/Kcl
+d 5`P%* 7(EeQf 6/KdN
+d 5`P%. 7(EeLU 6/Kdy
+d 5`P%- 7(EeHX 6/KdY
+d 5`P%2 7(EeF/ 5"Jrx
+d 5`P%3 7(Ee@{ 6/KeA
+d 5`P%0 7(Ee6v 6/Kd3
+d 5`P%1 7(Ee8f 6/Kc<
+d 5`P%& 7(Ee+> 6/Kb)
+d 5`P%, 7(Ee2@ 6/K_1
+d 5`P%4 7(Ee?g 6/K`D
+w "T*03 building#yes
+d 2=k${ 7(Eb9E 6/K^7
+d 2=k$f 7(Eb=e 6/K`.
+d 2=k%1 7(Eb7P 5"JrV
+d 2=k%/ 7(Eb30 6/K^f
+d 2=k${ 7(Eb9E 6/K^7
+w "uVJ, building#yes
+d 5`P/I 7(Ef7f 5"JpA
+d 5`P/K 6fMS* 6/KHr
+d 5`P/L 7(EfJ6 6/KJu
+d 5`P/J 7(EfAO 6/KLQ
+d 5`P/I 7(Ef7f 5"JpA
+w "uVK" building#yes
+d 5`P:X 7(Ef,K 6/K@c
+d 5`P:@ 7(Ef)F 6/K>X
+d 5`P:> 7(Ee~r 6/K>~
+d 5`P:4 7(Ef#Z 6/K@~
+d 5`P:X 7(Ef,K 6/K@c
+w "uVK! building#yes
+d 5`P:R 7(EfHP 6/KC/
+d 5`P:; 7(Ef@: 5"JoN
+d 5`P:M 7(EfGX 6/K@(
+d 5`P:P 7(EfP? 6/KAN
+d 5`P:R 7(EfHP 6/KC/
+w "uVK$ building#yes
+d 5`P:B 7(Ef?_ 6/KE%
+d 5`P:W 7(Ef8A 6/KC5
+d 5`P:E 7(Ef,A 6/KDv
+d 5`P:H 7(Ef3B 6/KF[
+d 5`P:B 7(Ef?_ 6/KE%
+w "T*04 building#yes
+d 2=k$k 7(Ec5H 6/K`X
+d 2=k$h 7(Ec&` 6/Kbc
+d 2=k$] 7(Eb~T 6/Ka4
+d 2=k$v 7(Ec/< 6/K_*
+d 2=k$k 7(Ec5H 6/K`X
+w "uVJx building#yes
+d 5`P:F 7(Ef7I 6/K?p
+d 5`P:G 7(Ef3i 6/K>#
+d 5`P:T 7(Ef;b 6/K=a
+d 5`P:f 7(Ef>g 6/K?E
+d 5`P:F 7(Ef7I 6/K?p
+w "T*09 building#yes
+d 2=k$p 6fM+} 6/KXd
+d 2=k$b 7(Eb7K 6/K[;
+d 2=k$~ 7(Eb-H 6/K\2
+d 2=k$| 7(Eb&h 6/KY\
+d 2=k$p 6fM+} 6/KXd
+w "uVJ| building#yes
+d 5`P:? 7(Eeau 6/KFG
+d 5`P:Z 7(EeZ: 6/KDh
+d 5`P:\ 7(EeaX 6/KCZ
+d 5`P:8 7(Eeg~ 6/KE5
+d 5`P:? 7(Eeau 6/KFG
+w "uVK% building#yes
+d 5`P:N 6fMJu 6/KEp
+d 5`P:a 7(EeC* 6/KFB
+d 5`P:I 7(EeG' 6/KHR
+d 5`P:` 7(EePd 6/KG~
+d 5`P:N 6fMJu 6/KEp
+w "uVJy building#yes
+d 5`P:] 7(EfTb 6/KL<
+d 5`P:5 7(EfM( 6/KMd
+d 5`P:^ 7(EfVH 5"Jpp
+d 5`P:c 7(Ef^/ 6/KN!
+d 5`P:] 7(EfTb 6/KL<

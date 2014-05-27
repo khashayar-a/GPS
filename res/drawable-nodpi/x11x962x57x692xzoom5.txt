@@ -1,0 +1,37 @@
+n EbRP 7(E]K* 6/GK+ amenity#restaurant name#Pride_of_India
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n ""c/M 7(EYcr 5"JD6 highway#turning_circle
+n ""c<R 7(E]/` 6/Fpi highway#turning_circle
+n ""c[! 6fL,P 6/FMI highway#turning_circle
+n "6i.Y 7(EW1> 6/H%U highway#turning_circle
+n "l9%V 7(E[5^ 6/Fw< highway#turning_circle
+n $y_>a 7(EZ1T 6/GI@ highway#turning_circle
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $~4]_ 7(EZA, 6/G%w tourism#viewpoint
+n $~4]` 7(EZ+p 6/G?H barrier#gate
+n $~4]p 7(EYVy 6/GR$ barrier#gate
+n $~4]q 7(EZM9 6/GSl barrier#gate
+n $~4]r 7(EXj. 6/GZJ barrier#gate
+n %yyfs 7(E[>W 6/F_e highway#turning_circle
+n *<[%o 7(E[\< 6/H@d bicycle#yes crossing#traffic_signals highway#crossing
+n +[_Qs 7(E[/K 6/G@X amenity#fast_food name#Pizzeria_Viktoria
+n +[`}s 7(EZm9 6/GCW amenity#school name#Landala_Skolan
+n +[`~$ 7(E\u- 6/GS9 amenity#restaurant name#Krakow
+n +[f,Y 7(EZnZ 6/G=R name#City_Livs shop#convenience
+n 0t*y< 7(EY~n 6/F`D barrier#bollard bicycle#yes foot#yes
+n 1^YjI 7(EZzj 6/H&8 bicycle#yes crossing#traffic_signals highway#crossing
+n 1^YjQ 7(EZrw 6/H"{ bicycle#yes crossing#traffic_signals highway#crossing
+n 4"\V^ 7(EZo' 6/Fpa addr:housenumber#10 addr:street#Spekebergsgatan
+n 4"\V` 7(EZj* 5"JE@ addr:housenumber#12 addr:street#Spekebergsgatan
+n 4"\Vb 7(EZk> 6/Fk{ addr:housenumber#5 addr:street#Spekebergsgatan
+n 4"\Vc 7(EZ`V 6/Fp6 addr:housenumber#7 addr:street#Spekebergsgatan
+n 4"\Vd 7(EZ{0 6/Fm8 addr:housenumber#8 addr:street#Spekebergsgatan
+n 4"]0a 7(EZF~ 6/Fn: name#Aprikosen_B&amp;B tourism#guest_house website#http://www.aprikosenbab.se/
+n 4"]0c 6fL== 6/FjD addr:housenumber#11 addr:street#Muraregatan
+n 4"]0r 7(EZOm 5"JE! addr:housenumber#3 addr:street#Muraregatan
+n 4"]0s 6fLA/ 6/FnI addr:housenumber#5 addr:street#Muraregatan
+n 4"]0t 6fL?P 6/Fm. addr:housenumber#7 addr:street#Muraregatan
+n 4"]0u 6fL>i 6/Fku addr:housenumber#9 addr:street#Muraregatan
+n 4"^%f 7(EZ1i 6/G&8 man_made#water_tower

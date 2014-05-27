@@ -1,0 +1,785 @@
+w *g`{ highway#unclassified lit#yes name#Polstjärnegatan oneway#yes
+d j&bU 7(EmK> 5"J$!
+d %ai"& 7(EmTh 6/C@7
+d $hz:9 7(Emc| 6/CCi
+w "oMmk building#yes
+d 5(IPW 7(ElN4 6/Cwv
+d 5(IQc 7(Elfz 5"J*,
+d 5(IQn 7(Elnb 6/CzY
+d 5(IQp 7(Elpd 6/Cz3
+d 5(IQi 7(Elj9 6/Cy(
+d 5(IQ8 7(El`o 6/CwK
+d 5(IQ) 7(ElW} 6/Cux
+d 5(IPW 7(ElN4 6/Cwv
+w "oV$Z building#yes
+d 5)Mz; 7(EkI@ 6/CN=
+d 5)Mz= 7(EkIj 6/CO(
+d 5)Mzf 7(EkOT 5"J%Y
+d 5)MzN 7(EkO* 6/CN2
+d 5)Mz; 7(EkI@ 6/CN=
+w "K;%* amenity#parking
+d 1K>C] 7(EmhJ 6/D5b
+d 1K>EX 7(Em4! 6/D@8
+d 1K>Em 7(EkxS 6/D+:
+d 1K>B= 7(ElQ@ 6/C~K
+d 1K>C] 7(EmhJ 6/D5b
+w &g+- highway#trunk maxspeed#70 name#Lundbyleden oneway#yes ref#155
+d @uIK 7(EmsU 6/B>,
+d $mR`g 7(EmmY 6/BB;
+d EcrT 7(EmZa 6/BOQ
+d Ecr% 7(EmX+ 6/BX>
+d 5I:: 6fN9~ 5"I{~
+d 5I:9 7(Em~Z 6/Bps
+d 5I:8 7(En@> 6/B|<
+d Ecr& 7(EndX 6/C'U
+d 5I:7 7(Eo!d 6/C-m
+d %a!c> 7(Eo5n 6/C4s
+d %ai#a 7(Eo<' 6/C9>
+d 5I:6 7(Eo>z 6/C;B
+w "oMm+ leisure#pitch sport#soccer surface#gravel
+d 5(IR) 7(ElqZ 6/C8~
+d 5(IQ# 7(ElQz 6/C<m
+d 5(IQ4 7(El^Z 6/C@N
+d 5(IRq 7(El~9 4.P;
+d 5(IR) 7(ElqZ 6/C8~
+w "oMmY building#yes
+d 5(IP) 6fN-< 6/CqK
+d 5(IOw 7(El8R 6/CrS
+d 5(IOp 7(El4F 6/CsC
+d 5(IPW 7(ElN4 6/Cwv
+d 5(IQ) 7(ElW} 6/Cux
+d 5(IP) 6fN-< 6/CqK
+w "4lE\ building#yes
+d /&w3A 7(Ek8w 6/C6M
+d /&w3L 7(Ek$c 6/C4i
+d /&w30 7(Ek)K 6/C2l
+d /&w3* 7(Ek,o 4.P2
+d /&w3- 7(Ek/i 6/C1r
+d /&w3> 7(Ek+t 6/C1S
+d /&w3E 7(Ek0m 6/C/O
+d /&w3/ 6fN$^ 6/C17
+d /&w39 7(Ek@u 6/C3.
+d /&w3+ 6fN$C 6/C3<
+d /&w3; 7(Ek>~ 6/C4l
+d /&w3, 6fN#o 6/C4^
+d /&w3A 7(Ek8w 6/C6M
+w 7+Z^ leisure#golf_course
+d #Hz-4 7(Eo$j 4.Q;
+d #Hz-8 7(EnI{ 6/D2[
+d #Hz-9 6fN?d 6/D+E
+d #Hz-< 7(En7A 6/CwZ
+d #Hz-@ 7(EnHV 6/Cv^
+d #Hz-D 5'z-Z 5"J(g
+d #Hz-G 7(EnDD 6/C`@
+d #Hz-J 7(EnT4 6/C\X
+d #Hz-L 7(Enfo 6/C^X
+d #Hz-M 6fNEi 6/Ca,
+d #Hz-Q 7(En}2 6/Cvv
+d #Hz-T 6fNG, 5"J+b
+d #Hz-X 6fNGO 6/D<V
+d #Hz-[ 7(Eo0H 6/DAB
+d #Hz-4 7(Eo$j 4.Q;
+w "'7(z highway#unclassified lit#yes name#Polstjärnegatan
+d -G6am 7(Ejs# 6/CXV
+d -6jmd 7(El}4 6/CAF
+d -80J{ 6fN4j 6/C?y
+w "oMmB building#yes
+d 1K>Ee 7(El&t 6/C[b
+d 5(IO; 7(El$Q 6/C\0
+d 5(IOM 7(El'J 6/C\e
+d 1K>B6 7(El*% 6/C\7
+d 1K>Ee 7(El&t 6/C[b
+w &5VP highway#unclassified name#Karlavagnsgatan
+d 5I8w 7(Ej}5 6/Cbk
+d (7hn1 7(Ek*( 6/CdH
+d j&bS 7(Emz{ 6/D4d
+d 5*\L@ 7(En$) 6/D61
+d 5*\Ld 7(En*N 6/D8/
+d "<~K| 7(En0Y 6/D:j
+d 5*\M8 7(EnIm 6/DFu
+d 5*\MA 7(EnQR 6/DJR
+d 5*\MC 7(EnVY 6/DLP
+d "<~LA 6fNC- 6/DN+
+d )B)K; 6fNFh 6/DTR
+d 5I:, 7(Eo.H 6/DV?
+w "4lGA building#yes
+d /&w@U 7(Elo; 4.PK
+d /&w@a 6fN0V 6/CP~
+d /&w@T 7(Em#8 6/CW)
+d /&w@b 7(EmN? 6/CNM
+d /&w@f 7(EmQ& 6/CMx
+d /&w@\ 7(EmD" 6/CIo
+d /&w@^ 7(Em"# 6/CPS
+d /&w@U 7(Elo; 4.PK
+w "oMm{ building#yes
+d 5(IQW 6fN1& 6/C`@
+d 5(IS+ 7(Em&" 4.Pb
+d 5(ISC 7(Em-Z 5"J'i
+d 5(IT5 7(EmAP 6/C`U
+d 5(ISl 7(Em=C 6/C_l
+d 5(ISb 6fN6/ 6/C_V
+d 5(ISQ 7(Em42 5"J'A
+d 5(IR; 7(Elyn 6/C\&
+d 5(IQl 7(Elk& 6/C^t
+d 5(IQW 6fN1& 6/C`@
+w "K;%2 building#yes
+d 1K>F3 7(Ekoa 6/CGN
+d 1K>Cr 7(Ekt; 6/CFx
+d 1K>CR 7(Ek~c 6/CIy
+d 1K>EZ 7(Ekrf 6/CKF
+d 1K>Eu 7(Eks^ 5"J%:
+d 1K>F1 7(EkkB 6/CL_
+d 1K>E, 7(EkjO 6/CLH
+d 1K>D7 7(Ek^x 6/CMm
+d 1K>EO 7(EkTF 6/CJi
+d 1K>Cm 7(EkX` 6/CJ8
+d 1K>BG 7(EkWP 6/CIv
+d 1K>E? 7(Ek_4 6/CH}
+d 1K>CY 7(Ek`L 6/CIA
+d 1K>Cc 7(EkhF 6/CHD
+d 1K>Dt 7(Ekg> 6/CH'
+d 1K>D* 7(Ekn[ 6/CG1
+d 1K>F3 7(Ekoa 6/CGN
+w "oMmP building#yes
+d 5(IO" 7(EkJ8 6/CV_
+d 5(IO! 7(EkBr 6/CX2
+d 5(INi 7(EkAE 6/CXv
+d 5(IO# 7(EkKn 6/CZn
+d 5(IO% 7(EkV/ 6/CXh
+d 5(IO" 7(EkJ8 6/CV_
+w "4lG< building#yes
+d /&w@W 5'z,l 6/CRR
+d /&w@h 7(Em\N 5"J%l
+d /&w@b 7(EmN? 6/CNM
+d /&w@T 7(Em#8 6/CW)
+d 5(IS@ 6fN4w 5"J&V
+d /&w@e 7(EmLg 6/C^6
+d /&w@Z 7(Emez 6/CY2
+d /&w@Y 7(Em]" 6/CW_
+d 5(IUJ 7(EmYF 5"J&G
+d 5(IUB 7(EmXC 6/CW7
+d 5(ITN 7(EmIg 6/CTa
+d /&w@W 5'z,l 6/CRR
+w "oMmD building#yes
+d 5(IV& 7(EmnC 6/CtP
+d 5(IV# 7(Emmo 6/CrQ
+d 5(IVM 7(Emw# 6/CrI
+d 5(IVN 7(Emw] 6/CtF
+d 5(IV& 7(EmnC 6/CtP
+w "%pv6 highway#unclassified lit#yes name#Polstjärnegatan oneway#yes
+d -80J{ 6fN4j 6/C?y
+d -80J~ 7(Em8N 6/C>w
+d -80K% 7(Em>/ 6/C>\
+d +ZX|n 7(EmCF 6/C>T
+w "oV&y building#yes
+d 5)M}` 7(ElWB 6/C2q
+d 5)M}K 7(ElK3 6/C6t
+d 5)M~" 6fN0G 6/C8g
+d 5)M~# 7(El^@ 6/C8A
+d 5)M~/ 7(Elb0 6/C8d
+d 5)M~8 7(ElkS 6/C5V
+d 5)M~1 7(Elgm 6/C50
+d 5)M~5 7(Eli* 6/C4e
+d 5)M}` 7(ElWB 6/C2q
+w "oMm0 building#yes
+d 5(IVN 7(Emw] 6/CtF
+d 5(IVQ 7(Emx0 6/Cv/
+d 5(IV( 7(Emnu 6/Cv8
+d 5(IV& 7(EmnC 6/CtP
+d 5(IVN 7(Emw] 6/CtF
+w "oMmR building#yes
+d 5(IRz 6fN4, 6/CZC
+d 5(IRF 7(Elzx 6/CXz
+d 5(IQ[ 7(Elcc 6/C]N
+d 5(IQl 7(Elk& 6/C^t
+d 5(IR; 7(Elyn 6/C\&
+d 5(IRz 6fN4, 6/CZC
+w "oMmI building#yes
+d 5(IPO 7(ElG' 6/COp
+d 5(IP; 7(ElBo 6/CPd
+d 5(IPN 7(ElF| 6/CQI
+d 5(IPQ 7(ElKF 6/CPV
+d 5(IPO 7(ElG' 6/COp
+w "oV$z building#yes
+d 5)M}U 7(ElSY 6/CGN
+d 5)M}; 7(El7j 6/CJl
+d 5)M}E 7(El@N 6/CL;
+d 5)M}z 7(ElYs 6/CI6
+d 5)M}U 7(ElSY 6/CGN
+w *g`~ highway#unclassified lit#yes name#Cronackersgatan oneway#yes
+d j&b_ 7(En'" 6/C8p
+d -6jqQ 7(Emts 5"J#I
+d -6jzQ 7(Emin 6/C9U
+d j&bV 7(EmTU 6/C:,
+w "4lG? building#yes
+d /&w@d 7(Em-a 6/CEu
+d /&w@c 7(Em"r 6/CH+
+d /&w@V 7(Elib 5"J%D
+d /&w@U 7(Elo; 4.PK
+d /&w@^ 7(Em"# 6/CPS
+d /&w@\ 7(EmD" 6/CIo
+d /&w@d 7(Em-a 6/CEu
+w "oV&f building#yes
+d 5)M}K 7(ElK3 6/C6t
+d 5)M}I 7(ElHa 6/C7j
+d 5)M}^ 7(ElV{ 6/C9;
+d 5)M}c 7(ElX] 6/C8c
+d 5)M~! 7(El\/ 6/C9$
+d 5)M~" 6fN0G 6/C8g
+d 5)M}K 7(ElK3 6/C6t
+w "oMm% building#yes
+d 5(ISH 7(Em1$ 6/Cs^
+d 5(IS/ 7(Em'P 5"J)*
+d 5(ISL 7(Em3_ 6/CoI
+d 5(ISt 7(Em=K 6/Cq.
+d 5(ISH 7(Em1$ 6/Cs^
+w "K;%4 building#yes
+d 1K>C$ 5'z+E 6/Cc8
+d 1K>C- 7(Eku] 5"J'v
+d 5)M}& 7(El$| 6/Ch?
+d 1K>Eg 7(El1, 6/CjF
+d 1K>B} 7(El4A 6/Cid
+d 1K>C# 7(El>j 6/Cg[
+d 1K>C$ 5'z+E 6/Cc8
+w "%`o' highway#unclassified lit#yes name#Polstjärnegatan oneway#yes
+d $hz:9 7(Emc| 6/CCi
+d %ai"' 7(Em[b 6/C?Q
+d +ZX|g 7(EmX' 6/C=`
+w A2P8 amenity#parking capacity#14
+d $h#|K 7(Emii 6/C].
+d $h#|L 7(Emdl 6/C]}
+d 5(IUs 7(EmiK 6/CdW
+d $h#|N 7(EmnD 6/Ccj
+d $h#|K 7(Emii 6/C].
+w "%`ot highway#unclassified lit#yes name#Cronackersgatan oneway#yes
+d j&bW 7(EmY^ 6/C<|
+d -6jk? 7(Em]1 6/C<&
+d -6jw% 7(Emaw 6/C;R
+d -6j}` 7(EmkF 6/C:l
+d -6jmu 7(EmvF 6/C9z
+d j&b_ 7(En'" 6/C8p
+w "oMmf building#yes
+d 5(IR/ 7(Elqp 6/Cp[
+d 5(IQg 7(Elh' 6/Cr[
+d 5(IQ} 7(Elq* 6/Ct5
+d 5(IRC 7(Elz, 6/Cum
+d 5(IRv 7(Em"V 6/Cvz
+d 5(IS2 7(Em,+ 6/Cu-
+d 5(IR/ 7(Elqp 6/Cp[
+w "oMm6 building#yes
+d 5(IS@ 6fN4w 5"J&V
+d 5(IRz 6fN4, 6/CZC
+d 5(IT? 7(EmD< 5"J'=
+d /&w@e 7(EmLg 6/C^6
+d 5(IS@ 6fN4w 5"J&V
+w "oMm' building#yes
+d 5(IP; 7(ElBo 6/CPd
+d 5(IOg 7(El1# 5"J&,
+d 5(IOr 7(El58 6/CTx
+d 5(IPN 7(ElF| 6/CQI
+d 5(IP; 7(ElBo 6/CPd
+w "%`nz building#yes
+d -6jyS 7(Eln9 6/C0h
+d -6jt7 7(ElY\ 6/C,y
+d -6jl^ 7(Em+u 6/B}r
+d -6jsU 7(Em1$ 6/C!s
+d -6jpU 7(Em2M 5"J!#
+d -6j}f 7(Em4; 6/B~F
+d -6jr- 7(EmB" 6/C't
+d -6k!\ 7(EmCo 6/C&i
+d -6j|s 7(EmOR 6/C-G
+d -6jrn 7(EmP1 5"J"3
+d -6jx8 7(EmQ& 6/C,9
+d -6j|D 7(EmhZ 6/C7(
+d -6jyS 7(Eln9 6/C0h
+w "oMl| building#yes
+d 5(ISt 7(Em=K 6/Cq.
+d 5(ITC 7(EmEF 6/CrT
+d 5(ITF 7(EmGb 6/Cr+
+d 5(ITh 7(EmN1 6/CsB
+d 5(ITd 7(EmL( 5"J);
+d 5(IU} 7(Eml} 6/Cy_
+d 5(IV? 7(Emn} 6/Cy:
+d 5(IVJ 7(EmrZ 6/Cyv
+d 5(IVE 7(Emp? 6/CzA
+d 5(IVV 7(Em|b 6/C|P
+d 5(IVH 7(EmpT 6/C~w
+d 5(ISH 7(Em1$ 6/Cs^
+d 5(ISt 7(Em=K 6/Cq.
+w "oV$I building#yes
+d 5)M}` 7(ElWB 6/C2q
+d 5)M}R 7(ElOR 6/C2%
+d 5)M}G 7(ElC; 6/C6"
+d 5)M}K 7(ElK3 6/C6t
+d 5)M}` 7(ElWB 6/C2q
+w "oMm` building#yes
+d 5(ITn 7(EmN} 6/D!,
+d 5(IT; 7(EmAf 6/C|b
+d 5(ISz 7(Em>^ 6/C|-
+d 5(ITL 6fN7l 6/Cz$
+d 5(IUF 6fN9J 6/C|{
+d 5(ITr 7(EmOp 5"J*F
+d 5(ITn 7(EmN} 6/D!,
+w "K;%+ building#yes
+d 1K>Bp 7(El*{ 6/CY3
+d 1K>Et 7(El3R 6/CZk
+d 1K>Ce 7(El+I 6/C\H
+d 1K>B6 7(El*% 6/C\7
+d 1K>Ee 7(El&t 6/C[b
+d 1K>CA 7(El"e 6/CZ|
+d 1K>Bp 7(El*{ 6/CY3
+w "oMm5 building#yes
+d 5(IS/ 7(Em'P 5"J)*
+d 5(IQ& 7(ElRK 6/Chv
+d 5(IQ1 7(El^O 6/CfI
+d 5(ISL 7(Em3_ 6/CoI
+d 5(IS/ 7(Em'P 5"J)*
+w "%`nI highway#unclassified lit#yes name#Polstjärnegatan
+d $hz:9 7(Emc| 6/CCi
+d -6k"z 7(Emh\ 6/CF;
+d -6jyC 7(Emje 6/CH$
+d -6jm~ 7(Emm$ 5"J%=
+d -6j~s 7(Empc 6/CT+
+d $h$!x 7(Emsr 6/CZP
+d j&bT 7(En,S 6/D.I
+d 5*\Lf 7(En,M 6/D0A
+d 5*\Le 7(En+X 6/D1D
+d 5*\L_ 7(En)O 6/D2B
+d 5*\LD 7(En&Q 6/D3$
+d j&bS 7(Emz{ 6/D4d
+w "oMmi building#yes
+d 5(IPQ 7(ElKF 6/CPV
+d 5(IPN 7(ElF| 6/CQI
+d 5(IOr 7(El58 6/CTx
+d 5(IP! 7(El9s 6/CUh
+d 5(IPR 7(ElKt 6/CR8
+d 5(IP_ 7(ElP@ 6/CQF
+d 5(IPQ 7(ElKF 6/CPV
+w "oMm= building#yes
+d 5(IOp 7(El4F 6/CsC
+d 5(IOw 7(El8R 6/CrS
+d 5(IO[ 7(El0= 6/Cq.
+d 5(IOW 7(El,P 6/Cqv
+d 5(IOp 7(El4F 6/CsC
+w "oMmO building#yes
+d 5(IS2 7(Em,+ 6/Cu-
+d 5(IRv 7(Em"V 6/Cvz
+d 5(IR6 7(Elx0 6/CxT
+d 5(IRy 7(Em#Q 6/Cz:
+d 5(IST 7(Em5L 5"J)X
+d 5(IS2 7(Em,+ 6/Cu-
+w "oMmm building#yes
+d 5(IR; 7(Elyn 6/C\&
+d 5(ISQ 7(Em42 5"J'A
+d 5(ISb 6fN6/ 6/C_V
+d 5(ISl 7(Em=C 6/C_l
+d 5(IT5 7(EmAP 6/C`U
+d 5(IT? 7(EmD< 5"J'=
+d 5(IRz 6fN4, 6/CZC
+d 5(IR; 7(Elyn 6/C\&
+w "%`o> highway#unclassified lit#yes name#Stenbocksgatan oneway#yes
+d -6jv& 6fN56 6/C7)
+d %ai"b 7(Em8} 6/C9-
+d -6jxw 7(Em<" 6/C:%
+d +ZX|l 7(Em>+ 5"J#[
+w 7+Wb electrified#contact_line frequency#16.7 gauge#1435 name#Hamnbanan railway#rail voltage#15000
+d #HyUj 7(Ep+X 6/D^C
+d #HyUo 7(Eod* 6/DVd
+d #HyUu 6fNJc 6/DNA
+d #HyU{ 6fNI5 6/DDO
+d #HyV$ 7(Eo3` 6/D8L
+d #HyV' 7(Eo/z 6/D->
+d #HyV+ 7(Eo*o 6/D!|
+d #HyV- 7(Eo($ 6/Cv,
+d #Hz,n 7(Eo%c 6/CkG
+d #Hz,o 7(Eo"v 6/C`@
+d #Hz,r 7(En~, 5"J&E
+d #Hz,v 7(EnzF 6/CLu
+d #Hz,z 7(EnsG 6/CCN
+d #Hz,} 7(Enev 6/C9}
+d #Hz-" 7(EnW! 6/C/I
+d #Hz-% 7(EnEi 6/C'?
+d #Hz-) 7(En3/ 6/B~)
+d #Hz-- 6fN<P 6/BuT
+d #Hz-0 7(Ema2 6/BmB
+d #J=O% 7(EmE' 6/BbK
+d #J=O) 6fN4f 6/BXl
+d #J=O. 7(EljJ 6/BPW
+d #J=O2 7(ElD: 6/BG&
+d #J=O5 7(EktL 6/B>C
+d #J=O7 6fN$? 6/B4o
+d #J=O< 7(Ej_< 6/B)Q
+d #J=OB 7(Ej-# 6/A~y
+d #J=OE 7(EiHp 6/AtL
+d #J=OI 7(Ehk$ 4.Nr
+d #J=OL 7(Eh3$ 6/AbN
+d #J=OQ 7(EgZz 6/AYu
+d #J=OW 7(Eg$5 5"Iq&
+d 3k{^e 7(EfX0 6/AJ7
+d #J=Ob 7(Ef0V 6/ABF
+w "oMmX building#yes
+d 5(IOW 7(El,P 6/Cqv
+d 5(IO[ 7(El0= 6/Cq.
+d 5(IOz 7(El98 6/Co?
+d 5(IOQ 7(El+r 6/Cm"
+d 5(IO4 7(Ek}, 6/CoZ
+d 5(IOW 7(El,P 6/Cqv
+w "%`oX highway#unclassified lit#yes name#Stenbocksgatan
+d -6jsg 7(ElPr 6/C/7
+d -6jz> 7(ElSs 5"J"L
+d -6k!_ 6fN2< 6/C2d
+d -6jq0 7(El~x 6/C4j
+d -6jv& 6fN56 6/C7)
+w "oMmN building#yes
+d 5(IVx 7(Em~A 6/D*C
+d 5(IV} 6fN=? 6/D-0
+d 5(IVA 6fN;a 6/D0<
+d 5(IS| 7(Em@m 6/D'z
+d 5(IU? 7(EmWT 6/D#P
+d 5(IVx 7(Em~A 6/D*C
+w "oMm8 building#yes
+d 5(ISz 7(Em>^ 6/C|-
+d 5(IT; 7(EmAf 6/C|b
+d 5(ISw 7(Em=S 6/C}T
+d 5(ISh 7(Em:N 6/C|}
+d 5(ISz 7(Em>^ 6/C|-
+w "oMmp building#yes
+d /&w@Y 7(Em]" 6/CW_
+d /&w@` 7(EmbB 6/CV]
+d /&w@_ 7(Em^g 6/CU|
+d /&w@] 7(Emb{ 6/CU0
+d /&w@W 5'z,l 6/CRR
+d 5(ITN 7(EmIg 6/CTa
+d 5(IUB 7(EmXC 6/CW7
+d 5(IUJ 7(EmYF 5"J&G
+d /&w@Y 7(Em]" 6/CW_
+w "oMmG building#yes
+d 5(IUL 7(EmY_ 6/Cq6
+d 5(IUO 7(Em_) 6/Cp1
+d 5(IT~ 7(EmV+ 6/CnY
+d 5(ITt 6fN8W 6/Co\
+d 5(IUL 7(EmY_ 6/Cq6
+w "oMmU building#yes
+d 5(IQn 7(Elnb 6/CzY
+d 5(IQc 7(Elfz 5"J*,
+d 5(IRA 6fN3< 6/D!Y
+d 5(IRw 7(Em#L 6/C}{
+d 5(IRt 7(Em!S 6/C}Z
+d 5(IQn 7(Elnb 6/CzY
+w "."Yg building#yes
+d .52dV 7(ElIT 6/C}m
+d .52e' 7(EkuL 5"J+;
+d .52dM 7(EkjL 6/D'x
+d .52c0 7(El3) 6/C~6
+d .52d^ 7(El$O 6/C{l
+d .52cH 7(El/d 6/CyB
+d .52dV 7(ElIT 6/C}m
+w "oMm[ building#yes
+d 5(IR3 7(ElrX 6/Cym
+d 5(IQp 7(Elpd 6/Cz3
+d 5(IQn 7(Elnb 6/CzY
+d 5(IRt 7(Em!S 6/C}Z
+d 5(IR| 7(Em%\ 6/C|i
+d 5(IRc 7(El{e 6/C{F
+d 5(IR3 7(ElrX 6/Cym
+w "."Yo building#yes
+d .52cy 7(EkMr 6/D#%
+d .52d8 7(El"T 6/Cw%
+d .52dz 7(El-i 6/Cy$
+d .52ca 7(EkY) 6/D%2
+d .52cy 7(EkMr 6/D#%
+w "4lE^ building#yes
+d /&w37 7(EkFy 6/CE)
+d /&w3. 7(EkHV 6/CFz
+d /&w2y 7(EkCs 6/CG*
+d /&w2x 7(EkD> 6/CGX
+d /&w2k 6fN#p 6/CGl
+d /&w2o 7(Ek<{ 6/CG;
+d /&w3) 7(Ek89 6/CGI
+d /&w2n 7(Ek6^ 6/CEX
+d /&w37 7(EkFy 6/CE)
+w "%pv5 highway#unclassified lit#yes name#Polstjärnegatan oneway#yes
+d j&bX 7(Em=) 6/C<c
+d )B)K# 7(Em5p 6/C>;
+d -80J{ 6fN4j 6/C?y
+w "K;%> building#yes
+d 1K>Dd 6fN'- 6/CSu
+d 1K>BX 7(Eks! 6/CQJ
+d 1K>D} 7(Eko% 5"J%e
+d 1K>Dq 7(EkZ> 6/CRm
+d 1K>Dd 6fN'- 6/CSu
+w "oMmC building#yes
+d 5(IR6 7(Elx0 6/CxT
+d 5(IR3 7(ElrX 6/Cym
+d 5(IRc 7(El{e 6/C{F
+d 5(IRy 7(Em#Q 6/Cz:
+d 5(IR6 7(Elx0 6/CxT
+w "%`o_ highway#unclassified lit#yes name#Cronackersgatan
+d j&b_ 7(En'" 6/C8p
+d -6jsL 7(En/A 6/C8;
+d -6j{< 7(En7' 6/C7G
+d -6jpd 7(En;h 5"J#1
+d -6jzI 7(En?, 6/C5|
+d -6jy= 7(EnB; 6/C5&
+d -6jmh 7(EnDI 6/C4<
+d -6k#( 7(EnEp 6/C3;
+d $fHO] 7(EnFm 6/C2(
+d -6jvu 7(EnE} 6/C0r
+d j&b` 7(EnA^ 5"J">
+d $fHO^ 7(En:( 6/C)g
+d j&ba 7(En3' 6/C&8
+d $fHOa 7(En&3 6/B~m
+d -6jm_ 7(Emo7 6/Bw4
+w HF$l highway#trunk maxspeed#70 name#Lundbyleden oneway#yes ref#155
+d 5I:6 7(Eo>z 6/C;B
+d 5I:5 7(EoJp 6/CG5
+d 5I:4 6fNMd 6/C{0
+d 5I:3 7(Ep"P 6/DK3
+d EcrB 7(Ep.b 6/DTj
+d EcrC 7(Ep>l 6/D[D
+d %"oz6 7(EpHy 6/D^H
+w "oMm- building#yes
+d 1K>Et 7(El3R 6/CZk
+d 1K>Ce 7(El+I 6/C\H
+d 5(IOj 7(El3L 6/C]n
+d 5(IP$ 7(El;U 6/C\2
+d 1K>Et 7(El3R 6/CZk
+w "oMmv building#yes
+d 5(IPR 7(ElKt 6/CR8
+d 5(IP! 7(El9s 6/CUh
+d 5(IOr 7(El58 6/CTx
+d 5(IOg 7(El1# 5"J&,
+d 5(IOT 7(El,* 6/CU+
+d 5(IP\ 7(ElOn 6/C[R
+d 5(IQ^ 7(Elf^ 5"J&F
+d 5(IQ' 7(ElT3 6/CSj
+d 5(IPR 7(ElKt 6/CR8
+w "%`nB amenity#parking capacity#259 capacity:disabled#4 capacity:parent#8 capacity:power_outlet#5 lit#yes maxstay#3_hours
+d -6jiz 7(Em/] 6/B{*
+d -6jqJ 6fN9c 5"I~8
+d -6j|% 5'z-" 6/B{*
+d -6jt/ 7(Emso 6/B}u
+d -6j~e 7(Em|5 6/C"u
+d -6jvJ 7(En$W 6/C%Z
+d -6k"2 7(En+[ 5"J!k
+d -6ju? 7(En.) 6/C*6
+d -6k!6 5'z-D 6/C+|
+d -6jwZ 7(En2S 6/C.6
+d -6k"^ 7(En3K 6/C/J
+d -6jyh 6fN?) 5"J"T
+d -6jkM 7(En3\ 6/C1A
+d -6j{u 7(En38 6/C2,
+d -6jn} 7(En2; 6/C2|
+d -6j~< 7(En0m 6/C3n
+d -6jq< 7(En.U 5"J"|
+d -6k!o 7(En,O 6/C5(
+d -6jp] 7(Emn* 6/C7E
+d -6jiz 7(Em/] 6/B{*
+w "K;%( building#yes
+d 1K>EW 7(El+: 6/CLH
+d 1K>F$ 6fN(} 6/COD
+d 1K>C2 7(EkwW 6/CQ*
+d 1K>CI 7(El1_ 6/CN'
+d 1K>EW 7(El+: 6/CLH
+w "oMmb building#yes
+d 5(IP) 6fN-< 6/CqK
+d 5(IQ) 7(ElW} 6/Cux
+d 5(IQg 7(Elh' 6/Cr[
+d 5(IR/ 7(Elqp 6/Cp[
+d 5(IQ/ 7(ElX] 5"J(Q
+d 5(IPZ 7(ElN5 6/Cn5
+d 5(IP) 6fN-< 6/CqK
+w "oMmQ building#yes
+d 5(IUv 7(EmjR 5"J(/
+d 5(ITv 7(EmQ$ 6/Cmi
+d 5(ITH 7(EmH= 5"J(R
+d 5(ITp 7(EmO[ 6/Cjg
+d 5(IUk 7(Emd: 6/CfX
+d 5(IUv 7(EmjR 5"J(/
+w HF%) highway#trunk maxspeed#70 name#Lundbyleden oneway#yes ref#155
+d EcrK 6fNK. 6/C;8
+d %ai#` 7(EoJ/ 6/C8@
+d %a!c8 7(EoDK 6/C4H
+d EcrL 7(Eo/% 6/C,f
+d EcrM 7(EnRQ 6/B{q
+d EcrN 7(En+O 6/Bo}
+d EcrO 7(Emll 6/B`p
+d EcrP 7(Emfh 6/BXV
+d EcrQ 5'z-$ 6/BO]
+d Ed<M 7(En%C 6/B>z
+w "oV&9 building#yes
+d 5)M|N 7(EkzH 6/C,g
+d 5)M|C 6fN)X 6/C."
+d 5)M|@ 7(Eku> 6/C.V
+d 5)M|: 7(Ekqn 6/C/l
+d 5)M}. 7(El+l 6/C2?
+d 5)M}7 7(El4f 6/C/8
+d 5)M|N 7(EkzH 6/C,g
+w "oMmj building#yes
+d 5(IUk 7(Emd: 6/CfX
+d 5(IUN 7(Em]A 5"J'k
+d 5(IU; 7(EmVl 6/CcC
+d 5(IT? 7(EmD< 5"J'=
+d 5(IT5 7(EmAP 6/C`U
+d 5(ISC 7(Em-Z 5"J'i
+d 5(ITp 7(EmO[ 6/Cjg
+d 5(IUk 7(Emd: 6/CfX
+w "oMm@ building#yes
+d 1K>C# 7(El>j 6/Cg[
+d 1K>B} 7(El4A 6/Cid
+d 5(IPZ 7(ElN5 6/Cn5
+d 5(IQ/ 7(ElX] 5"J(Q
+d 1K>C# 7(El>j 6/Cg[
+w "4lG: building#yes
+d /&w@g 7(Em!] 5"J$M
+d /&w@[ 7(Elu- 6/CCI
+d /&w@X 7(Elm, 6/CDN
+d /&w@c 7(Em"r 6/CH+
+d /&w@d 7(Em-a 6/CEu
+d /&w@g 7(Em!] 5"J$M
+w A4S^ construction#residential landuse#construction
+d $h;Cd 7(EkH; 6/D"|
+d $h;Cf 7(Ek}? 6/Cv0
+d $h;Cg 7(Ek%< 6/Cf[
+d $h;Ci 7(Ejy$ 6/Ch)
+d $h;Ck 7(Ej{R 6/CxL
+d $h;Cm 7(Ek'8 6/C{,
+d $h;Cd 7(EkH; 6/D"|
+w "oMm? building#yes
+d 5(IQg 7(Elh' 6/Cr[
+d 5(IQ) 7(ElW} 6/Cux
+d 5(IQ8 7(El`o 6/CwK
+d 5(IQ} 7(Elq* 6/Ct5
+d 5(IQg 7(Elh' 6/Cr[
+w "oV$x building#yes
+d 5)M}z 7(ElYs 6/CI6
+d 5)M}E 7(El@N 6/CL;
+d 5)M}O 7(ElLQ 6/CN4
+d 5)M~$ 7(El^e 6/CJ`
+d 5)M}z 7(ElYs 6/CI6
+w "oMm3 building#yes
+d 5(IUo 7(EmfB 6/CqO
+d 5(IUO 7(Em_) 6/Cp1
+d 5(IUL 7(EmY_ 6/Cq6
+d 5(IUS 7(Em`u 6/CrS
+d 5(IUo 7(EmfB 6/CqO
+w "4lE_ building#yes
+d /&w2~ 6fN#+ 6/C8Z
+d /&w2| 7(Ej}U 6/C8/
+d /&w2z 7(Ej|5 6/C:H
+d /&w2q 7(Ek"H 6/C:P
+d /&w2w 7(Ek!^ 6/C;l
+d /&w2l 7(Ej{l 6/C;d
+d /&w3J 7(EjzR 6/C=u
+d /&w3@ 7(Ek2d 6/C>B
+d /&w3C 7(Ek3| 5"J#e
+d /&w2v 6fN#( 6/C<:
+d /&w2m 7(Ek6a 6/C:a
+d /&w2{ 7(Ek4r 5"J#V
+d /&w2~ 6fN#+ 6/C8Z
+w 2L7x highway#trunk maxspeed#70 name#Lundbyleden oneway#yes ref#155
+d Ecr; 7(Eqv" 6/DvY
+d Ecr< 7(Eqd~ 5"J2>
+d %@ZE> 7(EqV6 6/DjM
+d Ecr= 7(EqQO 6/DiS
+d )B)K> 7(Eq1# 6/DcH
+d Ecr> 7(Ephh 6/D\8
+d Ecr? 7(EpO= 6/DW!
+d Ecr@ 7(Ep>@ 5"J/8
+d EcrA 7(Ep2h 5"J.\
+d EcrF 7(Ep(S 6/DD_
+d EcrG 7(Eo~T 6/D:=
+d EcrH 7(EonK 6/C{1
+d EcrI 7(EoV' 6/CG$
+d EcrJ 7(EoS. 6/C>v
+d EcrK 6fNK. 6/C;8
+w "oMm\ building#yes
+d 5(IRC 7(Elz, 6/Cum
+d 5(IQi 7(Elj9 6/Cy(
+d 5(IQp 7(Elpd 6/Cz3
+d 5(IR3 7(ElrX 6/Cym
+d 5(IR6 7(Elx0 6/CxT
+d 5(IRv 7(Em"V 6/Cvz
+d 5(IRC 7(Elz, 6/Cum
+w "oV${ building#yes
+d 5)M{8 7(EkVM 6/C0y
+d 5)M{, 7(EkSF 6/C3@
+d 5)M{O 7(EkY, 6/C3V
+d 5)M{R 7(Ek\: 6/C12
+d 5)M{8 7(EkVM 6/C0y
+w A7D@ amenity#parking capacity#23
+d $hZ56 7(El+] 6/CHz
+d $hZ5m 6fN*d 6/CFe
+d 5(IOt 7(El7H 6/CCo
+d $hZ59 6fN.! 6/CB<
+d $hZ5t 7(ElMs 6/CDm
+d $hZ5s 7(ElKy 5"J$Z
+d $hZ56 7(El+] 6/CHz
+w "%`n= highway#unclassified lit#yes name#Stenbocksgatan oneway#yes
+d j&b\ 6fN7~ 6/C9S
+d %ai"\ 7(Em=0 6/C8?
+d -6jv& 6fN56 6/C7)
+w *g`| highway#unclassified junction#roundabout lit#yes
+d j&bY 7(EmH. 6/C>x
+d j&bU 7(EmK> 5"J$!
+d +ZX|e 7(EmQ5 4.P=
+d $hz9U 7(EmUW 5"J#x
+d +ZX|g 7(EmX' 6/C=`
+d j&bW 7(EmY^ 6/C<|
+d -6jtn 7(EmZ& 6/C;|
+d +ZX|h 6fN9A 6/C:|
+d j&bV 7(EmTU 6/C:,
+d +ZX|i 7(EmP[ 6/C9c
+d j&b\ 6fN7~ 6/C9S
+d +ZX|k 7(EmDt 6/C9o
+d j&bZ 7(Em@G 6/C:O
+d +ZX|l 7(Em>+ 5"J#[
+d j&b[ 7(Em<w 6/C</
+d j&bX 7(Em=) 6/C<c
+d -6jr( 7(Em?h 6/C=t
+d +ZX|n 7(EmCF 6/C>T
+d j&bY 7(EmH. 6/C>x
+w "K;%D building#yes
+d 1K>EM 7(Ek<$ 6/CXW
+d 1K>ES 7(Ek5= 6/CV_
+d 1K>Co 6fN!2 6/CY"
+d 1K>C= 7(Ek"t 6/C`6
+d 1K>EU 7(Ek*] 6/Ca]
+d 5(INZ 7(Ek,? 6/Ca=
+d 5(INf 7(Ek7P 6/C_$
+d 5(INb 7(Ek1K 6/C]o
+d 5(INa 7(Ek1* 5"J&c
+d 1K>EM 7(Ek<$ 6/CXW
+w "oMmy building#yes
+d 5(IS+ 7(Em&" 4.Pb
+d 5(IQW 6fN1& 6/C`@
+d 5(IQ+ 7(ElX? 6/CbM
+d 5(ITO 7(EmJn 6/Cpg
+d 5(ITt 6fN8W 6/Co\
+d 5(IT~ 7(EmV+ 6/CnY
+d 5(ITv 7(EmQ$ 6/Cmi
+d 5(ITH 7(EmH= 5"J(R
+d 5(IS+ 7(Em&" 4.Pb
+w "oMm. building#yes
+d 5(ITH 7(EmH= 5"J(R
+d 5(IS+ 7(Em&" 4.Pb
+d 5(ISC 7(Em-Z 5"J'i
+d 5(ITp 7(EmO[ 6/Cjg
+d 5(ITH 7(EmH= 5"J(R
+w "oMmK building#yes
+d 5(IQ- 7(ElX] 6/CRx
+d 5(IP_ 7(ElP@ 6/CQF
+d 5(IPR 7(ElKt 6/CR8
+d 5(IQ' 7(ElT3 6/CSj
+d 5(IQ- 7(ElX] 6/CRx
+w "-5*6 highway#unclassified name#Lindholmsallén oneway#yes
+d 5I9t 7(Ened 6/D\S
+d )B)K1 7(EnV; 6/DY~
+d $hz'd 5'z-0 6/DOu
+d $hz$b 7(Em2e 6/DBz
+d )B)K% 7(Elul 6/D>I
+d 5I8M 7(El^C 6/D:3
+d 5I8K 7(Ekj1 5"J+Q
+d $hZ.i 6fN&Q 6/D(t
+d (7hn+ 7(Ek*i 6/C~r
+d 5I8h 7(Ek'# 6/C~5

@@ -1,0 +1,337 @@
+w vDL! building#yes
+d +n^.l 6fM!_ 6/HYS
+d +n^.p 7(E`m4 6/HSY
+d +n^.t 7(Eam- 6/HEu
+d +n^.z 7(Eb(f 6/HL<
+d +n^.l 6fM!_ 6/HYS
+w C-fq amenity#parking capacity#30
+d $}u?h 7(E^)/ 6/HV/
+d $}u?j 7(E]sH 5"JU^
+d $}u?l 7(E]eY 6/HV>
+d $}u?n 7(E]f$ 6/HU9
+d $}u?s 7(E]p; 6/HSH
+d $}u?p 7(E]qo 6/HS-
+d $}u?r 7(E]y" 6/HS3
+d $}u?h 7(E^)/ 6/HV/
+w "UTG} building#yes
+d 2JC3J 7(E`{= 6/I.f
+d 2JC3i 7(Ea0n 6/I+t
+d 2JC3Z 7(Ea5c 6/I,a
+d 2JC3d 7(Eb/R 6/H~X
+d 2JC3b 7(Eb,V 6/H}Y
+d 2JC3p 7(EbAn 6/HzX
+d 2JC3u 7(Ebg, 6/I%s
+d 2JC3x 7(EbIp 6/I**
+d 2JC3g 6fM.1 6/I)$
+d 2JC3k 7(Eaa! 6/I2f
+d 2JC3` 7(EafO 6/I3^
+d 2JC3r 7(EaGN 6/I88
+d 2JC3J 7(E`{= 6/I.f
+w C.`t amenity#theatre building#yes name#Göteborgs_stadsteater
+d $~"U6 7(E_-w 6/HlJ
+d $~"U7 7(E_Ux 6/Hux
+d $~"U8 7(E_6; 6/HzZ
+d $~"U9 7(E_GB 6/H~S
+d $~"U: 7(E_;0 6/I"C
+d $~"U; 7(E^w! 6/HxQ
+d $~"U< 7(E_)t 6/Hut
+d $~"U= 7(E^q6 6/HpG
+d $~"U6 7(E_-w 6/HlJ
+w 4TxQ amenity#parking building#yes
+d #+pRB 7(E`HH 6/Hn4
+d $}u%c 7(E`Z: 5"JX%
+d #+pRD 7(E`k4 6/HtM
+d #+pRE 7(E`?, 6/H}Y
+d #+pRG 7(E_z2 6/Hw=
+d $}u%p 7(E`!3 6/Hv6
+d #+pRB 7(E`HH 6/Hn4
+w "'qej building#yes
+d -OO<W 7(E_+f 6/I6h
+d -OO<D 6fLm& 6/I5r
+d -OO<@ 7(E^P# 5"J[L
+d -OO<L 7(E]u2 6/IF"
+d -OO<T 7(E^:" 5"J]W
+d -OO;{ 7(E^@| 6/II7
+d -OO<Z 7(E^C! 6/IIQ
+d -OO<W 7(E_+f 6/I6h
+w C.a. amenity#theatre building#yes name#Lorensbergsteatern
+d $~"VD 7(E`+# 6/Hiw
+d $~"VE 7(E`<> 6/HmL
+d $~"VF 7(E_y- 6/Hs>
+d $~-FG 7(E_sV 6/Hse
+d $~-FJ 6fLst 6/Hs]
+d $~"VG 7(E_h/ 6/Hs$
+d $~-FM 7(E_d] 6/Hr&
+d $~-FQ 7(E_cI 6/Hpr
+d $~"VH 7(E_eF 5"JWs
+d $~"VD 7(E`+# 6/Hiw
+w e9*B amenity#fast_food building#yes name#Lasse_på_Heden
+d *(_$} 7(Eb(u 6/Hgu
+d *(_$Q 7(Eb.? 6/Hhq
+d *(_$W 7(Eb&{ 6/Hj?
+d *(_$i 7(Eb!S 6/HiC
+d *(_$} 7(Eb(u 6/Hgu
+w `;xv building#yes
+d )U#MI 7(E]a# 6/H}H
+d 1c?%d 7(E]Y$ 6/H~T
+d 1c?'N 7(E]YP 6/H~_
+d 1c?&* 7(E]7b 6/I%K
+d 1c?&F 7(E]76 6/I%@
+d )U#MK 7(E])p 6/I'6
+d )U#MN 7(E]25 6/I)=
+d )U#MP 7(E]iF 6/I!O
+d )U#MI 7(E]a# 6/H}H
+w C.a1 building#yes name#Göteborgs_konstmuseum tourism#museum
+d $~"VY 7(E]bc 6/Hp6
+d $~"VZ 7(E]~{ 6/Hw#
+d $~"V[ 7(E]dW 6/Hzr
+d $~"V\ 7(E]vN 6/I!1
+d $~"V] 7(E^C* 6/Hx{
+d $~"V^ 7(E]ry 6/Hmr
+d $~"VY 7(E]bc 6/Hp6
+w "'qen building#yes
+d -OO<N 7(E_!l 6/HWg
+d -OO<V 7(E^z, 6/HN&
+d -OO;| 7(E^ux 6/HMf
+d -OO<& 7(E^E! 6/HTe
+d -OO<! 7(E^x| 6/HaL
+d -OO<' 7(E_8@ 6/H]:
+d -OO<N 7(E_!l 6/HWg
+w vD+7 building#yes
+d +nY+N 7(E_Iu 6/H]2
+d +nY+P 7(E`8g 5"JT|
+d +nY+R 7(E`(; 6/HN,
+d +nY+T 7(E_/` 6/HL\
+d +nY+U 6fLn1 6/HW5
+d +nY+N 7(E_Iu 6/H]2
+w "'qep building#yes
+d -OO<B 7(E`&` 6/I$3
+d -OO<. 7(E_h, 6/H{C
+d -OO<8 7(E_:> 6/I&:
+d -OO<4 7(E^f{ 6/I0L
+d -OO<? 7(E^eU 6/I1Z
+d -OO<K 7(E^hv 6/I2=
+d -OO<S 7(E_=o 6/I2P
+d -OO<B 7(E`&` 6/I$3
+w vD+3 building#yes
+d +nY*f 7(E`5) 6/Hb4
+d +nY*g 7(E`8g 6/Hc!
+d +nY*i 7(E`+@ 6/Hdo
+d +nY*j 7(E_u4 6/H`O
+d +nY*l 7(E`MN 6/HX%
+d +nY*m 7(Ea+9 6/Heq
+d +nY*o 7(E`v{ 5"JW0
+d +nY*r 7(E`Ls 6/H^j
+d +nY*f 7(E`5) 6/Hb4
+w &fV= amenity#parking
+d E_S7 7(E^h[ 6/Hyc
+d $}ttK 7(E^e\ 6/Hz+
+d $}tt. 7(E^[X 6/H{V
+d E_S4 7(E^Xr 5"JY*
+d E_S5 7(E^{| 6/I%q
+d E_S6 7(E_,, 6/I#F
+d E_S7 7(E^h[ 6/Hyc
+w `;}p building#yes
+d )U$D/ 7(E^\V 6/H~g
+d )U$D0 7(E^N# 6/I#H
+d )U$D2 7(E^3x 6/I#D
+d -OO<" 7(E^.* 6/I$@
+d )U$D3 7(E^.# 6/I&&
+d )U$D4 7(E^#% 6/I&&
+d -OO;w 7(E]}@ 6/I&x
+d )U$D6 7(E]}B 6/I(a
+d -OO<Q 7(E]sr 6/I([
+d )U$D7 7(E]lO 6/I*'
+d )U$D8 7(E]l: 6/I/Y
+d )U$D9 7(E]Yi 6/I/V
+d )U$D; 7(E]Yv 6/I0v
+d )U$D> 7(E]dD 6/I2%
+d )U$D? 7(E^7@ 6/I28
+d -OO;} 7(E^;A 6/I1T
+d )U$DA 7(E^;R 6/I0&
+d )U$DB 7(E^B$ 6/I0(
+d )U$DD 7(E^G$ 6/I0v
+d )U$DE 7(E^pQ 6/I)9
+d )U$DF 7(E^kk 6/I(@
+d )U$DG 7(E^v' 6/I&,
+d )U$D/ 7(E^\V 6/H~g
+w "UTRu building#yes
+d 2JCYz 7(E_0B 5"J\S
+d 2JCYj 7(E_ut 6/IPg
+d 2JCYo 7(E^g? 6/ISD
+d 2JCYv 7(E^Vy 6/IN[
+d 2JCYz 7(E_0B 5"J\S
+w "UTG{ building#yes
+d 2JC3H 7(E`V* 6/I%$
+d 2JC3] 7(Ead& 6/HmB
+d 2JC3L 7(Eb6y 6/HxL
+d 2JC3t 7(E`um 6/I,V
+d 2JC3H 7(E`V* 6/I%$
+w `;|6 building#yes
+d )U#|} 7(E]P] 6/He4
+d )U#}! 7(E]=L 6/Hec
+d )U#}$ 7(E]?I 6/HhB
+d )U#}' 7(E]RY 5"JW)
+d )U#|} 7(E]P] 6/He4
+w C-]x area#yes bicycle#yes highway#pedestrian name#Götaplatsen
+d $}tO6 7(E_.@ 6/Hj|
+d $}tO/ 7(E^pC 6/Hcz
+d $}tO> 7(E^L. 5"JW5
+d $}tO0 6fLfn 6/Hi\
+d $}tO2 7(E^e[ 6/HpY
+d $}tt% 7(E^h~ 6/Hp4
+d $}tO6 7(E_.@ 6/Hj|
+w C.`{ amenity#library building#yes name#Stadsbiblioteket_i_Göteborg
+d $~"Uo 6fLr8 6/He2
+d $~"Up 7(E_?W 5"JW7
+d $~"Uq 7(E_Yu 6/Ho^
+d $~"Ur 6fLsq 6/HlR
+d $~-oR 7(E_j[ 6/Hkt
+d $~"Us 7(E_h' 6/Hk>
+d $~"Ut 7(E_qb 6/Hio
+d $~"Uo 6fLr8 6/He2
+w "b#&g leisure#park
+d 3[0'# 7(Eaf# 6/IJ3
+d 3[0&0 7(EaGa 6/INK
+d 3[0&= 7(EaD@ 6/IO[
+d 3[0&q 7(EaD@ 6/IPP
+d 3[9pA 7(EaEx 5"J^3
+d 3[0&| 7(EaH5 6/IQP
+d 3[0'/ 7(EaIn 6/IQe
+d 3[0'I 7(EaNT 6/IQu
+d 3[0'1 7(EaoN 6/IP}
+d 3[0&_ 7(Eav$ 6/IP@
+d 3[0&{ 7(EavU 6/IOv
+d 3[9v! 7(Eaw} 6/IOZ
+d 3[9t6 7(EayZ 6/IO'
+d 3[0&z 7(Ea{6 6/INS
+d 3[0&Z 7(Ea{o 6/IMk
+d 3[0&D 7(Eawr 6/IKf
+d 3[0'& 7(Eaq0 6/IJ3
+d 3[0'# 7(Eaf# 6/IJ3
+w *it] highway#unclassified name#Sten_Sturegatan oneway#yes
+d 2k,m 7(Eap$ 6/IFe
+d j@XX 7(Ea_a 6/IIK
+w `;}[ building#yes
+d )U$>z 7(E^"7 6/IN1
+d )U$>| 7(E]d? 5"J^.
+d )U$>~ 7(E]`D 6/IN]
+d )U$?" 7(E]q- 6/IM?
+d )U$?% 7(E]k; 6/IJe
+d )U$?) 7(E]vK 6/IIp
+d )U$>z 7(E^"7 6/IN1
+w "b#&d leisure#park
+d 3[0&P 7(Ea>b 5"J]}
+d 3[0&; 7(Ea3r 6/IP5
+d 3[0'! 7(Ea6! 6/IQ%
+d 3[9u3 7(Ea6H 6/IQF
+d 3[0&A 7(Ea7` 6/IRJ
+d 3[0&X 7(Ea:e 6/IR:
+d 3[0&] 7(Ea;k 6/IRp
+d 3[0'0 7(EaD# 6/IRJ
+d 3[0') 7(Ea@G 6/IQb
+d 3[9u7 7(Ea>z 6/IQ.
+d 3[0&< 7(Ea>7 6/IPk
+d 3[0&3 7(Ea=x 6/IOm
+d 3[0&I 7(Ea?Z 6/IN~
+d 3[0&P 7(Ea>b 5"J]}
+w "N97| building#yes
+d 1eSpL 7(Ebl, 6/I(>
+d 1eSp8 7(EaJe 6/I:E
+d 1eSpI 7(Eand 6/IBz
+d 1eSpG 7(Ec2N 6/I0V
+d 1eSpL 7(Ebl, 6/I(>
+w `;}9 building#yes
+d )U$5a 7(E]wM 5"J[r
+d 1c?'; 7(E]_W 6/I6P
+d 1c?&q 7(E]`o 6/I60
+d )U$5b 7(E]Y& 5"J[H
+d 1c?&L 7(E]Pl 6/I7B
+d 1c?%N 7(E]R" 6/I7Q
+d )U$5d 6fL\V 5"J\,
+d )U$5e 7(E]_+ 6/I@/
+d )U$5a 7(E]wM 5"J[r
+w ")"cp building#yes
+d -YnwT 7(E`^% 6/IE<
+d -YnwV 7(E`}i 6/IM;
+d -YnwY 7(EaR~ 6/IFT
+d -YnwZ 7(Ea0p 6/I>@
+d -YnwT 7(E`^% 6/IE<
+w "UTRy building#yes
+d 2JCYt 7(E_m{ 6/I2{
+d 2JCYl 7(E`<N 6/I*&
+d 2JCYw 7(Ea(; 6/I;G
+d 2JCY{ 7(E`S_ 6/IC&
+d 2JCYt 7(E_m{ 6/I2{
+w vDL1 building#yes
+d +n^1) 6fM"@ 6/H[b
+d +n^1, 7(Ea[J 6/Hf>
+d +n^10 7(EbKP 6/HT[
+d +n^13 7(Eb0` 6/HM_
+d +n^1) 6fM"@ 6/H[b
+w C.`i amenity#theatre building#yes name#Göteborgs_konserthus
+d $~"T\ 7(E^7/ 6/HW+
+d $~"T] 5'y|w 6/Hcg
+d $~"T^ 7(E^N6 6/Hgi
+d $~"T_ 7(E]xt 6/H[-
+d $~"T\ 7(E^7/ 6/HW+
+w "(sM* building#yes
+d -XR^` 7(E]l: 6/IK]
+d -XR]V 7(E][1 6/IL|
+d -XR^W 7(E]WY 6/IKD
+d -XR^7 7(E]hb 6/IJ$
+d -XR^` 7(E]l: 6/IK]
+w `;{s building#yes
+d )U#z& 7(E]Tu 6/Hl%
+d )U#z- 7(E]M? 6/Hj+
+d 1c?&` 6fL]e 6/Hj9
+d 1c?'= 7(E]K] 6/Hj+
+d 1c?&v 7(E]Fo 6/Hjh
+d 1c?'+ 7(E]GE 6/Hjv
+d )U#z3 7(E]A\ 6/Hkb
+d )U#z> 6fL]I 6/Hm]
+d )U#z& 7(E]Tu 6/Hl%
+w C.a3 building#yes name#Konsthallen tourism#museum
+d $~"Vb 7(E^Cu 6/Hi2
+d $~"Vc 7(E^"V 6/Hmy
+d $~"Vd 7(E]k& 6/Hh`
+d $~"Ve 7(E]u} 5"JW"
+d $~"Vf 7(E^"b 6/Hif
+d $~"Vg 7(E^9+ 6/HfS
+d $~"Vb 7(E^Cu 6/Hi2
+w "UTRx building#yes
+d 2JCYc 7(E_f$ 6/I58
+d 2JCYx 7(E_:n 6/I>'
+d 2JCYr 7(E_K3 6/IAl
+d 2JCYe 7(E_OL 6/I@i
+d 2JCYb 7(E_}n 6/IKp
+d 2JCYf 7(E_wm 6/ILv
+d 2JCYn 7(E`'o 6/IP@
+d 2JCYi 7(E`mt 5"J]z
+d 2JCYc 7(E_f$ 6/I58
+w C/^& area#yes highway#pedestrian
+d $~-FT 7(E`*` 5"JW7
+d $~-FV 7(E`!| 6/Hj]
+d $~-oM 7(E_ts 5"JW+
+d $6m1s 7(E_~b 6/HfY
+d $~-FW 6fLvF 6/HeH
+d $~-FY 7(E`4L 6/Hh)
+d $~-F[ 7(E`8G 6/Hgi
+d $~-F] 7(E`>N 6/Hgn
+d $~-F_ 7(E`D) 6/HhU
+d $~-Fa 7(E`G1 6/Hi\
+d $~-Fc 7(E`GN 6/Hjl
+d $~-Fd 7(E`Dt 6/Hk_
+d $~-Ff 7(E`L0 6/Hm%
+d $~-Fh 7(E`$@ 6/Hu"
+d $~-Fj 7(E_z@ 6/HsX
+d $~-Fl 7(E`>N 6/HmG
+d $~-FT 7(E`*` 5"JW7
+w e9*4 amenity#parking fee#yes name#Heden parking#surface
+d *(_$o 7(Eb.T 6/Hk-
+d *(_$] 7(Eb!Z 6/Hm!
+d 1e0NB 7(EbY; 6/HzI
+d 1e0NO 7(EbUQ 6/Hz|
+d *(_$7 7(Ec3= 6/I+E
+d *(_$r 7(EcD! 6/I({
+d *(_$o 7(Eb.T 6/Hk-

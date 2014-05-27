@@ -1,0 +1,12 @@
+n #8\Hx 7(E{\@ 6/NG[ highway#turning_circle
+n $0T*" 5'z;K 5"K2% amenity#fuel contact:phone#070-4501815 name#Preem_-_Göteborg,Torpa
+n (%I(@ 7(E|M% 6/N(t addr:housenumber#4 addr:postcode#416_73 addr:street#Torpavallsgatan name#Systembolaget shop#alcohol website#http://www.systembolaget.se/Butik--Ombud/Butikssida/?vendorId=1409
+n *>t$/ 7(E}/I 6/Ni` highway#bus_stop name#Kaggeledsgatan
+n 1BRzz 7(ExSb 6/N<, name#Ättehögsgatan railway#tram_stop
+n 1BR{1 7(Evdp 6/N!} name#Munkebäckstorget railway#tram_stop
+n 1BR{2 7(E{~q 6/Npd name#Kaggeledstorget railway#tram_stop
+n 1BR{@ 7(ExeZ 6/N>0 name#Ättehögsgatan railway#tram_stop
+n 1BR{G 7(Ev~` 6/N&d name#Munkebäckstorget railway#tram_stop
+n 1BR{M 6fO`V 6/Nlz name#Kaggeledstorget railway#tram_stop
+n 22H'- 7(E{nB 6/Mv0 highway#traffic_signals
+n 5,DB! 7(Eyz) 6/Nfg highway#turning_circle

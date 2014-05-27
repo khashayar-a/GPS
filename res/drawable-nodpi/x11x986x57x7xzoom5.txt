@@ -1,0 +1,30 @@
+n j2L~ 6fM*R 6/IQL highway#traffic_signals
+n j2M" 7(EfkO 6/IFQ bicycle#yes crossing#controlled highway#crossing
+n j2M+ 7(Eg)% 6/IF= highway#traffic_signals
+n j2M- 7(Ej78 6/IE2 highway#traffic_signals
+n j@X" 7(EdR0 6/J.] amenity#post_box
+n j@XW 6fM+b 6/J"= name#Vallhalla sport#swimming wheelchair#yes
+n $o9m0 7(EbF\ 6/IW' amenity#school name#Burgårdens_Gymnasium
+n %#X\S 7(Ej&T 6/IE< highway#traffic_signals
+n '%I3R 7(Eb1| 6/IPe bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n ';`sE 7(E``* 6/J)9 building#entrance name#2
+n (E@IA 7(Ed-D 6/JFU amenity#parking
+n (Xfq7 7(Eb0G 6/ILk bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n )VLa= 7(EbEN 6/IP# highway#bus_stop name#Scandinavium
+n +<nWM 6fM7P 6/J3s amenity#bicycle_rental capacity#20 name#Åvägen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#31
+n +<nWb 7(Eb8{ 6/Ic4 amenity#bicycle_rental capacity#30 name#Scandinavium network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#25
+n ,tBO" 7(E_Pt 6/J+c building#entrance
+n ,tBO` 7(E^~6 6/Ib> building#entrance name#Huvudentré
+n 1d]6V 7(Eg6F 6/IF> bicycle#yes crossing#controlled highway#crossing
+n 1d]6t 7(Eb?g 6/I|J traffic_calming#hump
+n 1d]6v 7(Eb{A 5"J]\ crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]6x 7(Ed+5 6/IL@ bicycle#yes crossing#uncontrolled highway#crossing
+n 1d]77 7(Eb#[ 6/IT6 bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]7e 7(Eaut 6/ITP bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]8/ 7(Ec'1 5"J]| crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]8K 7(Efz( 6/IHX bicycle#yes crossing#controlled highway#crossing
+n 1d]8Y 7(Eg)y 6/IHB bicycle#yes crossing#controlled highway#crossing
+n 2Z'}( 7(Ej.| 6/IE7 highway#traffic_signals
+n 3]dA] 7(EfwK 6/IFB highway#traffic_signals
+n 3gT*{ 6fM@z 6/IKS highway#traffic_signals
+n 3gT*| 7(Ed<_ 6/IKn highway#traffic_signals

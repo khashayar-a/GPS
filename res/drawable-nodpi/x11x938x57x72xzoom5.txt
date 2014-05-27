@@ -1,0 +1,52 @@
+w "i_=p name#Vågmästareplatsen_Läge_C public_transport#platform
+d 4JK|y 7(EyWm 6/Dco
+d 4JK|v 7(EyWW 6/Dh(
+w [g&= layer#1 name#Vågmästareplatsen_Läge_A public_transport#platform
+d (xF.Y 7(Ey9G 5"J30
+d (xF.Z 7(Ey83 6/DrT
+d (xF.[ 7(Ey8l 6/Dn?
+w "i_=q name#Vågmästareplatsen_Läge_H public_transport#platform
+d 4JK|j 7(Ex{+ 6/DnR
+d 4JK|m 7(Ex~7 6/Dl"
+w [g&> layer#1 name#Vågmästareplatsen_Läge_B public_transport#platform
+d (xF.\ 7(Ey@, 6/Dn?
+d (xF.] 7(Ey@e 6/Drj
+d (xF.^ 7(Ey@e 6/Dxd
+n @@;E 7(ExvL 6/C]K highway#traffic_signals
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n E@SD 7(EyQQ 6/Dsu highway#traffic_signals
+n Ec=@ 7(Ey&T 6/Dsb highway#traffic_signals
+n "77NA 7(Ey=~ 6/Ds# name#Vågmästareplatsen_Läge_B public_transport#stop_position tram#yes
+n "="T) 6fOY( 5"J'9 highway#traffic_signals
+n "="V` 7(Ez|D 6/CaG highway#traffic_signals
+n "`;Wb 7(EzaB 6/Dt\ highway#traffic_signals
+n $(D<s 6fOI> 6/Cgm railway#crossing
+n $`ZP' 7(ExJ+ 6/Dph highway#crossing
+n $hZQj 7(Eyg| 6/DlU amenity#fast_food name#Kebab_Burger
+n $hZRh 7(Exkh 6/Dxk amenity#police name#Vågmästareplatsen
+n $ioG# 7(Ez|: 6/Cc@ highway#crossing
+n %:`FC 7(E|aa 6/Ce@ barrier#kissing_gate bicycle#yes foot#yes
+n &<l)^ 7(Ey/P 6/D)@ amenity#recycling
+n &<opC 7(Exlm 6/DiK amenity#recycling
+n (sN$4 7(EyQ{ 6/Dd} bus#yes local_ref#C name#Vågmästareplatsen_Läge_C public_transport#stop_position
+n (xF._ 7(Ey>A 6/Dn> railway#crossing
+n )55[p 7(ExB& 6/EkJ highway#crossing
+n )B)K> 7(Eq1# 6/DcH highway#traffic_signals
+n ,y|q$ 7(Ey3( 6/D;t amenity#hospital name#Brämaregårdens_Vårdcentral
+n ..63- 7(ExI$ 5"J;9 highway#crossing
+n .0Nee 7(E}3E 6/Dv& highway#traffic_signals
+n .0Ng& 6fOlV 6/Dx? highway#traffic_signals
+n .0NgI 7(E|oL 6/Dup highway#traffic_signals
+n /.g./ 7(E{P` 6/DR# amenity#cafe name#Galerija
+n /.g.3 7(E{R% 6/D]G amenity#parking
+n /.g.6 7(E|'7 6/D^: amenity#parking
+n /.g.= 7(Ey`@ 6/D^r amenity#cafe name#Cream_cafe
+n /~0dA 7(EyxY 6/Do2 amenity#telephone
+n 1u%V# 7(Ex}v 6/Dn3 bus#yes local_ref#H name#Vågmästareplatsen_Läge_H public_transport#stop_position
+n 4J'3h 7(Ey:8 6/Ds? name#Vågmästareplatsen_Läge_A public_transport#stop_position tram#yes
+n 4J'3l 7(Ey:p 6/Dn? railway#crossing
+n 4J'3y 7(Ey@Z 6/CkL name#Wieselgrensplatsen_Läge_A public_transport#stop_position tram#yes
+n 4J'3} 7(EyAh 6/E`p name#Hjalmar_Brantingsplatsen_Läge_A public_transport#stop_position tram#yes
+n 4MGz= 7(Ey?a 6/Eeq railway#crossing
+n 4X39t 6fOOw 6/Ds% highway#bus_stop name#Vågmästareplatsen_Läge_D
+n 4X39w 7(EzHE 6/Dv4 highway#bus_stop name#Vågmästareplatsen_Läge_E

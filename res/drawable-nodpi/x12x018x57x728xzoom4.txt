@@ -1,0 +1,206 @@
+w "bWxJ bicycle#designated cycleway#lane foot#yes highway#cycleway name#Artillerigatan segregated#yes
+d 1@;Xy 7(F&D: 6/M>n
+d 1@;X\ 7(F&HQ 6/M@B
+d &%6<) 7(F&]t 5"K$q
+d 1@;XS 7(F'#l 6/MPQ
+d 3`8_m 7(F'/? 6/MR[
+d 1@;Xg 7(F'9< 5"K&.
+w "bWxM foot#designated highway#footway name#Fänriksgatan
+d 3TQ5t 7(F'Cl 6/MN:
+d 3TQ5z 7(F'gX 6/MPd
+d 3TQ5u 7(F'uT 6/MQ{
+w "aJCO highway#footway name#Artillerigatan
+d 3TQ5t 7(F'Cl 6/MN:
+d 3TQ6E 7(F'Lz 6/MOh
+d 3TQ6S 7(F'Y- 6/MR*
+d 3TQ6s 7(F'gh 6/MT)
+d *>o\K 7(F'q: 6/MU(
+d 3TQ64 7(F(&1 6/MV}
+d 3TQ6> 7(F(?a 6/MY<
+d 3TQ6O 7(F(Y{ 6/M[/
+w @I5; access#no highway#service oneway#yes railway#tram
+d 1<kj% 7(F'qV 6/MZh
+d 1<kjP 7(F'sx 6/M[A
+d 1<kk= 7(F'vJ 6/M\&
+d 1<kjl 7(F'yV 6/M]7
+d 1<kio 7(F(+] 6/McN
+d 1<ki_ 7(F(-L 6/Md+
+d 1<kjI 7(F(0- 6/Mdh
+d 1<kjd 7(F(3* 6/MeA
+d 1<kk$ 7(F(6' 6/Mea
+d 1<kj? 7(F(9e 6/Me~
+d 1<kip 6fPeX 5"K'w
+d 1<kid 7(F(@I 6/Mf7
+d 1<kjO 7(F(D0 6/Mf3
+d 1<kk9 7(F(E~ 6/Mf,
+d 1<kkB 7(F(Jy 6/Mei
+d 1<O+r 7(F(Nu 6/MeD
+d 1<kjm 7(F(R@ 6/Md]
+d 1<kjo 7(F(UK 6/Mc]
+d 1<kjr 7(F(VR 6/MbU
+d 1<kib 7(F(V< 6/MaO
+d 1<kj" 7(F(T( 6/M`H
+d 1<ki| 7(F(Q$ 6/M_X
+d 1<kj! 7(F(Kc 6/M^g
+d 1<kk3 7(F(Ew 6/M^7
+d 1<kjK 7(F(+] 6/M\B
+d 1<kin 7(F("e 6/M[a
+d 1<kj_ 7(F'{" 6/M['
+d 1<kk' 7(F'wX 6/MZ^
+d 1<kiX 7(F'tp 5"K&e
+w "g>Pp access#no highway#service
+d 41Ima 7(F$]r 6/Mux
+d 41IlS 7(F$R< 6/N%q
+d 41Im] 7(F$6r 6/N.Q
+w "g>Pn access#no highway#service
+d 41Ilf 7(F#Lz 6/M<r
+d 41In3 7(F#N7 6/M>t
+d 41InW 7(F#N9 6/M@/
+d 41Imn 7(F#N? 6/MD9
+d 41Im= 7(F#MV 6/MFt
+d 41ImI 7(F#g0 6/MWV
+d 41Il_ 7(F#Q5 6/MY&
+w "bWxR highway#footway
+d 3`8_$ 7(F&]% 6/M9=
+d 3`8_s 6fPU4 6/M:G
+d 1@;XX 7(F&Hi 6/M<(
+w "bWxC bicycle#designated cycleway#lane foot#yes highway#cycleway name#Artillerigatan segregated#yes
+d 1@;Xg 7(F'9< 5"K&.
+d &%6<* 7(F'`x 6/M^X
+d 1A7"# 6fP`d 6/MbD
+d &%6<+ 7(F'qq 6/Mde
+d 3`8`% 7(F'{& 6/Mfp
+d 1A7") 7(F(01 6/Mi2
+w "g>Px highway#service
+d 4R>B} 7(F$.\ 6/M"U
+d 41InH 7(F$M? 6/M/+
+d 41Il^ 7(F#~n 6/M3?
+w "jIyz highway#service tunnel#yes
+d 4R>C! 7(F%{? 6/M7h
+d 4R>C8 6fPPK 6/M;$
+w "jIyu highway#service
+d 4R>Bp 7(F$rW 6/M=D
+d 41InH 7(F$M? 6/M/+
+w *hWu access#no highway#service oneway#yes psv#yes
+d @hNh 7(F(X\ 6/M^W
+d 1<kkA 7(F(N\ 6/M]\
+d 1<kj| 7(F(/R 6/M[N
+d 1<kjS 7(F(,? 6/M[>
+d 1<kj\ 6fPca 5"K&o
+d 1<kih 7(F(&! 6/M[A
+d 1<kk2 7(F(!t 6/M[(
+d Lv\ 7(F'}. 5"K&j
+d 1<kjR 7(F'p% 6/MX%
+d iIfN 7(F'`| 6/MU'
+w Z4;( access#no highway#service oneway#yes psv#yes
+d 1<kj% 7(F'qV 6/MZh
+d (gF)> 7(F'sx 6/M\S
+d (gF)8 7(F("= 6/Me+
+w "g>Pz access#no highway#service
+d 41Imz 7(F#ic 6/ME/
+d 41InI 7(F#j4 6/MH:
+d 41Im; 7(F#mr 6/MKM
+d 41In: 7(F#xo 5"K%7
+d 41InJ 6fP<i 6/MI=
+d 41Ilb 7(F#u1 6/MG8
+d 41Imz 7(F#ic 6/ME/
+d 41InW 7(F#N9 6/M@/
+w "bWxD bicycle#designated cycleway#lane foot#yes highway#cycleway name#Artillerigatan segregated#yes
+d 1A7") 7(F(01 6/Mi2
+d &%6<, 7(F(Dm 6/Mk2
+d &%6<- 7(F(Gh 6/MjT
+d 1A7!~ 7(F(KW 6/Mj+
+d 1A7"5 7(F(Q) 6/Mj,
+d 1A7". 7(F(V: 6/Mj2
+d 1A7"J 7(F(Wj 6/Mi$
+d 1A7"D 7(F(X} 6/Mg}
+d &%6<0 7(F([y 6/Mfg
+w "jIyw highway#service
+d 4R>C8 6fPPK 6/M;$
+d 4R>C1 6fPQ( 6/M=E
+w "b1-D highway#footway
+d 3U7*: 6fP`K 6/MKh
+d 3\P=a 7(F']b 4.Yp
+d 3\P=y 7(F'Yl 6/MMJ
+d 3\P=; 6fP^X 6/MM=
+d 3\P=K 7(F'O` 6/ML"
+d 3\P=k 7(F'GC 6/MHp
+d 3\P== 6fP]+ 6/MG_
+w "IRJ4 access#no highway#service oneway#yes psv#yes
+d 1<kih 7(F(&! 6/M[A
+d 1<kk1 7(F("3 6/M[:
+d 1<kj_ 7(F'{" 6/M['
+w "b1-J highway#steps
+d 3\P>7 7(F'$[ 6/MDO
+d 3\P=+ 7(F&wW 6/MCZ
+w "g>Pq access#no bridge#yes highway#service
+d 41Il^ 7(F#~n 6/M3?
+d 41Iml 7(F#eZ 6/M51
+w "g>Pu access#no highway#service
+d 41Iml 7(F#eZ 6/M51
+d 41In. 7(F#P# 6/M6n
+w "jIyo highway#service
+d 4R>BC 6fPDp 6/L`S
+d 4R>B) 7(F%*Q 6/LnA
+d 4R>B= 7(F%LI 6/M!6
+d 4R>C! 7(F%{? 6/M7h
+w "b1-G highway#footway
+d 3\P=W 7(F)qy 6/M7{
+d 3\P=C 7(F)m& 6/M7{
+d 3\P=. 7(F)eJ 6/M7x
+d 3\P=: 7(F)31 6/M8B
+d 3\P>< 7(F)'g 6/M8U
+d 3\P=? 7(F)!{ 6/M9*
+d 3\P>2 7(F(o, 6/M:}
+d 3\P=A 7(F(B2 6/M?l
+d 3\P=- 7(F'|o 6/MCY
+d 3\P=S 7(F'\E 5"K$o
+d 3\P=Q 7(F'Q, 6/MGn
+d 3\P=) 7(F'I3 6/MGs
+d 3\P== 6fP]+ 6/MG_
+d 3\P=, 7(F'Bk 6/MGK
+d 3\P>0 7(F':V 6/MEq
+d 3\P=U 7(F'4; 6/MDz
+d 3\P>L 7(F'-" 6/MDV
+d 3\P>7 7(F'$[ 6/MDO
+w "aPJ[ foot#designated highway#footway name#Artillerigatan
+d 3U2yQ 7(F%:y 6/LZz
+d 3U2y` 6fPJ\ 5"J|"
+d 3TQ6% 7(F%_2 6/Ljw
+d 3TQ6a 7(F%h. 6/Lk~
+d 3TQ6- 7(F%g/ 6/Lm:
+d 3TQ6K 7(F%k3 6/LoH
+d 3TQ6c 6fPNM 6/LrL
+d 3TQ6j 7(F&&N 6/L|Y
+d 3TQ6T 7(F&U\ 6/M6(
+d 3`8_$ 7(F&]% 6/M9=
+d 3TQ6p 7(F&lV 6/M@%
+d 3\P=+ 7(F&wW 6/MCZ
+d 3TQ6& 7(F&~i 6/MEy
+d 3TQ6n 7(F'-V 6/MI>
+d 3TQ5t 7(F'Cl 6/MN:
+w "bWxN highway#footway
+d 3TQ64 7(F(&1 6/MV}
+d 3`8_X 7(F(!R 6/MYQ
+d 3`8_T 7(F()< 6/M[&
+w "bWxK highway#footway
+d &%6<* 7(F'`x 6/M^X
+d 3`8_y 7(F'kH 6/M]&
+d 3`8_S 7(F's] 6/M]v
+d 3`8_9 7(F'xQ 6/M]k
+w "cM5/ bicycle#designated cycleway#lane foot#designated highway#cycleway name#Artillerigatan segregated#yes
+d $6:_= 7(F#nH 6/L&x
+d 5,2AS 7(F#rR 6/L)*
+d 3k:(H 7(F#xB 6/L,2
+d 3k:(F 7(F$1Y 6/L6Q
+d $6:_> 7(F$Aj 6/L>M
+d $6:_? 7(F$^A 5"Jyv
+d 3U2yU 7(F$bf 6/LN*
+d 3U2yI 6fPFO 6/LZk
+d 1@;Xs 7(F%<E 6/Lh+
+d 1@;XQ 7(F%H9 6/Ll_
+d $6:_@ 7(F&@? 6/M6y
+d 3`8_5 7(F&EU 6/M:e
+d 1@;XX 7(F&Hi 6/M<(
+d 3TQ6_ 7(F&Gw 6/M=D
+d 1@;Xy 7(F&D: 6/M>n

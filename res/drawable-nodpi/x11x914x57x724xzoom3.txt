@@ -1,0 +1,70 @@
+w A|d{ leisure#pitch sport#soccer
+d $p~tZ 7(E~?P 6/A^6
+d $p~t\ 7(E~(W 6/Ak.
+d $p~t^ 7(E}9V 6/Ahd
+d $p~tb 7(E}>M 6/A\p
+d $p~tZ 7(E~?P 6/A^6
+w "OS-I leisure#park
+d $q!H^ 7(E~?$ 6/AR9
+d $q!H\ 7(E}c~ 6/APc
+d 1pLud 7(E}75 6/ATt
+d 1pLur 7(E|e} 6/AU3
+d 0XLbK 7(E}1E 6/Akj
+d $p~t^ 7(E}9V 6/Ahd
+d $p~tb 7(E}>M 6/A\p
+d $p~tZ 7(E~?P 6/A^6
+d $q!H^ 7(E~?$ 6/AR9
+w "5g05 building#yes
+d //~;y 7(E}f? 6/B6m
+d //~BY 7(E}mf 6/B6|
+d //~Jk 7(E}lZ 6/B8e
+d //~3m 7(E}e2 6/B8U
+d //~;y 7(E}f? 6/B6m
+w "5g,W building#yes
+d //~Xu 7(E}4] 6/B7K
+d //~`A 7(E}4, 6/B8{
+d //~kx 7(E}+? 6/B8q
+d //~N[ 7(E}+p 6/B7A
+d //~Xu 7(E}4] 6/B7K
+w "5g0i building#yes
+d //~z/ 7(E}=< 5"Iw0
+d /0!&% 7(E}>- 5"Iw=
+d //~0N 7(E}4& 5"Iw?
+d //~nf 6fOn# 5"Iw2
+d //~z/ 7(E}=< 5"Iw0
+w "5g4# building#yes
+d //~7@ 7(E}M? 6/B5$
+d //~E3 7(E}M? 6/B66
+d //~F: 7(E}C` 6/B66
+d //~P) 7(E}C` 6/B5$
+d //~7@ 7(E}M? 6/B5$
+w "5g2h building#yes
+d //~}7 7(E}eh 6/B6"
+d /0!(= 7(E}d2 5"Iwq
+d //~25 7(E}\z 6/B78
+d //~q| 7(E}^R 6/B5g
+d //~}7 7(E}eh 6/B6"
+w "5g+4 building#yes
+d //~9o 7(E}~d 6/B7M
+d //~Sg 7(E~&F 6/B8F
+d //~Ho 7(E~#! 6/B9-
+d //~d$ 7(E}{@ 6/B83
+d //~9o 7(E}~d 6/B7M
+w "5g-# building#yes
+d //~V! 7(E}f$ 6/B3G
+d //~U$ 7(E}r7 6/B3o
+d //~Iv 7(E}pR 6/B5U
+d //~f* 7(E}d? 6/B5-
+d //~V! 7(E}f$ 6/B3G
+w "5g2q building#yes
+d //~{\ 7(E}k~ 6/B0]
+d /0!'7 7(E}q] 6/B0g
+d //~1? 7(E}px 6/B2-
+d //~pC 7(E}k< 6/B2#
+d //~{\ 7(E}k~ 6/B0]
+w "5g+C building#yes
+d //~8X 7(E}T_ 6/B.p
+d //~bS 7(E}S% 6/B0F
+d //~GN 7(E}G0 6/B/|
+d //~Qq 7(E}Hj 6/B.G
+d //~8X 7(E}T_ 6/B.p

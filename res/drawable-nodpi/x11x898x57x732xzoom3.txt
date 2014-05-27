@@ -1,0 +1,343 @@
+w R%w( amenity#parking fee#yes parking#surface
+d %)\ON 7(F,`* 6/?X|
+d 'A&b? 7(F,no 6/?YQ
+d 'A&b4 7(F,qT 6/?V,
+d 'A&b5 7(F,lZ 6/?SE
+d 'A&b8 7(F,MN 6/?Q!
+d 'A&b9 7(F,IJ 6/?R6
+d 'T1P. 6fQ0/ 6/?SQ
+d 'A&b< 7(F,`n 6/?TP
+d 'A&b= 7(F,cA 5"I^f
+d %)\ON 7(F,`* 6/?X|
+w ".[E^ building#yes
+d .;AkC 7(F+CP 5"Ie6
+d .;A\5 7(F+Eo 6/@7T
+d .;AZP 7(F+S8 6/@83
+d .;AXD 7(F+Pw 6/@9t
+d .;AkC 7(F+CP 5"Ie6
+w S*ds addr:housenumber#11A,11B,11C,11D,13 addr:street#Bernhards_Gränd building#yes
+d 'T1Ua 5'zEh 6/?O)
+d 'T1Ue 7(F*Sa 6/?Pt
+d 'T1Uh 7(F*Qh 5"I^C
+d 'T1Uk 7(F*3' 6/?Q9
+d 'T1Um 7(F*/: 5"I^P
+d 'T1Up 7(F*%8 6/?S[
+d 'T1Ua 5'zEh 6/?O)
+w "4,9L building#yes
+d .~*GL 7(F(Qb 6/?kS
+d .~*u' 7(F(Pu 6/?m=
+d .~+!3 7(F(4< 6/?lp
+d .~*@] 7(F(5* 6/?k(
+d .~*GL 7(F(Qb 6/?kS
+w S*dD addr:street#Bymolnsgatan building#yes
+d 'T1OL 7(F+XB 6/?b<
+d 'T1OO 7(F+<z 6/?aJ
+d 'T1OR 6fQ#B 6/?fN
+d 'T1OU 7(F+D[ 6/?fq
+d 'T1OX 7(F+G< 6/?cn
+d 'T1Oa 7(F+VY 6/?d<
+d 'T1OL 7(F+XB 6/?b<
+w S*d= addr:housenumber#10,12 addr:street#Bymolnsgatan building#yes
+d 'T1N- 7(F,&^ 6/?jx
+d 'T1N6 7(F,#d 6/?lV
+d 'T1N4 7(F+s' 6/?k]
+d 'T1N1 6fQ)P 6/?j!
+d 'T1N- 7(F,&^ 6/?jx
+w ".[Eo building#yes
+d .;Ad9 7(F*tO 6/@,h
+d .;AjW 7(F*qU 6/@-m
+d .;AhY 6fP|_ 6/@,o
+d .;Af6 7(F*jT 6/@+j
+d .;Ad9 7(F*tO 6/@,h
+w ".[F# building#yes
+d .;Ae. 7(F,N[ 6/@J0
+d .;AgA 6fQ/E 6/@LN
+d .;Ai; 7(F,GT 6/@M4
+d .;Akp 7(F,CA 6/@Js
+d .;Ae. 7(F,N[ 6/@J0
+w S*dE access#private amenity#parking parking#multi-storey
+d 'T1Od 7(F+/0 6/?du
+d 'T1Of 7(F*bq 6/?f{
+d 'T1Oi 7(F*>s 6/?f~
+d 'T1Oz 7(F*>H 6/?e4
+d 'T1Om 6fPxO 6/?c0
+d 'T1Ox 6fPxo 6/?c1
+d 'T1Op 7(F*aF 6/?c6
+d 'T1Or 7(F++J 6/?aR
+d 'T1Od 7(F+/0 6/?du
+w ".[Hj building#yes
+d .;A_P 7(F+E7 6/@15
+d .;A`$ 6fQ$D 5"IdY
+d .;A^% 7(F+7M 6/@2E
+d .;A[x 7(F+9} 6/@0]
+d .;A_P 7(F+E7 6/@15
+w ".[Gf building#yes
+d .;A^` 7(F+p( 6/@;P
+d .;A_- 7(F+ql 5"Ie=
+d .;Abu 7(F,") 6/@:U
+d .;A`i 7(F+~C 6/@<(
+d .;A^` 7(F+p( 6/@;P
+w ".[G| building#yes
+d .;Aas 7(F,%} 6/@5A
+d .;Ag~ 7(F,$$ 6/@7&
+d .;Aeb 7(F+uv 6/@6V
+d .;Acd 7(F+wr 6/@4r
+d .;Aas 7(F,%} 6/@5A
+w S*dB addr:housenumber#1 addr:street#Bymolnsgatan building#yes
+d 'T1N{ 7(F,#4 6/?iC
+d 'T1N~ 7(F,.Q 6/?ik
+d 'T1O! 7(F,/F 5"I`Y
+d 'T1O$ 7(F,,l 5"I`X
+d 'T1O& 7(F,/' 5"I`D
+d 'T1O) 7(F,@Y 6/?gE
+d 'T1O- 7(F,BP 6/?eY
+d 'T1O. 7(F,(: 6/?d[
+d 'T1N{ 7(F,#4 6/?iC
+w ".[G6 building#yes
+d .;A_g 7(F+ch 6/@Cd
+d .;Ab' 7(F+p> 6/@C/
+d .;Ac} 7(F+rs 6/@E.
+d .;Aew 7(F+f? 6/@Ec
+d .;A_g 7(F+ch 6/@Cd
+w S*dl addr:housenumber#8,10,12 addr:street#Södra_Fjädermolnsgatan building#yes
+d 'T1TU 7(F*#X 6/?YZ
+d 'T1T_ 7(F)~s 5"I_>
+d 'T1T[ 7(F)52 6/?Y:
+d 'T1TX 6fPnO 6/?Vk
+d 'T1TU 7(F*#X 6/?YZ
+w S*di access#private amenity#parking parking#surface
+d 'T1Se 7(F,N3 6/?S\
+d 'T1So 6fQ._ 6/?TT
+d 'T1Sr 7(F,PF 6/?U"
+d 'T1Su 7(F,S] 6/?V$
+d 'T1Sx 7(F,SE 6/?Vv
+d 'T1Sz 7(F,Q> 5"I^t
+d 'T1T! 7(F,Kf 6/?X7
+d 'T1T$ 7(F,I" 6/?XE
+d 'T1T& 7(F,Iw 6/?YN
+d 'T1T* 7(F,QV 6/?Y>
+d 'T1T- 7(F,Vt 6/?XQ
+d 'T1T/ 7(F,YA 5"I^n
+d 'T1T3 7(F,YA 6/?Ud
+d 'T1T6 6fQ/e 6/?TY
+d 'T1Se 7(F,N3 6/?S\
+w ".[F; building#yes
+d .;Al8 7(F,F" 6/@D`
+d .;AYG 6fQ.K 6/@G2
+d .;AZ| 6fQ-< 6/@Gg
+d .;A]2 7(F,:H 6/@E6
+d .;Al8 7(F,F" 6/@D`
+w ".[FU building#yes
+d .;Ag2 7(F+4R 6/@HD
+d .;Ai4 7(F+(@ 6/@Jj
+d .;AeS 7(F*}I 5"Ifn
+d .;Agn 7(F++Z 6/@Fk
+d .;Ag2 7(F+4R 6/@HD
+w S*dk building#yes
+d 'T1TI 6fPf+ 5"I^<
+d 'T1TL 7(F),. 6/?TV
+d 'T1TO 6fPm& 6/?W"
+d 4fW^^ 7(F(s= 6/?V9
+d 4fW^X 7(F([K 6/?UC
+d 4fW^W 7(F(C` 6/?TM
+d 'T1TS 7(F(?K 6/?T>
+d 'T1TI 6fPf+ 5"I^<
+w "4,9u addr:housenumber#15 addr:street#Svartedalsgatan building#yes
+d .~*`n 6fPf? 6/@0D
+d .~*H< 7(F(CN 6/@3>
+d .~*Pp 7(F(&i 5"IdZ
+d .~*Xo 7(F('N 6/@0-
+d .~*`n 6fPf? 6/@0D
+w ",{gY building#yes
+d .*e#< 7(F,cm 6/@9n
+d .*e!% 7(F,c2 6/@;g
+d .*e"M 7(F,U& 6/@;X
+d .*e!f 7(F,Ua 5"Ie:
+d .*e#< 7(F,cm 6/@9n
+w ",{f- building#yes
+d .*d|l 7(F,bI 6/@6+
+d .*d{) 7(F,W& 6/@5z
+d .*e+V 7(F,Wg 4.MD
+d .*e&c 7(F,c, 6/@4F
+d .*d|l 7(F,bI 6/@6+
+w S*dA addr:housenumber#26,28 addr:street#Bymolnsgatan building#yes
+d 'T1Nc 7(F+/d 6/?hP
+d 'T1Ns 7(F+)& 6/?hb
+d 'T1Ni 7(F+&L 4.Lx
+d 'T1Nf 7(F+-, 6/?eC
+d 'T1Nc 7(F+/d 6/?hP
+w ".[GI building#yes
+d .;AcF 7(F,(/ 6/@=5
+d .;AiG 7(F,.G 6/@;x
+d .;AgW 7(F,8C 6/@=\
+d .;Ae? 7(F,2+ 6/@>w
+d .;AcF 7(F,(/ 6/@=5
+w ".[G. building#yes
+d .;AWy 7(F+8a 6/@6e
+d .;Afu 6fQ#. 6/@8D
+d .;Adt 7(F+,I 6/@7u
+d .;AZA 6fQ"D 6/@67
+d .;AWy 7(F+8a 6/@6e
+w ".[G& building#yes
+d .;AZ< 7(F+in 6/@G4
+d .;A[n 7(F+vD 6/@F\
+d .;Afh 7(F+xy 6/@H[
+d .;Ai" 7(F+lE 5"Ifn
+d .;AZ< 7(F+in 6/@G4
+w S*dC addr:housenumber#3A,3B,5 addr:street#Bymolnsgatan building#yes
+d 'T1O2 7(F+|* 6/?c[
+d 'T1O9 6fQ*B 6/?a9
+d 'T1O; 7(F+d5 6/?`>
+d 'T1O> 6fQ&{ 6/?gi
+d 'T1OA 6fQ(' 6/?h1
+d 'T1OC 7(F+hP 6/?g?
+d 'T1OG 7(F+eW 6/?g5
+d 'T1OI 7(F+iy 6/?b{
+d 'T1O2 7(F+|* 6/?c[
+w S*dm addr:housenumber#14,16,18 addr:street#Södra_Fjädermolnsgatan building#yes
+d 'T1Th 7(F*yR 6/?Xs
+d 'T1Tr 7(F*v_ 6/?[P
+d 'T1To 7(F*-+ 6/?Xb
+d 'T1Tk 7(F*/} 6/?V'
+d 'T1Th 7(F*yR 6/?Xs
+w S*d? addr:housenumber#18,20 addr:street#Bymolnsgatan building#yes
+d 'T1NK 6fQ&j 6/?hT
+d 'T1NU 7(F+[< 6/?jL
+d 'T1NR 7(F+K~ 6/?jZ
+d 'T1NN 7(F+KM 6/?hb
+d 'T1NK 6fQ&j 6/?hT
+w S*dr addr:housenumber#5A,5B,5C,5D,7,9A,9B addr:street#Bernhards_Gränd building#yes
+d 'T1UI 7(F*k[ 5"I]v
+d 'T1UK 7(F+8. 6/?Ol
+d 'T1UN 7(F+5V 5"I^=
+d 'T1UR 7(F*t} 6/?Pd
+d 'T1UZ 7(F*p: 6/?Te
+d 'T1U] 7(F*d? 6/?T6
+d 'T1UI 7(F*k[ 5"I]v
+w S*dn addr:housenumber#20,22,24 addr:street#Södra_Fjädermolnsgatan building#yes
+d 'T1Tu 7(F+(1 5"I^^
+d 'T1Tx 7(F+om 6/?X:
+d 'T1T{ 7(F+m3 6/?Z\
+d 'T1T| 7(F+%V 6/?Wp
+d 'T1Tu 7(F+(1 5"I^^
+w S*dp addr:housenumber#2 addr:street#Norra_Fjädermolnsgatan building#yes
+d 'T1U! 7(F,CK 6/?T_
+d 'T1U$ 7(F,>; 6/?Xp
+d 'T1U% 7(F,30 5"I^z
+d 'T1U) 7(F,5P 6/?VE
+d 'T1U2 7(F,#U 6/?Ur
+d 'T1U4 6fQ*r 6/?SE
+d 'T1U! 7(F,CK 6/?T_
+w ".[Ez building#yes
+d .;Ai8 7(F+X; 6/@:K
+d .;AZ_ 7(F+\1 6/@8K
+d .;AXf 7(F+jK 6/@9H
+d .;Aki 7(F+fU 6/@;I
+d .;Ai8 7(F+X; 6/@:K
+w S*d@ addr:housenumber#22,24 addr:street#Bymolnsgatan building#yes
+d 'T1NW 7(F+EP 6/?hb
+d 'T1Na 7(F+F4 5"I`i
+d 'T1N] 7(F+6j 6/?jq
+d 'T1N[ 6fQ#+ 6/?ht
+d 'T1NW 7(F+EP 6/?hb
+w S*d; addr:housenumber#2,4 addr:street#Bymolnsgatan building#yes
+d 'T1Mq 7(F,Ne 6/?ik
+d 'T1M~ 7(F,S@ 6/?k5
+d 'T1M{ 7(F,EX 6/?li
+d 'T1Mt 7(F,@} 6/?kA
+d 'T1Mq 7(F,Ne 6/?ik
+w S*d< addr:housenumber#6,8 addr:street#Bymolnsgatan building#yes
+d 'T1N" 7(F,<& 5"I`s
+d 'T1N* 7(F,:N 6/?mH
+d 'T1N( 7(F,*k 6/?lw
+d 'T1N$ 7(F,,C 6/?k5
+d 'T1N" 7(F,<& 5"I`s
+w ".[G+ building#yes
+d .;A`> 7(F+65 6/@@h
+d .;AZY 7(F+69 6/@>D
+d .;AX_ 7(F+PW 6/@>F
+d .;Ak^ 7(F+PS 6/@@j
+d .;A`> 7(F+65 6/@@h
+w S*e' area#yes highway#pedestrian
+d 'T1WM 7(F,2d 6/?W"
+d 'T1WO 6fQ+d 6/?Z4
+d 'T1WS 7(F+y1 6/?[p
+d 'T1WT 7(F+oZ 6/?[F
+d 'T1WX 7(F+xR 6/?R>
+d 'T1W\ 7(F,#t 6/?Rd
+d 'T1Wc 7(F+}a 6/?VN
+d 'T1WM 7(F,2d 6/?W"
+w ".[GD building#yes
+d .;A^R 7(F+PB 6/@Bv
+d .;A`b 7(F+T% 6/@E=
+d .;Abk 7(F+Ky 6/@Ef
+d .;Adi 6fQ$x 6/@CB
+d .;A^R 7(F+PB 6/@Bv
+w S*dq addr:housenumber#1A,1B,1C,1D,3 addr:street#Bernhards_Gränd building#yes
+d 'T1U6 7(F+KC 5"I^"
+d 32\{l 7(F+d3 6/?P&
+d 'T1Vh 7(F+cA 6/?Pp
+d 'T1U9 7(F+t! 6/?QM
+d 'T1U= 7(F+r+ 6/?S7
+d 32\{j 7(F+_Y 6/?RS
+d 32\{k 7(F+`L 6/?Qf
+d 'T1U@ 7(F+Sp 6/?Q:
+d 'T1UB 7(F+Ph 6/?T,
+d 'T1UF 7(F+FE 6/?Sf
+d 'T1U6 7(F+KC 5"I^"
+w ".[Ey building#yes
+d .;AY# 7(F,?R 6/@@<
+d .;Ac\ 7(F,D; 6/@B|
+d .;AeY 7(F,9u 6/@C[
+d .;Ags 7(F,5- 6/@@y
+d .;AY# 7(F,?R 6/@@<
+w ".[FJ building#yes
+d .;Al> 7(F+o5 6/@4<
+d .;Af# 7(F+m6 6/@6;
+d .;A[) 7(F+_D 6/@5k
+d .;AYT 6fQ'J 5"Ida
+d .;Al> 7(F+o5 6/@4<
+w ".[GF building#yes
+d .;Ab^ 7(F*tx 5"Id7
+d .;AdW 6fP~M 6/@-e
+d .;AfR 7(F+!. 6/@.<
+d .;Ahn 7(F*zD 6/@/v
+d .;Ab^ 7(F*tx 5"Id7
+w S*dZ amenity#parking parking#surface
+d 'T1Rh 7(F+5n 6/?^h
+d 'T1Rj 7(F+1b 6/?\>
+d 'T1Rm 7(F+$7 6/?\|
+d 'T1Ro 7(F+'i 6/?^j
+d 'T1Rh 7(F+5n 6/?^h
+w ".[Gw building#yes
+d .;Aj6 7(F+_\ 6/@@[
+d .;AlL 7(F+l2 5"Iev
+d .;AYj 7(F+ng 6/@B$
+d .;A[> 7(F+b3 6/@BZ
+d .;Aj6 7(F+_\ 6/@@[
+w S*dx amenity#parking
+d 'T1V) 7(F(bH 6/?X#
+d 'T1V, 7(F(_P 6/?[3
+d 'T1V. 7(F(fD 5"I_8
+d 'T1V2 7(F(dd 6/?]&
+d 'T1V5 7(F)%= 6/?^$
+d 'T1V7 7(F))\ 6/?Y2
+d 'T1V) 7(F(bH 6/?X#
+w S*d> addr:housenumber#14,16 addr:street#Bymolnsgatan building#yes
+d 'T1N: 7(F+qY 6/?iX
+d 'T1NI 7(F+ow 6/?kF
+d 'T1NF 7(F+a! 6/?jv
+d 'T1N= 7(F+ba 6/?i+
+d 'T1N: 7(F+qY 6/?iX
+w ".[F% building#yes
+d .;AjB 7(F+[f 6/@37
+d .;A[I 7(F+XC 6/@5(
+d .;AYv 7(F+JQ 6/@42
+d .;AlV 7(F+Mt 6/@2A
+d .;AjB 7(F+[f 6/@37
+w ".[Et building#yes
+d .;A\q 7(F+VY 6/@FY
+d .;A^u 7(F+[H 6/@Iu
+d .;Aa! 7(F+Ot 6/@JO
+d .;Ac. 7(F+K' 6/@G3
+d .;A\q 7(F+VY 6/@FY

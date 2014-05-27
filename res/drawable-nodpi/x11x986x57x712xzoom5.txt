@@ -1,0 +1,87 @@
+n j>-! 6fN&( 6/HOK highway#traffic_signals
+n j>lC 7(Er4w 6/Ite castle_type#defensive historic#castle name#Skansen_Lejonet wikipedia:se#http://sv.wikipedia.org/wiki/Skansen_Lejonet
+n j>lK 7(Eo_0 6/I{O amenity#post_box
+n j>mI 7(EpAY 6/J@w amenity#post_box
+n $QC}# 7(EsrO 6/J?2 highway#motorway_junction name#Olskroksmotet ref#74a
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %-A55 6fN/( 6/HTU railway#switch
+n %/mU? 7(ErxL 6/IqU railway#switch
+n &O":q 6fNeW 5"Jf< highway#motorway_junction name#Olskroksmotet ref#74b
+n (sN$6 7(EpS[ 6/I}C highway#bus_stop name#Svingeln
+n (sN$7 7(Eof\ 6/I|Q highway#bus_stop name#Svingeln
+n (xEiA 7(EmXq 6/Hyn railway#railway_crossing
+n .OZp" 6fNfi 6/It( highway#turning_circle
+n 0,5Vb 7(Er./ 6/IIF railway#switch
+n 0,8]| 7(Erfv 6/Ij> railway#switch
+n 0,8^% 7(Ere! 6/Iev railway#switch
+n 0,8^, 7(ErcO 6/Ids railway#switch
+n 0,8^` 7(Eql2 6/I^G railway#switch
+n 0,8^a 7(Eo>s 6/HD[ railway#switch
+n 0,8^c 7(Eq0T 6/IY4 railway#switch
+n 0,8^o 7(Er&C 6/Ib3 railway#railway_crossing
+n 0,8^q 7(Eo;, 5"JS9 railway#switch
+n 0,8^t 5'z1I 6/Ic) railway#switch
+n 0,8^w 7(EoAi 6/HC{ railway#switch
+n 0,8_& 6fNa0 6/I_Q railway#switch
+n 0,8_* 7(Eo5y 6/H=S railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0?W^> 7(Es}; 6/JJ8 railway#switch
+n 0CgoD 7(EpG| 6/IZ< railway#switch
+n 0CgoQ 7(ErwZ 5"Je+ railway#switch
+n 0CgoV 6fNVc 6/IiZ railway#switch
+n 0Cgoh 7(EptI 6/Io0 railway#switch
+n 0Cgox 7(EpY^ 6/Ie3 railway#switch
+n 0Cgp6 6fN?w 6/I9` railway#railway_crossing
+n 0Cgp; 7(Eqbc 6/J"[ railway#switch
+n 0CgpO 7(Eri* 6/J4` railway#switch
+n 0CgpS 7(Es&( 6/J8! railway#switch
+n 0Cgp| 6fNl. 6/J5x railway#switch
+n 0Cgp} 7(EsXW 6/JD- railway#switch
+n 0Cgq8 7(Eqb5 6/J!U railway#switch
+n 0Cgq; 7(EpR$ 6/Ie{ railway#switch
+n 0CgqB 7(EpQ1 6/Ifl railway#switch
+n 0CgqW 7(Epb$ 6/Ij' railway#switch
+n 0Cgq^ 7(EqN{ 6/I{{ railway#switch
+n 0Cgql 7(Es;K 6/J;K railway#switch
+n 0Cgr! 7(Er%5 6/J'" railway#switch
+n 0CgrG 7(Ep|R 5"JaJ railway#switch
+n 0ChF} 7(Ep73 6/IhX railway#switch
+n 0ChG) 7(En#h 6/I1V railway#switch
+n 0ChG- 7(En,W 5"J[a railway#switch
+n 0ChGT 7(EnAx 6/I?G railway#railway_crossing
+n 0CjB! 7(Em^8 6/HdF railway#switch
+n 0CjBr 7(Em~* 6/I$" railway#switch
+n 0Cj\B 7(Emst 6/Hzn railway#switch
+n 0CjfP 7(Er"m 6/J*) railway#switch
+n 0CjfQ 7(ErGB 5"Jd3 railway#switch
+n 0CkBF 7(Emt3 6/I2+ railway#railway_crossing
+n 0CkCC 7(En!M 6/I9^ railway#switch
+n 0CkCO 7(Emj- 6/I+' railway#railway_crossing
+n 0CkCn 7(En1W 6/I<C railway#switch
+n 0EC=w 7(En/2 6/I.< railway#switch
+n 0EC>$ 7(EmV_ 6/HQ\ railway#switch
+n 0EEYH 7(Emw~ 5"JZ\ railway#railway_crossing
+n 0EGq? 6fN>% 6/I0` railway#railway_crossing
+n 0EGqE 7(EmU~ 6/H{$ railway#switch
+n 0ELOV 6fN;# 6/H{. railway#switch
+n 0ELOd 7(Em[y 6/Hp3 railway#railway_crossing
+n 0ELOg 7(Emfc 6/Hqu railway#switch
+n 0ELP) 7(En$H 6/I4! railway#railway_crossing
+n 0ELP7 7(EmuH 6/I%L railway#switch
+n 0EN=, 7(Em5Y 6/Hm@ railway#railway_crossing
+n 0EN=: 7(El}] 6/Hd+ railway#railway_crossing
+n 0EN=C 7(EmE} 6/Ht0 railway#railway_crossing
+n 0EN=L 7(EmaO 5"JY_ railway#railway_crossing
+n 1<[^p 7(EpSG 6/It; railway#switch
+n 1<\7' 7(Epg: 6/Iwz railway#railway_crossing
+n 1<\7@ 7(EpU! 6/Ise railway#switch
+n 2%rn3 6fNF. 6/Ixo bench#yes name#Svingeln railway#tram_stop shelter#yes
+n 2%rn4 7(Eo1) 6/Iz> bench#yes name#Svingeln railway#tram_stop shelter#yes
+n 4+)Vn 7(Ere4 6/IN> railway#buffer_stop
+n 4+)Vq 7(Erhg 6/IMp railway#buffer_stop
+n 4+)Vr 7(Ermx 6/IHJ railway#buffer_stop
+n 43#fV 7(Ep^> 6/I{I amenity#parking
+n 52pE: 7(Et*K 6/J7@ railway#level_crossing
+n 5fNTl 7(EpG$ 6/J1# name#Pedalkraft shop#bicycle

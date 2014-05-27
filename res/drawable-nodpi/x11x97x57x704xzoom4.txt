@@ -1,0 +1,610 @@
+w "jZ2t highway#footway
+d 4ta)L 7(Ei~c 6/GUg
+d (7h[E 7(Ej#7 6/GUY
+d #(m5Q 7(Ej0\ 6/G^8
+d 4ta)O 6fMxg 6/Gi6
+d (7h[G 7(Ej?x 6/Gi8
+w "N3|s highway#footway
+d 1e*%z 7(Eiuu 6/HLc
+d 1e*&% 7(Eisc 6/HL2
+d 1e*&y 7(EiqL 6/HK`
+d 1e*&P 7(Eio& 6/HKN
+d 1e*&_ 7(EimH 6/HJ^
+d 1e*&j 7(EijG 6/HJ)
+d 1e*&< 7(Eie; 6/HJa
+w "J?.2 access#no highway#service lanes#1 oneway#yes psv#yes railway#tram
+d 1C,k# 7(Ej_6 6/G~<
+d 1C,k( 7(Ej_/ 6/H!V
+d 1C,k. 7(Ej]j 6/H$}
+d 1C,k) 7(Ej\( 6/H(x
+d 1C*_h 7(Ej[V 6/H*.
+d 1C*^q 7(EjXJ 6/H1D
+d 1C*]M 7(EjX) 6/H2p
+d 1B|:Y 7(EjWb 6/H4h
+w &bLC highway#footway
+d E=RS 6fM`: 6/H<b
+d E=R] 7(EgZH 6/H>E
+d E=R\ 7(EgQ6 6/H=~
+d 1e*%q 7(EgGX 6/H<S
+d E=R^ 7(Eg@7 6/H:X
+d E=R[ 7(Eg;O 6/H8L
+d E=RW 7(EgJB 6/H6o
+d E=RV 7(EgZn 6/H6"
+d E=RU 7(Egc> 6/H7w
+w D.Pz bicycle#designated foot#designated highway#cycleway segregated#yes
+d %+Lh0 7(Ei}e 6/HWy
+d %+Lh1 7(Ei}{ 5"JV'
+d 2[ZPP 7(Ei}c 6/H_g
+d %+Lh2 7(Ei}F 6/Hat
+d %+Lh4 7(Ej$N 6/Hdm
+d 1d]8O 7(Ej&] 6/Hy"
+d )2Ls, 7(Ej&~ 6/I,T
+d %+Lh5 7(Eiyj 6/I5[
+d %+Lh6 7(EixN 6/I:T
+d %+Lh7 7(EiwX 6/I;`
+w +1JP highway#footway
+d (F1if 7(EgPf 6/H+m
+d (F1ig 7(Eg^Q 6/H+P
+d (F1ih 7(Egg_ 6/H*8
+d (F1i- 7(Ego3 6/H(G
+d (F1ii 6fMb7 6/H&c
+d (F1ij 7(Eh)} 6/H&c
+d (F1ik 7(Eh7F 6/H'p
+d E=Rj 7(EhGr 6/H(~
+d E=Ri 7(EhU` 6/H*y
+d E=Rh 6fMhR 5"JQ,
+d (F1il 7(Eh`9 6/H.x
+d (F1im 7(EhdR 6/H1?
+d (F1in 7(Ehk6 6/H2w
+d (F1io 6fMju 6/H4|
+d (F1ip 6fMk1 6/H71
+d (F1iq 7(Ehy9 6/H8q
+d E=Ra 7(Ei!o 6/H;=
+w W`"` highway#footway
+d (F1hd 7(Ei;} 6/H?,
+d (F1he 7(EiIz 6/HCV
+w "J?.0 access#no highway#service lanes#1 oneway#yes psv#yes railway#tram
+d 1C,k& 7(EjZ, 6/G~&
+d 1C,j| 7(EjYm 6/H!/
+d 1C,k- 7(EjWm 6/H&"
+d $\#mf 7(EjW9 6/H(Z
+d 1C*[3 7(EjVw 6/H*!
+d 1C*\Q 7(EjW' 6/H,t
+d 1C*_2 7(EjW. 5"JQJ
+d 1C*^X 7(EjWD 6/H2/
+d 1B|:Y 7(EjWb 6/H4h
+w "mn-? access#no bridge#yes highway#service lanes#1 layer#1 oneway#yes psv#yes railway#tram
+d 1C,jz 7(EjP? 6/Gt^
+d 1C*]4 7(EjMp 6/Gt8
+d 1C*_E 7(EjIt 6/Gsb
+d 1C*^' 7(EjEJ 6/GsB
+w *aAr access#no highway#service lanes#1 oneway#yes psv#yes railway#tram
+d 1B|9b 7(Ej[@ 6/H8x
+d 1C*[} 7(Ej\* 5"JR1
+d 1C*\p 7(Ej]8 6/H4|
+d 1C*_x 6fM{o 6/H2w
+d 1C*\! 7(Ej`K 6/H1^
+d 1C*_" 6fM|% 6/H/~
+d 1C*_* 6fM|2 6/H-v
+d 1C*\/ 7(Ejdk 6/H*\
+d 1C,k* 7(Ejgi 6/H%J
+d 1C,k$ 7(Ejh` 6/H"z
+d 1C,k' 7(EjhY 6/H!Q
+d 1C,k, 7(Ejga 6/G~-
+d 1C,k! 7(EjfO 5"JOl
+d 1C*[: 7(Ejd2 5"JO[
+w "J?fv access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C3l^ 7(Eiv] 6/Go^
+d 1C3l{ 7(Eiyb 6/Gp[
+d 1C3m* 7(Ei|| 6/Gq<
+d 1C3m" 6fMum 6/Gqj
+d 1C3lT 7(Ej(, 6/Gr4
+d 1C3l? 7(Ej.g 6/GrY
+d 1C3l: 7(Ej7| 6/Gs-
+d 6#M#p 7(Ej:K 6/Gs;
+d 1C*_Z 6fMx{ 6/Gsh
+w "J>{% access#no highway#service lanes#2 oneway#yes psv#yes railway#tram
+d 1C*[: 7(Ejd2 5"JO[
+d 1C*\B 7(Ejc+ 6/GzN
+w &bLI highway#footway
+d E=R] 7(EgZH 6/H>E
+d E=Rp 7(EgYo 6/H?<
+d (F1j# 7(EgRx 6/HB`
+d E=Rq 7(EgG% 6/HFP
+w W`"d highway#footway
+d E=Rb 7(EhwG 6/H>o
+d (F1hr 7(Ehm* 6/H@4
+d (F1hs 7(Ehg$ 6/HB!
+d (F1ht 7(Eh`{ 6/HDA
+d (F1hv 7(Ehk( 6/HE|
+w "N3|z highway#footway
+d 1e*&' 7(Eio_ 5"JTP
+d 1e*&f 7(Eip* 6/HMI
+d 1e*&: 7(Eit4 6/HLn
+d 1e*%z 7(Eiuu 6/HLc
+d 1e*&p 7(EixH 6/HLN
+d 1e*&E 7(Eiz_ 6/HKl
+d 1e*&( 7(Ei|. 6/HJd
+d 1e*&~ 7(Eizn 5"JT)
+d 1e*&S 7(EiwD 6/HIO
+d 1e*&1 7(Eiss 6/HIa
+d 1e*%o 7(Eiq\ 6/HJ?
+d 1e*&_ 7(EimH 6/HJ^
+w W`"\ highway#footway
+d E=S$ 7(Ei$m 6/HJo
+d (F1hW 7(Eh~, 6/HIk
+d E=Ru 7(Ei/U 6/HGV
+w "J?fl access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C3lj 7(Ej.K 6/Gr!
+d 1C3lE 7(Ej(% 6/GqU
+d 1C3l\ 7(Ej#i 6/Gq,
+d 1C3lg 7(Ei~A 6/GpV
+d 1C3l% 7(Eiz~ 6/Goj
+d 1C3lx 7(Eixx 6/Gnz
+d 1C3lV 7(Eiu, 6/Gl}
+d 1C3m7 7(EieV 6/Gb~
+d 4T.(0 7(EicD 6/Ga_
+d 1C6jO 7(EiK^ 6/GS-
+w "J=JQ access#no highway#service lanes#1 oneway#yes railway#tram
+d 1B|9? 7(Ej\6 6/HK%
+d 1B|;) 7(Ej\* 6/HI^
+d 1B|:( 6fM{N 6/HD"
+d 1B|:f 7(Ej[j 6/HB|
+w "E>NH bicycle#yes cycleway#segregated highway#cycleway oneway#yes
+d '%I3y 7(Eg^8 5"JT{
+d 1e*&" 7(EgG0 5"JU=
+d 1e*&K 6fM\J 6/HVq
+d 1e*&- 7(Eg1M 6/HX}
+d 1e*&w 7(Eg.Y 6/HYd
+d 1d]8S 7(Ef~$ 5"JUu
+d )3+?j 7(EfyJ 6/H\q
+d 1d]86 7(EfpO 6/H^k
+d )3+?e 7(EePc 6/HpV
+d +n^-9 7(Ed@l 6/I"[
+d 0vR;D 7(Ec|; 6/I&Y
+d '%I3j 7(Ec@1 6/I/2
+d 0vR?9 7(Ec1: 6/I1y
+d 0vR>6 7(EavB 6/ICH
+d 0vR:y 7(EapG 6/ID?
+d 0vR== 7(Eai; 6/IC_
+d 1d]7l 7(EaEj 6/I;.
+d *<[$t 7(Ea@H 6/I:,
+d *<[$e 7(E`nh 6/I.m
+d *<[$O 6fLyg 6/I&'
+d *<[$! 7(E`FN 6/I$)
+d *<[#_ 7(E`>R 6/I"F
+d 'MNs4 7(E`;D 6/I!p
+d 'MNs3 7(E_vn 6/Hwt
+d *<[%_ 7(E_rr 6/Hvv
+d *<[&G 7(E_m8 6/Hu]
+d *<[&D 7(E_H" 6/Hm&
+d 4y~ai 7(E_7s 6/Hh|
+d *<[%R 7(E_.9 6/HfS
+d *<[%B 7(E_%+ 6/Hd4
+d 4y~b> 7(E^z% 6/Haz
+d *<[&@ 7(E^S' 6/HX4
+d *<[&= 7(E^K- 6/HVB
+d *<[&; 7(E^A6 6/HT:
+d *<[%) 6fLes 6/HS1
+d *<[&: 7(E^:R 6/HR3
+d *<[&8 7(E^.D 6/HQ&
+d *<[&4 7(E]o" 6/HNe
+d *<[&0 7(E]=< 6/HJ+
+w &bLN highway#footway
+d E=S" 7(Ei&? 6/HMf
+d E=S' 7(Ei9. 6/HP<
+d E=R{ 7(Ei9j 6/HR=
+w <[R( access#no highway#service oneway#yes psv#yes railway#tram tracks#1
+d 1B|:> 7(EjY4 6/HJt
+d 1B|:) 7(EjYm 6/HPW
+d 1B|9Z 7(EjY| 6/HTh
+d 1B~^j 7(EjZ% 5"JUa
+d 1B~^c 7(Ej[+ 6/HdC
+d 1B~^i 7(Ej\8 6/Ho/
+d 1B~^k 7(Ej]0 6/Hv;
+d 1B~^h 7(Ej]F 6/I$c
+d 1B~^e 6fM{e 6/I0!
+d 1B~^f 7(Ej^F 6/I2K
+w W`"a highway#footway
+d E=Rr 7(Ei'w 6/HBS
+d (F1hf 7(Ei.( 6/HAR
+d 1e*&h 7(Ei5e 6/H@N
+d (F1hd 7(Ei;} 6/H?,
+d (F1hi 7(EiAr 6/H=m
+w IL[e highway#service
+d %w=93 7(Eg/D 6/HLK
+d 1e*&, 7(Eg3V 6/HIv
+d %w=94 7(Eg2[ 6/HHb
+d %w=95 7(Efd[ 5"JR|
+d %w=96 7(EfLk 6/H>@
+w &-Ma highway#service name#Östra_Larmgatan oneway#yes
+d ?l0y 7(Eg04 6/Gb=
+d %#beJ 7(Eft/ 6/G\e
+w "J?.1 access#no bus#yes highway#service lanes#1 name#Norra_Hamngatan oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 1C*]I 7(EjSr 5"JNT
+d 1C3li 7(EjII 6/Gii
+d 1C3k} 7(Ej9W 6/G_b
+d 1C3lf 7(Ej)@ 6/GUa
+d 1C6jK 7(Ei}, 6/GO8
+d 1C6jQ 6fMu8 6/GNB
+w W`"i highway#footway
+d (F1i- 7(Ego3 6/H(G
+d (F1i. 7(Egc* 6/H%j
+d (F1i/ 7(EgRK 6/H&-
+d (F1i0 7(Eg9g 6/H&V
+d (F1i1 7(Eg". 6/H&N
+d (F1i2 7(Efjl 6/H'%
+d 0lypU 7(Ef`q 6/H'6
+d (F1i3 7(EfTp 6/H'P
+d (F1i4 7(EfFn 6/H&y
+d (F1i5 7(Ef82 6/H$^
+d (F1i6 7(Ef.I 6/H"9
+d (F1i7 7(Ef*0 6/G~4
+d (F1i8 7(Ee}k 6/G}F
+d E=S< 7(Eenz 6/H":
+w "iwV" access#no bus#yes highway#service lanes#1 name#Norra_Hamngatan oneway#yes psv#yes railway#tram
+d 2gfVN 7(Eiq) 6/GM.
+d 2gfVc 7(EitT 6/GMa
+d 2gcS~ 7(EivW 6/GN,
+d 1C6jS 6fMtx 6/GN[
+d 1C6jT 7(Eiz( 6/GOI
+d 1C3lB 7(Ei{Y 5"JK@
+d 1C3lR 7(Ej%D 6/GUJ
+d 1C3l7 7(Ej56 6/G_6
+d 1C3l} 7(EjII 6/Gk}
+d 1C*[5 7(EjRl 6/Gqk
+w R:l~ access#no highway#service lanes#1 name#Stampgatan oneway#yes railway#tram
+d 1B|:Y 7(EjWb 6/H4h
+d 1B|9J 7(EjXu 6/HC>
+d 1B|:> 7(EjY4 6/HJt
+w W`"_ highway#footway
+d (F1hb 7(EiW8 6/HGL
+d (F1hc 7(Ei{u 6/HB\
+d E=S+ 7(Ej#m 6/H?\
+w W`"b highway#footway
+d (F1hf 7(Ei.( 6/HAR
+d (F1hj 6fMn" 6/HC4
+d (F1hk 7(Ei9: 5"JSD
+d (F1hl 7(Ei@8 6/HBf
+d (F1he 7(EiIz 6/HCV
+d (F1hb 7(EiW8 6/HGL
+d (F1hm 7(Eic( 6/HJt
+d 1e*&< 7(Eie; 6/HJa
+d 1e*&) 7(EigM 6/HKg
+d 1e*%} 7(EigT 4.U.
+d 1e*&| 7(EifX 6/HMT
+d (F1hn 7(Eiew 6/HN%
+d (F1ho 7(Eib+ 5"JTZ
+d (F1hp 7(Ei[U 5"JTa
+d E=Ry 6fMq: 6/HP!
+w W`"c highway#footway
+d (F1hj 6fMn" 6/HC4
+d (F1hq 7(Ei.^ 6/HD7
+d E=Rt 7(Ei+F 6/HEZ
+w "WQP. access#no highway#service name#Ullevigatan oneway#yes service#emergency_access
+d 2[ZQ1 7(Ej6. 6/I9x
+d 2[ZQI 6fMwb 6/I5z
+d 2[ZQ; 7(Ej5L 6/I+7
+d 2[ZPl 7(Ej3\ 6/Ht?
+d 2[ZPn 7(Ej1z 5"JVX
+d 2[ZQ9 6fMwA 6/H_t
+d 2[ZQ> 7(Ej64 6/H\D
+d 2[ZQL 7(Ej7X 6/HZp
+d 2[ZPd 7(Ej7u 6/HYQ
+d 2[ZQH 7(Ej6' 6/HXR
+d 2[ZPz 7(Ej2O 6/HW=
+d 2[ZQD 6fMvm 6/HV%
+w &bLM highway#footway
+d E=Rq 7(EgG% 6/HFP
+d (F1it 7(EgX? 6/HJ+
+d (F1iu 7(Eg`\ 5"JT5
+d (F1iv 7(Eg{* 6/HLC
+d (F1h] 7(Eh(A 6/HM'
+d (F1iw 7(Eh+~ 5"JTS
+d (F1ix 7(Eh/' 6/HO*
+d (F1iy 7(Eh;E 6/HPg
+d (F1iz 7(EhBh 6/HQ-
+d (F1i{ 6fMgM 6/HQU
+d (F1i| 7(Eh\J 6/HQ.
+d (F1i} 7(Ehl& 6/HP:
+d E=R} 7(Eh|6 6/HP`
+d E=R| 7(Ei-> 6/HQU
+d E=R{ 7(Ei9j 6/HR=
+d E=Rz 7(EiR} 6/HQN
+w "N3|u highway#footway
+d (F1hW 7(Eh~, 6/HIk
+d 1e*&8 7(EhwD 6/HJ6
+d 1e*%y 7(Ehpl 6/HK=
+d 1e*&n 7(EhjD 6/HK{
+d (F1hy 7(Ehfw 6/HLI
+w "J>zq access#no highway#service oneway#yes psv#yes
+d 1C*[1 7(EjtH 5"JNx
+d 1C*[/ 6fM}4 6/GtP
+d 1C*\a 7(EjgL 6/GtQ
+d 1C*[j 7(EjaJ 6/Gt<
+d 1C*[V 7(Ej\s 6/Gsa
+d 1C*^3 7(EjY; 6/Grk
+d 1C*[m 7(EjWK 6/Gr1
+d 1C*]I 7(EjSr 5"JNT
+w "mn-H bicycle#yes cycleway#segregated highway#cycleway
+d 1C3lo 7(EjA2 6/GrJ
+d 1C3m9 7(Ej@8 6/Gs|
+d 1C3ly 7(Ej@0 6/Gt`
+d 1C3lv 7(Ej6v 6/Gsp
+d 1C3lX 7(Ej31 6/Gsg
+d ?l0p 7(Eiz^ 6/Gu"
+w VW<C bridge#yes highway#footway layer#1 name#Palacehusets_personalbro
+d 4ta)M 7(Ej4M 6/Git
+d (7h[G 7(Ej?x 6/Gi8
+w &bLO highway#footway
+d E=S. 7(Ei|\ 6/H;g
+d E=S+ 7(Ej#m 6/H?\
+d 1e*&7 7(Ej'% 5"JS7
+d 1e*'# 7(Ej)G 6/HCX
+d 1e*&+ 7(Ej)L 6/HG&
+d E=S, 7(Ej+T 6/HJ)
+d 1e*&s 7(Ej&| 6/HLZ
+d 1e*&F 7(Ej*2 6/HMX
+d E=S- 7(Ej+& 6/HO+
+d E=S* 7(Ej"1 6/HQC
+d E=S) 7(Eita 6/HQ6
+d E=S( 7(EigD 6/HPM
+d 1e*'% 7(Ei]@ 6/HP|
+d E=Rz 7(EiR} 6/HQN
+w &bLH highway#footway
+d E=Re 7(EgX" 6/H.$
+d E=Rd 7(Eg]B 6/H0m
+d (F1ie 7(Egvv 6/H0G
+d E=Rc 7(Eh0S 6/H0`
+w "J>{. access#no highway#service lanes#1 oneway#yes railway#tram
+d 1C*[Q 7(Ek?H 6/Gr"
+d 1C*[1 7(EjtH 5"JNx
+w "J>{* access#no highway#service lanes#1 oneway#yes psv#yes railway#tram
+d 1C*[5 7(EjRl 6/Gqk
+d 1C*]F 7(EjXJ 6/Guu
+d 1C*_8 7(Ej[< 6/Gxm
+d 1C*`- 7(Ej]r 6/G{K
+d 1C,k+ 7(Ej^f 5"JOk
+d 1C,k# 7(Ej_6 6/G~<
+w &bLP highway#footway
+d %+Lh' 6fMLP 6/G}9
+d )3+?d 7(Ee_s 6/G}a
+d E=S< 7(Eenz 6/H":
+d E=S8 7(Eej; 6/H#Y
+d E=S9 7(Eei2 6/H%L
+d E=S: 7(Eej} 6/H'l
+d E=S; 7(EeqN 6/H)\
+d E=S/ 7(Ef%\ 6/H-J
+d E=S0 7(Ef6K 6/H1-
+d E=S1 7(EfEW 6/H3n
+d E=S2 7(EfM] 6/H4s
+d E=S3 7(EfVh 6/H5|
+d E=S4 7(Ef`? 6/H6_
+d E=S5 6fMWl 6/H7L
+d E=S6 6fMYa 6/H8#
+d E=S7 7(Eg2h 6/H8.
+d E=R[ 7(Eg;O 6/H8L
+w CY2} bicycle#designated cycleway#segregated foot#designated highway#cycleway segregated#yes
+d %%H@- 7(Em~G 6/GO8
+d $fHNo 7(Em|s 5"JK/
+d $fHNp 7(Em{c 6/GM_
+d $fHNq 7(Em}O 6/GL7
+d $fHNr 7(En"{ 6/GK7
+d $fHNs 7(En(v 5"JJf
+d $fHNt 6fN>Z 6/GIW
+d 2]Lsl 6fN?^ 6/GLK
+d 2]LtM 7(En>\ 6/GN)
+d $fHNu 7(En@w 6/GO:
+d $fHNv 7(EnA3 6/GP_
+d $fHNw 6fN@2 6/GR3
+d $fHNx 7(En;O 6/GS0
+d $fHNy 7(En2E 6/GTO
+d 6#M$z 7(Emx< 6/GW0
+d $fHNz 7(Emvb 6/GWA
+d &W$>n 6fN;~ 6/GWh
+d &W$>p 7(EmlY 5"JL0
+d %!G95 7(Emeu 6/GY;
+d 2@kT/ 7(EmcQ 6/GYH
+d &W$>u 7(Em[G 6/GZI
+d 2@kT8 6fN3P 6/G`S
+d %!G;o 6fN1c 6/Gb`
+d 2@kTH 7(ElT4 6/Gd|
+d )Nn?$ 6fN)W 6/Gk8
+d %!GAX 7(EksX 6/GkH
+d )NnA> 7(EkkV 6/Gkt
+d 'xXl} 7(EkhA 6/Gl-
+d )Nn?m 7(Ekf} 6/Gl4
+d 'xXlz 7(Ek7{ 6/Go4
+d %!GAZ 7(Ej^L 6/Gre
+d %!GAM 7(EjR; 6/Grq
+d 4ta)^ 7(EjN\ 5"JNi
+w W`"n highway#footway
+d (F1i- 7(Ego3 6/H(G
+d (F1i~ 7(EgsJ 6/H+:
+d (F1j! 7(Eg|1 6/H-z
+d (F1j" 7(Eh)5 6/H0,
+d E=Rc 7(Eh0S 6/H0`
+w "J>{0 access#no highway#service lanes#1 oneway#yes railway#tram
+d 1C*]; 7(Ejud 6/Gts
+d 1C*_H 7(Ek3v 5"JNo
+w &bLL highway#footway
+d E=S# 7(Ei!1 6/HL}
+d E=S" 7(Ei&? 6/HMf
+d E=S! 7(Ei"{ 6/HO:
+d E=R} 7(Eh|6 6/HP`
+w "mn-K access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C*]J 6fMzB 6/Gue
+d 1C*_6 6fMzh 6/Gv}
+d 1C*]~ 7(EjVL 5"JO=
+d 1C*[h 7(EjX< 6/GyR
+d 1C,j~ 7(EjYt 6/G{r
+d 1C,k& 7(EjZ, 6/G~&
+w ",hN{ highway#service motorcar#no service#parking_aisle
+d 6#M#p 7(Ej:K 6/Gs;
+d 6#M#n 6fMx. 6/Grd
+d .(I9j 7(Ej9Y 6/Gq`
+d .(I:= 7(Ej8O 6/Gq$
+d .(I5t 7(Ej.6 6/GpD
+w W`"^ highway#footway
+d (F1h[ 7(EhD` 6/HGM
+d 1e*'! 7(Eh6g 6/HEV
+d (F1h^ 6fMc{ 6/HCP
+d 1e*&* 7(Eh"| 6/H@A
+d (F1h_ 7(Eg}$ 6/H=x
+d (F1ha 7(Egza 6/H;t
+w "J=JW access#no highway#service lanes#1 name#Stampgatan oneway#yes psv#yes railway#tram
+d 1B|:E 7(Ej]V 6/H\L
+d 1B|;' 7(Ej]8 6/HUr
+d 1B|9? 7(Ej\6 6/HK%
+w &bLG highway#footway
+d E=Rh 6fMhR 5"JQ,
+d E=Rg 7(EhGg 6/H,}
+d E=Rf 7(Eh?@ 6/H.(
+d E=Rc 7(Eh0S 6/H0`
+d E=Rk 7(Eh0P 6/H3K
+d E=R_ 7(Eh+4 6/H:*
+w W`"] highway#footway
+d (F1hX 7(EhYT 6/HHo
+d (F1hY 7(EhTl 6/HGB
+d (F1hZ 7(EhLZ 5"JSn
+d (F1h[ 7(EhD` 6/HGM
+d (F1h\ 7(Eh)M 6/HKo
+d (F1h] 7(Eh(A 6/HM'
+w "N3!U highway#cycleway
+d 1e#1y 7(Ebz, 6/I96
+d 0vR:u 7(Ec;( 6/I4t
+d (XfqJ 7(EcN^ 6/I2Q
+d 0vR9L 7(EcVQ 6/I1P
+d 0vR=b 6fMA9 6/I%C
+d 0vR7S 7(Ed\A 4.U^
+d )3+?h 7(EeUS 6/Hqj
+d )3+?f 7(Ee`7 6/Hq6
+d 1d]7\ 6fMUG 6/HeD
+d 1d]8) 7(Eff0 6/Hc_
+d )3+?i 7(Eg.9 6/H^N
+d '%I3- 7(EgpD 6/HT+
+w &bLE highway#footway
+d E=Rn 7(Eicn 6/H:@
+d E=Rm 7(Eioy 6/H=t
+w "mn-E bicycle#yes bridge#yes cycleway#segregated highway#cycleway layer#1
+d 4ta)^ 7(EjN\ 5"JNi
+d 1C3l8 7(EjDu 6/Gr+
+d 1C3ln 6fMy& 6/Gr)
+d 4ta)Q 7(EjA~ 6/Gr4
+d 1C3lo 7(EjA2 6/GrJ
+w "J?rd access#no bridge#yes bus#yes highway#service lanes#1 layer#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C*_Z 6fMx{ 6/Gsh
+d 1C*^Z 7(EjF/ 6/Gt'
+d 1C*_f 7(EjJH 6/GtR
+d 1C*_} 7(EjN6 6/Gu2
+d 1C*]J 6fMzB 6/Gue
+w "J>{2 access#no highway#service oneway#yes railway#tram
+d 1C*[5 7(EjRl 6/Gqk
+d 1C*]f 7(EjU" 6/Grq
+d 1C*\] 7(EjWK 4.TX
+d 1C*[t 7(EjZ^ 6/Gt+
+d 1C*\. 7(Ej]M 6/GtN
+d 1C*\> 7(Ej`' 6/Gtl
+d 1C*[Y 7(Ejc] 5"JO!
+d 1C*]{ 7(EjgZ 6/Gu/
+d 1C*^= 7(Ejl] 6/Gu2
+d 1C*^/ 6fM}H 6/Gu.
+d 1C*]; 7(Ejud 6/Gts
+w W`"e highway#footway
+d E=Rs 5'z(T 5"JSJ
+d (F1hv 7(Ehk( 6/HE|
+d (F1hX 7(EhYT 6/HHo
+d (F1hy 7(Ehfw 6/HLI
+d (F1hz 6fMjA 6/HMY
+d E=S& 7(Ehp@ 6/HMe
+d E=S% 5'z(I 6/HMb
+d E=S# 7(Ei!1 6/HL}
+d E=S$ 7(Ei$m 6/HJo
+w ?^fU highway#footway
+d E=Rd 7(Eg]B 6/H0m
+d $U'(a 6fM_> 6/H4Z
+d E=RV 7(EgZn 6/H6"
+w &bLD highway#footway
+d E=RS 6fM`: 6/H<b
+d 1e*&U 7(Egn% 6/H;h
+d (F1ha 7(Egza 6/H;t
+d E=R_ 7(Eh+4 6/H:*
+d E=R` 7(EhE0 6/H:6
+d 1e*'$ 7(Eh_a 6/H;!
+d E=Ra 7(Ei!o 6/H;=
+d (F1hi 7(EiAr 6/H=m
+d E=Rl 7(Ei\0 6/H><
+d E=Rm 7(Eioy 6/H=t
+d E=S. 7(Ei|\ 6/H;g
+d )3+?k 7(Ej,C 6/H9o
+d E=Ro 7(Ej;; 6/H9r
+w "J?.4 access#no highway#service lanes#2 oneway#yes psv#yes railway#tram
+d 1C*\B 7(Ejc+ 6/GzN
+d 1C*\e 7(Ej\y 6/GvJ
+d 1C*]I 7(EjSr 5"JNT
+w "N3|v highway#footway
+d 1e*&s 7(Ej&| 6/HLZ
+d 1e*&W 7(Ej"W 6/HL`
+d 1e*%x 7(EiwO 6/HN\
+d 1e*&l 7(Eit| 6/HNm
+d 1e*&D 7(Eirj 6/HNi
+d 1e*&' 7(Eio_ 5"JTP
+d 1e*&| 7(EifX 6/HMT
+w &bLR foot#yes highway#footway
+d E=S= 7(EfEP 6/H*[
+d E=S> 7(EfY+ 6/H+F
+d E=S? 7(Eg%# 6/H*v
+d E=S@ 7(EgB@ 6/H*E
+d (F1if 7(EgPf 6/H+m
+d E=Re 7(EgX" 6/H.$
+w "E>NN highway#cycleway
+d 1C3ly 7(Ej@0 6/Gt`
+d 4ta)N 6fMxa 6/GuD
+d 0vR># 7(Ej>o 6/Gw4
+d 1e*&I 7(EjD/ 6/H-C
+d 1e*&u 7(Ej@M 6/H.V
+d 0vR:, 6fMxc 6/H:'
+d 0vR?4 7(Ej4~ 6/H;a
+d 0vR<v 7(Ej3t 5"JTi
+d 0vR<z 7(Ei}Y 6/HTT
+d 1e*&d 7(Ei}V 6/HV'
+d %+Lh0 7(Ei}e 6/HWy
+w &bLF highway#footway
+d E=Ra 7(Ei!o 6/H;=
+d 1e*%{ 7(Ei"5 6/H=2
+d 1e*&q 7(Eh}v 6/H>(
+d E=Rb 7(EhwG 6/H>o
+d E=Rr 7(Ei'w 6/HBS
+d E=Rs 5'z(T 5"JSJ
+d E=Rt 7(Ei+F 6/HEZ
+d (F1j$ 7(Ei,I 6/HFN
+d E=Ru 7(Ei/U 6/HGV
+d E=Rv 7(EiF\ 6/HNO
+d E=Rw 7(EiKJ 6/HOK
+d E=Rx 7(EiO' 6/HOh
+d E=Ry 6fMq: 6/HP!
+d E=Rz 7(EiR} 6/HQN
+w "J>{, access#no highway#service lanes#1 oneway#yes psv#yes railway#tram
+d 1B|9b 7(Ej[@ 6/H8x
+d 1C,j{ 7(EjZl 6/H5M
+d 1C,jw 7(Ej[+ 6/H2z
+d 1C,k0 7(Ej[l 6/H/q
+d 1C,k" 7(Ej_6 6/H(1
+d $\#q; 7(EjaC 6/H$9
+d 1C*_G 7(Ejb, 6/H"V
+d 1C*]Y 7(Ejb^ 6/G~I
+d 1C*_g 7(Ejaf 6/G|o
+d 1C*_; 7(Ej`. 6/G{7
+d 1C*]T 7(Ej]8 5"JOJ
+d 1C*]$ 7(Ej[V 6/GxB
+d 1C*\w 7(EjVw 6/GvF
+d 1C*^p 7(EjS] 5"JO%
+d 1C,jz 7(EjP? 6/Gt^
+w "Ow&w highway#cycleway
+d %+Lh0 7(Ei}e 6/HWy
+d %+Lh/ 7(Eh<, 6/HW~
+d '%I3- 7(EgpD 6/HT+
+d %+Lh. 7(Egf~ 6/HSB
+d '%I3y 7(Eg^8 5"JT{
+d %+Lh- 7(Eg"J 6/HMv
+d %!FN8 7(Ee66 6/H']

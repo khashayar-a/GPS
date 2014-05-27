@@ -1,0 +1,11 @@
+n :?HP 7(E}T+ 6/M.I highway#motorway_junction name#Munkebäcksmotet ref#76
+n $M`7" 7(E|@K 6/M{. amenity#fuel name#Statoil
+n $oq/^ 7(Ez,* 6/N"\ amenity#school name#Munkebäcks_Gymnasium
+n $oqMX 7(Eww^ 6/LdK highway#turning_circle
+n *>o[f 7(E|!T 6/M|l highway#bus_stop name#Munkebäcksmotet
+n *>o[h 7(E{kI 6/M}y highway#bus_stop name#Munkebäcksmotet
+n *>o\% 7(E}+0 6/N!i highway#bus_stop name#Munkebäcksmotet
+n .ka^Q 7(E{Sq 6/MsI highway#traffic_signals
+n .kbq( 7(E{~R 6/Mpi highway#traffic_signals
+n 22H'- 7(E{nB 6/Mv0 highway#traffic_signals
+n 22H'2 7(E{h/ 6/Mn[ highway#traffic_signals

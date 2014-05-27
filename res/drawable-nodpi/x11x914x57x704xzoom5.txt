@@ -1,0 +1,11 @@
+n $_l5X 7(Eiw` 5"Ix, highway#bus_stop name#Nordviksgatan
+n $_l5v 7(EeHE 6/A~, highway#bus_stop name#Eriksberg_Centrum
+n $g==? 7(Ed]V 6/A?] highway#bus_stop name#Eriksberg_Krokäng wheelchair#yes
+n $k=tj 6fMbo 6/A9a highway#crossing
+n $k=va 7(Em%t 6/Alc highway#crossing
+n $k>+7 7(Ekr, 5"Isp highway#crossing
+n )tfE9 7(Ei[[ 6/B6n crossing#island crossing_ref#zebra highway#crossing
+n +oVa{ 7(Eim; 6/Ack highway#crossing
+n ,rhy8 7(Egc( 6/A7F highway#bus_stop name#Danaplatsen
+n ,rhy< 7(El:g 6/Ap" highway#bus_stop name#Säterigatan
+n -ZyBH 7(Ei.) 6/Ah1 is_in#Hisingen,_Göteborg,_Sweden name#Sannegården place#suburb

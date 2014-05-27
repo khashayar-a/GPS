@@ -1,0 +1,424 @@
+n #]J^a 7(EQ~# 6/Azl amenity#taxi
+n #]JhZ 7(EQn^ 6/B&> highway#turning_circle
+n #]JxJ 7(ERqm 4.O* shop#bicycle
+n #^!h: 7(ES\% 6/Aqr amenity#recycling
+n #bmj5 6fKEZ 6/B`f crossing#uncontrolled highway#crossing sloped_curb#both
+n #b{aH 6fKEu 6/B%j highway#turning_circle
+n #b{aN 7(EQ@S 6/B#T highway#turning_circle
+n #rEiW 7(EO{9 6/A[F highway#crossing
+n $'TUE 7(EOk^ 6/AUP highway#crossing
+n $'TUJ 7(EObh 6/AW: highway#crossing
+n $[\{J 7(ES&w 5"Iv_ name#Mariaplan railway#tram_stop
+n $[](& 7(EP:' 6/A^K name#Sannaplan railway#tram_stop
+n $[]+Z 7(EN\g 6/@xZ name#Sandarna railway#tram_stop
+n $[].g 7(EUoG 6/A-s name#Vagnhallen_Majorna railway#tram_stop
+n $[]/D 7(ES{w 6/AS* name#Ostindiegatan railway#tram_stop
+n ${Z:8 7(EQvz 6/As5 amenity#restaurant name#Götas_Kök_och_Bar wheelchair#limited
+n %"v{g 7(ESXS 6/B,C amenity#pharmacy name#Apoteket_Najaden
+n &\ENd 7(EQOI 6/Ax0 fair_trade#yes name#Coop_Nära organic#yes shop#convenience
+n &\f=I 7(ER_b 6/B%W foot#yes railway#crossing sloped_curb#both
+n &\f=J 7(ERZf 6/B&Q crossing#uncontrolled highway#crossing
+n &\f=K 6fKVw 5"Iuy crossing#uncontrolled highway#crossing sloped_curb#both
+n 'JN0z 7(EP!6 6/B>E barrier#bollard
+n 'JVnf 7(EPEm 6/B0h barrier#lift_gate
+n 'L*L# 6fK\( 6/B-R crossing#uncontrolled highway#crossing sloped_curb#both
+n 'L*LG 7(ES4% 6/B.[ foot#yes railway#crossing sloped_curb#both
+n 'L*Nv 7(ES+1 6/B/D crossing#uncontrolled highway#crossing sloped_curb#both
+n 'L*O, 7(ES%: 6/B/P crossing#uncontrolled highway#crossing
+n 'L-Kn 7(EU%6 6/A|R highway#crossing
+n 'LL"a 7(ES1R 6/B8N barrier#cycle_barrier
+n 'SXmu 7(EP^L 6/AL( barrier#entrance
+n 'T'mB 7(ER'R 6/BLi highway#crossing sloped_curb#both
+n 'T'nA 7(EN,m 6/Bz~ highway#crossing sloped_curb#both
+n 'bwtt 7(EP|h 6/B%\ barrier#bollard
+n )RoZC 7(ER<{ 6/A|& crossing#uncontrolled highway#crossing
+n )Ro[( 7(ER3a 6/A}h crossing#uncontrolled highway#crossing
+n )ZBq$ 7(ES/9 6/B8, foot#yes railway#crossing sloped_curb#both
+n )ZBq/ 6fKZ$ 5"Iwn crossing#uncontrolled highway#crossing
+n )ZFHg 7(ESe> 6/B5n amenity#atm
+n )^J8L 7(EO>Z 6/Bo. highway#crossing
+n /U{s/ 7(ES`k 6/B2x amenity#post_box
+n 1:Z]J 7(EQ9_ 6/B%[ name#Boll tourism#artwork
+n 3v5CI 7(EP31 5"Irp addr:housenumber#26A addr:street#Mariagatan
+n 3v5CL 7(EP+~ 6/Ab9 addr:housenumber#26B addr:street#Mariagatan
+n 3v5CP 7(EP%B 6/Aa6 addr:housenumber#26C addr:street#Mariagatan
+n 3v5CQ 7(EP=y 6/AXd addr:housenumber#29A addr:street#Mariagatan
+n 3v5CS 7(EPDy 6/AYp addr:housenumber#29B addr:street#Mariagatan
+n 3v5CT 7(EPKz 6/AZ} addr:housenumber#29C addr:street#Mariagatan
+n 3v5CV 7(EPRz 6/A\+ addr:housenumber#29D addr:street#Mariagatan
+n 3v5C\ 7(EPgT 6/AXG addr:housenumber#2A addr:street#Bankebergsgatan
+n 3v5C] 7(EPak 6/AWK addr:housenumber#2B addr:street#Bankebergsgatan
+n 3v5C^ 7(EP\# 6/AVN addr:housenumber#2C addr:street#Bankebergsgatan
+n 3v5Cu 7(EOyx 6/AKt addr:housenumber#3C addr:street#Jordhyttegatan
+n 3v5Cw 7(EP#2 6/AM) addr:housenumber#3D addr:street#Jordhyttegatan
+n 3v5Cx 7(EP*I 6/AN= addr:housenumber#3E addr:street#Jordhyttegatan
+n 3v5C} 7(EPPP 6/ATU addr:housenumber#4A addr:street#Bankebergsgatan
+n 3v5D! 7(EPV: 6/AUR addr:housenumber#4B addr:street#Bankebergsgatan
+n 3v5D$ 7(EO{O 6/A_{ addr:housenumber#6A addr:street#Sannaplan
+n 3v5D' 7(EP;p 6/Adx addr:housenumber#7A addr:street#Kennedygatan
+n 3v5D* 7(EP54 5"Is/ addr:housenumber#7B addr:street#Kennedygatan
+n 3v5D, 7(EP-t 6/Ag9 addr:housenumber#7C addr:street#Kennedygatan
+n 3v5D7 6fK=^ 6/Agz addr:housenumber#9A addr:street#Kennedygatan
+n 3v5D: 6fK<m 6/Ah^ addr:housenumber#9B addr:street#Kennedygatan
+n 3v:3= 7(ER.P 6/AV% addr:housenumber#11A addr:street#Majstångsgatan
+n 3v:3? 7(ER&j 6/ATi addr:housenumber#11B addr:street#Majstångsgatan
+n 3v:3I 7(EQ}& 6/ASO addr:housenumber#11C addr:street#Majstångsgatan
+n 3v:3M 7(EQu@ 6/AR5 addr:housenumber#11D addr:street#Majstångsgatan
+n 3v:3Q 7(EQmZ 6/APz addr:housenumber#11E addr:street#Majstångsgatan
+n 3v:3S 7(EQet 6/AO` addr:housenumber#11F addr:street#Majstångsgatan
+n 3v:3V 7(EQGY 6/AUG addr:housenumber#14A addr:street#Kennedygatan
+n 3v:3Y 7(EQO@ 6/AT0 addr:housenumber#14B addr:street#Kennedygatan
+n 3v:3] 7(EQUb 6/AU4 addr:housenumber#14C addr:street#Kennedygatan
+n 3v:3a 7(EQ?s 6/AVz addr:housenumber#16A addr:street#Kennedygatan
+n 3v:3e 6fKI' 6/AX5 addr:housenumber#16B addr:street#Kennedygatan
+n 3v:3m 7(EQ+/ 6/A[@ addr:housenumber#18A addr:street#Kennedygatan
+n 3v:3o 7(EQ1w 6/AYw addr:housenumber#18B addr:street#Kennedygatan
+n 3v:3r 7(EQ^] 6/AV[ addr:housenumber#1A addr:street#Kjellestadsgatan
+n 3v:3v 7(EQdY 6/AWh addr:housenumber#1B addr:street#Kjellestadsgatan
+n 3v:3x 7(EQ]n 6/AY/ addr:housenumber#1C addr:street#Kjellestadsgatan
+n 3v:4& 7(EQ$7 6/A\\ addr:housenumber#20A addr:street#Kennedygatan
+n 3v:4) 7(EP{r 6/A^* addr:housenumber#20B addr:street#Kennedygatan
+n 3v:4, 7(EPuv 6/Ab4 addr:housenumber#25A addr:street#Mariagatan
+n 3v:4/ 7(EPp5 6/Aa3 addr:housenumber#25B addr:street#Mariagatan
+n 3v:46 7(EPt. 6/A_n addr:housenumber#25C addr:street#Mariagatan
+n 3v:4: 7(EQVj 6/AZ` addr:housenumber#3A addr:street#Kjellestadsgatan
+n 3v:4> 7(EQPa 6/A[~ addr:housenumber#3B addr:street#Kjellestadsgatan
+n 3v:4A 7(EQIv 6/A]Q addr:housenumber#5A addr:street#Kjellestadsgatan
+n 3v:4C 7(EQB? 6/A_) addr:housenumber#5B addr:street#Kjellestadsgatan
+n 3v:4J 7(EQ;m 6/A`G addr:housenumber#7A addr:street#Kjellestadsgatan
+n 3v:4M 7(EQ5K 6/Aal addr:housenumber#7B addr:street#Kjellestadsgatan
+n 3v:4R 7(EQ-~ 5"Iro addr:housenumber#9A addr:street#Kjellestadsgatan
+n 3v:4V 7(ERE4 5"Iq$ addr:housenumber#9A addr:street#Majstångsgatan
+n 3v:4\ 7(EQ%r 6/AdV addr:housenumber#9B addr:street#Kjellestadsgatan
+n 3v:4_ 7(ER=A 5"Ipv addr:housenumber#9B addr:street#Majstångsgatan
+n 3v:4a 7(EP}6 6/AcK addr:housenumber#9C addr:street#Kjellestadsgatan
+n 3v:4f 7(ER5N 6/ANh addr:housenumber#9C addr:street#Majstångsgatan
+n 3v:4i 7(ER-\ 6/AMN addr:housenumber#9D addr:street#Majstångsgatan
+n 3v:4s 7(ER%i 6/AL4 addr:housenumber#9E addr:street#Majstångsgatan
+n 3v:4u 7(EQ{v 6/AJw addr:housenumber#9F addr:street#Majstångsgatan
+n 3vA>" 7(EQzJ 6/AbL addr:housenumber#1 addr:street#Silverkällan
+n 3vA>$ 7(EP<G 6/Att addr:housenumber#10A addr:street#Stilla_Gatan
+n 3vA>' 7(EQjV 6/Am? addr:housenumber#10A addr:street#Strandridaregatan
+n 3vA>( 6fK@p 6/AsL addr:housenumber#10B addr:street#Stilla_Gatan
+n 3vA>) 7(EQfD 5"Is~ addr:housenumber#10B addr:street#Strandridaregatan
+n 3vA>* 7(EQlf 6/Ap" addr:housenumber#10C addr:street#Strandridaregatan
+n 3vA>0 7(EP,9 6/AzD addr:housenumber#11A addr:street#Fridhemsgatan
+n 3vA>2 6fKA| 6/Ap7 addr:housenumber#11A addr:street#Stilla_Gatan
+n 3vA>5 7(EPnc 6/Au4 addr:housenumber#11A addr:street#Strandridaregatan
+n 3vA>6 7(EP"n 6/Ayb addr:housenumber#11B addr:street#Fridhemsgatan
+n 3vA>7 7(EPLU 6/AnU addr:housenumber#11B addr:street#Stilla_Gatan
+n 3vA>8 7(EPeO 6/At@ addr:housenumber#11B addr:street#Strandridaregatan
+n 3vA>9 7(EPH! 6/Al` addr:housenumber#11C addr:street#Stilla_Gatan
+n 3vA>@ 7(EP99 6/Ar# addr:housenumber#12A addr:street#Stilla_Gatan
+n 3vA>C 7(EP5. 5"It- addr:housenumber#12B addr:street#Stilla_Gatan
+n 3vA>D 7(EO}V 6/Aw1 addr:housenumber#13A addr:street#Fridhemsgatan
+n 3vA>E 7(EPCA 6/AjW addr:housenumber#13A addr:street#Stilla_Gatan
+n 3vA>F 7(EO{2 6/Au8 addr:housenumber#13B addr:street#Fridhemsgatan
+n 3vA>G 7(EPHi 6/Ai; addr:housenumber#13B addr:street#Stilla_Gatan
+n 3vA>N 7(EP0m 6/AnO addr:housenumber#14 addr:street#Stilla_Gatan
+n 3vA>P 7(EQwq 6/Aqm addr:housenumber#15 addr:street#Mariagatan
+n 3vA>T 7(EQ(, 6/Aq: addr:housenumber#16A addr:street#Mariagatan
+n 3vA>U 6fKGa 5"ItF addr:housenumber#16B addr:street#Mariagatan
+n 3vA>[ 7(EQ"D 6/Asc addr:housenumber#16C addr:street#Mariagatan
+n 3vA>^ 7(EPw0 6/AtH addr:housenumber#16D addr:street#Mariagatan
+n 3vA>a 7(EOyt 6/AmN addr:housenumber#17B addr:street#Fridhemsgatan
+n 3vA>b 6fKFU 6/Ap$ addr:housenumber#18A addr:street#Mariagatan
+n 3vA>c 7(EPwY 6/Anw addr:housenumber#18B addr:street#Mariagatan
+n 3vA>d 7(EPp} 6/Amp addr:housenumber#18C addr:street#Mariagatan
+n 3vA>j 7(EQOu 6/AkN addr:housenumber#19A addr:street#Mariagatan
+n 3vA>m 6fKJ] 6/Aj: addr:housenumber#19B addr:street#Mariagatan
+n 3vA>o 7(EQVF 6/AjR addr:housenumber#19C addr:street#Mariagatan
+n 3vA>p 7(EQvQ 6/Ac^ addr:housenumber#1A addr:street#Strandridaregatan
+n 3vA>q 7(EQs9 6/AaT addr:housenumber#1B addr:street#Strandridaregatan
+n 3vA>r 7(EQdh 6/A^m addr:housenumber#2 addr:street#Silverkällan
+n 3vA>w 7(EP^" 6/AjR addr:housenumber#20A addr:street#Mariagatan
+n 3vA>y 7(EPd= 6/AkW addr:housenumber#20B addr:street#Mariagatan
+n 3vA>| 7(EPj/ 6/Al\ addr:housenumber#20C addr:street#Mariagatan
+n 3vA>~ 7(EQAF 6/Ai# addr:housenumber#21A addr:street#Mariagatan
+n 3vA?! 7(EQ?) 6/AfV addr:housenumber#21B addr:street#Mariagatan
+n 3vA?" 7(EQ:t 4.No addr:housenumber#21C addr:street#Mariagatan
+n 3vA?& 6fKBX 5"IsJ addr:housenumber#22A addr:street#Mariagatan
+n 3vA?) 7(EPOc 6/Ah4 addr:housenumber#22B addr:street#Mariagatan
+n 3vA?, 7(EP(V 6/Alg addr:housenumber#26 addr:street#Kennedygatan
+n 3vA?. 7(EQ^l 6/A_g addr:housenumber#2A addr:street#Kjellestadsgatan
+n 3vA?/ 7(EQk: 6/A`2 addr:housenumber#2B addr:street#Kjellestadsgatan
+n 3vA?0 7(ERX~ 6/AeO addr:housenumber#31A addr:street#Älvsborgsgatan
+n 3vA?1 7(ERX% 5"Is7 addr:housenumber#31B addr:street#Älvsborgsgatan
+n 3vA?6 7(EROQ 6/Ai. addr:housenumber#33 addr:street#Älvsborgsgatan
+n 3vA?9 7(ERJ6 6/Aj6 addr:housenumber#33B addr:street#Älvsborgsgatan
+n 3vA?; 6fKSG 6/Akj addr:housenumber#35 addr:street#Älvsborgsgatan
+n 3vA?= 7(ER=O 6/Al| addr:housenumber#35B addr:street#Älvsborgsgatan
+n 3vA?> 7(ER5u 6/AnH addr:housenumber#37 addr:street#Älvsborgsgatan
+n 3vA?? 7(ER0A 6/Ao\ addr:housenumber#37B addr:street#Älvsborgsgatan
+n 3vA?E 7(ER(u 6/Aq; addr:housenumber#39A addr:street#Älvsborgsgatan
+n 3vA?G 7(ER", 5"ItD addr:housenumber#39B addr:street#Älvsborgsgatan
+n 3vA?J 7(EQp. 6/Ad~ addr:housenumber#3A addr:street#Strandridaregatan
+n 3vA?K 7(EQi7 6/AfJ addr:housenumber#3B addr:street#Strandridaregatan
+n 3vA?L 7(EQX< 6/Aa, addr:housenumber#4A addr:street#Kjellestadsgatan
+n 3vA?M 6fKR, 6/Ad\ addr:housenumber#4A addr:street#Strandridaregatan
+n 3vA?T 6fKKN 6/AbP addr:housenumber#4B addr:street#Kjellestadsgatan
+n 3vA?W 7(ER/l 6/Aez addr:housenumber#4B addr:street#Strandridaregatan
+n 3vA?X 7(EQbe 6/Agr addr:housenumber#5A addr:street#Strandridaregatan
+n 3vA?Y 7(EQ\O 6/Ai4 addr:housenumber#5B addr:street#Strandridaregatan
+n 3vA?Z 7(EQK< 6/Acs addr:housenumber#6A addr:street#Kjellestadsgatan
+n 3vA?[ 7(ER(( 6/AgR addr:housenumber#6A addr:street#Strandridaregatan
+n 3vA?\ 7(EQDj 6/Ae8 addr:housenumber#6B addr:street#Kjellestadsgatan
+n 3vA?e 7(ER!= 6/Ahw addr:housenumber#6B addr:street#Strandridaregatan
+n 3vA?f 7(ERP? 5"Irv addr:housenumber#8A addr:street#Silverkällegatan
+n 3vA?g 7(EP;? 6/Axy addr:housenumber#8A addr:street#Stilla_Gatan
+n 3vA?h 7(EQwd 6/AjU addr:housenumber#8A addr:street#Strandridaregatan
+n 3vA?i 7(ERHs 6/Abl addr:housenumber#8B addr:street#Silverkällegatan
+n 3vA?j 7(EP5a 6/Ayz addr:housenumber#8B addr:street#Stilla_Gatan
+n 3vA?s 7(EQqh 6/Akv addr:housenumber#8B addr:street#Strandridaregatan
+n 3vA?t 7(ER>= 5"Irl addr:housenumber#8C addr:street#Silverkällegatan
+n 3vA?u 7(EP;h 6/Aw9 addr:housenumber#8C addr:street#Stilla_Gatan
+n 3vA?v 7(EP]M 6/As! addr:housenumber#9A addr:street#Stilla_Gatan
+n 3vA?w 7(EPQ6 6/ArS addr:housenumber#9B addr:street#Stilla_Gatan
+n 3v\B8 7(ESCI 6/APG addr:housenumber#10 addr:street#Majstångsgatan
+n 3v\B; 7(ERJV 6/AZh addr:housenumber#11 addr:street#Silverkällegatan
+n 3v\B? 6fK[~ 6/AR0 addr:housenumber#12 addr:street#Majstångsgatan
+n 3v\BL 7(EQSA 6/AxY addr:housenumber#12 addr:street#Mariagatan
+n 3v\BO 7(ESg@ 5"Ipd addr:housenumber#12 addr:street#Ostindiegatan
+n 3v\BP 7(EQ;x 6/AvZ addr:housenumber#12C addr:street#Mariagatan
+n 3v\BQ 7(EQEW 6/Av? addr:housenumber#12D addr:street#Mariagatan
+n 3v\BR 7(ES-Z 5"Iq) addr:housenumber#14 addr:street#Majstångsgatan
+n 3v\B] 7(EQ,4 6/Awx addr:housenumber#14A addr:street#Mariagatan
+n 3v\B` 6fK_[ 5"IpW addr:housenumber#14A addr:street#Ostindiegatan
+n 3v\Bc 6fKHL 6/Aw? addr:housenumber#14B addr:street#Mariagatan
+n 3v\Bf 7(ESW! 6/AKB addr:housenumber#14B addr:street#Ostindiegatan
+n 3v\Bj 7(ES$S 6/AP2 addr:housenumber#16 addr:street#Majstångsgatan
+n 3v\Bm 7(ESNp 6/AI| addr:housenumber#16 addr:street#Ostindiegatan
+n 3v\Bo 7(EP|! 6/Ay, addr:housenumber#16Q addr:street#Strandridaregatan
+n 3v\Bs 7(EQ$o 6/AxS addr:housenumber#16R addr:street#Strandridaregatan
+n 3v\Bv 7(ERwb 6/AOz addr:housenumber#18 addr:street#Majstångsgatan
+n 3v\C# 7(ES;c 6/AI' addr:housenumber#18B addr:street#Ostindiegatan
+n 3v\C$ 7(ESFa 6/AHX addr:housenumber#18C addr:street#Ostindiegatan
+n 3v\C% 7(EPlo 6/Az| addr:housenumber#18O addr:street#Strandridaregatan
+n 3v\C' 7(EPtR 6/Ayh addr:housenumber#18P addr:street#Strandridaregatan
+n 3v\C) 7(ESi] 6/AP$ addr:housenumber#19 addr:street#Älvsborgsgatan
+n 3v\C; 7(EPc` 6/B%Q addr:housenumber#2 addr:street#Stilla_Gatan
+n 3v\C< 6fKWt 6/AQY addr:housenumber#20 addr:street#Majstångsgatan
+n 3v\C= 7(ESbZ 6/AQQ addr:housenumber#21A addr:street#Älvsborgsgatan
+n 3v\C> 7(ES[V 6/AR} addr:housenumber#21B addr:street#Älvsborgsgatan
+n 3v\CH 7(ERp7 6/ASj addr:housenumber#22 addr:street#Majstångsgatan
+n 3v\CL 7(EPBE 6/A}q addr:housenumber#22A addr:street#Strandridaregatan
+n 3v\CP 7(EP9d 6/A~E addr:housenumber#22B addr:street#Strandridaregatan
+n 3v\CS 6fK^U 6/ATL addr:housenumber#23A addr:street#Älvsborgsgatan
+n 3v\CU 7(ESMP 6/AUy addr:housenumber#23B addr:street#Älvsborgsgatan
+n 3v\CY 7(ESFM 6/AWG addr:housenumber#23C addr:street#Älvsborgsgatan
+n 3v\C\ 7(ERxw 6/AU6 addr:housenumber#24 addr:street#Majstångsgatan
+n 3v\Ca 7(EP0P 6/A~t addr:housenumber#24A addr:street#Strandridaregatan
+n 3v\Cd 7(EP+Q 6/B": addr:housenumber#24B addr:street#Strandridaregatan
+n 3v\Ci 7(ES?J 6/AXt addr:housenumber#25A addr:street#Älvsborgsgatan
+n 3v\Cp 7(ES8G 5"Iqy addr:housenumber#25B addr:street#Älvsborgsgatan
+n 3v\Cs 7(ES1C 6/A[o addr:housenumber#25C addr:street#Älvsborgsgatan
+n 3v\Cv 7(ES#~ 6/AVi addr:housenumber#26 addr:street#Majstångsgatan
+n 3v\Cy 7(ES*@ 6/A]> addr:housenumber#27A addr:street#Älvsborgsgatan
+n 3v\D$ 7(ES#= 6/A^j addr:housenumber#27B addr:street#Älvsborgsgatan
+n 3v\D& 7(ERz! 6/AXT addr:housenumber#28 addr:street#Majstångsgatan
+n 3v\D( 7(ERz: 6/A`9 addr:housenumber#29 addr:street#Älvsborgsgatan
+n 3v\D+ 7(ERpw 6/AZ? addr:housenumber#30 addr:street#Majstångsgatan
+n 3v\D, 7(ERhQ 6/AXx addr:housenumber#32 addr:street#Majstångsgatan
+n 3v\D6 7(ER`R 6/AWS addr:housenumber#34 addr:street#Majstångsgatan
+n 3v\D8 7(ERUa 6/AVx addr:housenumber#36 addr:street#Majstångsgatan
+n 3v\D; 7(ERN* 6/AXj addr:housenumber#38 addr:street#Majstångsgatan
+n 3v\D> 7(ES2\ 6/AJ^ addr:housenumber#4 addr:street#Majstångsgatan
+n 3v\DI 7(EPV6 6/B!L addr:housenumber#4A addr:street#Stilla_Gatan
+n 3v\DK 7(EPZ~ 6/B#E addr:housenumber#4B addr:street#Stilla_Gatan
+n 3v\DN 7(EP[r 6/B&? addr:housenumber#5 addr:street#Olof_Strålegatan
+n 3v\DQ 7(ERn[ 6/A`k addr:housenumber#5 addr:street#Silverkällegatan
+n 3v\DS 7(EQ:= 6/A~e addr:housenumber#5I addr:street#Stilla_Gatan
+n 3v\D^ 7(EQ3$ 6/B"; addr:housenumber#5J addr:street#Stilla_Gatan
+n 3v\Da 7(EQ); 5"Iuk addr:housenumber#5K addr:street#Stilla_Gatan
+n 3v\Dd 6fKF0 5"Iuo addr:housenumber#5L addr:street#Stilla_Gatan
+n 3v\Df 7(EPuy 6/B!4 addr:housenumber#5M addr:street#Stilla_Gatan
+n 3v\Dg 7(EPqE 6/A}( addr:housenumber#5N addr:street#Stilla_Gatan
+n 3v\Dq 7(ES6H 6/AL\ addr:housenumber#6 addr:street#Majstångsgatan
+n 3v\Dt 7(EPS) 6/A|U addr:housenumber#6A addr:street#Stilla_Gatan
+n 3v\Dw 7(EPJz 6/A}: addr:housenumber#6B addr:street#Stilla_Gatan
+n 3v\Dz 7(EQGq 6/A{c addr:housenumber#6G addr:street#Älvsborgsplan
+n 3v\E! 7(EQA- 6/A}4 addr:housenumber#6H addr:street#Älvsborgsplan
+n 3v\E# 7(EP0Z 6/B&2 addr:housenumber#7A addr:street#Fridhemsgatan
+n 3v\E% 7(EPS\ 6/B', addr:housenumber#7A addr:street#Olof_Strålegatan
+n 3v\E( 7(ERf5 5"IrJ addr:housenumber#7A addr:street#Silverkällegatan
+n 3v\E* 7(EP.@ 6/B$F addr:housenumber#7B addr:street#Fridhemsgatan
+n 3v\E6 7(EPIJ 6/B(' addr:housenumber#7B addr:street#Olof_Strålegatan
+n 3v\E9 7(ER`8 6/A^B addr:housenumber#7B addr:street#Silverkällegatan
+n 3v\E: 7(EQK| 6/AwF addr:housenumber#7E addr:street#Älvsborgsplan
+n 3v\E; 7(EQOT 6/Az$ addr:housenumber#7F addr:street#Älvsborgsplan
+n 3v\E> 7(ESA9 6/AN@ addr:housenumber#8 addr:street#Majstångsgatan
+n 3v\E? 7(EP@! 6/B)! addr:housenumber#9A addr:street#Olof_Strålegatan
+n 3v\EA 7(ERYA 6/A]2 addr:housenumber#9A addr:street#Silverkällegatan
+n 3v\EC 7(EP5& 6/B)~ addr:housenumber#9B addr:street#Olof_Strålegatan
+n 3v\EE 7(ERSQ 6/A\3 addr:housenumber#9B addr:street#Silverkällegatan
+n 3v\ER 7(EP2` 6/B(/ addr:housenumber#9C addr:street#Olof_Strålegatan
+n 3vg0k 6fKc6 6/AJ. addr:housenumber#17 addr:street#Ostindiegatan
+n 3vg0o 7(ETA\ 6/ADr addr:housenumber#17A addr:street#Älvsborgsgatan
+n 3vg0s 7(ET:j 6/AF@ addr:housenumber#17B addr:street#Älvsborgsgatan
+n 3vg0v 7(ET3x 6/AGk addr:housenumber#17C addr:street#Älvsborgsgatan
+n 3vg1& 7(ET-' 6/AI8 addr:housenumber#17D addr:street#Älvsborgsgatan
+n 3vg1) 7(ESs5 6/AGZ addr:housenumber#19A addr:street#Ostindiegatan
+n 3vg1+ 7(ESl[ 6/AFR addr:housenumber#19B addr:street#Ostindiegatan
+n 3vg1, 7(ESf# 6/AEI addr:housenumber#19C addr:street#Ostindiegatan
+n 3vg1. 7(ES_H 6/AD@ addr:housenumber#19D addr:street#Ostindiegatan
+n 3vg17 7(ESXn 6/AC8 addr:housenumber#19E addr:street#Ostindiegatan
+n 3vg19 7(ESR6 6/AB/ addr:housenumber#19F addr:street#Ostindiegatan
+n 3vmqM 7(ESQ] 5"Is^ addr:housenumber#1 addr:street#Silverkällegatan
+n 3vmqP 6fKe- 6/AUv addr:housenumber#10A addr:street#Ostindiegatan
+n 3vmqR 7(ET?H 6/AW% addr:housenumber#10B addr:street#Ostindiegatan
+n 3vmqU 7(ET1^ 6/AVc addr:housenumber#10C addr:street#Ostindiegatan
+n 3vmqV 6fKfn 6/AXe addr:housenumber#11A addr:street#Svanebäcksgatan
+n 3vmqj 7(ERRN 6/A{? addr:housenumber#13A addr:street#Mariagatan
+n 3vmqk 7(ETE{ 5"Ir4 addr:housenumber#13A addr:street#Svanebäcksgatan
+n 3vmql 7(ERP[ 6/Awp addr:housenumber#13B addr:street#Mariagatan
+n 3vmqm 7(ET@Q 6/A^1 addr:housenumber#13B addr:street#Svanebäcksgatan
+n 3vmqn 7(ERH_ 6/AyZ addr:housenumber#13C addr:street#Mariagatan
+n 3vmqr 7(ET:` 6/A_G addr:housenumber#15A addr:street#Svanebäcksgatan
+n 3vmqu 7(ET5D 6/A`R addr:housenumber#15B addr:street#Svanebäcksgatan
+n 3vmqz 6fKd; 5"Ir` addr:housenumber#17A addr:street#Svanebäcksgatan
+n 3vmq~ 7(ET*( 6/Abv addr:housenumber#17B addr:street#Svanebäcksgatan
+n 3vmr) 7(ET$7 6/Ad. addr:housenumber#19A addr:street#Svanebäcksgatan
+n 3vmr, 7(ES|l 6/Ae< addr:housenumber#19B addr:street#Svanebäcksgatan
+n 3vmr/ 7(ESvx 6/AfR addr:housenumber#21A addr:street#Svanebäcksgatan
+n 3vmr2 7(ESqU 5"Is: addr:housenumber#21B addr:street#Svanebäcksgatan
+n 3vmr4 7(ESkb 6/Ahu addr:housenumber#23A addr:street#Svanebäcksgatan
+n 3vmr6 7(ESf# 6/Aj* addr:housenumber#23B addr:street#Svanebäcksgatan
+n 3vmr8 7(ES^7 6/Akf addr:housenumber#25 addr:street#Svanebäcksgatan
+n 3vmr: 7(ES5Z 6/At: addr:housenumber#29A addr:street#Svanebäcksgatan
+n 3vmr= 7(ES/v 6/AuG addr:housenumber#29B addr:street#Svanebäcksgatan
+n 3vmrA 6fK\k 6/AqH addr:housenumber#2A addr:street#Silverkällegatan
+n 3vmrH 7(ES9~ 6/Aoz addr:housenumber#2B addr:street#Silverkällegatan
+n 3vmrL 7(ES;W 6/As# addr:housenumber#2C addr:street#Silverkällegatan
+n 3vmrO 7(ESEb 6/AiP addr:housenumber#3 addr:street#Silverkällegatan
+n 3vmrR 7(ES(s 6/Aw! addr:housenumber#31A addr:street#Svanebäcksgatan
+n 3vmrV 7(ES"8 5"Ity addr:housenumber#31B addr:street#Svanebäcksgatan
+n 3vmrY 7(ET(4 6/AXk addr:housenumber#32 addr:street#Älvsborgsgatan
+n 3vmr] 7(ERyg 6/Ayh addr:housenumber#33A addr:street#Svanebäcksgatan
+n 3vmr_ 6fKX; 5"Iu3 addr:housenumber#33B addr:street#Svanebäcksgatan
+n 3vmr` 7(ESz9 6/A[: addr:housenumber#34 addr:street#Älvsborgsgatan
+n 3vmra 7(ERls 6/A|C addr:housenumber#35A addr:street#Svanebäcksgatan
+n 3vmro 7(ER[7 6/A|h addr:housenumber#35C addr:street#Svanebäcksgatan
+n 3vmrr 7(ERc~ 6/A~: addr:housenumber#35C addr:street#Svanebäcksgatan
+n 3vmrt 6fK`t 6/A^> addr:housenumber#36A addr:street#Älvsborgsgatan
+n 3vmrv 7(ESq] 5"Ir5 addr:housenumber#36B addr:street#Älvsborgsgatan
+n 3vmrw 7(EScs 6/A`( addr:housenumber#38A addr:street#Älvsborgsgatan
+n 3vmry 7(ESZI 6/Ab* addr:housenumber#38B addr:street#Älvsborgsgatan
+n 3vmr{ 7(ESQ] 6/Acx addr:housenumber#40 addr:street#Älvsborgsgatan
+n 3vmr} 7(ESFb 6/Af/ addr:housenumber#42 addr:street#Älvsborgsgatan
+n 3vms" 7(ERtV 6/ApI addr:housenumber#48 addr:street#Älvsborgsgatan
+n 3vms% 7(ES'# 5"Isk addr:housenumber#4A addr:street#Silverkällegatan
+n 3vms0 7(ES0$ 6/An5 addr:housenumber#4B addr:street#Silverkällegatan
+n 3vms5 7(ER~^ 6/An< addr:housenumber#4C addr:street#Silverkällegatan
+n 3vms9 7(ERgV 6/As& addr:housenumber#50 addr:street#Älvsborgsgatan
+n 3vms: 7(ER\< 6/AuQ addr:housenumber#52 addr:street#Älvsborgsgatan
+n 3x-zi 6fKR* 6/B%H addr:housenumber#10 addr:street#Mariagatan
+n 3x-zl 7(ERp! 6/B.~ addr:housenumber#1A addr:street#Wärnsköldsgatan
+n 3x-zm 7(ER.> 6/B$- addr:housenumber#1A addr:street#Älvsborgsplan
+n 3x-zn 7(ERuj 6/B0q addr:housenumber#1B addr:street#Wärnsköldsgatan
+n 3x-zo 6fKPU 6/B%X addr:housenumber#1B addr:street#Älvsborgsplan
+n 3x-zp 7(ERkZ 6/B1M addr:housenumber#1C addr:street#Wärnsköldsgatan
+n 3x-zq 6fKOm 5"Iv4 addr:housenumber#2A addr:street#Älvsborgsplan
+n 3x-z| 7(EQw9 6/B(8 addr:housenumber#2B addr:street#Älvsborgsplan
+n 3x-z~ 7(ER:` 6/B(M addr:housenumber#37 addr:street#Svanebäcksgatan
+n 3x-{! 7(ER65 6/B*P addr:housenumber#39A addr:street#Svanebäcksgatan
+n 3x-{" 7(ER2Q 6/B+} addr:housenumber#39B addr:street#Svanebäcksgatan
+n 3x-{# 7(ERaB 6/B18 addr:housenumber#3A addr:street#Wärnsköldsgatan
+n 3x-{$ 7(EQp[ 6/B)O addr:housenumber#3A addr:street#Älvsborgsplan
+n 3x-{- 7(ERX# 6/B1& addr:housenumber#3B addr:street#Wärnsköldsgatan
+n 3x-{/ 6fKM~ 6/B*[ addr:housenumber#3B addr:street#Älvsborgsplan
+n 3x-{2 7(EQh$ 6/B,2 addr:housenumber#3C addr:street#Älvsborgsplan
+n 3x-{3 6fKQF 5"Ivs addr:housenumber#41A addr:street#Svanebäcksgatan
+n 3x-{4 7(ER+7 6/B/V addr:housenumber#41B addr:street#Svanebäcksgatan
+n 3x-{6 7(ERhj 6/B-l addr:housenumber#4A addr:street#Mariagatan
+n 3x-{7 7(ERc! 6/B,p addr:housenumber#4B addr:street#Mariagatan
+n 3x-{> 6fKSy 6/B0g addr:housenumber#5A addr:street#Wärnsköldsgatan
+n 3x-{A 7(ERL# 6/B.| addr:housenumber#5B addr:street#Wärnsköldsgatan
+n 3x-{C 7(ERVL 6/B*i addr:housenumber#6A addr:street#Mariagatan
+n 3x-{E 7(ER\. 6/B+_ addr:housenumber#6B addr:street#Mariagatan
+n 3x-{H 7(ERRc 6/B,H addr:housenumber#6C addr:street#Mariagatan
+n 3x-{I 7(ER"} 6/B/R addr:housenumber#7 addr:street#Wärnsköldsgatan
+n 3x-{L 7(ER=B 4.O+ addr:housenumber#8 addr:street#Mariagatan
+n 3x-{O 7(EQwo 6/B/> addr:housenumber#9A addr:street#Wärnsköldsgatan
+n 3x-{Q 7(EQoX 6/B/, addr:housenumber#9B addr:street#Wärnsköldsgatan
+n 3x-{S 7(EQig 5"Ivu addr:housenumber#9C addr:street#Wärnsköldsgatan
+n 3x-{V 7(ERQ0 6/B(K amenity#fast_food cuisine#sausage name#Mariaplans_korvkiosk
+n 3x0*< 7(ERm9 6/B5] addr:housenumber#2A addr:street#Wärnsköldsgatan
+n 3x0*> 7(ERtc 6/B6M addr:housenumber#2B addr:street#Wärnsköldsgatan
+n 3x0*? 7(ERqO 6/B8< addr:housenumber#2C addr:street#Wärnsköldsgatan
+n 3x0*D 6fKOw 6/B4f addr:housenumber#43A addr:street#Svanebäcksgatan
+n 3x0*E 6fKPo 6/B4z addr:housenumber#43B addr:street#Svanebäcksgatan
+n 3x0*F 6fKPg 6/B6v addr:housenumber#43C addr:street#Svanebäcksgatan
+n 3x0*M 7(ERen 6/B5Q addr:housenumber#4A addr:street#Wärnsköldsgatan
+n 3x0*N 7(ER]7 6/B5C addr:housenumber#4B addr:street#Wärnsköldsgatan
+n 3x0*O 7(ERTI 5"Iw[ addr:housenumber#4C addr:street#Wärnsköldsgatan
+n 3x0*T 7(EQu; 6/B4Y addr:housenumber#6A addr:street#Birger_Jarlsgatan
+n 3x0*U 7(ERJx 6/B4~ addr:housenumber#6A addr:street#Wärnsköldsgatan
+n 3x0*V 7(EQk} 6/B5[ addr:housenumber#6B addr:street#Birger_Jarlsgatan
+n 3x0*W 7(ERDR 6/B6Q addr:housenumber#6B addr:street#Wärnsköldsgatan
+n 3x0*` 7(EQj, 6/B7\ addr:housenumber#8A addr:street#Birger_Jarlsgatan
+n 3xM;^ 6fK[m 5"IuM addr:housenumber#10 addr:street#Peter_Bagges_gata
+n 3xM;_ 6fK[= 6/A|X addr:housenumber#18A addr:street#Svanebäcksgatan
+n 3xM;` 7(ES%J 5"IuO addr:housenumber#18B addr:street#Svanebäcksgatan
+n 3xM;a 7(ES+b 6/A|X addr:housenumber#18C addr:street#Svanebäcksgatan
+n 3xM;b 7(ERw3 6/B"R addr:housenumber#20A addr:street#Svanebäcksgatan
+n 3xM;c 7(ER|T 6/B!< addr:housenumber#20B addr:street#Svanebäcksgatan
+n 3xM;d 7(ERzE 6/B$$ addr:housenumber#20C addr:street#Svanebäcksgatan
+n 3xM;g 7(ESiW 5"IvV addr:housenumber#2A addr:street#Peter_Bagges_gata
+n 3xM;i 6fKa, 6/B)K addr:housenumber#2B addr:street#Peter_Bagges_gata
+n 3xM;j 7(ESfu 6/B(; addr:housenumber#2C addr:street#Peter_Bagges_gata
+n 3xM;m 7(ETE2 6/B"H addr:housenumber#33A addr:street#Slottsskogsgatan
+n 3xM;n 7(ET<Q 6/B#\ addr:housenumber#33B addr:street#Slottsskogsgatan
+n 3xM;o 7(ET3o 6/B$h addr:housenumber#35A addr:street#Slottsskogsgatan
+n 3xM;p 7(ET,b 6/B%l addr:housenumber#35B addr:street#Slottsskogsgatan
+n 3xM;q 7(ET$. 6/B&, addr:housenumber#35C addr:street#Slottsskogsgatan
+n 3xM;r 7(ES|: 6/B%% addr:housenumber#35D addr:street#Slottsskogsgatan
+n 3xM;t 6fK_v 6/B+W addr:housenumber#4A addr:street#Mariaplan
+n 3xM;u 6fK_^ 6/B'$ addr:housenumber#4A addr:street#Peter_Bagges_gata
+n 3xM;v 7(ESXN 6/B+f addr:housenumber#4B addr:street#Mariaplan
+n 3xM;w 7(ESYP 6/B&& addr:housenumber#4B addr:street#Peter_Bagges_gata
+n 3xM;x 7(ESN: 6/B+P addr:housenumber#4C addr:street#Mariaplan
+n 3xM;y 6fK\{ 6/B*h addr:housenumber#4D addr:street#Mariaplan
+n 3xM;{ 7(ESQp 6/B$i addr:housenumber#6A addr:street#Peter_Bagges_gata
+n 3xM;} 7(ESK@ 6/B#Y addr:housenumber#6B addr:street#Peter_Bagges_gata
+n 3xM;~ 7(ETF( 6/Axy addr:housenumber#7A addr:street#Gröna_Vallen
+n 3xM<! 7(ES</ 6/B)= addr:housenumber#7A addr:street#Mariagatan
+n 3xM<" 7(ET:q 6/AzI addr:housenumber#7B addr:street#Gröna_Vallen
+n 3xM<# 6fK[C 5"Iv> addr:housenumber#7B addr:street#Mariagatan
+n 3xM<$ 7(ET@5 6/Ay_ addr:housenumber#7C addr:street#Gröna_Vallen
+n 3xM<% 7(ET3K 6/A{G addr:housenumber#8A addr:street#Gröna_Vallen
+n 3xM<& 7(ESE) 6/B"5 addr:housenumber#8A addr:street#Peter_Bagges_gata
+n 3xM<' 7(ET'@ 6/A}( addr:housenumber#8B addr:street#Gröna_Vallen
+n 3xM<( 6fK\K 6/A~| addr:housenumber#8B addr:street#Peter_Bagges_gata
+n 3xM<) 7(ET-p 6/A|5 addr:housenumber#8C addr:street#Gröna_Vallen
+n 3xM<* 6fKak 6/B#u addr:housenumber#9A addr:street#Gröna_Vallen
+n 3xM<+ 7(ES+b 4.O+ addr:housenumber#9A addr:street#Mariagatan
+n 3xM<, 7(ESmY 6/B"4 addr:housenumber#9B addr:street#Gröna_Vallen
+n 3xM<- 7(ES%J 6/B%N addr:housenumber#9B addr:street#Mariagatan
+n 3xM<. 7(ESu9 6/B!8 addr:housenumber#9C addr:street#Gröna_Vallen
+n 3xM</ 7(ES|^ 5"IuR addr:housenumber#9D addr:street#Gröna_Vallen
+n 3}ssl 7(ETB? 6/B/Y addr:housenumber#2 addr:street#Ärlegatan
+n 3}ssx 7(ETK1 6/B)B addr:housenumber#40B addr:street#Slottsskogsgatan
+n 3}ssy 7(ETBF 6/B*F addr:housenumber#42A addr:street#Slottsskogsgatan
+n 3}ssz 7(ET8D 6/B+_ addr:housenumber#42B addr:street#Slottsskogsgatan
+n 3}ss{ 6fKaN 5"IwG addr:housenumber#44A addr:street#Slottsskogsgatan
+n 3}ss| 7(ESpx 6/B4_ addr:housenumber#44B addr:street#Slottsskogsgatan
+n 3}ss} 7(ESp' 6/B6< addr:housenumber#44C addr:street#Slottsskogsgatan
+n 3}ss~ 7(ESo4 6/B8+ addr:housenumber#46A addr:street#Slottsskogsgatan
+n 3}st& 7(ETK* 5"Iw% addr:housenumber#4A addr:street#Ärlegatan
+n 44T.5 7(ER~F 6/B-Z circumference#0,80 denotation#avenue height#12 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kZ 7(ES/% 6/B*Z circumference#0,90 denotation#avenue height#15 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.k[ 7(ES!? 6/B(: circumference#0,90 denotation#avenue height#15 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.k_ 7(ERw~ 6/B'' circumference#0,90 denotation#avenue height#15 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kb 7(ERwb 6/B,T circumference#0,40 denotation#avenue height#6 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kf 7(ERqY 6/B%s circumference#0,50 denotation#avenue height#12 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kg 7(ERqY 6/B+W circumference#0,80 denotation#avenue height#12 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kj 7(ERkO 6/B$[ circumference#0,50 denotation#avenue height#10 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kl 7(ERb$ 5"IvH circumference#0,80 denotation#avenue height#12 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kp 7(ES(2 6/B)G circumference#0,50 denotation#avenue height#9 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kr 7(ERhg 6/B*: circumference#0,80 denotation#avenue height#12 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 48.kt 7(ER[k 6/B'z circumference#0,50 denotation#avenue height#10 natural#tree taxon#Ulmus taxon:en#elm taxon:sv#alm type#broad_leaved
+n 4:#f- 7(EQ}v 6/B(F barrier#gate
+n 4Loda 7(ESX, 6/B=L crossing#uncontrolled highway#crossing sloped_curb#both
+n 4d8Wo 7(ER%F 6/A~, amenity#toilets
+n 5G\Ml 7(ES3y 6/B8x crossing#uncontrolled highway#crossing
+n 5~4~Z 7(ESN} 6/B=0 crossing#uncontrolled highway#crossing sloped_curb#both

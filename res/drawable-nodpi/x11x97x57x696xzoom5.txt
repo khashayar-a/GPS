@@ -1,0 +1,45 @@
+w "ogbe bench#yes bus#yes name#Vasaplatsen public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+:SC 7(E`i+ 6/G_I
+d 5+:SL 6fM!* 6/GdZ
+w "ogbl bench#yes bus#yes name#Vasaplatsen public_transport#platform ref#Läge_A shelter#yes tram#yes
+d 5+:S< 7(E`UN 6/GaR
+d 5+:SE 7(E`o! 6/Gg[
+n ?}G= 7(E`5, 6/HGx highway#traffic_signals
+n EaJB 6fLdZ 6/H'D highway#turning_circle
+n EaJC 7(E^7t 6/Glq amenity#parking capacity#2 fee#yes parking#surface
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n "fEA~ 6fL{, 5"JTg highway#traffic_signals
+n "fEKG 7(E`bn 6/HSJ highway#traffic_signals
+n #+vCB 7(E_Uh 5"JU/ is_in#Göteborg name#Lorensberg place#suburb
+n %!p75 7(E^rO 6/GeQ highway#traffic_signals
+n %!p78 7(E^t) 6/Gf_ highway#traffic_signals
+n %"W9u 7(E`vG 6/Gb9 bus#yes highway#bus_stop name#Vasaplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n %#{K) 7(EbLr 6/GT] highway#traffic_signals
+n %%i0G 7(EbEe 6/H8h name#Valand railway#tram_stop
+n %*g9_ 7(EbMl 6/Gfn highway#turning_circle
+n '%I3j 7(Ec@1 6/I/2 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (a{$M 6fL{~ 4.U' addr:housenumber#32 addr:street#Teatergatan amenity#restaurant cuisine#indian description#Oldest_indian_restaurant_in_GBG name#Zaika_Flavour_of_India opening_hours#Su-Th_11:00-23:00;_Fr-Sa_11:00-24:00 phone#031165077 website#www.zaika.se
+n ))[CT 7(E`sj 6/HH] amenity#restaurant name#Babar
+n )GF;` 7(E`FN 6/HP/ amenity#fast_food name#Grillköket_Jonsborg
+n )fQ4< 7(E`*@ 6/H*8 addr:housenumber#28 addr:street#Götabergsgatan amenity#restaurant name#Basement_Restaurant_&amp;_Bar website#www.restbasement.com wheelchair#no
+n +<nXI 7(Ea}W 6/HEV amenity#bicycle_rental capacity#25 name#Kristinelundsgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#14
+n +]qt% 7(E_7S 6/HE| amenity#restaurant cuisine#regional name#Familjen
+n /?~GW 7(E_l5 6/H.a amenity#restaurant name#Restaurang_28+ wheelchair#no
+n 1^YjI 7(EZzj 6/H&8 bicycle#yes crossing#traffic_signals highway#crossing
+n 1dNhP 7(E_<y 6/HT~ addr:postcode#41134 addr:street#Geijersgatan_12 amenity#restaurant cuisine#steak_house name#Meet website#http://www.restaurangmeet.se
+n 1dNhQ 7(E_;+ 6/HT^ amenity#restaurant cuisine#steak_house name#Meet wheelchair#yes
+n 1k_@y 6fLi^ 6/Gqn amenity#bicycle_rental capacity#20 name#Molinsgatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#37
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 5+:S# 7(E^AY 5"JN) highway#bus_stop name#Vasa_Kyrkogata shelter#no
+n 5+:S$ 7(E`^~ 6/Gcv bus#yes highway#bus_stop name#Vasaplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5rNd5 6fM&V 6/Goe name#Bluhme_Sjukvård_ab shop#yes
+n 5rNd6 7(EaO2 6/Gm] amenity#cafe name#Café_Dali
+n 5rNd@ 7(EaC* 6/Gjh amenity#cafe name#Garbo_Café
+n 5rNdJ 7(Ea<^ 6/Gi: addr:city#Göteborg addr:housenumber#38 addr:interpolation#even addr:street#Vasagatan
+n 5rNdK 7(Ea@6 6/Gj' addr:city#Göteborg addr:housenumber#40 addr:interpolation#even addr:street#Vasagatan
+n 5rNdO 7(Ea6( 6/Ggb amenity#doctors name#Medical_Beauty_Clinic website#http://www.medicalbeautyclinic.se/
+n 5rNdR 7(Ea36 5"JMS name#Pickles shop#clothes
+n 5rNd[ 7(Ea2x 6/Ge_ amenity#post_box operator#Posten

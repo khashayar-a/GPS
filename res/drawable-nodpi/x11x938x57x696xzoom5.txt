@@ -1,0 +1,18 @@
+n E^*- 7(EaNQ 6/DmM name#Masthuggstorget railway#tram_stop
+n K)@0 7(E^T: 6/DRv name#Masthugget place#suburb
+n $`ixp 7(Ea3q 6/CfD name#Stigbergstorget railway#tram_stop
+n $aN,W 7(E`9, 6/D]E name#Hemköp shop#supermarket
+n %!V6g 7(E^^_ 6/D7| barrier#gate
+n %!Ve8 7(E_-p 5"J0} addr:city#Göteborg addr:housenumber#13 addr:street#Klamparegatan
+n %"I0h 7(E]4$ 6/DGV barrier#gate
+n %"I0j 7(E]8Q 6/DRM barrier#gate
+n %crYS 7(E`F~ 6/DbU amenity#restaurant name#Galliano
+n %cr]@ 7(E`:f 6/DQ% amenity#gym name#World_Class_Masthugget
+n .BOj4 6fLtc 6/Dfl amenity#hospital name#Masthuggets_vårdcentral
+n .BOj9 7(E`:N 6/D^' amenity#atm
+n 4;kIf 7(Ea,p 6/D_\ amenity#fast_food cuisine#burger
+n 4;kIm 7(E`s2 6/D]l tourism#artwork
+n 4;kJ$ 7(E_$[ 6/Dcc addr:city#Göteborg addr:housenumber#11 addr:street#Klamparegatan
+n 4;kJ/ 7(E_*\ 6/DaI addr:city#Göteborg addr:housenumber#15 addr:street#Klamparegatan
+n 4;kJ5 7(E_%* 6/D_( addr:city#Göteborg addr:housenumber#17 addr:street#Klamparegatan
+n 6"??2 7(Eac, 6/DT" noexit#yes

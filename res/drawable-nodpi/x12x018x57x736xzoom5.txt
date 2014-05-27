@@ -1,0 +1,17 @@
+n %#;S> 7(F4T$ 6/N:> highway#traffic_signals
+n (ijP~ 7(F7+w 5"K2F bicycle#yes foot#yes highway#crossing
+n (if)d 7(F4Y8 6/N97 bicycle#yes foot#yes highway#crossing
+n %+8^Z 7(F-!] 6/N.C highway#mini_roundabout
+n 3U7)} 7(F-`{ 6/MyR highway#turning_circle
+n (ijhM 7(F4\N 6/N=! bicycle#yes foot#yes highway#crossing
+n '<^*E 7(F,Q\ 5"K)D highway#turning_circle
+n '<HIM 6fQ1Y 6/Moa addr:housenumber#11 addr:postcode#415_05 addr:street#Kortedalavägen amenity#fuel contact:phone#+4631432284 name#Jet_Kviberg operator#Jet
+n 3T<Iw 7(F1^' 5"K#? highway#turning_circle
+n 3T<I- 6fQQ~ 6/LeI highway#turning_circle
+n (ijhO 7(F47_ 6/N:| bicycle#yes foot#yes highway#crossing
+n (ierF 7(F77r 6/Nz/ bicycle#yes foot#yes highway#crossing
+n (ijhN 7(F4I[ 6/N7y bicycle#yes foot#yes highway#crossing
+n (ieoc 7(F458 6/N?~ bicycle#yes foot#yes highway#crossing
+n ?|f: 7(F4A$ 6/N=| highway#traffic_signals
+n 1hi9f 7(F+7[ 6/Lxk barrier#gate
+n (if)r 7(F7Mw 6/Np? bicycle#yes foot#yes highway#crossing

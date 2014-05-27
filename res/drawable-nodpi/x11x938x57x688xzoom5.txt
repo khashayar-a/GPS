@@ -1,0 +1,9 @@
+n EcN4 7(EX+s 6/D_r name#Slottskogsobservatoriet tourism#museum
+n 4`(!w 7(EW/5 5"J+j addr:housenumber#14 addr:street#Hålekärrsgatan
+n 4`("= 7(EWN/ 5"J+L addr:housenumber#1A addr:street#Vitögatan
+n 4`("A 6fL$Y 6/D*k addr:housenumber#1B addr:street#Vitögatan
+n 4`("R 7(EW_Z 6/D'" addr:housenumber#2A addr:street#Spetsbergsgatan
+n 4`("b 7(EW;i 6/D*! addr:housenumber#3 addr:street#Vitögatan
+n 4`("} 7(EW2V 6/D)5 addr:housenumber#5A addr:street#Vitögatan
+n 4`(## 7(EW)D 6/D(I addr:housenumber#5B addr:street#Vitögatan
+n 4`(#$ 6fL#T 5"J+r addr:housenumber#67 addr:street#Bangatan

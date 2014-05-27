@@ -1,0 +1,27 @@
+n $0T,F 7(F%yF 6/Lt2 amenity#fuel contact:phone#031-524104 name#Preem_-_Göteborg,Artillerigatan operator#Preem
+n $6&Ls 7(F$AI 6/L$8 highway#traffic_signals
+n %"u6( 7(F$]< 6/L5] highway#turning_circle
+n '<H7K 7(F&@l 6/LTH amenity#atm
+n 'l3T% 7(F%uw 6/Ld% name#Coop_Konsum shop#supermarket
+n 'l3mb 6fPP# 6/Led amenity#post_box
+n 'l3w+ 7(F%Uj 6/LU] shop#convenience
+n 'l4%@ 7(F%i; 6/Lj! amenity#parking
+n 'l4(M 7(F$V1 6/L9R amenity#fast_food cuisine#pizza
+n 'l4*m 7(F$k[ 6/LEE amenity#fast_food
+n )EpM_ 7(F'+f 6/LW\ building#yes
+n )EpNK 7(F'_l 6/Lj) building#yes
+n )G+g6 7(F%|& 6/L^e amenity#pharmacy name#Medstop
+n )G+gG 7(F%;L 6/LG_ amenity#cafe
+n )G+gU 7(F%5| 6/LE% name#Rambaldi shop#convenience
+n )G+gb 7(F&N3 6/LS> amenity#cafe
+n )GEz/ 7(F${o 6/LI8 amenity#pub name#Old_Corner
+n *>o\- 7(F%Fx 5"J{o highway#bus_stop name#SKF
+n *l-Fe 7(F&GK 6/L~g amenity#parking
+n *l-Fm 7(F%LN 6/LAL amenity#parking
+n 1<ki] 6fP3K 6/Kab bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kia 7(F$<G 6/L3d highway#traffic_signals
+n 1<kjh 6fP6p 6/Kl? bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1@:Nh 7(F%,Z 6/L\Y bench#yes name#SKF railway#tram_stop shelter#yes
+n 1@:Ni 7(F$|m 6/LWf bench#yes name#SKF railway#tram_stop shelter#yes
+n 2%qa. 7(F$Fb 5"Jwv highway#traffic_signals
+n 3k:(F 7(F$1Y 6/L6Q highway#traffic_signals

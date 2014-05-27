@@ -1,0 +1,92 @@
+w ",1nJ highway#tertiary name#Generatorsgatan oneway#yes
+d (yL<o 7(F%Gs 6/E>t
+d ."*y; 7(F%<2 5"J6h
+d E@Rj 7(F$y- 6/E>G
+w &beb highway#tertiary name#Minelundsvägen oneway#yes
+d E@Qy 6fPK# 6/EKF
+d ."*x@ 6fPK= 6/EG?
+d E@Q[ 7(F%U- 6/ECp
+w 4&a6 highway#tertiary name#Magnetgatan
+d E@R& 7(F"vQ 6/Dy>
+d *A]*P 7(F"xv 6/D{5
+d .>:@c 7(F"{E 6/D|)
+d *A]*9 6fP5B 6/E$o
+d E@R> 7(F#Jl 6/E+6
+d E@RU 7(F$#j 6/E99
+d E@Rd 7(F$2E 6/E;p
+w P~@# highway#secondary name#Minelundsvägen
+d $Q3ol 7(F%b3 6/D|c
+d .",%+ 7(F%bC 6/D}>
+d "6h%, 7(F%dY 6/E'G
+d $|S4j 7(F%a2 6/E2)
+w ?<?6 highway#secondary name#Minelundsvägen oneway#yes
+d $Q3ol 7(F%b3 6/D|c
+d $Q3ok 7(F%j* 6/DqV
+d "6h%* 7(F%x7 6/Dln
+w ".}a3 highway#tertiary name#Minelundsvägen oneway#yes
+d E@Gh 7(F%pt 6/EuN
+d .>Fn' 7(F%mS 6/EtG
+d .>FnZ 7(F%iW 6/Er4
+d E@R! 7(F%b{ 6/En9
+w 4&a7 highway#tertiary name#Generatorsgatan
+d E@Rd 7(F$2E 6/E;p
+d E@Rf 7(F$E: 6/E=a
+d &C3:K 7(F$TO 3"B,
+d E@Rh 7(F$YL 6/E>,
+d E@Rj 7(F$y- 6/E>G
+w ",1nI highway#tertiary name#Generatorsgatan oneway#yes
+d E@Rj 7(F$y- 6/E>G
+d E@Rl 7(F%1W 6/E?-
+d ."*y" 7(F%:{ 6/E@=
+d (yL<Q 7(F%?e 6/EAH
+w ?<?. highway#secondary name#Minelundsvägen oneway#yes
+d $Q3pL 7(F&!U 6/DiS
+d $Q3p} 7(F%sC 6/DkK
+d $Q3p~ 7(F%hT 6/Dmy
+d $Q3q! 7(F%df 6/Dpx
+d .",#& 7(F%bn 5"J3;
+d 'OUdT 7(F%bL 6/D{L
+d $Q3ol 7(F%b3 6/D|c
+w ",1nA highway#tertiary name#Minelundsvägen oneway#yes
+d E@Qw 7(F%Db 6/ECI
+d ."*xz 7(F%H} 6/EF_
+d E@Qy 6fPK# 6/EKF
+w P~?} highway#secondary name#Minelundsvägen oneway#yes
+d $|S4j 7(F%a2 6/E2)
+d &O2J_ 7(F%Rw 6/E<O
+d E@Qg 7(F%Lr 6/E>Y
+w C"'( highway#secondary name#Minelundsvägen oneway#yes
+d $|S44 7(F%Xk 6/E?B
+d $|S4h 7(F%[$ 6/E=7
+d &O2JT 7(F%[A 6/E<`
+d $|S4j 7(F%a2 6/E2)
+w &bea highway#tertiary junction#roundabout
+d E@Qi 7(F%DK 6/E??
+d E@QT 7(F%@S 6/E@K
+d (yL<Q 7(F%?e 6/EAH
+d E@Qm 7(F%@P 6/EB8
+d E@Qw 7(F%Db 6/ECI
+d E@QX 7(F%K+ 6/ED&
+d (yL<Y 7(F%P6 6/ED,
+d E@Q[ 7(F%U- 6/ECp
+d E@Q^ 7(F%Zb 6/EBz
+d (yL<_ 7(F%\p 6/EB)
+d E@Q` 7(F%]B 6/EAB
+d (yL<c 7(F%\M 6/E@H
+d $|S44 7(F%Xk 6/E?B
+d E@Qe 7(F%TN 6/E>n
+d (yL<j 7(F%OM 6/E>X
+d E@Qg 7(F%Lr 6/E>Y
+d (yL<o 7(F%Gs 6/E>t
+d E@Qi 7(F%DK 6/E??
+w ".}a; highway#tertiary name#Minelundsvägen oneway#yes
+d E@R! 7(F%b{ 6/En9
+d .>FnN 7(F%a^ 6/Eqm
+d .>Fn@ 7(F%_R 6/Et<
+d E@Gj 7(F%[i 6/Ev!
+w ",1nO highway#tertiary name#Minelundsvägen
+d E@Qy 6fPK# 6/EKF
+d E@Q| 7(F%Qj 6/EW"
+d $R/"a 7(F%W' 6/E]R
+d E@Q~ 7(F%Z0 6/Eb\
+d E@R! 7(F%b{ 6/En9

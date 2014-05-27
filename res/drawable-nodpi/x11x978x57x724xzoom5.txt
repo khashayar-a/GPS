@@ -1,0 +1,29 @@
+n :4I5 7(F#FU 6/I2T railway#switch
+n :4I; 7(F!"F 6/H@K name#Göteborg-Kville railway#technical_station ref#Gk
+n B5Ud 7(E}FG 6/I7F highway#motorway_junction name#Ringömotet ref#76
+n $0T-p 5'z<Y 5"J]V amenity#fuel name#Preem_-_Hisings_Backa,_Trb
+n 'u"BO 7(F#/H 6/He: highway#turning_circle
+n (/!$d 6fOcO 6/H]W railway#switch
+n (/!1: 7(E~)w 6/Hfd railway#switch
+n (/!EY 7(F"xM 6/I6t railway#switch
+n *""Xn 7(F%Z` 6/I-N highway#motorway_junction name#Ringömotet ref#76
+n *"Lr3 7(F"Om 6/HJ! highway#turning_circle
+n 1&ZA| 7(E~n` 5"JSQ railway#switch
+n 1&ZB> 7(F!<p 6/ITP railway#buffer_stop
+n 1&ZBM 7(F#'e 5"J\z railway#level_crossing
+n 1&ZBb 7(F#b` 6/I60 railway#buffer_stop
+n 1&ZBl 7(F#'U 6/IC: railway#crossing
+n 1&ZB~ 7(F"h> 6/I1H railway#switch
+n 1&ZC( 7(F#6d 6/I?\ railway#crossing
+n 1&ZC1 7(F!q6 6/Hv@ railway#switch
+n 1&ZC? 7(F!.{ 5"JU$ railway#switch
+n 1&ZCe 7(F""" 6/Hz; railway#switch
+n 1&ZD& 7(F">1 6/I:h railway#switch
+n 1&ZD6 7(E~Nq 5"JMP railway#switch
+n 1&ZDP 6fP$' 6/IUb railway#buffer_stop
+n 1&ZDa 7(F#9P 6/I@@ railway#level_crossing
+n 1&ZEj 7(F!'V 6/HH' railway#switch
+n 1&ZEl 7(E~Ne 6/Glk railway#switch
+n 1&ZEn 7(F"aO 6/I(X railway#switch
+n 1&ZEs 7(F"*^ 6/H|6 railway#switch
+n 1&ZEx 7(F"G( 6/I.N railway#switch

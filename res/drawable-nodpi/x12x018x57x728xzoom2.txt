@@ -1,0 +1,73 @@
+w ^3*c highway#secondary junction#roundabout name#Artillerigatan oneway#yes
+d (gF)8 7(F("= 6/Me+
+d ?zdY 7(F('| 6/Mf'
+d ?zdZ 7(F(08 6/MgD
+w &5W> highway#secondary name#Artillerigatan oneway#yes
+d j.=r 7(F(>Q 6/MZF
+d iIfN 7(F'`| 6/MU'
+w "J'N: highway#tertiary name#Kvibergsvägen oneway#yes
+d ?zdZ 7(F(08 6/MgD
+d &%6<- 7(F(Gh 6/MjT
+d 1A7"? 7(F)3W 6/M|_
+w ^3*e highway#secondary junction#roundabout name#Artillerigatan oneway#yes
+d @hNh 7(F(X\ 6/M^W
+d +bOG8 7(F(TI 6/M]V
+d j.=j 7(F(LQ 6/M[g
+d j.=r 7(F(>Q 6/MZF
+d 1<ki~ 7(F()# 6/MY|
+d Lv\ 7(F'}. 5"K&j
+d 1<kj_ 7(F'{" 6/M['
+d (gF)> 7(F'sx 6/M\S
+d 1<kj- 7(F'oQ 6/M]i
+d 1<kjQ 7(F'mh 5"K'6
+d 1<kj7 7(F'n9 6/M`:
+w ^3*_ highway#secondary name#Artillerigatan oneway#yes
+d j.=s 7(F&Q@ 6/M?/
+d ?zdW 7(F&\| 6/MD3
+d 1<kis 7(F''n 6/MNX
+d 1<kit 7(F'69 6/MQv
+d 1<kix 7(F'H9 6/MV&
+d ?zdX 7(F'i> 6/M^y
+d 1<kj7 7(F'n9 6/M`:
+w "aPiJ highway#residential name#Björnekärrsgatan
+d 3U7*: 6fP`K 6/MKh
+d 3U7)k 7(F(Sm 5"K$J
+d 3U7*5 7(F(_& 6/MBA
+d 3U7*4 7(F(id 6/MAt
+d 3U7*0 7(F)MR 6/MAT
+d 3U7*? 7(F)it 2-k
+w ^3*^ highway#secondary junction#roundabout name#Artillerigatan oneway#yes
+d ?zdZ 7(F(08 6/MgD
+d 1A7!r 7(F(>$ 6/Mgk
+d 1A7"G 7(F(HB 6/MgY
+d 1<O+I 7(F(Qr 5"K($
+w "aJCF bicycle#yes foot#yes highway#residential name#Fänriksgatan
+d 3TQ5u 7(F'uT 6/MQ{
+d 3TQ6Q 7(F(m( 6/MWQ
+d 3`8_D 6fPlr 6/MY7
+d 3]}H6 7(F)*` 6/MZ2
+d 3k:(G 7(F)/H 6/M[-
+w "Q<49 highway#secondary junction#roundabout name#Artillerigatan oneway#yes
+d 1<kj7 7(F'n9 6/M`:
+d 1A7"' 7(F'rB 6/MbP
+d (gF)8 7(F("= 6/Me+
+w &5W= highway#secondary name#Artillerigatan oneway#yes
+d @hNe 7(F&H- 6/M2S
+d 1<kk: 7(F&N8 6/M7)
+d 1<kk5 7(F&Nt 6/M<!
+d j.=s 7(F&Q@ 6/M?/
+w _[?q highway#secondary name#Artillerigatan oneway#yes
+d iIfN 7(F'`| 6/MU'
+d 1<ki[ 7(F'`k 6/MU$
+d 1<kjX 6fP\p 6/MOU
+d 1<kj) 7(F'#B 6/MHA
+d @hNf 7(F&l` 6/MA~
+d 3TQ5x 6fPU* 6/M7S
+d @hNe 7(F&H- 6/M2S
+w &._n bicycle#no foot#no highway#secondary lanes#3 name#Artillerigatan
+d ?zdc 7(F$ih 6/LHE
+d (i:Lf 7(F$kS 6/LIH
+d $6&V< 7(F%2. 6/LYp
+d &v,9~ 7(F%6Q 6/L\0
+d %=Y;? 7(F%\} 6/Ln-
+d @hNe 7(F&H- 6/M2S

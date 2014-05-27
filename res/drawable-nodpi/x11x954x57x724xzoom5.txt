@@ -1,0 +1,6 @@
+n "`:v- 7(F#Ib 6/Fv; highway#traffic_signals
+n &C3CT 6fP:$ 6/Ee, highway#bus_stop name#Deltavägen
+n :4IA 7(F#<G 5"JE+ railway#level_crossing
+n &#a'f 7(F#EN 6/Fn( railway#level_crossing
+n *>k}_ 6fP,< 6/FYh highway#bus_stop name#Tingstadsvass
+n *>k}[ 7(F"*, 6/F]2 highway#bus_stop name#Tingstadsvass

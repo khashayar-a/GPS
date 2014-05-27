@@ -1,0 +1,18 @@
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n $Q3aU 7(F%Mn 6/Dm2 highway#bus_stop name#Björnsonsgatan
+n $Q5%$ 7(F*jc 6/DMj highway#crossing
+n &O2JT 7(F%[A 6/E<` highway#crossing
+n &O2J_ 7(F%Rw 6/E<O highway#crossing
+n ',eY3 7(F%iU 6/E@` highway#crossing
+n ."(9f 6fPYU 6/D$T highway#crossing
+n ."(9r 7(F'&7 6/D#L highway#crossing
+n ."(=< 7(F'D* 6/D') highway#crossing
+n ."(=C 6fP\W 6/D(F highway#crossing
+n ."*x= 7(F&5# 6/Dk& barrier#lift_gate
+n 4;km| 7(F(@H 4.QG addr:housenumber#11 addr:street#Kamomillvägen
+n 4;km~ 7(F(<o 6/DOr addr:housenumber#9 addr:street#Kamomillvägen
+n 4;kn! 7(F(3j 6/DOZ addr:housenumber#7 addr:street#Kamomillvägen
+n 4;kn' 7(F(*R 6/DO) addr:housenumber#3 addr:street#Kamomillvägen
+n 4;kn* 7(F(0g 6/DN{ addr:housenumber#5 addr:street#Kamomillvägen
+n 5mb_S 7(F'MS 6/D-^ amenity#parking capacity#2
+n 5mb_Z 7(F'_n 6/D.{ amenity#parking capacity#2

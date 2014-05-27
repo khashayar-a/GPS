@@ -1,0 +1,32 @@
+n "77N~ 7(ExnP 6/>}* name#Önskevädersgatan railway#tram_stop
+n "77O' 7(E|^} 6/?!8 name#Friskväderstorget railway#tram_stop
+n "77O+ 7(F"5S 6/?"z name#Väderilsgatan railway#tram_stop
+n "77OI 7(F-Z* 6/??\ name#Varmfrontsgatan railway#tram_stop
+n %H<4{ 7(Ew%f 6/>[f highway#turning_circle
+n %H<7f 7(Esdz 6/>fz name#Mildvädersgatan railway#tram_stop
+n &8@)N 6fPm8 6/?7S name#Temperaturgatan railway#tram_stop
+n 'T1R5 7(F)\* 5"I\3 crossing#island crossing_ref#zebra highway#crossing traffic_calming#hump
+n *#@uR 7(EvJa 6/?:w amenity#recycling recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n *#@u{ 7(ExZs 6/?De amenity#recycling recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n *gloj 7(Exvr 6/>}l crossing#uncontrolled highway#crossing
+n 0PR`+ 7(Eu,- 5"I\R amenity#post_box
+n 0gR?H 7(Eyn: 6/?/w addr:housenumber#13 addr:street#Önskevädersgatan
+n 0gR?R 7(Ey08 5"I[l addr:housenumber#14 addr:street#Molnvädersgatan
+n 0gR@D 7(Ez#M 6/?4A addr:housenumber#19 addr:street#Önskevädersgatan
+n 0gRA) 7(Ez&> 6/?7f addr:housenumber#21 addr:street#Önskevädersgatan
+n 0gRA` 7(Eyx( 6/?/_ addr:housenumber#15 addr:street#Önskevädersgatan
+n 0gRAz 7(Exk/ 6/?9| addr:housenumber#8 addr:street#Molnvädersgatan
+n 0gRB? 7(EyS~ 6/?5) addr:housenumber#5 addr:street#Önskevädersgatan
+n 0gRB[ 7(Exju 6/??Q addr:housenumber#2 addr:street#Molnvädersgatan
+n 0gRC* 7(Exi5 6/?=; addr:housenumber#4 addr:street#Molnvädersgatan
+n 0gRCJ 7(Ey>T 6/?8W addr:housenumber#16 addr:street#Molnvädersgatan
+n 0gRCo 7(EyU\ 6/?0S addr:housenumber#9 addr:street#Önskevädersgatan
+n 0gRCz 4b?K 6/?9` addr:housenumber#10 addr:street#Molnvädersgatan
+n 0gRD< 7(EyQn 6/?2B addr:housenumber#7 addr:street#Önskevädersgatan
+n 0gRDQ 7(Ey&! 6/?9: addr:housenumber#12 addr:street#Molnvädersgatan
+n 0gRDu 7(ExgH 6/?:s addr:housenumber#6 addr:street#Molnvädersgatan
+n 0gRD{ 7(Ey~^ 6/?0| addr:housenumber#17 addr:street#Önskevädersgatan
+n 0gRE& 7(EyLA 6/?83 addr:housenumber#18 addr:street#Molnvädersgatan
+n 0gREF 7(Ey_m 6/?0; addr:housenumber#11 addr:street#Önskevädersgatan
+n 32\{, 7(Etf> 6/>iP amenity#recycling recycling:batteries#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 4UGda 6fPoJ 6/?;m bench#no highway#bus_stop name#Temperaturgatan shelter#no

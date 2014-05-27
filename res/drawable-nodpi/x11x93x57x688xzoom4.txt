@@ -1,0 +1,96 @@
+w 'a^o highway#footway
+d 25M.t 7(EUI@ 6/CM;
+d Q:6s 7(EUOm 6/CMd
+d Q:7) 7(EU}e 6/CPn
+w &l`$ highway#footway
+d F=uS 7(ETdX 6/Cv\
+d F=v* 7(ETor 6/D#?
+d F=v! 7(ETzC 6/D/%
+d F=v" 7(ETnt 6/D1N
+d F=v# 7(EUHB 6/D4j
+d F=v& 6fKr7 6/D8[
+w 'a^p highway#steps
+d Q:6N 7(EUu" 6/CTM
+d Q:7) 7(EU}e 6/CPn
+w 'ab* highway#footway
+d K=,. 6fK|v 6/CNF
+d Q:7; 7(EVL: 6/CKu
+w &gj[ highway#footway
+d Ec<* 7(EWpl 5"J(N
+d Ec<+ 7(EWY} 6/Cuf
+d Ec<, 7(EWBY 6/D!y
+w "S2_f highway#footway
+d 25k=J 7(EVc& 6/C|v
+d 25k=G 7(EV^b 6/C}k
+d 25k=D 7(EVYH 5"J*E
+d 25k=V 7(EVU2 6/D!b
+d 25k=S 7(EVQ{ 6/D"8
+d 25k=F 7(EVI| 6/D#I
+w "S1Av highway#footway
+d 25W)R 7(EW_n 6/D,L
+d 25W)Z 7(EWXr 6/D+=
+d 25W)N 7(EWSD 6/D*h
+d 25W)U 7(EWL4 6/D*(
+d 25W)= 7(EWE3 6/D)R
+d 25W)9 6fL$< 6/D)6
+d 25W)` 7(EW>* 6/D(u
+d 25W)\ 7(EW7^ 6/D(C
+d 25W)a 7(EV|D 6/D&;
+d 25W)c 7(EVq@ 6/D%U
+w "S/G_ highway#service
+d 25M.t 7(EUI@ 6/CM;
+d 25M.n 7(EU@5 6/CPL
+w "=<no highway#cycleway
+d *?-95 7(EPwR 6/Clu
+d *?-9R 7(EQ)w 6/Ck#
+d *?-9S 7(EQ?: 6/Ci^
+d F=u\ 7(EQT" 6/Ci>
+d F=uW 7(EQy7 4.Pg
+d F=uV 7(ER9f 6/Cl;
+d *?-6E 7(ES1i 6/CkX
+d *?-9T 7(ESR* 6/CmS
+d F=uU 7(ESq5 6/Cpe
+d F=uT 7(ET'B 6/CqR
+d F=uS 7(ETdX 6/Cv\
+d 4`(#9 7(ETz; 6/C{3
+d 4`(#= 7(EU7: 6/D$<
+d 4`(#? 7(EUmP 6/D)p
+d F=uR 7(EV%4 6/D.2
+d F=uQ 7(EV2w 6/D/m
+d 4`(#@ 7(EVap 6/D1O
+d 4`(#A 7(EVr2 6/D2C
+d 4`(#E 7(EW#k 6/D3Y
+w "S2hH highway#service
+d 25l~3 7(EV'x 6/C]j
+d 25l~6 7(EU{Q 6/C_E
+d 25l~( 6fKs^ 6/C`w
+w 'ab+ highway#steps
+d Q:7; 7(EVL: 6/CKu
+d Q:7Q 7(EV;z 6/CL@
+d 4M<h` 7(EV16 6/CIw
+d Q:7_ 7(EV-6 4.PD
+w "S1Ap highway#footway
+d 25W)^ 7(EVv_ 6/Cn=
+d 25W)4 7(EVr[ 6/Cov
+w "S1Au highway#footway
+d 25W)X 7(EWDB 6/Cr&
+d 25W)J 7(EW@H 6/CsX
+w "S1Ay highway#footway
+d 25W)d 7(EW8! 6/Cp}
+d 25W)E 7(EW40 6/CrU
+w 'af5 highway#footway
+d Q:8< 7(EUPR 6/C2l
+d RK=4 7(EV<* 6/C/_
+d 4Ly1A 7(EV>c 6/C-\
+w "S2_g highway#service
+d 25k=W 7(EVn, 6/D"%
+d 25k=L 7(EVYY 6/D"f
+d 25k=F 7(EVI| 6/D#I
+d 25k=< 7(EV;\ 5"J*b
+w '/Z~ highway#footway
+d K=,/ 7(EWm[ 6/CDb
+d K=,3 7(EXNg 6/CEr
+d K=,4 7(EXrm 6/CB~
+d K=,5 7(EY,q 6/C<>
+d K=,6 7(EY_z 6/C7=
+d I6>R 7(EYRx 6/C0o

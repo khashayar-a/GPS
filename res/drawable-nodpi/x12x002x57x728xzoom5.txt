@@ -1,0 +1,24 @@
+n ?Te3 7(F9tL 6/Kww name#Göteborg_Marieholm railway#technical_station ref#Gbm
+n $6&Ls 7(F$AI 6/L$8 highway#traffic_signals
+n %"u6( 7(F$]< 6/L5] highway#turning_circle
+n %[i~K 7(F$wL 6/KW0 railway#switch
+n )G+h" 7(F'MI 6/L!i amenity#recycling
+n )G+h3 6fPPJ 6/K{? amenity#restaurant cuisine#indian
+n )G+hK 6fPMh 6/K{4 shop#convenience
+n *+H_O 7(F%DB 6/KTr traffic_calming#bump
+n *l-Fg 7(F(&7 6/L06 amenity#parking
+n *l-Fh 7(F'Jz 5"Juz amenity#parking
+n +m;-e 7(F;G> 6/KsR railway#switch
+n -[=t& 7(F%O@ 6/L'@ addr:housenumber#3a
+n 1<WSa 7(F%!D 6/K[R railway#switch
+n 1<WSh 7(F%Kk 6/K\5 railway#switch
+n 1<ki] 6fP3K 6/Kab bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kia 7(F$<G 6/L3d highway#traffic_signals
+n 1<kj] 7(F#e" 6/KZ< bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kjh 6fP6p 6/Kl? bench#yes name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1<kk7 7(F#t3 6/KYg name#Gamlestadstorget railway#tram_stop shelter#yes
+n 1@;Xm 7(F#t= 6/L&W barrier#cycle_barrier
+n 3U-Uo 7(F#}a 6/L%k barrier#cycle_barrier
+n 3k:(F 7(F$1Y 6/L6Q highway#traffic_signals
+n 4+'Q@ 7(F(nx 6/KZ) fixme#unvollstaendig_/_not_ready
+n 4+'QG 7(F(oe 6/K[= fixme#unvollstaendig_/_not_ready

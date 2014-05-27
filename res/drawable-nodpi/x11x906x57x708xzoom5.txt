@@ -1,0 +1,151 @@
+n "=#I3 7(El4- 6/@Nz traffic_calming#yes
+n "=#JP 7(ErSl 6/@sD traffic_calming#yes
+n $**08 7(Efd\ 5"Il( highway#turning_circle
+n $NQ54 7(Ek;~ 6/@fc highway#turning_circle
+n $NQ57 7(Ek,v 6/@`V highway#turning_circle
+n $NQ5a 7(Ek"] 5"IhP highway#turning_circle
+n $NQ7D 7(EjxH 6/@T2 highway#turning_circle
+n $NQ;/ 7(Ei}F 6/@K2 traffic_calming#yes
+n $kUX` 7(Eo-T 6/A8A building#yes description#retirement_home name#Kyrkbyhemmet
+n 'x^A% 7(EkT3 6/@md highway#turning_circle
+n .o~+h 7(EnhS 6/A"# addr:housenumber#8D addr:street#Inägogatan
+n /-&d{ 7(EqFg 6/A,@ traffic_calming#yes
+n /-&e@ 7(Er7& 6/A'& traffic_calming#yes
+n /-&e_ 7(Epgv 6/A01 traffic_calming#yes
+n /-&ex 7(Es31 6/@wF traffic_calming#yes
+n /-&f^ 7(Eo4- 6/A+0 traffic_calming#yes
+n /-(&3 7(EqqJ 6/@l- traffic_calming#yes
+n /-(&> 7(EpTb 6/@c= traffic_calming#yes
+n /-((N 7(Eq+q 6/@f. traffic_calming#yes
+n /8i{s 7(En!{ 6/@Z> traffic_calming#yes
+n /8i|# 7(Em&. 6/@Xa traffic_calming#yes
+n /8m#( 7(Eo*t 6/@LZ highway#bus_stop name#Kyrkbytorget
+n /8m%$ 7(Enfg 6/@N! highway#crossing
+n /8m%| 7(EnmB 6/@N' highway#crossing
+n /jquS 6fN.: 6/A*j traffic_calming#yes
+n /jquc 7(Ek7& 6/@^Y addr:housenumber#4D addr:street#Finlandsgatan building#entrance
+n /jqup 7(EkDn 6/@e$ addr:housenumber#4D addr:street#Estlandsgatan building#entrance
+n /jqv( 7(Ek>$ 6/@k{ addr:housenumber#32A addr:street#Prebendegatan building#entrance
+n /jqv8 7(Ek.w 6/@f) addr:housenumber#4A addr:street#Estlandsgatan building#entrance
+n /jqv< 7(Ek!b 6/@_X addr:housenumber#4A addr:street#Finlandsgatan building#entrance
+n /jqvQ 5'z*R 6/@X\ addr:housenumber#4C addr:street#Hullgatan building#entrance
+n /jqvS 7(EkS$ 5"Ij4 addr:housenumber#32D addr:street#Prebendegatan building#entrance
+n /jr`` 7(EknV 6/A9) traffic_calming#yes
+n /jr`o 6fN(y 6/A]P traffic_calming#yes
+n /jrb) 7(Ekof 6/ALa traffic_calming#yes
+n 0nnf, 7(Emqq 6/@V\ addr:housenumber#8D addr:street#Eketrägatan
+n 0nnf3 7(EnPs 6/@S" addr:housenumber#10E addr:street#Eketrägatan
+n 0nnf4 7(Enl& 6/@_| addr:housenumber#11A addr:street#Eketrägatan
+n 0nnf6 7(Eo#! 6/@km addr:housenumber#12C addr:street#Byalagsgatan
+n 0nnf8 7(ElQQ 5"IiD addr:housenumber#1C addr:street#Aringsgatan
+n 0nnf@ 7(El#o 5"IhW addr:housenumber#1F addr:street#Eketrägatan
+n 0nnfH 7(El\" 6/@Qe addr:housenumber#2E addr:street#Eketrägatan
+n 0nnfK 7(En]I 6/A!T addr:housenumber#8C addr:street#Inägogatan
+n 0nnfX 7(En`$ 6/@tx addr:housenumber#10E addr:street#Byalagsgatan
+n 0nnf] 7(Em[, 6/@WY addr:housenumber#8B addr:street#Eketrägatan
+n 0nnfe 7(EnsL 6/A$< addr:housenumber#8B addr:street#Byalagsgatan
+n 0nnfh 7(Eo+q 6/@pS addr:housenumber#12A addr:street#Byalagsgatan
+n 0nnfj 7(El)w 6/@UU addr:housenumber#1D addr:street#Eketrägatan
+n 0nnfm 7(EmBl 6/@P[ addr:housenumber#6E addr:street#Eketrägatan
+n 0nnfs 7(El`[ 6/@N, addr:housenumber#2C addr:street#Eketrägatan
+n 0nng% 7(EnP; 6/@~~ addr:housenumber#8B addr:street#Inägogatan
+n 0nng( 6fN.b 6/@li addr:housenumber#1G addr:street#Aringsgatan
+n 0nng- 7(Enjn 6/@uE addr:housenumber#10D addr:street#Byalagsgatan
+n 0nng/ 7(EmM3 6/@V| addr:housenumber#8A addr:street#Eketrägatan
+n 0nng8 7(El(x 6/@Q5 addr:housenumber#1C addr:street#Eketrägatan
+n 0nng9 7(EnBO 6/@YO addr:housenumber#10C addr:street#Eketrägatan
+n 0nng< 6fN/z 6/@LQ addr:housenumber#2B addr:street#Eketrägatan
+n 0nngE 7(El9> 6/@aa addr:housenumber#1A addr:street#Aringsgatan
+n 0nngI 7(Elge 6/@oH addr:housenumber#6B addr:street#Aringsgatan
+n 0nngK 7(Enlp 6/@k! addr:housenumber#12E addr:street#Byalagsgatan
+n 0nngO 7(Eo"m 6/@w} addr:housenumber#10B addr:street#Byalagsgatan
+n 0nngV 7(Eo!a 6/@T+ name#Coop_Nära opening_hours#Mo-Sa_09:00-21:00;Su_10:00-21:00 shop#convenience
+n 0nngX 7(ElLk 6/@iX addr:housenumber#1F addr:street#Aringsgatan
+n 0nng_ 7(EkkV 6/@P% addr:housenumber#1A addr:street#Eketrägatan
+n 0nngb 7(En%n 6/@X7 addr:housenumber#10A addr:street#Eketrägatan
+n 0nngd 7(Eo;f 6/@cV addr:housenumber#14B addr:street#Byalagsgatan
+n 0nngg 7(Em&l 6/@VH addr:housenumber#6B addr:street#Eketrägatan
+n 0nngi 7(Endn 6/@WL amenity#recycling recycling:batteries#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 0nngs 7(Emvk 6/@Rj addr:housenumber#8E addr:street#Eketrägatan
+n 0nng} 7(EnSY 6/@Pn addr:housenumber#10F addr:street#Eketrägatan
+n 0nnh" 7(Env4 6/@`F addr:housenumber#11B addr:street#Eketrägatan
+n 0nnh& 7(EnwC 6/@kI addr:housenumber#12D addr:street#Byalagsgatan
+n 0nnh+ 7(ElSb 6/@c} addr:housenumber#1D addr:street#Aringsgatan
+n 0nnh. 7(El"Z 6/@]u addr:housenumber#1G addr:street#Eketrägatan
+n 0nnh3 7(EnTO 6/@tI addr:housenumber#10F addr:street#Byalagsgatan
+n 0nnh< 7(Emj@ 6/@X; addr:housenumber#8C addr:street#Eketrägatan
+n 0nnhD 7(Emz~ 6/@OP addr:housenumber#8F addr:street#Eketrägatan
+n 0nnhF 7(Eo.f 6/@n% addr:housenumber#12B addr:street#Byalagsgatan
+n 0nnhP 7(El&r 6/@X0 addr:housenumber#1E addr:street#Eketrägatan
+n 0nnhR 7(EmF3 6/@Mu addr:housenumber#6F addr:street#Eketrägatan
+n 0nnhU 7(El^0 6/@P% addr:housenumber#2D addr:street#Eketrägatan
+n 0nnhn 7(Enp- 6/A'& addr:housenumber#8A addr:street#Byalagsgatan
+n 0nnhz 7(Em?H 6/@S@ addr:housenumber#6D addr:street#Eketrägatan
+n 0nni! 7(EnM? 6/@Ur addr:housenumber#10D addr:street#Eketrägatan
+n 0nni& 6fN.& 6/@b4 addr:housenumber#1B addr:street#Aringsgatan
+n 0nni- 7(Eo.t 6/@aB addr:housenumber#11D addr:street#Eketrägatan
+n 0nni7 6fN@i 5"Il/ addr:housenumber#8A addr:street#Inägogatan
+n 0nni8 7(Elfp 6/@rY addr:housenumber#6C addr:street#Aringsgatan
+n 0nni: 7(EnbR 6/@jX addr:housenumber#12F addr:street#Byalagsgatan
+n 0nni= 7(Entx 6/@un addr:housenumber#10C addr:street#Byalagsgatan
+n 0nniE 7(Ekz1 6/@P` addr:housenumber#1B addr:street#Eketrägatan
+n 0nniM 7(En4? 6/@Xs addr:housenumber#10B addr:street#Eketrägatan
+n 0nniP 7(Eo8J 6/@f? addr:housenumber#14A addr:street#Byalagsgatan
+n 0nniR 7(Em7( 6/@W2 addr:housenumber#6C addr:street#Eketrägatan
+n 0nniS 6fN.O 6/@Kr addr:housenumber#2A addr:street#Eketrägatan
+n 0nniX 7(Elk, 6/@ln addr:housenumber#6A addr:street#Aringsgatan
+n 0nniZ 7(En}E 6/@za addr:housenumber#10A addr:street#Byalagsgatan
+n 0nnid 7(Eo&g 6/@a! addr:housenumber#11C addr:street#Eketrägatan
+n 0nnii 7(Eo$h 6/@TD amenity#post_box
+n 0nnik 7(ElO| 6/@g! addr:housenumber#1E addr:street#Aringsgatan
+n 0nnim 7(Elvc 5"Ih( addr:housenumber#6A addr:street#Eketrägatan
+n 0nnis 7(ElvS 6/@]{ amenity#recycling recycling:batteries#yes recycling:clothes#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 10:`@ 7(ElJw 6/A%0 addr:housenumber#56 addr:street#Pilegårdsgatan
+n 10:a5 7(El0; 6/A)' addr:housenumber#17 addr:street#Pilegårdsgatan
+n 10:b% 7(Ekpt 6/@rz addr:housenumber#22 addr:street#Douglasgatan
+n 10:c$ 5'z+8 5"Ilj addr:housenumber#31 addr:street#Douglasgatan
+n 10:cS 7(Ekin 6/@ud addr:housenumber#20 addr:street#Douglasgatan
+n 10:d$ 7(El'J 6/@w' addr:housenumber#46 addr:street#Östra_Bräckevägen
+n 10:dU 6fN.p 6/A"a addr:housenumber#38 addr:street#Östra_Bräckevägen
+n 10:dx 7(ElA/ 6/A"B addr:housenumber#54 addr:street#Pilegårdsgatan
+n 10:eh 7(El$c 6/A*] addr:housenumber#2 addr:street#Södra_Inägogatan
+n 10:g^ 7(El+n 6/@zj addr:housenumber#50 addr:street#Pilegårdsgatan
+n 10:gm 7(EkhK 6/@r3 addr:housenumber#48 addr:street#Östra_Bräckevägen
+n 10:h5 7(El#o 6/A82 addr:housenumber#2 addr:street#Ullmansgatan
+n 10:i# 7(ElB9 6/@}c addr:housenumber#40 addr:street#Östra_Bräckevägen
+n 10:i[ 7(El$L 5"Imn addr:housenumber#1 addr:street#Södra_Inägogatan
+n 10:lZ 7(EkwD 6/A6U addr:housenumber#25 addr:street#Douglasgatan
+n 10:lk 7(Ekk$ 6/@og addr:housenumber#50 addr:street#Östra_Bräckevägen
+n 10:ll 7(El0U 6/A*b addr:housenumber#4 addr:street#Södra_Inägogatan
+n 10:m/ 7(El#D 6/A%( addr:housenumber#15 addr:street#Pilegårdsgatan
+n 10:mQ 7(El6_ 6/@}V addr:housenumber#52 addr:street#Pilegårdsgatan
+n 10:mt 7(El,% 6/@x0 addr:housenumber#44 addr:street#Östra_Bräckevägen
+n 10:oo 7(Ek~O 6/@w~ addr:housenumber#48 addr:street#Pilegårdsgatan
+n 10:p1 7(EkUn 6/@yl addr:housenumber#46 addr:street#Pilegårdsgatan
+n 10:pt 7(EkyH 6/A2m addr:housenumber#27 addr:street#Douglasgatan
+n 10:q/ 7(Ekw| 6/@v; addr:housenumber#33 addr:street#Douglasgatan
+n 10:q8 7(Ek_a 6/@oG addr:housenumber#35 addr:street#Prebendegatan
+n 10:q{ 5'z+$ 6/@wh addr:housenumber#18 addr:street#Douglasgatan
+n 10:r5 7(El6v 6/@{! addr:housenumber#42 addr:street#Östra_Bräckevägen
+n 10:s" 7(Eky< 6/A)1 addr:housenumber#29 addr:street#Douglasgatan
+n 1I=#{ 6fN1# 6/AH[ addr:housenumber#10 addr:street#Ödmansgatan
+n 1I=$D 7(Ek6C 6/@ee addr:housenumber#4B addr:street#Estlandsgatan building#entrance
+n 1I=$K 7(Eku| 6/ABz addr:housenumber#21 addr:street#Douglasgatan
+n 1I=$L 7(El&I 6/A=# addr:housenumber#1 addr:street#Ullmansgatan
+n 1I=$\ 7(ElS; 5"In~ addr:housenumber#7 addr:street#Ullmansgatan
+n 1I=$_ 6fN!h 6/@_: addr:housenumber#4B addr:street#Finlandsgatan building#entrance
+n 1I=$c 7(El6C 6/AHg addr:housenumber#4 addr:street#Ödmansgatan
+n 1I=$u 6fN!H 6/@X~ addr:housenumber#4B addr:street#Hullgatan building#entrance
+n 1I=%" 7(EkDa 5"Ij: addr:housenumber#32B addr:street#Prebendegatan building#entrance
+n 1I=%8 7(ElD@ 6/A<y addr:housenumber#5 addr:street#Ullmansgatan
+n 1I=%A 7(ElT9 6/AH_ addr:housenumber#8 addr:street#Ödmansgatan
+n 1I=%W 6fN)R 6/AEu addr:housenumber#19 addr:street#Douglasgatan
+n 1I=%l 7(El'G 6/AHk addr:housenumber#2 addr:street#Ödmansgatan
+n 1I=&' 7(Ejr= 6/@Yh addr:housenumber#4A addr:street#Hullgatan building#entrance
+n 1I=&2 7(Ek=m 6/@eD addr:housenumber#4C addr:street#Estlandsgatan building#entrance
+n 1I=&4 7(Ekue 6/A@" addr:housenumber#23 addr:street#Douglasgatan
+n 1I=&5 7(El5E 6/A<} addr:housenumber#3 addr:street#Ullmansgatan
+n 1I=&D 7(Elb7 6/A<q addr:housenumber#9 addr:street#Ullmansgatan
+n 1I=&I 7(Ek/] 6/@^z addr:housenumber#4C addr:street#Finlandsgatan building#entrance
+n 1I=&O 7(ElE> 5"Ip1 addr:housenumber#6 addr:street#Ödmansgatan
+n 1I=&q 7(EkL! 6/@k@ addr:housenumber#32C addr:street#Prebendegatan building#entrance

@@ -1,0 +1,51 @@
+n "uxh! 7(Em4$ 6/K:k highway#turning_circle
+n $MZs/ 7(EqTB 6/KV\ amenity#pub name#Paddingtons
+n $MZtp 7(Er9k 6/KNM amenity#place_of_worship denomination#lutheran name#St_Pauli-kyrkan religion#christian
+n $oO$& 7(Et"C 6/KDB amenity#school name#Redbergsskolan
+n $o}'0 7(EqpZ 6/KJh highway#turning_circle
+n $qUUg 6fNmi 6/Kw? amenity#place_of_worship name#Östra_Kapellet religion#christian
+n $sse| 7(EswH 6/KR2 amenity#pub name#Halta_Lottas_krog
+n (%FK7 7(EqjF 6/Kow amenity#restaurant cuisine#indian name#Masala
+n (%FMC 7(Eq\8 4.X< name#Viol_livs shop#convenience
+n (%FRE 7(Eq/9 6/Kt; amenity#cafe cuisine#coffee_shop name#Dahls_Bakeshop
+n (%H@_ 7(Eol$ 6/L)E amenity#kindergarten name#Tindra
+n (%HY" 7(ErYi 6/KYh name#Redbergsgårdens_Blommor shop#florist
+n (%H`{ 7(Er|\ 6/KV` amenity#fast_food cuisine#burger name#Redbergsgrillen
+n ,tBPO 7(EpX^ 6/KJ: addr:housenumber#3a-c addr:street#Wrangelsgatan
+n 1<ZZH 7(F!Dc 6/KR| railway#switch
+n 1<ZZX 7(E}Lt 6/K]p railway#railway_crossing
+n 1<ZZb 6fOt* 5"Jqv railway#switch
+n 1A29x 7(Etbf 6/KZP bench#yes name#Redbergsplatsen railway#tram_stop
+n 1A2so 7(Eyo; 6/Kgu bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1A2sq 7(EtNC 6/KXk bench#yes name#Redbergsplatsen railway#tram_stop shelter#yes
+n 1A2sy 7(EyZ> 6/Kff bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1BRza 6fNyx 6/K\j name#Redbergsplatsen railway#tram_stop
+n 1BR{- 7(EuEB 6/L`\ name#Stockholmsgatan railway#tram_stop
+n 1BR{J 7(EtRY 6/K_g name#Redbergsplatsen railway#tram_stop
+n 1BR{T 7(EuAE 6/L[< name#Stockholmsgatan railway#tram_stop
+n 2%rn, 7(ErZX 6/K!z bench#yes name#Olskrokstorget railway#tram_stop shelter#yes
+n 2%rn/ 7(ErX< 6/Jy` bench#yes name#Olskrokstorget railway#tram_stop shelter#yes
+n 3U/$P 7(EtwN 6/Kh! barrier#bollard
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 3j};0 7(EsOp 6/L2S highway#turning_circle
+n 5HiDc 7(EsGe 6/KF_ addr:housenumber#38 addr:street#Redbergsvägen amenity#bank atm#yes name#Nordea
+n 5HiGT 7(EsS] 6/KIq addr:housenumber#42 addr:postcode#41666 addr:street#Redbergsvägen name#Lidl shop#supermarket
+n 5fHSg 7(Ercn 6/KY- name#Redbergsgårdens_Konditori shop#bakery
+n 5fHSs 7(Erv+ 6/KW~ amenity#restaurant cuisine#chinese name#Imperial
+n 5fHSw 6fNaJ 6/K[c amenity#place_of_worship denomination#Pingstkyrkan religion#christian
+n 5fHSz 7(EpR} 6/Kqk name#Massor_Med_Gott shop#confectionery
+n 5fHT( 7(EpU+ 6/Kx' alt_name#Danska_Vägens_Livs name#De-Ve_Livs shop#convenience
+n 5fHT- 7(Eq`; 6/KS~ amenity#place_of_worship denomination#Frälsningsarmén religion#christian
+n 5fHT1 7(EqIe 6/Kph amenity#restaurant cuisine#pizza name#La_Venezia
+n 5fHT= 7(EpK& 6/Kx7 amenity#fast_food cuisine#pizza name#Pizzeria_Ferrarri
+n 5fNTo 7(Eo_p 6/Kxm amenity#restaurant cuisine#turkish name#Sofra
+n 5fNTr 7(EouN 6/Kg< amenity#fast_food cuisine#pizza name#Pizzeria_Roma
+n 6!Pbu 7(EqT@ 6/L=) addr:housenumber#3A addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pbw 7(EqKK 6/L<l addr:housenumber#3B addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pby 7(EqB. 6/L<L addr:housenumber#3C addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pb} 7(Eq6U 5"Jx> addr:housenumber#5A addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pb~ 7(Eq(b 6/L;a addr:housenumber#5B addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pc! 7(Epu` 5"Jx6 addr:housenumber#7 addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!Pc# 7(Ep^g 5"Jx/ addr:housenumber#9AB addr:interpolation#odd addr:street#Bielkegatan building#entrance
+n 6!VEe 7(Eqrl 6/KhM bench#yes bus#yes highway#bus_stop name#Nobelplatsen operator#Västtrafik public_transport#stop_position shelter#no shelter_type#public_transport
+n 6!VEf 7(EqsK 6/Kcw bench#yes bus#yes highway#bus_stop name#Nobelplatsen operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport

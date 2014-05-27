@@ -1,0 +1,165 @@
+w "O\O0 highway#tertiary maxspeed#50 name#Ovädersgatan oneway#yes
+d #$%M| 7(EiTD 5"IWV
+d #$%Ot 6fMp7 6/>lO
+d 'v;Ut 7(EiAQ 6/>l.
+d 'v;Uo 7(Ei7< 6/>ke
+d #$%GC 7(Ei1n 6/>l[
+w "O\O5 bridge#yes highway#tertiary layer#1 maxspeed#50 name#Ovädersgatan oneway#yes
+d 1qLSv 7(Ej]e 6/>dS
+d #$%Mx 7(EjXv 5"IVn
+d #$%My 7(Ej99 6/>iv
+d 'v;V4 7(Ej4' 6/>jS
+w 4#Bd highway#tertiary lanes#1 name#Ovädersgatan oneway#yes
+d #$%Gj 7(Ej]J 6/>f*
+d '`T_~ 7(Ejcx 6/>em
+d #$%H7 7(Eji- 6/>eh
+d #$%H8 7(Ejp| 6/>eu
+d 'v;V1 7(Ejy@ 6/>fA
+d 1qLU; 7(Ek2e 6/>gl
+d "7697 7(Ek=| 6/>h/
+w "O\O# highway#tertiary name#Ovädersgatan oneway#yes
+d 1qLT? 6fN"i 6/>dZ
+d #$%U> 7(Ek/r 6/>dE
+d %#EuX 7(Ej{[ 5"IVL
+w Ac_K highway#residential name#Stenåldersvägen
+d $mst` 7(EhQ4 6/?_/
+d $mstq 7(Egfv 6/?M9
+d $mstr 7(Efx[ 6/?;P
+w "1;N" highway#tertiary lanes#1 maxspeed#50 oneway#yes
+d #$%It 7(EjRv 6/>];
+d #$%PY 6fM}0 6/>bL
+d #$%Gk 7(EjpH 5"IV[
+w Tnuc highway#tertiary maxspeed#50 name#Ovädersgatan oneway#yes
+d 'v;V4 7(Ej4' 6/>jS
+d #$%Mz 7(Ej(# 6/>kw
+d #$%M{ 7(Ei~) 6/>lU
+d 'v;Uv 7(EitC 6/>lu
+d 'v;Uw 7(Eik8 6/>m*
+d #$%M| 7(EiTD 5"IWV
+w C2pR highway#residential name#Ellen_Hanssons_Väg
+d $~Us+ 7(Ej`& 6/?W>
+d /8fbs 7(EjZK 6/?Uh
+d $~Ut9 7(EjMF 6/?P"
+d $~Ut: 7(Ej<` 6/?NS
+d /8fPX 7(Ej5( 6/?N8
+w @Rp' highway#residential
+d $`9E= 7(EhLt 4.L;
+d $`9E> 7(Eh<G 6/?%z
+w A[GX highway#residential name#Utmarksgatan
+d $lwy] 7(Ee)Z 6/?^N
+d /8h$I 7(Ee+3 6/?]n
+d $lwy\ 7(Ee5/ 6/?Yd
+d /8h$H 7(Ee<S 6/?WR
+d /8i~0 7(EeCJ 6/?VC
+d $lwy[ 6fMJS 6/?UT
+d $`9Hu 6fML` 6/?Sm
+d $msuh 6fMN' 6/?RD
+d /8h$f 7(Eet^ 6/?QJ
+d $`9Ht 7(Ef3g 6/?MF
+d $msue 7(EfAG 6/?KV
+d /8h#7 7(EfN4 6/?H`
+d $`9Hs 7(EfZ" 6/?Ej
+d $mstr 7(Efx[ 6/?;P
+d /8h$y 6fMYJ 6/?9%
+d /8h$0 7(Eg*s 5"I[J
+d /8h$^ 7(EgAG 6/?.!
+d $mss\ 7(EgFl 6/?,U
+d 0{}0r 7(EgN_ 6/?*T
+d /8h$* 7(Egb_ 6/?%L
+d $`9Hr 7(EgzJ 6/>~a
+d $`9Hq 7(Eh&# 6/>}O
+d 'v;UL 7(Eh+v 6/>|z
+d $`9Hp 7(Eh42 6/>|]
+d 'v;UK 7(Eh;Y 6/>|U
+d 'v;UJ 7(EhDI 6/>}0
+d $`9F2 7(EhP= 6/>}m
+w Ac_M highway#residential name#Smala_Vägen
+d $mstq 7(Egfv 6/?M9
+d $msu( 7(Eh8W 6/?EV
+w &5DS highway#tertiary name#Bräckevägen
+d #$%GC 7(Ei1n 6/>l[
+d 'v;Un 6fMi9 6/>x+
+d $`944 7(EhYg 6/>z4
+d 'v;V< 7(EhTr 6/>{j
+d $`9F2 7(EhP= 6/>}m
+d 'v;V; 7(EhNg 6/?!Y
+d 'v;UM 7(EhMT 6/?"|
+d $`9E= 7(EhLt 4.L;
+d $NQ<E 7(EhN: 6/?'&
+d $mt<T 7(EhgE 6/?:J
+d 'v;V= 7(EhoA 6/??q
+d @gB] 7(Ehwm 6/?Dy
+d 'v;V> 7(Eh|I 6/?GH
+d 'v;V@ 6fMlW 6/?J-
+d $`9<+ 6fMlz 6/?K\
+d $`9Do 6fMo+ 6/?SK
+d 1u%T; 7(EiIv 6/?WJ
+d $`9J2 7(EiX8 6/?\;
+d $`9;J 7(EiaM 6/?_G
+d @gB^ 7(Ei}i 6/?i5
+d 'v;VC 7(Ej.} 6/?o;
+d 'v;VD 7(Ej<i 6/?uF
+d $_qN[ 7(EjT% 6/@$H
+d $`9J< 6fM{T 6/@)=
+d @gB_ 7(Ejcr 6/@-U
+d $_qSl 7(EjhX 6/@1T
+d 'v;VE 7(Eji> 6/@5T
+d @elx 7(Ejhc 6/@<N
+w @Rr= highway#residential
+d $`9Xv 7(EjFl 6/?&Y
+d $`9]. 7(EjP` 6/?!?
+w @Rr? highway#residential
+d $`9Xv 7(EjFl 6/?&Y
+d $`9]4 7(Ej=t 6/?&L
+w dVKa highway#tertiary name#Ovädersgatan oneway#yes
+d #$%GC 7(Ei1n 6/>l[
+d '`T_x 7(Ei@5 6/>mg
+d #$%Ge 7(EiKP 6/>n>
+d 'v;Up 7(EiX@ 6/>nP
+d #$%Gf 7(EicI 6/>na
+d '`T_z 7(Eim? 6/>nf
+d #$%Gg 7(Eiw; 6/>nR
+d 'v;Uu 6fMu\ 6/>n*
+d #$%Gh 5'z)X 6/>m%
+d '`T_{ 6fMx4 6/>k#
+w 4#CC highway#tertiary maxspeed#50 oneway#yes
+d #$%It 7(EjRv 6/>];
+d #$%P_ 7(Ej\> 6/>`F
+d #$%P` 7(Ej_Z 6/>ae
+d 'v;Uy 7(Ej_h 6/>bO
+d 'v;U} 7(Ej_7 6/>cB
+d 1qLSv 7(Ej]e 6/>dS
+w &5DQ highway#tertiary maxspeed#50 name#Ovädersgatan oneway#yes
+d %#EuX 7(Ej{[ 5"IVL
+d %#EvW 7(Ejvq 5"IVE
+d #$%U? 7(Ejl] 6/>^s
+w 4#B~ highway#tertiary maxspeed#50 name#Ovädersgatan oneway#yes
+d %#EvW 7(Ejvq 5"IVE
+d #$%PY 6fM}0 6/>bL
+d 'v;U~ 7(Eja. 6/>d'
+d 1qLSv 7(Ej]e 6/>dS
+w @Rp" highway#residential name#Västra_bräckevägen
+d $`9Do 6fMo+ 6/?SK
+d $mst4 7(Ei03 6/?T`
+d %"g%O 7(EhyB 6/?Ka
+d %"g%N 7(Ehax 6/?@C
+d $`9E> 7(Eh<G 6/?%z
+d $`9DK 7(Eh3j 6/?#$
+w CJ/\ highway#tertiary maxspeed#50 name#Ovädersgatan oneway#yes
+d #$%Gj 7(Ej]J 6/>f*
+d 'v;U{ 7(Eje# 6/>dl
+d #$%Gk 7(EjpH 5"IV[
+d %#EuX 7(Ej{[ 5"IVL
+w Tnuh bridge#yes highway#tertiary layer#1 maxspeed#50 name#Ovädersgatan oneway#yes
+d '`T_{ 6fMx4 6/>k#
+d #$%Gi 7(Ej?K 6/>jJ
+d '`T_| 7(EjM` 6/>h@
+d #$%Gj 7(Ej]J 6/>f*
+w &2%< highway#tertiary name#Yrvädersgatan oneway#yes
+d #$%Gk 7(EjpH 5"IV[
+d @gBS 7(Ej~Y 6/>eJ
+d "7697 7(Ek=| 6/>h/
+w "EdB: highway#residential name#Slånbärsvägen
+d $mst5 7(Ehr] 6/?Y$
+d $msu( 7(Eh8W 6/?EV
+d $mss\ 7(EgFl 6/?,U

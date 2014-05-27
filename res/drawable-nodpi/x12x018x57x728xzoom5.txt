@@ -1,0 +1,8 @@
+n (gE~N 7(F'qJ 6/M_L highway#bus_stop name#Bellevue shelter#yes
+n *>o\K 7(F'q: 6/MU( highway#bus_stop name#Bellevue
+n 1<O*r 7(F(Ez 5"K'h bench#yes name#Bellevue railway#tram_stop shelter#yes
+n 1<O+v 7(F()g 5"K') bench#yes name#Bellevue railway#tram_stop shelter#yes
+n 1@:Nh 7(F%,Z 6/L\Y bench#yes name#SKF railway#tram_stop shelter#yes
+n 1@:Ni 7(F$|m 6/LWf bench#yes name#SKF railway#tram_stop shelter#yes
+n 3TQ5u 7(F'uT 6/MQ{ highway#turning_circle
+n 3k:(F 7(F$1Y 6/L6Q highway#traffic_signals

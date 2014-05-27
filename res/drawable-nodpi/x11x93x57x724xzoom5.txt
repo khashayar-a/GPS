@@ -1,0 +1,23 @@
+n @uBR 7(F$2> 6/BfV highway#traffic_signals
+n @uBV 7(F#PF 5"J(1 crossing#island highway#traffic_signals
+n E@R& 7(F"vQ 6/Dy> crossing#island highway#traffic_signals
+n #32RH 7(E~u4 6/Ce8 highway#traffic_signals
+n $ioG# 7(Ez|: 6/Cc@ highway#crossing
+n %:^3P 5'z>I 6/D+T barrier#gate
+n %:^eN 6fP7: 6/ChR highway#crossing
+n %Ik6= 7(E}Z3 6/CuE amenity#school name#Bjurslättsskolan
+n %Ik7? 6fOqs 6/Cli amenity#public_building name#Lundby_Stadsdelshus
+n %IkFa 7(F#/3 5"J"+ barrier#gate
+n %IkL^ 7(F!P] 5"J'^ barrier#gate
+n %IkY+ 7(E~?H 6/Cb" barrier#gate
+n %Ik\) 7(E}bX 5"J'a crossing#island highway#traffic_signals
+n %Ik\> 7(F"k( 6/Cgh highway#crossing
+n &OCR$ 7(E}>n 6/CYy amenity#recycling
+n .<m[Y 7(F$.U 6/BiB highway#crossing
+n .<m[~ 7(F$7H 6/Bco highway#crossing
+n .`WZ+ 7(F##; 5"J(+ highway#bus_stop name#Wieselgrensgatan
+n .`WZ2 7(F#\G 6/CdP highway#bus_stop name#Wieselgrensgatan
+n /~L(c 7(E}UL 6/ChT amenity#library name#Hisingens_resursbibliotek
+n 0Bvo) 7(F#$V 6/Cf" highway#bus_stop name#Wieselgrensgatan shelter#yes
+n 0Bvsp 7(F#@" 6/Cpz highway#bus_stop name#Wieselgrensgatan shelter#yes
+n 4UGdD 7(E}Ej 6/CcH highway#bus_stop name#Bjurslättsskolan

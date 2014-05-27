@@ -1,0 +1,95 @@
+w "O0dj access#private amenity#bicycle_parking covered#yes
+d 1m4*k 7(EX9a 6/HW$
+d 1m4+k 6fL-, 6/HW4
+d 1m4+/ 6fL-M 6/HXO
+d 1m4*_ 7(EX?( 6/HX|
+d 1m4+Y 6fL-/ 6/HY6
+d 1m4+3 7(EX9b 5"JUZ
+d 1m4*f 7(EX62 6/HWi
+d 1m4+[ 7(EX7+ 6/HW<
+d 1m4*k 7(EX9a 6/HW$
+n @SD! 7(EZdr 6/H#[ highway#traffic_signals
+n @eb| 7(E[TB 6/HA< highway#traffic_signals
+n "1"p; 7(EV\h 6/H"W highway#bus_stop name#Chalmers railway#tram_stop
+n "1=+D 7(EVaW 5"JPd highway#traffic_signals
+n "1=GY 7(EZZc 5"JPe crossing#traffic_signals highway#crossing
+n "1=GZ 7(EZnG 6/H'- highway#traffic_signals
+n "4v=S 7(EQ~1 6/HfZ traffic_calming#hump
+n "6i.Y 7(EW1> 6/H%U highway#turning_circle
+n "6i8j 6fL.E 5"JPQ highway#turning_circle
+n "7Uy\ 7(ESlX 6/H2G highway#turning_circle
+n "`\IL 7(EUvZ 6/HK0 barrier#gate bicycle#yes foot#yes
+n "fHxh 7(EOWH 6/Hd6 highway#turning_circle
+n "{sYt 7(EVJY 6/H!D highway#traffic_signals
+n $g[hl 6fL%` 6/HVW highway#turning_circle
+n $o}iP 7(EVk; 6/HSW building#entrance
+n $qxj3 7(EXUg 6/H;A barrier#bollard bicycle#yes foot#yes
+n $qxj5 7(EXX3 6/H4! barrier#bollard bicycle#yes foot#yes
+n $y_>\ 7(EX.* 6/GbV barrier#gate
+n $y_>a 7(EZ1T 6/GI@ highway#turning_circle
+n $|+z~ 7(EYI8 6/H?2 barrier#bollard bicycle#yes foot#yes
+n $|EA$ 7(EYAF 6/H5` barrier#bollard bicycle#yes foot#yes
+n $~4]q 7(EZM9 6/GSl barrier#gate
+n $~4]t 7(EW`_ 6/Go[ barrier#gate
+n %!p78 7(E^t) 6/Gf_ highway#traffic_signals
+n %"]-n 7(EU8: 6/GG~ crossing#uncontrolled highway#crossing
+n %+1+^ 7(EV{8 6/H&7 highway#traffic_signals
+n %0P_! 7(EXtO 6/HH$ addr:housenumber#7B addr:street#Kemivägen
+n %0P_# 6fL0> 6/HJ? addr:housenumber#7A addr:street#Kemivägen
+n %0Xdp 7(ESHZ 6/H^f amenity#parking capacity#2 parking#surface
+n %0Ye& 7(EU~m 6/H1D amenity#post_box
+n %1L]~ 7(ETyB 6/HQ: addr:housenumber#1 addr:street#Rännvägen
+n %1L^" 7(ET\l 6/HSU addr:housenumber#3 addr:street#Rännvägen
+n %1M7[ 7(EX0j 6/H=^ addr:housenumber#9 addr:street#Kemivägen
+n %1M7` 7(EWn. 6/H=c addr:housenumber#11 addr:street#Kemivägen
+n %1O'u 7(EUGL 6/H1R amenity#atm
+n %AyXS 7(EVVc 6/HM! addr:housenumber#2 addr:street#Skeppsgränd
+n %AyXT 7(EVY. 6/HGr addr:housenumber#3 addr:street#Skeppsgränd
+n %AyXU 7(EWZ! 6/HR# addr:housenumber#4 addr:street#Kemigården
+n %B1]T 7(EW&/ 5"JSa addr:housenumber#1 addr:street#Kemigården
+n *<['t 7(E[M7 6/H>R bicycle#yes crossing#traffic_signals highway#crossing
+n -KV+H 7(EUyN 6/H>: barrier#gate bicycle#yes foot#yes
+n -Kqlq 6fK~O 5"JWY crossing#uncontrolled highway#crossing
+n 0!fdm 5'yt~ 6/H(` amenity#telephone operator#TeliaSonera
+n 1Zqdp 7(EU)} 5"JJb crossing#uncontrolled highway#crossing
+n 1[]Pg 7(E[Dj 6/HBF crossing#traffic_signals highway#crossing
+n 1^YjI 7(EZzj 6/H&8 bicycle#yes crossing#traffic_signals highway#crossing
+n 1^YjQ 7(EZrw 6/H"{ bicycle#yes crossing#traffic_signals highway#crossing
+n 1^YkV 6fL9} 6/H(G crossing#traffic_signals highway#crossing
+n 1_lWY 7(EYmv 6/Gg{ bicycle#yes crossing#uncontrolled highway#crossing
+n 1`?^< 7(EVr6 6/H;2 amenity#parking capacity#2 capacity:disabled#2 parking#surface
+n 1aUv{ 7(EUGY 6/GH1 bicycle#yes crossing#uncontrolled highway#crossing
+n 1d!$u 7(EQFP 6/HTK traffic_calming#hump
+n 1d!%> 7(EVK- 6/Hq& crossing#uncontrolled highway#crossing
+n 1d!'7 6fKbJ 6/I(L crossing#uncontrolled;island highway#crossing
+n 1egB| 7(ES3u 6/Hp> traffic_calming#hump
+n 1egD$ 7(ESRC 6/H_? amenity#bicycle_parking
+n 1egGu 7(ESz~ 6/H[q amenity#bicycle_parking
+n 1juNE 7(EW-[ 6/HMB natural#tree
+n 1juNX 7(EW;s 6/HMT amenity#bbq
+n 1juO& 7(EW?y 5"JU& natural#tree
+n 1juO9 7(EVx! 6/HJt amenity#bicycle_parking
+n 1juOl 7(EWK) 6/HSt amenity#bench
+n 1juOq 7(EWJ# 6/HPx amenity#bench
+n 1juP! 7(EW5k 6/HO| natural#tree
+n 1juP/ 7(EW;X 6/HRK amenity#bbq
+n 1juPH 7(EV}/ 6/HVl amenity#bicycle_parking
+n 1juQL 7(EW;9 6/HPy natural#tree
+n 1juQh 6fL!K 6/HKg amenity#bicycle_parking
+n 1juR$ 7(EW&s 6/HV1 amenity#parking capacity#1
+n 1juR) 7(EV_+ 6/HWi amenity#bicycle_parking
+n 1juR1 7(EW:F 6/HJl barrier#bollard
+n 1juR9 7(EW># 6/HMd amenity#bench
+n 1m4*o 7(EXWr 6/H\@ crossing#uncontrolled highway#crossing
+n 1m4*| 7(EWY# 6/HU1 amenity#bench
+n 1m4+J 7(EWFH 6/HJV amenity#bicycle_parking
+n 1m4+j 7(EY7& 6/HUw crossing#uncontrolled highway#crossing traffic_calming#hump
+n 1n"Nz 7(EYLX 6/H+, bicycle#yes crossing#traffic_signals highway#crossing
+n 1n"O5 7(EYbl 6/H,= crossing#traffic_signals highway#crossing
+n 1n"P' 7(EZDk 6/HK+ crossing#uncontrolled highway#crossing
+n 1n"Pa 7(EZR\ 6/H$M crossing#traffic_signals highway#crossing
+n 1n"Pr 7(EYP= 6/H,j bicycle#yes crossing#traffic_signals highway#crossing
+n 1n"QA 7(EYI: 6/H)d bicycle#yes crossing#traffic_signals highway#crossing
+n 5*Ws8 7(EV%e 6/HJD barrier#block bicycle#yes foot#yes
+n 5+:Rn 7(EXqv 6/HT[ amenity#dentist name#Folktandvården_Gibraltar
+n 5+:S' 7(EXyq 6/HSu amenity#clinic name#Vårdcentralen_Gibraltargatan

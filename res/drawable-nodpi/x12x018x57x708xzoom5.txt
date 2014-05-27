@@ -1,0 +1,33 @@
+n "qe;S 7(Ea_g 6/L0} name#Ekmanska railway#tram_stop
+n "qe;i 7(Eda2 5"K&R name#Töpelsgatan railway#tram_stop
+n "qe;u 7(EhwK 6/Mk3 name#Welandergatan railway#tram_stop
+n $NxBJ 7(Ep4T 6/MeS highway#turning_circle
+n %%[=O 7(Ec<x 6/Lyb name#Bögatan railway#tram_stop
+n %%[Bh 7(Eayn 6/KK} name#Bäckeliden railway#tram_stop
+n )M("c 7(EhUW 6/MmK name#Welandergatan railway#tram_stop
+n .i-#w 7(Em>; 6/MrH traffic_calming#hump
+n .i;Uv 7(El~< 6/Mq9 building#entrance
+n .i;Uy 7(Em-E 6/Mq# building#entrance
+n .i;V# 6fN7i 6/MpQ building#entrance
+n .i;V& 7(Em;# 6/Mpf building#entrance
+n .i<:M 7(Em]n 6/Mo' building#entrance
+n .iSxL 7(ElF6 6/Mp, building#entrance
+n .iSxM 7(ElRn 6/Mov building#entrance
+n .iSxO 7(El`5 6/Mo_ building#entrance
+n .iSxS 7(El8Z 5"K(y building#entrance
+n .ka^Q 7(E{Sq 6/MsI highway#traffic_signals
+n 1nA>) 7(Ep~p 6/Mlc name#Sanatoriegatan railway#tram_stop
+n 1nA>+ 7(EtL( 6/Mvf name#Solrosgatan railway#tram_stop
+n 1nA>, 7(Em/P 6/MeK name#Torp railway#tram_stop ref#C
+n 1nA>3 7(EqPe 6/Mmk name#Sanatoriegatan railway#tram_stop
+n 1nA>6 7(Etd/ 6/Mw} name#Solrosgatan railway#tram_stop
+n 1nA>8 7(Emd. 6/Ma| name#Kålltorp railway#tram_stop ref#A
+n 1nA>: 7(ElkX 6/Me* name#Torp railway#tram_stop ref#D
+n 1nA>; 7(EmR] 6/Me4 name#Kålltorp railway#tram_stop ref#B
+n 1nEIq 7(EaVj 6/L+x name#Ekmanska railway#tram_stop
+n 1nEJ4 7(EavG 6/KP< name#Bäckeliden railway#tram_stop
+n 1nEJS 7(EdsP 6/M[f name#Töpelsgatan railway#tram_stop
+n 1nEK; 7(Ec+" 6/Lt| name#Bögatan railway#tram_stop
+n 6!Pct 7(EnQN 6/N>W traffic_calming#hump
+n 6!Pd- 7(Eo## 6/McL highway#turning_circle
+n 6!Pd7 7(Eo@L 6/N`F highway#turning_circle

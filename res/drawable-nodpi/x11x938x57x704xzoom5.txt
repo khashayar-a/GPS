@@ -1,0 +1,30 @@
+w CY;C amenity#ferry_terminal area#yes bicycle#yes foot#yes name#Lindholmspiren public_transport#platform
+d %%IN% 7(EhSY 6/D:{
+d 4e`JL 7(EhQa 6/D;*
+d %%IN& 7(EhOd 6/D;8
+d 4e`J6 7(EhN6 6/D:X
+d 4e`J, 7(EhI0 6/D;&
+d 4e`J/ 7(EhIb 6/D;<
+d 4e`J' 7(Eh>k 6/D<2
+d 4e`I~ 7(Eh<G 6/D;"
+d 4e`Iz 7(Eh9{ 6/D;4
+d %%IN' 6fMe7 6/D:N
+d 4e`Iu 7(Eh8S 6/D9i
+d %%IN( 7(EhD* 6/D8q
+d %%IN) 7(EhGC 6/D:3
+d %%IN* 7(EhP" 5"J,q
+d %%IN% 7(EhSY 6/D:{
+n $hY|= 7(Ej|Y 6/D?S highway#crossing
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n )V2$x 7(EiNB 6/D6k amenity#restaurant contact:phone#+46_31_7223950 contact:website#http://lskitchen.se/ name#L's_Kitchen opening_hours#Mo-Fr_07:30-17:00
+n )V2$y 5'z(N 6/D.W amenity#restaurant contact:phone#+46_31_223323 contact:website#http://bistrot.se/ name#Bistrot
+n )~G0v 6fMwI 6/D1C name#Pressbyrån shop#kiosk
+n ,uO?Q 7(EiN2 5"J2n amenity#restaurant contact:email#lindholmen@masalakitchen.se contact:fax#+46_31_255505 contact:phone#+46_31_190920 contact:website#http://masalakitchen.se/lindholmen/ cuisine#indian name#Masala_Kitchen opening_hours#Mo-Fr_11:00-15:00
+n ,uOX9 7(EjV? 6/Db# addr:housenumber#9 addr:street#Theres_Svenssons_gata amenity#restaurant email#lindholmen@picadeli.se name#Picadeli_Lindholmen opening_hours#Mo-Fr_11:00-14:00 phone#+4631516015 website#http://www.picadeli.se/lindholmen.html
+n .,~"q 7(Ehx) 6/DBY amenity#bank name#Swedbank_Lindholmen
+n /4(;% 6fN!. 6/Df% amenity#fast_food name#Smedjan_grillen
+n 42J)q 7(EjZh 6/D<t addr:postcode#40271 addr:street#Lindholmspiren_5 amenity#bank atm#yes name#Handelsbanken

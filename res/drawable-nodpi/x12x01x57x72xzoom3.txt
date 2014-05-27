@@ -1,0 +1,735 @@
+w "uHk? building#yes
+d 5_&?E 7(E|zJ 6/L\_
+d 5_&?C 7(E||t 6/L^T
+d 5_&?A 7(E|sf 6/L_!
+d 5_&?> 7(E|p~ 6/L]!
+d 5_&?E 7(E|zJ 6/L\_
+w "uGpF building#yes
+d 5^x!B 5'z8_ 6/L{X
+d 5^x!A 7(Ez2l 6/M"0
+d 5^x!@ 7(Ez)] 6/M"?
+d 5^x!= 7(Ez(e 5"K!'
+d 5^x!? 7(Ey|` 6/M!r
+d 5^x!< 7(Ey{/ 5"J~g
+d 5^x!; 7(Ez'Q 6/L|5
+d 5^x!> 7(Ez(I 6/L{^
+d 5^x!B 5'z8_ 6/L{X
+w "uGxT building#yes
+d 5^xt@ 7(E|'D 6/LA%
+d 5^xsb 7(E{~6 6/LB~
+d 5^xs` 7(E|)7 6/LD7
+d 5^xtL 7(E|/! 6/LBi
+d 5^xsy 7(E|([ 6/LA}
+d 6!PhL 6fOcg 6/LAH
+d 5^xt@ 7(E|'D 6/LA%
+w "uHqG building#yes
+d 5_&\" 5'z;R 6/M!=
+d 5_&[V 7(E}+' 6/M!8
+d 5_&[m 6fOm= 6/M#W
+d 5_&\$ 7(E}6{ 6/M#b
+d 5_&\" 5'z;R 6/M!=
+w "uG._ building#yes surface#paved
+d 5^pH] 7(Eydv 6/L8~
+d 5^pHU 7(Ey_: 5"Jwu
+d 5^pIl 7(EyW3 6/L9K
+d 5^pIf 7(Ey]J 6/L:P
+d 5^pH] 7(Eydv 6/L8~
+w "uG.[ building#yes surface#paved
+d 5^pKg 7(Exz} 6/LAj
+d 5^pKh 7(Exr. 6/LAg
+d 5^pJd 7(ExrK 6/L?U
+d 5^pJG 7(ExtW 6/L?R
+d 5^pI< 7(Exu$ 6/L>}
+d 5^pHo 5'z7R 6/L>}
+d 5^pKg 7(Exz} 6/LAj
+w "T;0$ building#yes
+d 2?;U} 7(ExCC 6/L\,
+d 2?;Ux 7(Ey0s 6/LZL
+d 2?;Uc 7(Ey13 5"J{F
+d 2?;U| 7(EyUY 6/LZ7
+d 2?;U{ 7(EyWt 6/L\6
+d 2?;Uz 7(EyZq 6/L\.
+d 2?;Uy 7(Eya\ 5"J|(
+d 2?;U` 7(Eycb 6/Lai
+d 2?;Ud 7(Eygu 6/Lp=
+d 2?;Us 7(Ey\a 6/LpG
+d 2?;Uu 7(EyXA 6/Lb$
+d 2?;Uw 7(EyVQ 6/Lb*
+d 2?;U_ 7(EyP2 6/L\m
+d 2?;U~ 7(EyMu 6/L\w
+d 2?;Ub 7(EyM< 5"J{T
+d 2?;Ug 7(Ey1: 6/L\z
+d 2?;Uf 7(Ey0k 6/L\M
+d 2?;Ua 7(ExD{ 6/L^&
+d 2?;U} 7(ExCC 6/L\,
+w "T;*& building#yes
+d 2?:~Z 7(E|%W 5"J~4
+d 2?:~I 7(E|%X 6/Lyc
+d 2?:~Y 7(E{z' 6/Lyc
+d 2?:~K 7(E{z& 5"J~4
+d 2?:~Z 7(E|%W 5"J~4
+w "T;*" building#yes
+d 2?:~O 7(E{F# 6/Lm9
+d 2?:~[ 7(E{H- 6/Lmo
+d 2?:~Q 7(E{E; 6/Ln4
+d 2?:~W 7(E{C0 6/Lm[
+d 2?:~O 7(E{F# 6/Lm9
+w "uGwK building#yes
+d 5^xm^ 7(E{`5 6/L@u
+d 5^xnE 7(E{i5 6/LB$
+d 5^xmk 7(E{nq 6/L@?
+d 5^xm_ 7(E{ec 6/L?B
+d 5^xm^ 7(E{`5 6/L@u
+w "uGw? building#yes
+d 5^xm6 7(E{NT 6/L88
+d 5^xm7 7(E{HK 5"Jwv
+d 5^xn8 7(E{Fx 6/L9s
+d 5^xn. 7(E{N8 6/L:0
+d 5^xm6 7(E{NT 6/L88
+w "uH"v building#yes
+d 5^y{M 7(E|Ah 5"K!p
+d 5^y{e 7(E|8Z 5"K!p
+d 5^y{P 7(E|8Z 6/M&T
+d 5^y{S 7(E|C; 6/M&T
+d 5^y{M 7(E|Ah 5"K!p
+w "uGpP building#yes
+d 5^x&] 7(Ez:* 6/M"p
+d 5^x&S 7(Ez9O 6/L}(
+d 5^x&U 7(EzZH 6/L|k
+d 5^x&T 7(EzZ* 6/L{~
+d 5^x&f 7(Ezx: 6/L{^
+d 5^x&5 7(Ezx< 6/L|`
+d 5^x&B 7(E{+{ 6/L|[
+d 5^x&[ 7(E{,W 6/M#=
+d 5^x&L 7(E{0S 6/M#8
+d 5^x&i 7(E{4N 5"K!q
+d 5^x&k 7(E{0n 6/M)W
+d 5^x&1 7(E{1- 6/M.n
+d 5^x&H 6fOY8 6/M/&
+d 5^x&3 7(Ez{" 6/M)w
+d 5^x&l 7(EzwB 6/M)w
+d 5^x&g 6fOXW 6/M'r
+d 5^x&R 6fOY' 6/M'g
+d 5^x&` 7(Ezzc 6/M!M
+d 5^x&X 7(Ezb@ 6/M"%
+d 5^x&Y 7(Ez`n 6/M#2
+d 5^x&7 7(EzVJ 6/M#M
+d 5^x&@ 7(EzVJ 6/M"J
+d 5^x&] 7(Ez:* 6/M"p
+w "T;*% building#yes
+d 2?:~P 7(E{@j 6/Lix
+d 2?:~J 7(E{>M 6/Lk9
+d 2?:~M 7(E{:> 5"J}!
+d 2?:~S 7(E{<[ 6/Li`
+d 2?:~P 7(E{@j 6/Lix
+w "uGwH building#yes
+d 5^xnF 7(EzmL 6/L9@
+d 5^xmT 7(Ezk2 6/L:s
+d 5^xn5 7(Ezy_ 6/L;P
+d 5^xnH 7(Ez{j 6/L9n
+d 5^xnF 7(EzmL 6/L9@
+w "uGr5 amenity#parking
+d 5^x:V 7(Ez\p 5"J}9
+d 5^x:X 7(EzK2 6/Lc|
+d 5^x:U 7(EzZ* 6/L[A
+d 5^x:W 7(Ez{@ 6/L]&
+d 5^x:V 7(Ez\p 5"J}9
+w "uGv7 building#yes
+d 5^x_D 7(Ez:9 6/L88
+d 5^x_C 7(Ez22 6/L7H
+d 5^x_B 7(Ez.( 6/L8i
+d 5^x_E 6fOR0 6/L9[
+d 5^x_D 7(Ez:9 6/L88
+w "uG.W building#yes surface#paved
+d 5^pJx 7(Ey]u 6/LA}
+d 5^pIZ 7(Ey^4 6/LA?
+d 5^pJ. 7(Ey[L 6/LAB
+d 5^pKs 7(Ey[h 6/L@?
+d 5^pHk 7(Eygl 6/L@?
+d 5^pKG 7(Eygl 6/LB"
+d 5^pJx 7(Ey]u 6/LA}
+w "T+DH building#yes
+d 2=z2x 7(EzG< 6/Ldq
+d 2=z2{ 7(EzL0 6/Lw3
+d 2=z2| 7(Ez," 6/Lx~
+d 2=z2y 7(Ez(f 6/Lvr
+d 2=z2} 7(Ez@- 6/LuX
+d 2=z2z 7(Ez;U 6/Ld~
+d 2=z2x 7(EzG< 6/Ldq
+w "uGwL building#yes
+d 5^xmx 7(EzW5 6/L8#
+d 5^xmb 7(EzTN 5"Jx*
+d 5^xmq 7(EzX- 6/L:-
+d 5^xmv 7(EzXX 6/L9i
+d 5^xm} 7(Ez]x 6/L:%
+d 5^xn> 7(Ez]L 6/L:C
+d 5^xnC 7(Ezbz 6/L:X
+d 5^xnG 7(EzeS 6/L8N
+d 5^xmx 7(EzW5 6/L8#
+w "uG)L building#yes surface#paved
+d 5^o~( 7(Exde 6/L7N
+d 5^o~x 7(Ex]e 6/L8V
+d 5^p!* 7(ExTt 6/L60
+d 5^o}H 7(Ex\{ 6/L53
+d 5^o~( 7(Exde 6/L7N
+w "uG)7 building#yes surface#paved
+d 5^o|y 7(Ex~N 6/L41
+d 5^o}a 6fOE^ 6/L5F
+d 5^o~" 7(Exl^ 6/L3.
+d 5^o}5 7(Exu] 6/L1d
+d 5^o|y 7(Ex~N 6/L41
+w "uG.O building#yes surface#paved
+d 5^pHa 6fOOX 6/L@O
+d 5^pID 5'z8L 6/LB.
+d 5^pI~ 7(Eyqq 6/LB*
+d 5^pKB 6fON` 6/L@J
+d 5^pHa 6fOOX 6/L@O
+w "uH"K building#yes
+d 5^ynl 7(E|]2 6/Lqt
+d 5^ynE 7(E|VN 6/Lp7
+d 5^yns 7(E|i} 6/LmD
+d 5^ynG 7(E|pF 6/Lo*
+d 5^ynl 7(E|]2 6/Lqt
+w "uG.S building#yes surface#paved
+d 5^pIj 6fOPC 6/L<h
+d 5^pK5 7(Ey~U 6/L>)
+d 5^pK0 7(Eyu| 6/L=0
+d 5^pKD 7(Eyyy 6/L;~
+d 5^pK2 7(Ez!, 5"JxC
+d 5^pK- 7(Ez!s 6/L<@
+d 5^pIj 6fOPC 6/L<h
+w "uHq; building#yes
+d 5_&[` 7(E}/z 6/Lqt
+d 5_&[n 7(E}%t 6/Lqz
+d 5_&[l 7(E}&3 6/Lst
+d 5_&[_ 6fOme 6/Lsl
+d 5_&[` 7(E}/z 6/Lqt
+w "uGp' amenity#parking
+d 5^w{: 6fODf 6/L|p
+d 5^w{6 7(Exc4 6/M!2
+d 5^w{? 7(ExW@ 6/L}-
+d 5^w{= 7(ExRJ 6/Lt<
+d 5^w{< 7(ExW\ 6/LrW
+d 5^w{3 7(ExVF 6/Ln2
+d 5^w{> 7(ExM9 6/LlG
+d 5^w{7 7(ExL$ 5"J|d
+d 5^w{9 7(Ex^? 6/Lh8
+d 5^w{4 7(Ex_p 6/LlR
+d 5^w{; 7(Exj6 5"J}H
+d 5^w{1 7(ExjQ 6/Ls_
+d 5^w{5 7(Exdf 6/Lu.
+d 5^w{2 7(Exg1 6/L{C
+d 5^w{: 6fODf 6/L|p
+w "T+GO building#yes
+d 2=z5R 7(E{>q 5"J|R
+d 2=z5H 7(E{#3 6/Lun
+d 2=z5K 6fOVQ 6/Lwl
+d 2=z5U 7(Ez^R 6/Lua
+d 2=z5J 7(EzwR 6/Lt'
+d 2=z5I 7(E{3^ 6/LeR
+d 2=z5R 7(E{>q 5"J|R
+w "uH"r building#yes
+d 5^y{g 7(E|\: 5"K"(
+d 5^y{| 7(E|SI 5"K"(
+d 5^y{u 7(E|SK 6/M.T
+d 5^y{K 7(E|]P 6/M.T
+d 5^y{g 7(E|\: 5"K"(
+w "uHqD building#yes
+d 5_&\! 7(E}4Q 6/Lxf
+d 5_&[f 6fOm= 6/Lxq
+d 5_&[Z 6fOm= 6/Lzv
+d 5_&[\ 7(E}5I 5"J~Y
+d 5_&\! 7(E}4Q 6/Lxf
+w "uI4P building#yes
+d 5_(pL 5'z;R 5"K!L
+d 5_(pN 7(E}+D 6/M%R
+d 5_(pP 7(E}*i 6/M'W
+d 5_(pM 7(E}5f 6/M'W
+d 5_(pL 5'z;R 5"K!L
+w "uGwB building#yes
+d 5^xnO 7(E{pR 6/L:K
+d 5^xn] 7(E{gp 4.Xc
+d 5^xmR 7(E{m\ 6/L7k
+d 5^xmI 7(E{ur 6/L8v
+d 5^xnO 7(E{pR 6/L:K
+w "uH"w building#yes
+d 5^y{s 7(E|/M 6/M%r
+d 5^y{c 7(E|%d 6/M%m
+d 5^y{O 7(E|%G 6/M"u
+d 5^y|! 7(E|/k 6/M"p
+d 5^y{s 7(E|/M 6/M%r
+w "uG.R building#yes surface#paved
+d 5^pIQ 7(Ez&= 5"Jw[
+d 5^pKH 7(Ey}< 6/L6f
+d 5^pJD 7(Ez&v 6/L7v
+d 5^pIW 7(Ez-L 6/L6&
+d 5^pIQ 7(Ez&= 5"Jw[
+w "uH"t building#yes
+d 5^y{< 7(E|]2 6/M&J
+d 5^y|% 7(E|RQ 6/M&O
+d 5^y|' 6fOgb 6/M)A
+d 5^y{> 6fOhn 6/M)<
+d 5^y{< 7(E|]2 6/M&J
+w "uH"u building#yes
+d 5^y{: 7(E|SI 6/Lt|
+d 5^y{^ 7(E|LJ 6/Ls?
+d 5^y{` 7(E|;` 6/Lui
+d 5^y{[ 7(E|C< 6/Lwd
+d 5^y{: 7(E|SI 6/Lt|
+w "uGq% building#yes
+d 5^x8I 7(E{2^ 6/LTe
+d 5^x8B 7(Ezx: 6/LTj
+d 5^x8= 7(Ezxt 6/LSx
+d 5^x8> 7(Ez|S 6/LSx
+d 5^x8@ 7(Ez|7 6/LR%
+d 5^x8G 7(Ezw_ 6/LR0
+d 5^x8M 6fOXW 6/LM(
+d 5^x87 7(Eziz 6/LLv
+d 5^x89 6fOW: 6/LMN
+d 5^x8k 7(EzaH 6/LMN
+d 5^x8o 7(EzaH 6/LL6
+d 5^x8h 7(EzOf 6/LL6
+d 5^x88 7(EzKM 6/LKt
+d 5^x8n 7(EzJ8 6/LH&
+d 5^x8r 7(Ez_Y 6/LH&
+d 5^x8N 7(Ez_t 6/LG4
+d 5^x8P 7(EzeF 5"JyI
+d 5^x8c 7(Ezeb 5"JyP
+d 5^x86 7(E{%9 6/LH,
+d 5^x8f 7(E{%9 6/LKI
+d 5^x8m 7(E{2A 6/LKS
+d 5^x8Q 7(E{4l 6/LPF
+d 5^x8R 7(E{7T 6/LPP
+d 5^x84 7(E{6Z 5"JzR
+d 5^x85 7(E{4N 6/LR:
+d 5^x8I 7(E{2^ 6/LTe
+w "uGp^ building#yes
+d 5^x/u 7(Eyd< 6/M.I
+d 5^x0! 7(EySo 6/M.N
+d 5^x/y 7(EySo 6/M*t
+d 5^x0( 7(Eye5 6/M*o
+d 5^x/u 7(Eyd< 6/M.I
+w "uGwU building#yes
+d 5^xnW 7(E{%8 6/L:8
+d 5^xnU 7(E{#: 6/L;h
+d 5^xn$ 7(E{1J 6/L<J
+d 5^xnV 7(E{3H 6/L:k
+d 5^xnW 7(E{%8 6/L:8
+w "uG)* building#yes surface#paved
+d 5^o~B 7(Exb< 6/L9v
+d 5^o|a 7(Exg? 6/L;;
+d 5^o}V 7(ExoT 6/L:-
+d 5^o}< 6fODR 6/L8n
+d 5^o~B 7(Exb< 6/L9v
+w "uG.X building#yes surface#paved
+d 5^pJ6 7(EyU| 6/LAu
+d 5^pKp 7(EyV, 6/LA*
+d 5^pJ- 5'z8( 6/LA*
+d 5^pI3 7(EyTY 6/L?h
+d 5^pKc 7(EyKh 6/L?e
+d 5^pKa 7(EyK/ 6/LAu
+d 5^pJ6 7(EyU| 6/LAu
+w "uGwA building#yes
+d 5^xmh 6fO`n 6/L:"
+d 5^xmf 7(E{h= 6/L:k
+d 5^xm4 7(E{n7 6/L<(
+d 5^xm3 6fOaY 6/L:{
+d 5^xmh 6fO`n 6/L:"
+w "uG)H building#yes surface#paved
+d 5^o}l 7(Ey0] 6/L5|
+d 5^o}x 7(Ey+= 6/L4V
+d 5^o~= 7(ExzR 6/L6a
+d 5^o~_ 6fOF` 5"Jwv
+d 5^o}l 7(Ey0] 6/L5|
+w "T;*# building#yes
+d 2?:~X 7(E{F] 6/La[
+d 2?:~R 7(E{Bm 6/Lcg
+d 2?:~H 6fOYc 6/Lal
+d 2?:~T 6fOZ) 6/L_`
+d 2?:~X 7(E{F] 6/La[
+w "uH"o building#yes
+d 5^y{b 7(E|B& 5"K"(
+d 5^y{o 7(E|8Z 6/M+a
+d 5^y{8 7(E|8! 6/M.C
+d 5^y{q 7(E|B| 6/M.N
+d 5^y{b 7(E|B& 5"K"(
+w "T;,T building#yes
+d 2?;0l 7(EyrE 6/Luv
+d 2?;0n 7(Eyub 6/Lx!
+d 2?;0R 7(EyUR 6/Lyj
+d 2?;0P 6fOKR 6/Lwa
+d 2?;0l 7(EyrE 6/Luv
+w "uGwN building#yes
+d 5^xmc 7(E{V0 6/L<`
+d 5^xn6 6fO^5 6/L>Z
+d 5^xn/ 6fO_- 6/L?M
+d 5^xn: 7(E{`' 6/L=B
+d 5^xn" 7(E{]N 6/L<}
+d 5^xm{ 7(E{Y| 6/L<k
+d 5^xmc 7(E{V0 6/L<`
+w "uHqC building#yes
+d 5_&[S 7(E}6% 6/Lu^
+d 5_&[j 7(E}*i 6/LuT
+d 5_&[L 7(E}*L 6/LwS
+d 5_&[G 7(E}5f 6/LwN
+d 5_&[S 7(E}6% 6/Lu^
+w "uH"y building#yes
+d 5^y{} 7(E|1Y 6/L{~
+d 5^y{w 7(E|96 6/L}h
+d 5^y|) 7(E|LH 6/L{#
+d 5^y{X 7(E|D4 6/Ly8
+d 5^y{} 7(E|1Y 6/L{~
+w "uGxb building#yes
+d 5^xxU 7(E|hL 5"J|]
+d 5^xxX 7(E|UW 6/Lj=
+d 5^xxR 7(E|]m 6/Ll-
+d 5^xxW 7(E|pF 6/Li%
+d 5^xxU 7(E|hL 5"J|]
+w "uGv6 building#yes
+d 5^x_$ 7(EzFh 6/L@B
+d 5^x_% 7(Ez8I 6/L?u
+d 5^x_& 7(Ez6= 4.Xk
+d 5^x_# 7(EzF! 6/LB:
+d 5^x_$ 7(EzFh 6/L@B
+w "uHq< building#yes
+d 5_&[t 7(E}-Q 6/LnB
+d 5_&[[ 6fOl\ 4.Y7
+d 5_&[a 7(E}%X 6/LpG
+d 5_&[c 7(E}/$ 6/LpA
+d 5_&[t 7(E}-Q 6/LnB
+w "uGxR building#yes
+d 5^xs{ 6fOi. 6/LO=
+d 5^xt1 7(E|[C 5"Jz?
+d 5^xt= 6fOi; 6/LQx
+d 5^xs~ 7(E|hi 6/LP`
+d 5^xs} 7(E|bD 6/LO6
+d 5^xs{ 6fOi. 6/LO=
+w "uGwP building#yes
+d 5^xm5 7(E{E* 6/L6Q
+d 5^xnZ 7(E{G( 6/L56
+d 5^xnL 7(E{J< 6/L5D
+d 5^xn) 7(E{Jf 6/L4a
+d 5^xn# 6fO^L 6/L5&
+d 5^xn[ 6fO^5 6/L6y
+d 5^xm5 7(E{E* 6/L6Q
+w "uHqF building#yes
+d 5_&[E 7(E}'H 6/Lg0
+d 5_&[e 7(E|}O 5"J|]
+d 5_&[N 7(E}!" 6/LiU
+d 5_&[k 7(E})o 6/Li'
+d 5_&[E 7(E}'H 6/Lg0
+w "uHqA building#yes
+d 5_&[W 7(E|~* 6/L`#
+d 5_&[] 7(E|uV 5"J{y
+d 5_&[i 7(E|vk 6/LbC
+d 5_&[| 6fOlH 6/Lb(
+d 5_&[W 7(E|~* 6/L`#
+w "uG.T building#yes surface#paved
+d 5^pIn 7(Ey/e 6/LAm
+d 5^pIx 7(Ey%& 6/LAg
+d 5^pJO 7(Ey%C 6/L?z
+d 5^pIu 7(Ey0# 6/L?}
+d 5^pIn 7(Ey/e 6/LAm
+w "uGxV building#yes
+d 5^xtJ 7(E|$B 6/L=U
+d 5^xt" 7(E|*! 6/L;~
+d 5^xt? 7(E|1L 6/L=*
+d 5^xt5 7(E|,, 6/L>X
+d 5^xtJ 7(E|$B 6/L=U
+w "uG.Z building#yes surface#paved
+d 5^pK: 7(Ey;! 6/L:=
+d 5^pHr 7(Ey3, 6/L;O
+d 5^pJr 7(Ey-u 6/L9~
+d 5^pJ" 7(Ey6; 6/L8y
+d 5^pK: 7(Ey;! 6/L:=
+w "uH"L building#yes
+d 5^ync 7(E|km 6/LxP
+d 5^yni 7(E|rn 6/Lz%
+d 5^ynI 7(E|`S 6/L|[
+d 5^ynv 7(E|YR 6/L{(
+d 5^ync 7(E|km 6/LxP
+w "T;*$ building#yes
+d 2?:~N 6fO[\ 6/Lo<
+d 2?:~V 7(E{4s 6/Lp[
+d 2?:~U 7(E{0_ 6/LpB
+d 2?:~L 7(E{3' 6/Lo#
+d 2?:~N 6fO[\ 6/Lo<
+w "uG.] building#yes surface#paved
+d 5^pIk 7(EyHV 6/L8@
+d 5^pI{ 7(Ey@k 6/L9F
+d 5^pKn 7(Ey<' 6/L8+
+d 5^pKb 7(Ey@6 6/L7R
+d 5^pJ{ 7(Ey?V 6/L78
+d 5^pK+ 7(EyB[ 6/L6n
+d 5^pIk 7(EyHV 6/L8@
+w "uH"n building#yes
+d 5^y{z 7(E|wb 6/M&T
+d 5^y{? 7(E|wG 6/M)A
+d 5^y{l 6fOjD 5"K!p
+d 5^y|+ 6fOjD 6/M&Z
+d 5^y{z 7(E|wb 6/M&T
+w "uGwc building#yes
+d 5^xn( 7(E{+z 6/L5q
+d 5^xmK 7(E{-y 6/L4#
+d 5^xnP 7(E{7p 6/L4Q
+d 5^xnT 7(E{5c 6/L60
+d 5^xn( 7(E{+z 6/L5q
+w "uG.^ building#yes surface#paved
+d 5^pI? 7(EyWl 6/L6V
+d 5^pK( 7(EyO[ 6/L7Z
+d 5^pK\ 7(EyL} 6/L7&
+d 5^pIh 7(EyJT 6/L7F
+d 5^pL. 7(EyF; 6/L68
+d 5^pI7 7(EyIx 6/L5i
+d 5^pHq 7(EyKL 6/L6(
+d 5^pKk 7(EyR[ 6/L5(
+d 5^pI? 7(EyWl 6/L6V
+w "uH"p building#yes
+d 5^y{7 6fOi8 6/M"5
+d 5^y{{ 7(E|hL 6/M#b
+d 5^y{R 7(E|{C 6/M!"
+d 5^y{= 7(E|sf 6/L}S
+d 5^y{7 6fOi8 6/M"5
+w "uGw\ building#yes
+d 5^xn, 7(Ez[j 6/L3#
+d 5^xnD 7(EzZ: 6/L4\
+d 5^xma 7(EziB 6/L5.
+d 5^xnN 7(Ezjr 6/L3L
+d 5^xn, 7(Ez[j 6/L3#
+w "uGpE amenity#parking
+d 5^w~f 7(Eyrw 6/Lj2
+d 5^w~i 7(Eyu' 6/LrG
+d 5^w~l 7(EyOr 6/LtV
+d 5^w~e 7(EyOr 6/Lz;
+d 5^w~j 7(EyG] 6/LzF
+d 5^w~g 6fOIw 5"J{c
+d 5^w~k 7(EyK" 5"J{b
+d 5^w~c 7(EyOW 6/LrQ
+d 5^w~d 7(Eyi2 6/Lpw
+d 5^w~h 6fOMh 6/Lj=
+d 5^w~f 7(Eyrw 6/Lj2
+w "uG.V building#yes surface#paved
+d 5^pHh 7(EysS 6/L3<
+d 5^pIr 7(Eyo" 6/L40
+d 5^pJn 7(Eyvf 6/L5l
+d 5^pJt 7(Ez!H 6/L41
+d 5^pJ] 7(Ey{! 6/L3F
+d 5^pJ: 7(Eywl 6/L3w
+d 5^pHh 7(EysS 6/L3<
+w "uGxW building#yes
+d 5^xtO 7(E|Aw 6/LGI
+d 5^xt7 7(E|;` 6/LHa
+d 5^xt; 6fOfL 6/LJd
+d 5^xtR 7(E|M3 6/LIC
+d 5^xtO 7(E|Aw 6/LGI
+w "uGw[ building#yes
+d 5^xmA 7(EzpB 6/L5>
+d 5^xn^ 7(Ezr@ 6/L3^
+d 5^xn< 7(E{#I 6/L4<
+d 5^xm2 7(E{!Y 6/L6!
+d 5^xmA 7(EzpB 6/L5>
+w "uGoT building#yes
+d 5^ww# 7(ExQR 6/Lg@
+d 5^wvt 7(ExPw 6/Ld8
+d 5^ww& 7(Ex], 6/Lcq
+d 5^wvd 6fOC/ 6/L`y
+d 5^ww- 7(Exc4 6/L`d
+d 5^ww, 7(Exd- 6/LcQ
+d 5^wvv 7(Exl& 6/LcQ
+d 5^ww" 7(Exjn 6/L`S
+d 5^wvl 7(Exqo 6/L`N
+d 5^wvn 7(Exrh 6/Ldc
+d 5^wvz 7(ExmV 6/Ldc
+d 5^wve 7(ExmV 6/LeU
+d 5^wva 7(Exf8 6/LeK
+d 5^ww$ 7(Exf9 5"J|]
+d 5^wvo 7(Ex^\ 6/LgP
+d 5^wvY 7(Ex^x 6/Lg%
+d 5^ww# 7(ExQR 6/Lg@
+w "uH"O building#yes
+d 5^yo) 7(E|@6 6/Lp<
+d 5^yo+ 6fOe3 6/LnW
+d 5^yn_ 7(E|'7 6/Lq?
+d 5^ynK 6fOd* 5"J}m
+d 5^yo) 7(E|@6 6/Lp<
+w "uI5\ building#yes
+d 5_)2H 5'z;R 6/M)1
+d 5_)2O 7(E}+D 6/M),
+d 5_)2, 7(E}+a 6/M+A
+d 5_)1l 7(E}6A 6/M+1
+d 5_)2H 5'z;R 6/M)1
+w "uHq@ building#yes
+d 5_&[r 7(E}5f 6/L|;
+d 5_&[X 7(E},u 6/L|5
+d 5_&[{ 7(E},< 6/L~@
+d 5_&[J 7(E}6% 6/L~@
+d 5_&[r 7(E}5f 6/L|;
+w "uGwb building#yes
+d 5^xn= 7(E{{z 6/L9h
+d 5^xmP 7(E{w( 6/L;2
+d 5^xn* 7(E{~b 5"Jx@
+d 5^xnJ 7(E|%e 6/L:h
+d 5^xn= 7(E{{z 6/L9h
+w "uH"s building#yes
+d 5^y{x 7(E|w) 6/M+a
+d 5^y{d 6fOjD 5"K"(
+d 5^y{; 7(E|lJ 6/M.Y
+d 5^y{G 7(E|w) 6/M.^
+d 5^y{x 7(E|w) 6/M+a
+w "uHqH building#yes
+d 5_&[} 7(E}$' 6/LcV
+d 5_&[I 7(E|y6 6/Lcv
+d 5_&[~ 7(E|{$ 6/Lf%
+d 5_&[d 7(E}'H 6/Le`
+d 5_&[} 7(E}$' 6/LcV
+w "uG.Q building#yes surface#paved
+d 5^pJ^ 7(EyDv 6/L@B
+d 5^pJZ 7(Ey8V 6/L@5
+d 5^pJ= 6fOHw 6/LAn
+d 5^pJ/ 7(Ey<R 5"Jxt
+d 5^pJ4 6fOIE 6/LB2
+d 5^pI> 7(EyB" 6/LB4
+d 5^pJp 7(EyB" 6/LAg
+d 5^pJk 7(EyE4 6/LAb
+d 5^pJ^ 7(EyDv 6/L@B
+w "uGwD building#yes
+d 5^xnK 6fOSS 6/L85
+d 5^xn\ 7(EzA: 6/L9X
+d 5^xn+ 7(EzJV 5"Jx.
+d 5^xmB 7(EzMi 6/L8v
+d 5^xnK 6fOSS 6/L85
+w "uGxU building#yes
+d 5^xtG 7(E|Sf 6/LK6
+d 5^xsz 6fOg7 6/LLF
+d 5^xt> 7(E|Vz 6/LNN
+d 5^xsx 7(E|^G 6/LM(
+d 5^xtG 7(E|Sf 6/LK6
+w "uG.P building#yes surface#paved
+d 5^pL4 7(Eykw 6/L:-
+d 5^pJJ 7(EysS 6/L;2
+d 5^pKx 7(EylD 5"JxG
+d 5^pHn 7(Eygl 6/L<M
+d 5^pK= 7(Eyij 6/L;m
+d 5^pJ% 7(EyfW 6/L;C
+d 5^pL4 7(Eykw 6/L:-
+w "uGxX building#yes
+d 5^xt. 7(E|3- 6/LDQ
+d 5^xt9 7(E|-P 6/LEj
+d 5^xsu 7(E|5; 6/LG)
+d 5^xss 7(E|;R 6/LEl
+d 5^xt. 7(E|3- 6/LDQ
+w "uH"x building#yes
+d 5^y{] 7(E|P~ 6/L}m
+d 5^y{m 7(E|X? 6/M!H
+d 5^y{9 7(E|G7 6/M$4
+d 5^y{Q 7(E|@q 6/M"J
+d 5^y{] 7(E|P~ 6/L}m
+w "uH"q building#yes
+d 5^y{I 7(E|'T 6/L~{
+d 5^y|# 7(E{{O 6/L~{
+d 5^y{N 6fObN 6/L|%
+d 5^y{f 7(E|(L 6/L|%
+d 5^y{I 7(E|'T 6/L~{
+w "uGoY building#yes
+d 5^wv| 7(Exp! 6/LkU
+d 5^wv~ 7(Exe@ 6/LkZ
+d 5^wv_ 7(Exde 6/Li%
+d 5^ww( 7(Ex}d 6/Lhh
+d 5^wv} 7(Ex~A 6/LmZ
+d 5^ww' 6fOE3 5"J}:
+d 5^wv| 7(Exp! 6/LkU
+w "uGwX building#yes
+d 5^xnY 7(E{>b 5"Jx8
+d 5^xn- 7(E{;_ 6/L=2
+d 5^xnX 7(E{GE 6/L=p
+d 5^xn9 7(E{I` 6/L;v
+d 5^xnY 7(E{>b 5"Jx8
+w "uHq> building#yes
+d 5_&[b 7(E},u 5"J}2
+d 5_&[^ 7(E}#h 6/Llx
+d 5_&[Y 7(E}!w 5"J|~
+d 5_&[p 6fOm: 6/LjZ
+d 5_&[b 7(E},u 5"J}2
+w "uGpQ building#yes
+d 5^x&J 7(Ez)@ 6/M$4
+d 5^x&G 7(Ez*: 6/M(J
+d 5^x&D 7(Ey~P 5"K!i
+d 5^x&A 7(Ey~3 6/M'|
+d 5^x&C 7(EysR 6/M(4
+d 5^x&E 7(Eyq) 6/M%m
+d 5^x&9 7(Eyth 5"K!D
+d 5^x&h 7(Ez!, 5"K!D
+d 5^x&V 7(Ey~3 6/M$*
+d 5^x&J 7(Ez)@ 6/M$4
+w "uG.Y building#yes surface#paved
+d 5^pIq 7(Ey*T 6/L<E
+d 5^pI+ 7(Ex~@ 6/L=`
+d 5^pL0 7(Exz} 6/L<h
+d 5^pJ? 7(Ex}V 6/L<P
+d 5^pJw 5'z7S 6/L<2
+d 5^pJa 7(Ey!U 6/L;e
+d 5^pJ0 6fOFV 6/L;H
+d 5^pIJ 7(Ey%& 6/L:k
+d 5^pIq 7(Ey*T 6/L<E
+w "uGxS building#yes
+d 5^xs] 7(E|k4 6/LR}
+d 5^xtU 6fOiO 6/LT"
+d 5^xt3 7(E|i6 6/LUO
+d 5^xsv 7(E|pT 6/LTJ
+d 5^xs] 7(E|k4 6/LR}
+w "T;!` building#yes
+d 2?:z@ 7(E{ly 6/L_"
+d 2?:zT 6fO`[ 6/La.
+d 2?:zK 7(E{J> 6/L_6
+d 2?:z] 7(E{N' 6/L]*
+d 2?:z@ 7(E{ly 6/L_"
+w "T*o8 building#yes
+d 2=v1p 7(Ez'C 6/M*8
+d 2=v1t 7(E{-G 6/M8n
+d 2=v1q 7(E{.[ 5"K$J
+d 2=v1n 7(Ez\q 6/MF[
+d 2=v1k 7(EzX| 6/MDf
+d 2=v1s 7(E{#W 6/MAw
+d 2=v1u 7(E{"; 6/M9i
+d 2=v1m 7(Ey~| 6/M+p
+d 2=v1p 7(Ez'C 6/M*8
+w "T;!_ building#yes
+d 2?:zG 6fOau 6/LZh
+d 2?:zI 7(E|4| 6/L\T
+d 2?:zM 7(E{z6 6/Lj6
+d 2?:zD 7(E{M9 6/Ll_
+d 2?:zW 7(E{I` 6/LjN
+d 2?:zR 6fOaE 6/Lh@
+d 2?:zO 7(E|%, 6/L^%
+d 2?:zV 7(E{qn 6/L\|
+d 2?:zG 6fOau 6/LZh
+w "uH"M building#yes
+d 5^ynp 7(E|p~ 6/LrW
+d 5^yny 7(E|x" 6/Lt1
+d 5^ynf 7(E|g9 6/Lva
+d 5^yna 7(E|_[ 6/Lu#
+d 5^ynp 7(E|p~ 6/LrW
+w "T;,U building#yes
+d 2?;0h 7(Ey7P 6/Lh8
+d 2?;0o 7(Ey?n 6/M&x
+d 2?;0b 7(Ey%| 6/M+w
+d 2?;0T 7(Exv9 6/M)P
+d 2?;0^ 7(Exr. 6/M*<
+d 2?;0V 7(ExD, 6/M"!
+d 2?;0Z 7(ExLW 6/L~F
+d 2?;0L 7(Ey"0 6/M)`
+d 2?;0\ 7(Ey46 6/M&.
+d 2?;0N 7(Ey,h 6/Lh<
+d 2?;0h 7(Ey7P 6/Lh8
+w "uG.U building#yes surface#paved
+d 5^pL2 7(Exa( 4.Xk
+d 5^pKE 6fOD} 6/LA]
+d 5^pJg 6fOD} 6/L@M
+d 5^pKF 7(Exj` 6/L@M
+d 5^pHO 7(ExjC 6/L@"
+d 5^pI0 7(ExfG 6/L@'
+d 5^pKu 7(Exf9 6/L?M
+d 5^pI= 6fOCF 6/L?U
+d 5^pHd 7(Ex^\ 6/L@u
+d 5^pHR 7(Exa6 6/L@m
+d 5^pL2 7(Exa( 4.Xk

@@ -1,0 +1,81 @@
+n "77N~ 7(ExnP 6/>}* name#Önskevädersgatan railway#tram_stop
+n "77O' 7(E|^} 6/?!8 name#Friskväderstorget railway#tram_stop
+n "77O+ 7(F"5S 6/?"z name#Väderilsgatan railway#tram_stop
+n "77OI 7(F-Z* 6/??\ name#Varmfrontsgatan railway#tram_stop
+n %H<7f 7(Esdz 6/>fz name#Mildvädersgatan railway#tram_stop
+n &8@)N 6fPm8 6/?7S name#Temperaturgatan railway#tram_stop
+n 'T1R5 7(F)\* 5"I\3 crossing#island crossing_ref#zebra highway#crossing traffic_calming#hump
+n *#@v\ 7(F#cU 6/?4n amenity#recycling recycling:cans#yes recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n *gloT 7(F$RM 5"I]+ barrier#cycle_barrier
+n *gloj 7(Exvr 6/>}l crossing#uncontrolled highway#crossing
+n .~*YG 7(E~z$ 6/?(I amenity#fast_food cuisine#pizza name#Pizzeria_Pärlan opening_hours#Mo-Su_12:00-21:00 phone#+4631537766
+n .~+,u 7(F"zw 6/?Q. amenity#fast_food cuisine#pizza name#Galatali phone#+4631533933
+n /+`%e 7(F"Nt 6/?K* traffic_calming#yes
+n /+`&W 7(F$8u 6/?eH traffic_calming#yes
+n /+`'D 7(F#O& 6/?U7 traffic_calming#yes
+n 0PR_c 7(F"Pg 6/?I8 amenity#recycling recycling:batteries#yes recycling:clothes#no recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 0PR_n 7(F!DQ 5"IZ^ amenity#post_box
+n 0gSxS 7(E}W7 6/?9t amenity#recycling recycling:batteries#yes recycling:cans#no recycling:clothes#no recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 3`4eN 7(E|tr 5"IZH addr:housenumber#1 addr:street#Lenvädersgatan
+n 3`4eO 7(E~y\ 6/?+A addr:housenumber#1 addr:street#Vintervädersgatan
+n 3`4eP 7(F",c 6/?Q4 addr:housenumber#11 addr:street#Badvädersgatan
+n 3`4eQ 7(E}X^ 6/?)y addr:housenumber#11 addr:street#Lenvädersgatan
+n 3`4eR 7(F";[ 6/?Qm addr:housenumber#13 addr:street#Badvädersgatan
+n 3`4eS 7(E}cJ 5"IZ; addr:housenumber#13 addr:street#Lenvädersgatan
+n 3`4eT 7(F"JT 6/?RI addr:housenumber#15 addr:street#Badvädersgatan
+n 3`4eU 7(E}n6 6/?)Y addr:housenumber#15 addr:street#Lenvädersgatan
+n 3`4eV 7(F"YL 6/?S$ addr:housenumber#17 addr:street#Badvädersgatan
+n 3`4eW 7(E}y# 6/?)I addr:housenumber#17 addr:street#Lenvädersgatan
+n 3`4eX 7(F"hE 6/?S] addr:housenumber#19 addr:street#Badvädersgatan
+n 3`4eY 7(E~0B 6/?)L addr:housenumber#19 addr:street#Lenvädersgatan
+n 3`4e[ 7(E~:u 5"IZ: addr:housenumber#21 addr:street#Lenvädersgatan
+n 3`4e] 6fOy8 6/?)r addr:housenumber#23 addr:street#Lenvädersgatan
+n 3`4e_ 7(E~O~ 6/?*( addr:housenumber#25 addr:street#Lenvädersgatan
+n 3`4ea 7(E~ZS 6/?*; addr:housenumber#27 addr:street#Lenvädersgatan
+n 3`4eb 7(F!.> 6/?CF addr:housenumber#3 addr:street#Badvädersgatan
+n 3`4ec 7(E}-N 6/?*\ addr:housenumber#3 addr:street#Lenvädersgatan
+n 3`4ed 7(E~y? 6/?-V addr:housenumber#3 addr:street#Vintervädersgatan
+n 3`4ee 7(E}&< 6/?2U addr:housenumber#3 addr:street#Väderbodarna
+n 3`4ef 7(F#,Z 6/?;= addr:housenumber#31 addr:street#Väderilsgatan
+n 3`4eg 7(F#11 6/?8S addr:housenumber#32 addr:street#Väderilsgatan
+n 3`4eh 6fP5t 6/?5d addr:housenumber#33 addr:street#Väderilsgatan
+n 3`4ei 7(F#:J 5"I[3 addr:housenumber#34 addr:street#Väderilsgatan
+n 3`4ej 7(F#A) 6/?.X addr:housenumber#35 addr:street#Väderilsgatan
+n 3`4ek 7(F#.? 6/?-C addr:housenumber#36 addr:street#Väderilsgatan
+n 3`4el 7(F"{6 6/?,8 addr:housenumber#37 addr:street#Väderilsgatan
+n 3`4em 7(F"ET 6/?7q addr:housenumber#38 addr:street#Väderilsgatan
+n 3`4en 7(F"Ju 6/?4M addr:housenumber#39 addr:street#Väderilsgatan
+n 3`4eo 7(F"P7 6/?1) addr:housenumber#40 addr:street#Väderilsgatan
+n 3`4ep 7(F"`E 6/?+) addr:housenumber#41 addr:street#Väderilsgatan
+n 3`4eq 7(F"NH 6/?*] addr:housenumber#42 addr:street#Väderilsgatan
+n 3`4er 7(F":m 6/?*/ addr:housenumber#43 addr:street#Väderilsgatan
+n 3`4es 6fP*9 6/?)| addr:housenumber#44 addr:street#Väderilsgatan
+n 3`4et 7(F!kX 6/?*T addr:housenumber#45 addr:street#Väderilsgatan
+n 3`4eu 7(F!Xd 6/?+- addr:housenumber#46 addr:street#Väderilsgatan
+n 3`4ev 7(F!]. 6/?.j addr:housenumber#47 addr:street#Väderilsgatan
+n 3`4ew 7(F!`N 6/?2F addr:housenumber#48 addr:street#Väderilsgatan
+n 3`4ex 7(F!c] 6/?5l addr:housenumber#49 addr:street#Väderilsgatan
+n 3`4ey 7(F!;V 6/?CV addr:housenumber#5 addr:street#Badvädersgatan
+n 3`4ez 7(E}8; 6/?*L addr:housenumber#5 addr:street#Lenvädersgatan
+n 3`4e{ 7(E~y" 6/?/j addr:housenumber#5 addr:street#Vintervädersgatan
+n 3`4e| 7(E}$} 6/?/f addr:housenumber#5 addr:street#Väderbodarna
+n 3`4e} 7(F!k. 6/?:d addr:housenumber#50 addr:street#Väderilsgatan
+n 3`4e~ 7(F!y` 6/?;M addr:housenumber#51 addr:street#Väderilsgatan
+n 3`4f! 7(F"*4 6/?<7 addr:housenumber#52 addr:street#Väderilsgatan
+n 3`4f" 7(F"8f 6/?<~ addr:housenumber#53 addr:street#Väderilsgatan
+n 3`4f# 7(F"g| 6/?>0 addr:housenumber#54 addr:street#Väderilsgatan
+n 3`4f$ 7(F"vF 6/?>w addr:housenumber#55 addr:street#Väderilsgatan
+n 3`4f% 7(F#&n 6/??` addr:housenumber#56 addr:street#Väderilsgatan
+n 3`4f& 7(F#58 6/?@J addr:housenumber#57 addr:street#Väderilsgatan
+n 3`4f' 6fP:* 6/?B4 addr:housenumber#58 addr:street#Väderilsgatan
+n 3`4f( 7(F#nB 6/?B| addr:housenumber#59 addr:street#Väderilsgatan
+n 3`4f) 7(F#|h 6/?Cg addr:housenumber#60 addr:street#Väderilsgatan
+n 3`4f* 6fP>H 6/?DQ addr:housenumber#61 addr:street#Väderilsgatan
+n 3`4f. 7(F!Ho 6/?Cf addr:housenumber#7 addr:street#Badvädersgatan
+n 3`4f/ 6fOoZ 6/?*< addr:housenumber#7 addr:street#Lenvädersgatan
+n 3`4f0 6fO}H 5"I[G addr:housenumber#7 addr:street#Vintervädersgatan
+n 3`4f1 7(E}#Y 5"IZW addr:housenumber#7 addr:street#Väderbodarna
+n 3`4f2 7(F!{j 5"I^0 addr:housenumber#9 addr:street#Badvädersgatan
+n 3`4f3 7(E}Mq 6/?*+ addr:housenumber#9 addr:street#Lenvädersgatan
+n 3`4f4 7(E~nf 6/?8" addr:housenumber#9 addr:street#Vintervädersgatan
+n 4UGda 6fPoJ 6/?;m bench#no highway#bus_stop name#Temperaturgatan shelter#no

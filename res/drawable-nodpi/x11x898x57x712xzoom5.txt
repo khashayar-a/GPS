@@ -1,0 +1,93 @@
+w "i]31 name#Sälöfjordsgatan_Läge_A public_transport#platform
+d 4J8ey 7(EqDI 6/@%<
+d 4J8f" 7(EqN; 5"Icy
+w "i]32 name#Sälöfjordsgatan_Läge_B public_transport#platform
+d 4J8eu 7(Eq<R 6/?uX
+d 4J8e} 7(EqFz 6/?}`
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n @@:W 7(EprF 6/?EB highway#traffic_signals
+n @@;' 7(EpbV 6/?Ea highway#traffic_signals
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n $_qU8 7(El7f 6/@*! highway#mini_roundabout
+n $_qVs 6fN;A 6/@"K highway#mini_roundabout
+n $_qWg 7(EkJM 4.ML highway#turning_circle
+n $_qaw 7(Eot$ 6/@H2 highway#turning_circle
+n $mt!n 7(Eo(` 6/@DE highway#turning_circle
+n $mt!p 7(Epdk 6/@L? barrier#gate
+n &8@)J 7(Eq>5 6/?y` name#Sälöfjordsgatan_Läge_B public_transport#stop_position tram#yes
+n /f_y] 7(EsZt 6/?o) addr:housenumber#1 addr:street#Kalvsundsgatan
+n /f_yq 7(Et%7 6/@,@ addr:housenumber#20 addr:street#Baltzersgatan
+n /f`!3 7(Et,D 6/@9` addr:housenumber#16 addr:street#Baltzersgatan
+n /f`"c 7(ErX@ 6/@3n addr:housenumber#1 addr:street#Källöfjordsgatan
+n /f`%E 7(Et,u 6/?tb addr:housenumber#26 addr:street#Baltzersgatan
+n /f`*{ 7(EsD2 6/?p: addr:housenumber#80 addr:street#Hakefjordsgatan
+n /f`+w 6fNvX 4.M2 addr:housenumber#24 addr:street#Baltzersgatan
+n /f`,V 7(Esz# 6/@.< addr:housenumber#16 addr:street#Källöfjordsgatan
+n /f`10 7(Es~2 6/@;] addr:housenumber#14 addr:street#Rivöfjorsgatan
+n /f`4Z 7(Esg+ 6/?p] addr:housenumber#82 addr:street#Hakefjordsgatan
+n /f`8P 7(Es~x 6/@"_ addr:housenumber#62 addr:street#Norra_Sälöfjordsgatan
+n /f`8h 7(Et%7 6/@)y addr:housenumber#22 addr:street#Baltzersgatan
+n /f`<A 7(Et%1 6/@38 addr:housenumber#18 addr:street#Baltzersgatan
+n /f`=F 7(ErXz 6/@$\ addr:housenumber#33 addr:street#Norra_Sälöfjordsgatan
+n /f`AL 6fNu4 6/@%l addr:housenumber#47 addr:street#Norra_Sälöfjordsgatan
+n /f`B@ 7(ErWc 6/@-~ addr:housenumber#2 addr:street#Källöfjordsgatan
+n /f`Cc 7(Esz^ 6/@0f addr:housenumber#17 addr:street#Källöfjordsgatan
+n /f`D3 7(ErQP 6/@&c addr:housenumber#3B addr:street#Älvefjordsgatan
+n /f`D{ 7(Es~@ 6/?s4 addr:housenumber#85 addr:street#Hakefjordsgatan
+n /f`G| 7(EsLR 6/?n< addr:housenumber#2 addr:street#Kalvsundsgatan
+n /f`Jx 6fNg< 6/@,2 addr:housenumber#3A addr:street#Älvefjordsgatan
+n /f`Pb 7(ErMF 6/@3q addr:housenumber#1B addr:street#Älvefjordsgatan
+n /f`RV 7(Et!! 6/?pB addr:housenumber#84 addr:street#Hakefjordsgatan
+n /f`S; 7(Et,{ 5"Ia3 addr:housenumber#28 addr:street#Baltzersgatan
+n 0W/nl 7(ErO| 5"Ib9 addr:housenumber#57 addr:street#Hakefjordsgatan
+n 0W/nq 7(Es)n 6/?w[ addr:housenumber#73 addr:street#Hakefjordsgatan
+n 0W/n| 7(Es)` 6/?xA addr:housenumber#75 addr:street#Hakefjordsgatan
+n 0W/o" 7(Er45 6/?mf addr:housenumber#5 addr:street#Älvefjordsgatan
+n 0W/o# 7(Es*+ 6/?v1 addr:housenumber#69 addr:street#Hakefjordsgatan
+n 0W/o( 7(Erk0 6/?wL addr:housenumber#65 addr:street#Hakefjordsgatan
+n 0W/o/ 7(ErL% 6/?u{ addr:housenumber#51 addr:street#Hakefjordsgatan
+n 0W/o4 7(ErIH 6/?sW addr:housenumber#47 addr:street#Hakefjordsgatan
+n 0W/o8 7(Es*8 6/?uK addr:housenumber#67 addr:street#Hakefjordsgatan
+n 0W/o= 7(Erl" 6/?xT addr:housenumber#67 addr:street#Hakefjordsgatan
+n 0W/oB 7(ErhZ 6/?t3 addr:housenumber#59 addr:street#Hakefjordsgatan
+n 0W/oE 7(ErMB 6/?w0 addr:housenumber#53 addr:street#Hakefjordsgatan
+n 0W/oH 7(ErJf 5"Iaj addr:housenumber#49 addr:street#Hakefjordsgatan
+n 0W/oK 7(ErN_ 6/?xB addr:housenumber#55 addr:street#Hakefjordsgatan
+n 0W/oN 6fNm* 5"Ia~ addr:housenumber#71 addr:street#Hakefjordsgatan
+n 0W/oU 7(Es*S 6/?t! addr:housenumber#69 addr:street#Hakefjordsgatan
+n 0W/ob 7(EriL 6/?u; addr:housenumber#61 addr:street#Hakefjordsgatan
+n 0W/oe 7(Er5I 6/?nu addr:housenumber#68 addr:street#Hakefjordsgatan
+n 0W/of 6fNm. 6/?te addr:housenumber#65 addr:street#Hakefjordsgatan
+n 0W/oo 7(Erj> 5"Iay addr:housenumber#63 addr:street#Hakefjordsgatan
+n 0fssf 7(Eo)\ 6/?z( highway#mini_roundabout
+n 0g;&R 7(EsHj 6/@G] addr:housenumber#12B addr:street#Baltzersgatan
+n 0g;&k 7(EsH\ 6/@J! addr:housenumber#12A addr:street#Baltzersgatan
+n 0g;'# 7(EsuX 6/@D: addr:housenumber#14C addr:street#Baltzersgatan
+n 0g;'. 7(EshU 6/@DJ addr:housenumber#14D addr:street#Baltzersgatan
+n 0g;(F 7(Es[C 5"IfC addr:housenumber#14E addr:street#Baltzersgatan
+n 0g;(x 7(EsHx 6/@E4 addr:housenumber#12C addr:street#Baltzersgatan
+n 0g;)4 7(Et0# 6/@Cy addr:housenumber#14A addr:street#Baltzersgatan
+n 0g;)O 6fNuq 6/@D+ addr:housenumber#14B addr:street#Baltzersgatan
+n 0hvjv 7(Eu+, 6/@\4 traffic_calming#hump
+n 0hvk: 7(Et2# 6/?yC traffic_calming#hump
+n 0hvls 7(Et33 5"Idn traffic_calming#hump
+n 0hvn" 7(EsIX 6/@#N traffic_calming#hump
+n 0mNME 7(Eov` 5"Ib, addr:housenumber#45 addr:street#Vårflodsgatan
+n 0mNMb 7(Ep6@ 6/?gX addr:housenumber#66 addr:street#Vårvindsgatan
+n 0mNN# 7(Ep-L 5"I_T addr:housenumber#23 addr:street#Alevägen
+n 0mNN/ 7(EpS_ 6/?wo addr:housenumber#4 addr:street#Enskiftesgatan
+n 0mNOG 7(Eo}l 6/?w| addr:housenumber#47 addr:street#Vårflodsgatan
+n 0mNPc 7(EpB9 6/?lY addr:housenumber#8 addr:street#Enskiftesgatan
+n 0mNPt 7(EpK3 6/?q) addr:housenumber#6 addr:street#Enskiftesgatan
+n 0mNQk 7(Ep96 5"I`n addr:housenumber#65 addr:street#Vårvindsgatan
+n 0mNRE 7(Ep7, 6/?__ addr:housenumber#12 addr:street#Enskiftesgatan
+n 0mNRW 5'z/L 6/?s% addr:housenumber#52 addr:street#Vårflodsgatan
+n 0mNR} 7(Ep<& 6/?e= addr:housenumber#10 addr:street#Enskiftesgatan
+n 0mNT\ 7(Ep[n 6/@"( addr:housenumber#50 addr:street#Södra_Sälöfjordsgatan
+n 0mNU8 6fNT$ 6/?v< addr:housenumber#51 addr:street#Vårflodsgatan
+n 0mNUJ 7(Epca 6/?~2 addr:housenumber#2 addr:street#Enskiftesgatan
+n 0mbq? 6fNL1 6/@*3 addr:housenumber#25 addr:street#Södra_Sälöfjordsgatan
+n 0mb{& 7(EoR| 6/@,r addr:housenumber#17 addr:street#Rydholmsgatan
+n 4J'2S 7(EqMM 6/@)[ name#Sälöfjordsgatan_Läge_A public_transport#stop_position tram#yes

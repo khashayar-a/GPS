@@ -1,0 +1,45 @@
+n $83<1 7(Ew*C 6/@2a traffic_calming#table
+n /'/[r 7(Exb] 6/@:p traffic_calming#hump
+n /+`#4 7(Ex9u 6/@3: traffic_calming#hump
+n /?_CK 7(Eyyn 6/@Bx addr:housenumber#14 addr:street#Prosten_Ahlbergs_Gata
+n /?_DK 7(Ey_Y 6/@GZ addr:housenumber#4 addr:street#Prosten_Ahlbergs_Gata
+n /?_DP 7(EyeD 6/@F\ addr:housenumber#6 addr:street#Prosten_Ahlbergs_Gata
+n /?_FN 7(EytS 6/@Cz addr:housenumber#12 addr:street#Prosten_Ahlbergs_Gata
+n /?_Jo 7(Eyoe 5"IfE addr:housenumber#10 addr:street#Prosten_Ahlbergs_Gata
+n /?_K% 7(Eyk" 6/@Ei addr:housenumber#8 addr:street#Prosten_Ahlbergs_Gata
+n /?_MH 7(EyZ$ 6/@HW addr:housenumber#2 addr:street#Prosten_Ahlbergs_Gata
+n /f_xf 7(Ey:d 6/@Ix addr:housenumber#1 addr:street#Prosten_Ahlbergs_Gata
+n /f_y> 7(Ex|U 6/?[y addr:housenumber#51 addr:street#Kölnåsgatan
+n /f_zs 7(Ey+< 6/?d! addr:housenumber#3 addr:street#Klostermuren
+n /f_{. 7(Ey3P 6/?cF addr:housenumber#2 addr:street#Klostermuren
+n /f`'. 7(EyAj 6/?]V addr:housenumber#12 addr:street#Klostermuren
+n /f`+W 7(Ey:d 6/@L, addr:housenumber#1 addr:street#Hugo_Hammars_gata
+n /f`.# 7(EyJ4 6/?\6 addr:housenumber#59 addr:street#Kölnåsgatan
+n /f`0` 6fOHE 6/?[z addr:housenumber#55 addr:street#Kölnåsgatan
+n /f`2W 7(Exn& 6/?f> addr:housenumber#5 addr:street#Klostermuren
+n /f`9$ 7(Exr~ 5"I_? addr:housenumber#49 addr:street#Kölnåsgatan
+n /f`;b 7(Exwx 5"I^{ addr:housenumber#36 addr:street#Kölnåsgatan
+n /f`;t 7(Ey7i 6/?]X addr:housenumber#11 addr:street#Klostermuren
+n /f`={ 7(Exxw 6/?d( addr:housenumber#4 addr:street#Klostermuren
+n /f`>i 7(Ey?Q 6/?[w addr:housenumber#57 addr:street#Kölnåsgatan
+n /f`@f 7(Ex{{ 5"I_M addr:housenumber#9 addr:street#Klostermuren
+n /f`Aw 7(Exqc 6/?]{ addr:housenumber#8 addr:street#Klostermuren
+n /f`BQ 6fOG= 6/?]I addr:housenumber#10 addr:street#Klostermuren
+n /f`Bf 7(EyMJ 6/?dh addr:housenumber#132 addr:street#Hakefjordsgatan
+n /f`Bo 7(EyJ9 6/?]p addr:housenumber#13 addr:street#Klostermuren
+n /f`C4 7(Exns 6/?cY addr:housenumber#6 addr:street#Klostermuren
+n /f`CE 7(Exf% 6/?Wv addr:housenumber#9 addr:street#Kvarnhålegatan
+n /f`J- 7(Ey(L 6/?[a addr:housenumber#53 addr:street#Kölnåsgatan
+n /f`L2 7(EyDF 6/?cU addr:housenumber#1 addr:street#Klostermuren
+n /f`N- 7(ExoH 6/?aZ addr:housenumber#7 addr:street#Klostermuren
+n 0JWC_ 7(Ey;I 6/@EF amenity#post_box
+n 0JWDH 7(E}UI 6/@&< name#Svartedalens_Servicebutik opening_hours#mo-th_10:00-23:00;fr-sa_10:00-24:00;su_10:00-22:00 shop#convenience
+n 0JWE~ 7(E}NV 6/@&< amenity#pub name#Svartedalens_Krog
+n 0W/nk 7(Ey:p 6/?Yd highway#turning_circle
+n 0g;'X 7(ExV& 6/@;+ addr:housenumber#15B addr:street#Sunnerviksgatan
+n 0g;'_ 7(ExMk 6/@9@ addr:housenumber#15A addr:street#Sunnerviksgatan
+n 0g;'c 7(ExrN 6/@CT addr:housenumber#17A addr:street#Sunnerviksgatan
+n 0g;(* 7(Exif 6/@EA addr:housenumber#17B addr:street#Sunnerviksgatan
+n 0g;(m 7(Ex^K 6/@<v addr:housenumber#15C addr:street#Sunnerviksgatan
+n 0g;)- 7(Exc9 6/@=y addr:housenumber#15D addr:street#Sunnerviksgatan
+n 0g;)A 7(Exa" 6/@G- addr:housenumber#17C addr:street#Sunnerviksgatan

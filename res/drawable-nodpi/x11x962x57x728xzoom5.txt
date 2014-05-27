@@ -1,0 +1,4 @@
+n 'tcO) 7(F#ro 6/G/b amenity#recycling
+n 'tcO& 7(F#mz 6/GBX amenity#recycling
+n %7L17 7(F&Za 6/GXS amenity#school name#Backaskolan
+n %7KT# 7(F%2F 6/GXk highway#turning_circle

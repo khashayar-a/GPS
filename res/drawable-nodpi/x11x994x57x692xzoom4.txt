@@ -1,0 +1,114 @@
+w B0[G highway#service service#parking_aisle
+d 'LO'+ 7(EY&B 6/JLb
+d 'LO'( 6fL2c 6/JM@
+d 1cunt 7(EXd* 5"Jg>
+d 1cunC 7(EXTM 6/JNp
+d 1cuq] 7(EXE9 6/JOV
+d 'LO'' 7(EX4| 6/JP8
+d 'LO'% 7(EW}C 6/JQ0
+d 'LO'^ 7(EWja 6/JS7
+d 'LO'# 7(EW[T 6/JT>
+d 'LO'@ 7(EWLE 6/JUB
+d 'LO'D 7(EW=D 6/JV8
+d 'LO'H 7(EW-d 6/JW$
+d 'LO'L 7(EV}E 5"Jh<
+d 'LO'P 7(EVkD 6/JY$
+d 'LO'. 7(EV_{ 6/JYw
+d $s(\u 7(EVMy 6/J[?
+w R.-g highway#service service#parking_aisle
+d 'BM*# 7(E]KS 5"JgO
+d 'BM*" 7(E^#d 6/JMC
+w R.-e highway#service name#Sofierogatan
+d 'BM*$ 7(E]UU 6/JXm
+d 'BM*% 7(E]1% 6/JY^
+d 'BM*' 7(E\{; 6/JX{
+w D=3q highway#service name#Grönstjärnans_Gränd
+d %-Bzg 7(E\YI 6/K-'
+d %-B|[ 7(E\pq 6/K5+
+d (10l\ 7(E\vL 6/K6H
+d $o;QA 6fLXo 6/K7,
+w Xsr( highway#service name#Sofierogatan
+d 'BM*% 7(E]1% 6/JY^
+d 'BM*& 7(E](N 6/JT7
+w "kUCs highway#footway oneway#yes tunnel#yes
+d 4^"eP 7(EZV[ 6/J^?
+d 4^"e` 7(EZTZ 6/J]0
+d 4^"eb 7(EZRr 6/J[M
+d 4^"eV 7(EZNn 6/JY-
+w D=0@ highway#service name#Laboratorietrappan
+d $o;?k 7(EZ8* 6/K;2
+d $o;@w 7(EZDk 6/KCW
+w "c$%" bridge#yes highway#footway layer#1
+d 3#[YR 6fLSP 6/JN<
+d 3eU_s 7(E\BA 5"Jgd
+w "\#\` bridge#yes highway#footway layer#1
+d 3#[YO 7(E[Zg 6/JN4
+d 3#[YT 7(E[Th 5"Jg[
+w "RRuC access#private bridge#yes foot#designated highway#footway layer#1
+d 20GD# 7(EYoy 5"Jg`
+d 20GE& 7(EYXr 6/JR+
+w "\#\a bridge#yes highway#footway layer#1
+d 3#[YV 6fLN) 6/JN!
+d 3#[YU 7(E[j2 6/JQ]
+w "kUCu highway#footway oneway#yes
+d 4^"eV 7(EZNn 6/JY-
+d 4^"eY 6fLAq 6/JX`
+d 4^"eX 6fLB# 6/JX9
+w PJp( highway#cycleway
+d &w4hh 6fLBw 6/KM_
+d '%J\! 7(EZ{> 6/KKX
+d (10nl 7(E[6p 6/KHz
+d '%J[w 7(E\)F 6/K@H
+d (10mU 7(E\{N 6/K7o
+d (10je 7(E]mC 6/K/N
+d 1Haku 7(E]qF 6/K/&
+d '%J[m 7(E_2$ 6/K"$
+d (10cN 6fLnq 6/J~h
+d &V9hY 7(E_[R 6/JzO
+w ONXN bicycle#yes foot#yes highway#footway
+d &qZ". 7(EZ;l 6/Jt+
+d &qZ"/ 7(E[*H 6/Jrx
+d &qZ"0 7(E[=y 6/JsE
+d &qZ"1 7(E[LE 5"JkG
+w "c$%F bridge#yes highway#footway
+d 3eUb, 7(EZYr 6/JNE
+d 3eUbb 7(EZ[1 6/JJ~
+w "c$%h highway#footway
+d 3eUe] 7(E[t+ 6/JYP
+d 3eU`; 7(E[w0 6/JZE
+d 3eU_y 6fLP. 6/J[p
+d 3eUc5 6fLP@ 6/J\@
+d 3eU__ 7(E\$Y 6/J]"
+d 3eU_q 7(E\&4 5"Ji.
+d 3eU_R 7(E\'{ 6/J`A
+d 3eUfb 7(E\&; 6/J]b
+d 3eUf_ 7(E\'t 6/J]Z
+w R.-h highway#cycleway
+d &w4hT 6fLk9 6/JCj
+d j@XN 7(E^za 6/JD4
+d 2.cq? 7(E_"b 6/JD}
+d (11OA 7(E_%g 6/JI;
+d *(_$A 7(E_+j 6/JQg
+d (11OQ 7(E_-B 6/JS?
+d &w4hW 7(E_5r 6/J`8
+d (11B> 7(E_9] 6/JdR
+d &w4hX 7(E_P; 6/JvZ
+d &w4hY 7(E_/- 5"Jl-
+d (10jb 7(E^C) 6/K(1
+d (10j[ 7(E]iL 6/K.3
+d (10l\ 7(E\vL 6/K6H
+d (10nW 4b<f 6/K>y
+d (10nk 6fLHF 6/KGF
+d &w4h_ 6fLE~ 6/KIo
+d %7Elh 7(EZT> 6/KL#
+w "kUCt highway#footway oneway#yes tunnel#yes
+d 3eU_m 7(EZLa 6/JX!
+d 4^"e^ 7(EZGu 6/JZb
+d 4^"eN 7(EZGf 6/J[x
+d 4^"eU 7(EZC7 6/J\J
+d 4^"e[ 7(EZHP 6/J]v
+d 4^"e] 6fL@2 6/J_;
+d 4^"eT 7(EZ?l 6/J_d
+w "\#\b bridge#yes highway#footway layer#1
+d 3#[YS 7(E\Ac 6/JSB
+d 3#[YQ 7(E\6l 6/JS_

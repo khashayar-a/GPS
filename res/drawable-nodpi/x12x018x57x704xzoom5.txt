@@ -1,0 +1,23 @@
+n "qe;S 7(Ea_g 6/L0} name#Ekmanska railway#tram_stop
+n "qe;i 7(Eda2 5"K&R name#Töpelsgatan railway#tram_stop
+n "qe;u 7(EhwK 6/Mk3 name#Welandergatan railway#tram_stop
+n $o~[\ 7(Ei;U 6/Mw? amenity#restaurant name#Skatås_Kök_&amp;_Bar
+n $o~jy 7(Ei,/ 6/Mvk name#Tempo_Skatås shop#convenience
+n %%[=O 7(Ec<x 6/Lyb name#Bögatan railway#tram_stop
+n %%[Bh 7(Eayn 6/KK} name#Bäckeliden railway#tram_stop
+n &2vxi 7(Eg}2 6/MVI amenity#school name#Broströmsgården
+n &;)c> 7(Ei%5 6/MvW amenity#post_box
+n &;)c? 7(Ei&S 5"K*$ amenity#telephone
+n &]`nx 7(EjsR 6/MNk leisure#playground
+n )M("c 7(EhUW 6/MmK name#Welandergatan railway#tram_stop
+n .i-#w 7(Em>; 6/MrH traffic_calming#hump
+n .i7[Q 7(EiJf 6/M}^ amenity#bench
+n .iZ4x 7(Eit| 6/MsV amenity#bench
+n .kh'5 7(EjHX 5"K)a amenity#bench
+n .m\Fj 7(EhfP 6/M^b amenity#restaurant name#Pizzeria_Pomodoro phone#+46_31_191701
+n 1nA>, 7(Em/P 6/MeK name#Torp railway#tram_stop ref#C
+n 1nA>: 7(ElkX 6/Me* name#Torp railway#tram_stop ref#D
+n 1nEIq 7(EaVj 6/L+x name#Ekmanska railway#tram_stop
+n 1nEJ4 7(EavG 6/KP< name#Bäckeliden railway#tram_stop
+n 1nEJS 7(EdsP 6/M[f name#Töpelsgatan railway#tram_stop
+n 1nEK; 7(Ec+" 6/Lt| name#Bögatan railway#tram_stop

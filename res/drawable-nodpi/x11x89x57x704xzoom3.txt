@@ -1,0 +1,1617 @@
+w "Ev!d addr:housenumber#26 addr:street#Fornminnesvägen building#yes
+d 0{vnC 7(EfYD 6/?Q:
+d 0{vbo 7(EfP, 6/?Rq
+d 0{vkh 7(EfJe 6/?Qh
+d 0{vfX 7(EfS~ 6/?P0
+d 0{vnC 7(EfYD 6/?Q:
+w dVKb highway#trunk_link maxspeed#50 name#Bräckemotet oneway#yes
+d #$%M| 7(EiTD 5"IWV
+d #$%M} 6fMpV 6/>l*
+d #$%M~ 7(Ei<Q 6/>k3
+d #$%N! 7(Ei6f 6/>j\
+d 'v;Ug 7(Ei3F 6/>il
+d #$%N" 7(Ei0u 6/>hU
+d /8fNt 7(Ei0Z 6/>ge
+d 'v;Uh 7(Ei24 6/>f}
+w "6\D? building#yes
+d /8fQd 7(Eiib 6/?4v
+d /8fNp 7(EiVZ 6/?4z
+d 0{}0d 7(EiVV 6/?60
+d /8fPZ 7(EiVw 6/?:<
+d /8fQw 7(Eij$ 6/?:8
+d /8fLB 7(Eiix 6/?8T
+d /8fKg 7(EifX 5"I[h
+d 0{}0K 7(EifT 6/?7U
+d /8fL; 7(EifM 5"I[U
+d /8fL" 6fMsN 6/?6R
+d /8fQd 7(Eiib 6/?4v
+w "Eu~p building#yes
+d 0{vf9 7(EhAW 6/?R"
+d 0{vnG 7(Eh>] 6/?QC
+d 0{vl6 7(Eh<@ 6/?Qf
+d 0{vfe 7(Eh?: 6/?RD
+d 0{vf9 7(EhAW 6/?R"
+w @Rrg amenity#parking area#yes
+d $`9p] 7(Ei1T 6/?&o
+d $`9a~ 7(Ei@p 6/?%N
+d $`9n@ 6fMp' 5"IZ*
+d $`9n; 6fMog 6/?(A
+d $`9b" 6fMn^ 5"IZ9
+d $`9p] 7(Ei1T 6/?&o
+w "Eu~j building#yes
+d 0{vj@ 7(Eg*> 6/?B.
+d 0{v\i 7(Eg(@ 5"I\`
+d 0{vl, 7(Eg#n 6/?BG
+d 0{vbB 7(Eg%l 6/?Bq
+d 0{vj@ 7(Eg*> 6/?B.
+w TnuZ bridge#yes highway#trunk lanes#1 layer#1 maxspeed#70 oneway#yes
+d #$%B\ 7(EhP| 6/>Zx
+d 'v;T| 7(EhC+ 5"IUm
+d 'v;Ty 6fMdm 6/>[F
+d #$%B] 7(Eh'P 6/>[}
+d 'v;Tt 6fMbF 6/>\\
+w Tnuf highway#trunk lanes#1 maxspeed#70 oneway#yes
+d 'v;Tr 7(EhQZ 6/>\3
+d 'v;Ub 7(Eh[j 6/>\:
+d #$%?^ 6fMiv 6/>\[
+d 'v;Ua 7(Ehr* 6/>]$
+d 'v;Ue 6fMl= 6/>]d
+d #$%?_ 7(Ei0h 6/>^n
+d #$%?` 7(EiP3 6/>aH
+d 1qLU> 7(Ej9v 6/>gX
+d 1qLU9 7(EjQf 6/>i\
+d 1qLU6 7(EjaX 6/>k.
+d 1qLU2 7(Ejp/ 6/>lP
+d 1qLU1 6fN!3 6/>n1
+d 5I8( 7(Ek*v 6/>oR
+w "O\Ns highway#trunk_link maxspeed#70 name#Ovädersgatan oneway#yes
+d #$%GB 6fMkA 6/>ge
+d 'v;Um 7(Ei&H 6/>ja
+d #$%GC 7(Ei1n 6/>l[
+w "Eu~@ building#yes
+d 0{vnq 7(EgyW 6/?If
+d 0{vcG 6fMaf 5"I]D
+d 0{v`k 7(Egn/ 6/?Iq
+d 0{v[_ 6fMa] 6/?Jr
+d 0{vnq 7(EgyW 6/?If
+w "Eu~T addr:housenumber#128 addr:street#Västra_bräckevägen building#yes
+d 0{vnz 7(Eh/I 6/?'h
+d 0{vcU 7(Eh+B 6/?&v
+d 0{v]$ 7(Eh$M 6/?(&
+d 0{vlI 7(Eh(3 6/?(p
+d 0{vmK 7(Eh-U 6/?'y
+d 0{vg~ 7(Eh2r 6/?)&
+d 0{vbs 7(Eh8p 6/?(&
+d 0{v^b 7(Eh3s 6/?'"
+d 0{vnz 7(Eh/I 6/?'h
+w "Eu}H addr:housenumber#28 addr:street#Stenåldersvägen building#yes
+d 0{va^ 7(Eg5S 6/?C2
+d 0{vh+ 7(Eg1A 6/?BG
+d 0{vbz 6fMZP 5"I\p
+d 0{v^i 7(Eg03 6/?D3
+d 0{va^ 7(Eg5S 6/?C2
+w "Eu}* addr:housenumber#32 addr:street#Slånbärsvägen building#yes
+d 0{vl+ 7(Eg[Q 6/?4i
+d 0{v`. 7(EgW` 5"I[=
+d 0{vmN 7(EgT2 6/?4V
+d 0{vh* 6fM^: 6/?4%
+d 0{veo 7(EgK~ 6/?5!
+d 0{vbK 7(EgRB 5"I[S
+d 0{vl+ 7(Eg[Q 6/?4i
+w "Eu~a building#yes
+d 0{vmu 7(EhLr 6/?AW
+d 0{vb? 7(EhIV 5"I\d
+d 0{vnk 7(EhGX 5"I\`
+d 0{vj+ 6fMf~ 6/?A0
+d 0{vmu 7(EhLr 6/?AW
+w "Eu~0 building#yes
+d 0{vi` 7(Eh]% 6/?B5
+d 0{v^g 7(EhR` 6/?C|
+d 0{vmO 7(EhNd 6/?C/
+d 0{vf5 7(EhUx 6/?Ay
+d 0{vbx 7(EhR1 6/?A/
+d 0{vkw 7(EhX* 6/?@/
+d 0{vf\ 7(Eh[y 6/?@z
+d 0{vaI 7(EhY1 6/?AH
+d 0{vi` 7(Eh]% 6/?B5
+w "Eu}f building#yes
+d 0{vhI 7(Egx8 6/?#A
+d 0{vnT 7(Egtz 6/?#}
+d 0{vir 7(EgrP 6/?#T
+d 0{vfu 7(Egum 6/?"v
+d 0{vhI 7(Egx8 6/?#A
+w "Eu}D building#yes
+d 0{vfS 7(Egj9 6/?(H
+d 0{vn\ 7(EggL 6/?(}
+d 0{vgZ 7(Egat 6/?(#
+d 0{vd2 7(Egda 6/?'K
+d 0{vfS 7(Egj9 6/?(H
+w "Eu~Z building#yes
+d 0{vd. 7(EhbF 6/?N)
+d 0{vkM 7(Eh^V 5"I]o
+d 0{vd} 7(EhUR 6/?Np
+d 0{va+ 7(EhYA 6/?O\
+d 0{vd. 7(EhbF 6/?N)
+w "Eu|o addr:housenumber#30 addr:street#Slånbärsvägen building#yes
+d 0{vig 7(Egcu 6/?7U
+d 0{v^p 7(Eg`E 6/?6p
+d 0{vm[ 7(EgXr 6/?8/
+d 0{vf@ 7(Eg\C 6/?8q
+d 0{vig 7(Egcu 6/?7U
+w "EvMf highway#unclassified name#Edvard_Rodhes_väg
+d $`9BN 7(EiCa 6/?I4
+d $`9<+ 6fMlz 6/?K\
+w 4#Aa highway#trunk lanes#1 maxspeed#70 oneway#yes
+d #$%B( 7(EjSK 6/>gG
+d 1qLSx 7(Ej<_ 6/>f"
+d #$%BW 6fMv3 6/>d5
+d #$%BX 7(EiWa 6/>`]
+d #$%BY 7(Ei2* 5"IV'
+d 'v;Ud 7(Ei$; 6/>\_
+d #$%BZ 7(Eht$ 6/>[r
+d 'v;U` 7(Ehgr 6/>[C
+d #$%B[ 7(Eh[: 6/>[#
+d #$%B\ 7(EhP| 6/>Zx
+w &g0P highway#trunk lanes#3 maxspeed#70 oneway#yes
+d Ed<K 7(Ek7. 5"IW[
+d 1qLTA 7(Ejwe 6/>jC
+d #$%B( 7(EjSK 6/>gG
+w "6\DL building#yes
+d /8fR_ 7(Ej+" 6/?&D
+d /8fLD 7(Ej*u 6/?'Z
+d /8fUT 7(Ej3E 6/?'\
+d /8fNX 7(Ej3F 6/?'/
+d /8fLQ 7(Ej-~ 6/?'.
+d /8fWM 7(Ej.' 6/?&E
+d /8fTs 7(Ej/| 6/?&F
+d /8fR) 7(Ej/u 5"IYr
+d /8fMe 6fMv\ 6/?%X
+d /8fR_ 7(Ej+" 6/?&D
+w "Ev!: addr:housenumber#16 addr:street#Stenåldersvägen building#yes
+d 0{v^q 7(Egjp 6/?Om
+d 0{veE 7(EggN 6/?O0
+d 0{vcR 7(Eg_M 6/?P[
+d 0{v_? 7(Egbo 6/?Q:
+d 0{v^q 7(Egjp 6/?Om
+w "Eu}0 addr:housenumber#14 addr:street#Stenåldersvägen building#yes
+d 0{ve{ 7(Egsu 6/?R"
+d 0{vn/ 7(Ego` 6/?Q6
+d 0{vi9 7(Egg0 5"I^E
+d 0{vfK 7(EgkE 6/?S[
+d 0{ve{ 7(Egsu 6/?R"
+w "Eu|~ addr:housenumber#19 addr:street#Stenåldersvägen building#yes
+d 0{v^7 7(Egqn 5"I]8
+d 0{vdt 7(Egmx 6/?F^
+d 0{v`y 7(Egh3 6/?G\
+d 0{vn, 7(Egl( 6/?HI
+d 0{v^7 7(Egqn 5"I]8
+w "Eu~B building#yes
+d 0{vg( 7(Eh;| 6/?06
+d 0{vmr 7(Eh5& 6/?1F
+d 0{vhm 7(Eh2$ 6/?0i
+d 0{vf4 7(Eh8{ 6/?/Y
+d 0{vg( 7(Eh;| 6/?06
+w "Ev!( addr:housenumber#23 addr:street#Slånbärsvägen building#yes
+d 0{v_S 7(Eh3- 6/?:m
+d 0{vf- 7(Eh+\ 6/?<-
+d 0{vbh 7(Eh'[ 6/?;@
+d 0{vo* 7(Eh/+ 6/?:"
+d 0{v_S 7(Eh3- 6/?:m
+w "O\O- highway#trunk maxspeed#70 oneway#yes
+d 1qLUO 6fMvc 6/>gf
+d Ed<H 7(EjY> 6/>kK
+d Ed<J 7(Ejo; 6/>mG
+d 1qLU+ 7(Ek![ 6/>nl
+d 5I8( 7(Ek*v 6/>oR
+w "Eu}Z building#yes
+d 0{vlv 7(EgE* 6/?8D
+d 0{vbw 7(EgAd 6/?7a
+d 0{v^f 6fM\G 6/?8.
+d 0{vk( 7(EgBJ 6/?8o
+d 0{vlv 7(EgE* 6/?8D
+w "Eu~s addr:housenumber#25 addr:street#Fornminnesvägen building#yes
+d 0{v^E 5'z&P 6/?M2
+d 0{vcT 7(Efkw 6/?L5
+d 0{v_A 7(EffL 6/?M5
+d 0{v[| 7(EfkT 6/?N2
+d 0{v^E 5'z&P 6/?M2
+w "Eu}\ building#yes
+d 0{v`] 7(EfxH 6/?C]
+d 0{vg. 7(Efs" 6/?BZ
+d 0{v^] 7(Efko 6/?Cw
+d 0{vmF 7(Efq7 6/?Dz
+d 0{v`] 7(EfxH 6/?C]
+w "Ev![ building#yes
+d 0{vc^ 7(Ef]T 6/??i
+d 0{vj` 7(EfWe 6/?>Z
+d 0{vg\ 7(EfT| 6/??*
+d 0{vd3 7(EfZj 6/?@8
+d 0{vc^ 7(Ef]T 6/??i
+w "Eu|w building#yes
+d 0{vii 7(EfhM 6/?5e
+d 0{v[g 7(Efdv 5"I[H
+d 0{vk> 7(Efb> 6/?5e
+d 0{vh; 7(Efes 6/?6<
+d 0{vii 7(EfhM 6/?5e
+w "Eu}z addr:housenumber#33 addr:street#Slånbärsvägen building#yes
+d 0{vb{ 7(EgsT 6/?-x
+d 0{vib 7(EgmV 6/?.t
+d 0{ve; 7(Egj% 6/?.+
+d 0{vcH 7(Egp" 6/?-/
+d 0{vb{ 7(EgsT 6/?-x
+w "Eu}_ building#yes
+d 0{vc% 7(Egep 5"I[$
+d 0{vg8 7(Eg`w 6/?2*
+d 0{vd# 6fM_W 6/?1Z
+d 0{vmQ 7(Egc` 6/?0o
+d 0{vc% 7(Egep 5"I[$
+w "Eu}N addr:housenumber#19 addr:street#Slånbärsvägen building#yes
+d 0{ve) 7(Eh?m 6/?@:
+d 0{vm9 7(Eh5i 6/?At
+d 0{vgc 7(Eh0u 6/?@n
+d 0{ve[ 7(Eh:z 6/??4
+d 0{ve) 7(Eh?m 6/?@:
+w CJ/p highway#unclassified name#Ovädersgatan oneway#yes
+d %#Eu_ 7(Ek.K 6/>Yr
+d %#E}e 7(Ek)i 6/>[8
+d 'v;V& 7(Ek)_ 6/>]=
+d 'v;V' 6fN!` 6/>^B
+d 'v;V( 7(Ek#H 6/>_B
+d %#E}h 7(Ejzy 6/>`2
+d %#EvW 7(Ejvq 5"IVE
+w "6\F^ amenity#parking
+d /8g)a 7(Ek,J 6/?TA
+d /8g)b 7(Ek'$ 6/?N7
+d /8g)W 7(Ek0\ 6/?Mn
+d /8g)w 7(Ek0* 6/?Lo
+d /8g)8 7(Ek6, 6/?Lb
+d /8g)f 7(Ek<5 6/?Sj
+d /8g)y 7(Ek:e 6/?So
+d /8g)a 7(Ek,J 6/?TA
+w "Eu~z building#yes
+d 0{vi' 6fMZ% 6/?H.
+d 0{v^4 7(Eg$c 6/?G^
+d 0{vl~ 7(Eg"Z 6/?H'
+d 0{veq 7(Eg%@ 6/?HU
+d 0{vi' 6fMZ% 6/?H.
+w "1;N! highway#trunk_link maxspeed#70 name#Bräckemotet oneway#yes
+d 'v;Uh 7(Ei24 6/>f}
+d #$%N# 7(Ei5/ 6/>f'
+d 'v;Uj 7(Ei:W 6/>e:
+d #$%N$ 7(Ei@D 6/>d{
+d 'v;Uk 7(EiHM 6/>dw
+d #$%N% 7(EiSH 6/>e%
+d 'v;Ul 7(Ei`[ 6/>e\
+d #$%N& 7(Eiv: 3"AP
+d 1qLUO 6fMvc 6/>gf
+w "Ev!M building#yes
+d 0{vnD 7(EgWV 6/?MI
+d 0{vbr 7(EgLx 6/?O,
+d 0{v[H 7(EgJy 5"I]|
+d 0{vk! 7(EgUX 6/?L~
+d 0{vnD 7(EgWV 6/?MI
+w "Eu~U building#yes
+d 0{vdo 7(Egld 6/?J$
+d 0{vnu 7(Egi. 6/?IA
+d 0{vjH 7(Egc7 6/?JH
+d 0{vdI 7(Egfm 6/?K+
+d 0{vdo 7(Egld 6/?J$
+w "6\Dh building#yes
+d /8fM' 7(EjMM 6/>~>
+d /8fSG 7(EjGK 6/?$l
+d /8fT[ 7(EjHQ 6/?$t
+d /8fL. 7(EjFv 6/?%m
+d /8fLA 6fMxx 6/?%m
+d /8fK] 7(EjB$ 6/?%\
+d /8fR) 7(Ej/u 5"IYr
+d /8fMe 6fMv\ 6/?%X
+d /8fO< 7(Ej+N 6/?$!
+d /8fO" 7(Ej*N 6/?#~
+d /8fRD 7(Ej*N 6/?#,
+d /8fKh 7(Ej?5 6/?#2
+d /8fM\ 7(EjDF 6/>}k
+d /8fM' 7(EjMM 6/>~>
+w "Eu}s addr:housenumber#6 addr:street#Slånbärsvägen building#yes
+d 0{vg% 7(Eh^( 6/?T)
+d 0{v[8 7(EhXm 6/?U"
+d 0{vhh 7(EhU- 6/?T;
+d 0{vdd 7(EhZF 6/?SB
+d 0{vg% 7(Eh^( 6/?T)
+w "Eu}{ building#yes
+d 0{vn4 7(Egj, 6/?!q
+d 0{}1$ 7(Ege^ 6/?"l
+d 0{}0j 7(Ega2 6/?#g
+d 0{vb[ 7(Eg\d 6/?$b
+d 0{vdP 7(EgS\ 6/?#3
+d 0{v`: 7(Ega$ 6/>~B
+d 0{vn4 7(Egj, 6/?!q
+w Tnu\ bridge#yes highway#trunk lanes#2 layer#1 maxspeed#70 name#Hisingsleden oneway#yes ref#E_6.20
+d EdO7 7(Eg(z 6/>D^
+d EdO9 7(Eg,P 6/>Kl
+d 'v;TF 7(Eg-% 6/>Pw
+d EdO; 7(Eg+e 6/>UI
+d 'v;TE 7(Eg)8 6/>Z%
+d EdO= 7(Eg$l 6/>^R
+d 'v;Tf 7(Ef|e 6/>b$
+d EdO> 6fMXG 6/>ed
+d EdO@ 7(EfmI 6/>hk
+d 'v;T] 6fMV_ 6/>ks
+d 'v;T[ 7(EfW@ 6/>o?
+d EdOB 7(EfK: 6/>qu
+d EdOI 7(Ef@V 6/>so
+d 'v;Ta 7(Ef5; 6/>ud
+d EdOK 7(Ef(? 6/>wN
+w "Eu~C addr:housenumber#23 addr:street#Stenåldersvägen building#yes
+d 0{v`{ 7(Ega\ 6/?C-
+d 0{vg; 7(Eg[q 6/?Au
+d 0{vbO 7(EgXE 6/?BL
+d 0{v^: 7(EgZh 6/?B|
+d 0{vnO 7(EgWO 6/?CP
+d 0{vil 7(EgZu 6/?D6
+d 0{v`{ 7(Ega\ 6/?C-
+w "Ev!V addr:housenumber#22 addr:street#Stenåldersvägen building#yes
+d 0{vb, 7(EgOP 6/?IQ
+d 0{vhe 7(EgG! 6/?K$
+d 0{vc9 7(EgBr 6/?J6
+d 0{v_+ 7(EgKC 6/?Hc
+d 0{vb, 7(EgOP 6/?IQ
+w "Ev!= building#yes
+d 0{vkn 7(Eh$K 6/?Pk
+d 0{v`% 6fMbl 6/?QI
+d 0{vni 7(Eg|o 6/?Q"
+d 0{vlu 7(Eh"= 5"I^.
+d 0{vkn 7(Eh$K 6/?Pk
+w "Eu}n building#yes
+d 0{vm= 7(EgVn 6/?&&
+d 0{vaE 7(EgLV 6/?$e
+d 0{vn< 7(EgA@ 6/?'i
+d 0{viP 7(EgKW 6/?)*
+d 0{}16 6fM^$ 6/?((
+d 0{}0W 7(EgS( 6/?''
+d 0{vm= 7(EgVn 6/?&&
+w "Ev!g addr:housenumber#24 addr:street#Stenåldersvägen building#yes
+d 0{vc0 7(EgFV 6/?GE
+d 0{viw 7(EgC7 4.L[
+d 0{vfw 7(Eg=d 6/?G^
+d 0{vcc 7(EgA% 6/?H@
+d 0{vc0 7(EgFV 6/?GE
+w "O\O% highway#trunk lanes#1 maxspeed#70 oneway#yes
+d #$%B( 7(EjSK 6/>gG
+d 1qLTD 7(EjHD 5"IVx
+d Ed<8 7(Ei*| 6/>Zo
+d Ed<: 7(Ehgv 6/>W_
+d 'v;TN 6fMg` 6/>US
+d 'v;TO 7(Eh=0 6/>SR
+d Ed<< 6fMcr 6/>QI
+d 'v;TP 7(Egxx 5"ITX
+d Ed<? 7(Egm\ 6/>L]
+d 'v;T> 7(Eg^h 4.Kc
+d 'v;T? 7(EgV+ 6/>Fh
+d 'v;T; 7(EgP# 6/>Dc
+d 'v;T7 7(EgId 6/>BM
+d Ed<A 7(EgC' 6/>?L
+d 'v;T" 7(Eg:< 6/>;-
+d 'v;T# 7(Eg1s 5"IR/
+d Edaj 6fMZ] 5"IQi
+w "Eu~f addr:housenumber#8 addr:street#Slånbärsvägen building#yes
+d 0{va- 7(EhVs 6/?Qe
+d 0{vn+ 7(EhOG 6/?S"
+d 0{vi- 7(EhI' 6/?Qe
+d 0{vcJ 7(EhNc 6/?Ph
+d 0{v_8 7(EhQ* 6/?Q8
+d 0{v[e 7(EhRy 6/?Px
+d 0{va- 7(EhVs 6/?Qe
+w "Eu}a addr:housenumber#23 addr:street#Fornminnesvägen building#yes
+d 0{vfB 7(Efz< 6/?O(
+d 0{vnM 7(EfuV 6/?N+
+d 0{vlH 7(Efm[ 6/?OM
+d 0{vfn 7(EfrA 6/?PJ
+d 0{vfB 7(Efz< 6/?O(
+w "Ev!@ addr:housenumber#20 addr:street#Slånbärsvägen building#yes
+d 0{v^l 7(Eh+r 6/?Cg
+d 0{ve@ 6fMcF 6/?Bh
+d 0{vnn 7(Eg}` 6/?D#
+d 0{vj2 7(Eh#J 6/?Dj
+d 0{vd@ 7(Eh%@ 6/?DK
+d 0{v`+ 7(Eh&P 5"I\|
+d 0{v^l 7(Eh+r 6/?Cg
+w "Eu}& building#yes
+d 0{vmh 7(Eh\L 6/?MB
+d 0{v_p 7(EhWh 6/?N0
+d 0{vnX 7(EhR] 6/?M,
+d 0{vdS 6fMh7 6/?L>
+d 0{vmh 7(Eh\L 6/?MB
+w "Ev!% building#yes
+d 0{v[x 7(Eg/( 6/?<S
+d 0{vd& 7(Eg*v 6/?;b
+d 0{v_l 7(Eg&0 6/?<P
+d 0{vm& 7(Eg*@ 6/?=B
+d 0{v[x 7(Eg/( 6/?<S
+w "Eu}5 building#yes
+d 0{v^r 7(Egxf 6/?.G
+d 0{veG 7(Egu8 6/?.~
+d 0{vcS 6fMa\ 6/?.W
+d 0{v_@ 7(Egvh 6/?-~
+d 0{v^r 7(Egxf 6/?.G
+w "Eu|r building#yes
+d 0{v`> 6fMj9 6/?R4
+d 0{viG 7(Ehi< 6/?RS
+d 0{ve$ 7(Ehg5 6/?R#
+d 0{v_I 7(EhiN 6/?Qc
+d 0{v`> 6fMj9 6/?R4
+w "Ev!/ building#yes
+d 0{vd_ 7(EgC% 6/?!w
+d 0{viy 7(Eg=T 6/?!0
+d 0{veT 7(Eg-Q 6/?%5
+d 0{vo" 7(Eg3" 6/?%}
+d 0{vd_ 7(EgC% 6/?!w
+w "Eu}W building#yes
+d 0{vi{ 7(Eh1Z 6/?8x
+d 0{v_' 7(Eh.7 6/?9O
+d 0{vk[ 7(Eh0< 6/?9w
+d 0{vfR 7(Eh3_ 6/?9B
+d 0{vi{ 7(Eh1Z 6/?8x
+w "6\Dr building#yes
+d /8fO" 7(Ej*N 6/?#~
+d /8fMN 7(Eiw* 5"IYb
+d /8fV- 7(Eiw# 6/?&D
+d /8fR_ 7(Ej+" 6/?&D
+d /8fMe 6fMv\ 6/?%X
+d /8fO< 7(Ej+N 6/?$!
+d /8fO" 7(Ej*N 6/?#~
+w "Eu|x building#yes
+d 0{viu 7(EgtI 6/?=b
+d 0{v\) 7(Eglx 6/?>r
+d 0{vkI 7(EgjP 6/?>>
+d 0{vhL 6fMaP 6/?=/
+d 0{viu 7(EgtI 6/?=b
+w "Eu}v addr:housenumber#31 addr:street#Slånbärsvägen building#yes
+d 0{vfm 7(EgzW 6/?0^
+d 0{vny 7(Ego| 6/?2H
+d 0{vdp 7(EgjC 6/?16
+d 0{v`s 7(Egoh 6/?0@
+d 0{vn) 7(Egpf 6/?0T
+d 0{vi) 5'z'O 6/?/`
+d 0{vfm 7(EgzW 6/?0^
+w @Rr: highway#unclassified name#Bräcke_Västergårds_väg
+d $`9U_ 7(Ei0G 6/?=$
+d $`9]5 7(Ei?p 6/?3,
+d $`9Xr 7(EiG0 6/?0<
+d $`9]6 7(EiUl 6/?-f
+d $`9]7 7(Eio[ 6/?-U
+d $`9Xt 7(Ej6j 6/?-^
+d %"g)G 7(Ej?P 6/?,`
+d $`9]8 7(EjCp 6/?+@
+d $`9Xv 7(EjFl 6/?&Y
+w "Eu|t addr:housenumber#60 addr:street#Utmarksgatan building#yes
+d 0{v\f 7(Eg66 6/?.%
+d 0{vdE 7(Eg.G 6/?,6
+d 0{vbJ 7(Eg(& 6/?-2
+d 0{v^0 7(Eg/s 6/?/!
+d 0{v\f 7(Eg66 6/?.%
+w "Eu~{ addr:housenumber#48 addr:street#Utmarksgatan building#yes
+d 0{viZ 7(Efd9 5"I\@
+d 0{v^_ 7(Ef]W 6/?<|
+d 0{v_L 7(EfWX 6/?>#
+d 0{vn8 7(Ef^: 6/??B
+d 0{viZ 7(Efd9 5"I\@
+w "Eu|} building#yes
+d 0{ve* 7(Eh-7 6/?19
+d 0{vm; 7(Eh'G 6/?2*
+d 0{vf) 7(Eh%M 6/?1\
+d 0{vbf 7(Eh+< 5"IZ}
+d 0{ve* 7(Eh-7 6/?19
+w "Eu~\ building#yes
+d 0{v[z 4b=p 6/?Pk
+d 0{vd( 7(Egk^ 6/?PG
+d 0{vm\ 7(EggX 6/?Q%
+d 0{vh9 7(EgiD 6/?QJ
+d 0{v[z 4b=p 6/?Pk
+w "Eu}@ building#yes
+d 0{vdy 7(Efs: 6/?M'
+d 0{vm( 7(EfqG 6/?MF
+d 0{vgG 7(EfrC 6/?MX
+d 0{v^s 7(Eft6 6/?M8
+d 0{vdy 7(Efs: 6/?M'
+w "Eu~5 building#yes
+d 0{vbn 7(Eh9T 6/?Oi
+d 0{viY 7(Eh6w 6/?O0
+d 0{ve6 7(Eh4u 6/?OM
+d 0{v_Z 6fMe& 6/?P(
+d 0{vbn 7(Eh9T 6/?Oi
+w "Eu~^ building#yes
+d 0{vn3 7(Eg7j 5"I\x
+d 0{vd0 7(Eg5e 6/?Cp
+d 0{v_r 7(Eg1y 6/?DO
+d 0{vm- 7(Eg3~ 6/?Dv
+d 0{vn3 7(Eg7j 5"I\x
+w "Eu|j building#yes
+d 0{vc[ 7(Eg?B 6/?9]
+d 0{vhH 6fM\! 6/?8q
+d 0{vdW 7(Eg6G 6/?9f
+d 0{vb\ 7(Eg3N 6/?94
+d 0{v^L 7(Eg.w 6/?:(
+d 0{vjY 7(Eg63 6/?;G
+d 0{vc[ 7(Eg?B 6/?9]
+w "Eu}I building#yes
+d 0{v_g 7(Eg!5 6/?FV
+d 0{vfA 7(Ef|L 6/?F$
+d 0{v`o 7(Efz: 6/?FI
+d 0{v[a 7(Ef}" 6/?F{
+d 0{v_g 7(Eg!5 6/?FV
+w "Eu}) addr:housenumber#112 addr:street#Västra_bräckevägen building#yes
+d 0{ve4 7(EhY[ 6/??V
+d 0{vjx 7(EhQQ 5"I\X
+d 0{vf1 6fMg3 6/??o
+d 0{v\? 7(EhU$ 6/?>T
+d 0{ve4 7(EhY[ 6/??V
+w "Eu}T addr:housenumber#29 addr:street#Stenåldersvägen building#yes
+d 0{veO 7(EgH} 6/?<H
+d 0{vm` 7(EgDi 6/?;X
+d 0{vfJ 7(Eg@2 6/?<H
+d 0{vc+ 7(Eg>b 6/?<,
+d 0{vlD 7(Eg9x 6/?<}
+d 0{vfk 7(Eg?\ 5"I\>
+d 0{veO 7(EgH} 6/?<H
+w "Eu~% building#yes
+d 0{vnK 7(Eh1~ 6/?Ef
+d 0{vc# 7(Eh-* 6/?Dj
+d 0{v^n 7(Eh%4 6/?F3
+d 0{vk8 7(Eh)" 6/?Fy
+d 0{vf> 7(Eh+\ 6/?FM
+d 0{vdL 7(Eh,d 6/?Fa
+d 0{vnK 7(Eh1~ 6/?Ef
+w "Ev!m addr:housenumber#20 addr:street#Stenåldersvägen building#yes
+d 0{v\M 6fM_+ 6/?Kr
+d 0{vbg 7(EgSL 6/?Ly
+d 0{v^V 7(EgRt 6/?Ln
+d 0{vne 7(EgO; 5"I]p
+d 0{vj& 7(EgH@ 5"I]b
+d 0{vd8 7(EgNI 6/?Jx
+d 0{v`" 7(EgQG 6/?KV
+d 0{vhX 7(EgUR 6/?Jt
+d 0{v\M 6fM_+ 6/?Kr
+w "Eu}? addr:housenumber#21 addr:street#Stenåldersvägen building#yes
+d 0{v_c 7(Egi} 6/?EK
+d 0{vf: 7(Egc\ 6/?D,
+d 0{v`h 7(Eg^i 6/?Dx
+d 0{v[T 7(Eg`r 6/?EC
+d 0{vmT 7(Eg]} 5"I])
+d 0{vh, 7(Egb7 6/?Fg
+d 0{v_c 7(Egi} 6/?EK
+w "Eu}~ addr:housenumber#11 addr:street#Stenåldersvägen building#yes
+d 0{v_1 7(Eh4Y 6/?Pf
+d 0{vg0 6fMd> 6/?On
+d 0{vc{ 7(Eh*X 6/?Pi
+d 0{v^$ 7(Eh/* 6/?Qa
+d 0{v_1 7(Eh4Y 6/?Pf
+w "Eu}A addr:housenumber#114 addr:street#Västra_bräckevägen building#yes
+d 0{ve/ 7(EhTL 6/?<>
+d 0{vm@ 7(EhKv 6/?=x
+d 0{vj' 7(EhGV 6/?=,
+d 0{veb 7(EhP- 6/?;Q
+d 0{ve/ 7(EhTL 6/?<>
+w "ExwL building#yes
+d 0|=Ee 7(Ek!T 6/?2n
+d 0|=G= 7(Ej|J 6/?2J
+d 0|=F` 7(Ej{$ 6/?2o
+d 0|=F- 7(Ej~. 6/?35
+d 0|=Ee 7(Ek!T 6/?2n
+w "Eu}l building#yes
+d 0{vnZ 6fM^) 6/?#C
+d 0{vc3 7(EgHl 6/?"<
+d 0{v\4 7(EgEW 6/?#$
+d 0{vkW 7(EgL\ 6/?$+
+d 0{vnZ 6fM^) 6/?#C
+w "Eu~1 building#yes
+d 0{vbl 7(Eff> 6/?J}
+d 0{viV 7(Ef]_ 6/?I3
+d 0{vf] 7(EfZ& 6/?Im
+d 0{vc@ 7(Ef^h 6/?Jj
+d 0{v\X 7(Ef\b 6/?K-
+d 0{vky 7(Ef`] 6/?Ky
+d 0{vbl 7(Eff> 6/?J}
+w "Ev!] building#yes
+d 0{vb# 7(Eg4* 6/?5l
+d 0{vhR 7(Eg0f 6/?7*
+d 0{vc4 7(Eg-j 6/?6o
+d 0{v_$ 7(Eg1- 6/?5S
+d 0{vb# 7(Eg4* 6/?5l
+w CJ/r highway#unclassified oneway#yes
+d %#E}e 7(Ek)i 6/>[8
+d 'v;V) 7(Ek%` 6/>]1
+d 'v;V* 7(Ek#& 6/>^5
+d %#E~n 7(Ej|J 6/>^|
+d 'v;V$ 7(Eju( 5"IV5
+d #$%U? 7(Ejl] 6/>^s
+w "O\O' highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d #$%B( 7(EjSK 6/>gG
+d 'v;U| 6fMz# 6/>et
+d #$%Il 7(Ej32 6/>c6
+d #$%Im 7(Ej(( 5"IVL
+d #$%In 5'z)M 6/>_l
+d 1qLT} 7(Ei~B 6/>^]
+d #$%Io 7(Ei~_ 6/>])
+d 1qLSn 7(Ej"X 6/>\'
+d #$%Ip 7(Ej%= 6/>[C
+d 1qLSw 7(Ej+: 6/>Z<
+d #$%Iq 6fMwK 6/>Z!
+d #$%Ir 7(Ej>z 6/>Z+
+d #$%Is 7(EjHo 6/>[H
+d #$%It 7(EjRv 6/>];
+w "Eu~} addr:housenumber#62 addr:street#Utmarksgatan building#yes
+d 0{v_~ 7(Eg>v 6/?+E
+d 0{vhi 7(Eg7^ 6/?)u
+d 0{vde 7(Eg1[ 6/?*x
+d 0{v_. 7(Eg8r 6/?,H
+d 0{v_~ 7(Eg>v 6/?+E
+w "Eu~3 addr:housenumber#122 addr:street#Västra_bräckevägen building#yes
+d 0{vel 7(EhF, 6/?0p
+d 0{vn% 7(Eh;s 6/?2[
+d 0{vfa 5'z'l 6/?1Y
+d 0{vcF 7(EhA$ 6/?/m
+d 0{vel 7(EhF, 6/?0p
+w "Eu}x building#yes
+d 0{v\U 7(EgR9 6/?1t
+d 0{vd< 7(EgN[ 6/?14
+d 0{v`& 6fM]O 6/?2)
+d 0{vmD 7(EgHX 6/?1p
+d 0{vgo 7(EgD< 6/?2]
+d 0{veg 7(EgI6 6/?3V
+d 0{v\U 7(EgR9 6/?1t
+w "Ev!T addr:housenumber#9 addr:street#Stenåldersvägen building#yes
+d 0{v\o 7(Eh<G 6/?R}
+d 0{vdH 7(Eh7^ 6/?R!
+d 0{vn! 7(Eh2* 6/?R{
+d 0{vh{ 7(Eh6r 6/?Sx
+d 0{v\o 7(Eh<G 6/?R}
+w "Eu}m building#yes
+d 0{vb; 7(EgxQ 6/?Nl
+d 0{vhx 7(Egtv 6/?OW
+d 0{v_U 7(EgrZ 6/?O4
+d 0{vn@ 7(Egv5 6/?NI
+d 0{vb; 7(EgxQ 6/?Nl
+w "Eu|k addr:housenumber#24 addr:street#Fornminnesvägen building#yes
+d 0{v[: 7(EfbU 5"I^I
+d 0{vco 7(Ef\l 6/?T0
+d 0{v_\ 7(Ef[v 6/?S|
+d 0{vlm 7(EfXw 6/?TJ
+d 0{vg' 7(EfTh 6/?SQ
+d 0{ve7 7(Ef]Q 6/?R.
+d 0{v[: 7(EfbU 5"I^I
+w "6\Dl building#yes
+d /8fK\ 7(Ej#f 6/?KI
+d /8fTS 7(Ej"e 6/?KU
+d /8fLC 7(EiwL 6/?Lh
+d /8fSx 7(EiuN 6/?M"
+d /8fR[ 7(EikS 6/?J@
+d /8fSj 7(EilV 6/?J4
+d /8fS7 6fMtD 6/?IF
+d /8fV* 7(Eiwl 6/?Hf
+d /8fK\ 7(Ej#f 6/?KI
+w "Eu}} building#yes
+d 0{vgS 7(Ei$\ 6/?Qx
+d 0{v\9 7(Eh}) 6/?Rs
+d 0{vmk 7(EhxJ 6/?Qx
+d 0{vhW 7(Eh}} 6/?P|
+d 0{vgS 7(Ei$\ 6/?Qx
+w "Ev!Z building#yes
+d 0{vmW 7(Eh+M 6/?5n
+d 0{vah 7(Eh-T 6/?6m
+d 0{v_< 6fMd8 6/?7@
+d 0{vn. 7(Eh,~ 6/?7e
+d 0{vfg 5'z'a 6/?70
+d 0{vcN 7(Eh*3 6/?7=
+d 0{vl{ 7(Eh'z 5"I[S
+d 0{vmW 7(Eh+M 6/?5n
+w "Ev!F addr:housenumber#22 addr:street#Slånbärsvägen building#yes
+d 0{vlo 7(Eh$= 6/?AB
+d 0{v`V 7(Eg}< 6/?@G
+d 0{v[> 7(Eguk 6/?Al
+d 0{vmI 7(EgyP 6/?BP
+d 0{vgz 7(Eg{j 6/?B(
+d 0{vbp 7(Eg}( 6/?B?
+d 0{vlo 7(Eh$= 6/?AB
+w "Ev!I addr:housenumber#130 addr:street#Västra_bräckevägen building#yes
+d 0{v_B 7(Eh2} 5"IYm
+d 0{ve| 7(Eh.v 6/?$;
+d 0{vd* 7(Eh*$ 6/?%.
+d 0{v_n 7(Eh(x 6/?$x
+d 0{vm) 7(Eh*m 6/?$Y
+d 0{vgI 7(Eh(< 6/?$*
+d 0{v^t 7(Eh#2 6/?%!
+d 0{vm] 7(Eh%k 5"IYq
+d 0{vfC 7(Eh&} 6/?%>
+d 0{vc& 7(Eh,( 6/?&>
+d 0{v_B 7(Eh2} 5"IYm
+w "Eu~E building#yes
+d 0{v^~ 7(Eggx 6/?B)
+d 0{veQ 7(EgeC 6/?AU
+d 0{vay 7(Egb_ 6/?B!
+d 0{vjR 6fM`6 6/?BT
+d 0{v^~ 7(Eggx 6/?B)
+w "EvMg amenity#parking
+d 0{}1! 7(EgJ2 5"IZ6
+d 0{}0Z 7(EgF# 5"IZ@
+d 0{}0l 7(Ef{P 5"IYk
+d 0{}13 7(Eg2> 6/>}g
+d 0{}0L 7(EgDx 6/?!`
+d 0{}0e 7(Eg4' 6/?&(
+d 0{}1! 7(EgJ2 5"IZ6
+w "Eu|d building#yes
+d 0{vck 6fMa@ 6/?3V
+d 0{vj{ 6fM`_ 6/?4_
+d 0{vf3 7(Egg& 6/?4,
+d 0{v`N 7(Egmh 6/?3"
+d 0{vck 6fMa@ 6/?3V
+w "Ev!E building#yes
+d 0{vl- 7(Egnz 6/?*h
+d 0{v`0 6fM`, 6/?,M
+d 0{viJ 7(Eg^> 6/?+1
+d 0{ve' 6fM`N 6/?)`
+d 0{v_K 7(Egk% 6/?*F
+d 0{vn7 7(EglB 6/?*2
+d 0{vl- 7(Egnz 6/?*h
+w "Ev!O building#yes
+d 0{vdv 7(Ehb{ 6/?E6
+d 0{vm$ 7(Eh]' 6/?F5
+d 0{vim 6fMh= 6/?E/
+d 0{veL 7(Eh]s 6/?D0
+d 0{vdv 7(Ehb{ 6/?E6
+w "Eu}b addr:housenumber#116 addr:street#Västra_bräckevägen building#yes
+d 0{vng 7(EhQD 6/?9^
+d 0{v]R 7(EhKB 6/?:]
+d 0{vle 7(EhFE 6/?9X
+d 0{veW 7(EhLH 6/?8Y
+d 0{vng 7(EhQD 6/?9^
+w "6\CZ building#yes
+d /8fLC 7(EiwL 6/?Lh
+d /8fNZ 7(Eizs 6/?Mf
+d /8fWL 7(Ej&I 6/?LR
+d /8fTS 7(Ej"e 6/?KU
+d /8fLC 7(EiwL 6/?Lh
+w "6\D= building#yes
+d /8fVO 7(Ej>0 6/?'^
+d /8fW7 7(Ej>, 6/?(H
+d /8fTz 7(Ej@E 6/?(H
+d /8fN' 7(Ej@@ 6/?)I
+d /8fOy 7(Ej>* 6/?)I
+d /8fNF 7(Ej>$ 6/?*T
+d 0{}0Y 7(Ej4o 6/?*U
+d /8fLl 7(Ej+> 6/?*N
+d /8fP^ 7(Ej+V 6/?)Q
+d /8fQ2 7(Ej*k 6/?)R
+d /8fQ% 7(Ej*t 6/?'j
+d /8fLD 7(Ej*u 6/?'Z
+d /8fUT 7(Ej3E 6/?'\
+d /8fVO 7(Ej>0 6/?'^
+w "EvMc amenity#parking
+d 0{}0X 7(Ei0f 6/>~0
+d 0{}11 7(Ei,v 6/>}C
+d 0{}0G 7(EiA# 6/>y{
+d 0{}0n 7(EiD$ 6/>vy
+d 0{}1% 7(EizQ 5"IW}
+d 0{}14 7(Ej#6 6/>s5
+d 1pg5g 7(Eim| 6/>u;
+d 0{}0U 7(EiPO 6/>xH
+d 0{}0g 7(EiKp 6/>{c
+d 0{}0} 7(EiC\ 4.L3
+d 0{}0X 7(Ei0f 6/>~0
+w "EvMj building#yes
+d 0{}1& 6fMm4 5"I^S
+d 0{}0] 7(Ei%! 6/?UC
+d 0{}0y 7(Ei"z 6/?Tz
+d 0{}1( 7(Eh~v 6/?U>
+d 0{}0V 7(Eh{5 6/?TV
+d 0{}0h 7(Eh~N 6/?S~
+d 0{}1# 7(Ei!h 6/?T9
+d 0{}12 6fMlh 6/?SH
+d 0{}1& 6fMm4 5"I^S
+w "Ev!; addr:housenumber#120 addr:street#Västra_bräckevägen building#yes
+d 0{vk6 5'z'} 6/?3Q
+d 0{v_d 7(Eh@^ 6/?4u
+d 0{vg| 7(Eh<R 6/?4%
+d 0{vdB 7(EhA9 5"I[6
+d 0{v^` 7(Eh?l 6/?2y
+d 0{vmJ 7(EhC< 6/?2B
+d 0{vk6 5'z'} 6/?3Q
+w "Ev!& building#yes
+d 0{vlz 7(Eh#H 6/?B|
+d 0{v_3 7(Eg~f 6/?BM
+d 0{vn" 7(Egyu 6/?CD
+d 0{vcp 7(Eg|W 6/?Cs
+d 0{vlz 7(Eh#H 6/?B|
+w 4#Ar highway#trunk_link maxspeed#70 oneway#yes
+d #$%Ce 7(Egs~ 6/>Zj
+d 'v;Th 7(Eg[) 6/>^:
+d #$%DO 7(EgJ- 6/>a.
+d 'v;Tm 7(Eg=I 6/>cL
+d 1qLT< 7(Eg7] 6/>dn
+d 1qLT; 7(Eg35 6/>f0
+d 1qLT9 7(Eg.2 6/>g`
+d 1qLT8 7(Eg)L 6/>iM
+d 1qLTn 6fMYn 6/>jv
+d 1qLT` 7(Eg"L 6/>kj
+d 1qLT^ 7(Ef{: 6/>ls
+d 1qLT\ 7(EfvE 5"IWa
+d 1qLTm 7(Efn! 6/>nu
+d 1qLTY 7(EfgY 6/>oR
+d 1qLSu 7(EfDs 6/>rX
+d 1qLS{ 7(Ef;@ 5"IX:
+w "O\O* highway#trunk lanes#1 maxspeed#70 oneway#yes
+d 'v;Tt 6fMbF 6/>\\
+d #$%B^ 7(Egnj 6/>]_
+d 'v;Ti 7(Ega^ 6/>_%
+d #$%B_ 7(EgWV 6/>`E
+d 'v;Tn 6fM]K 6/>bO
+d #$%B` 7(Eg@T 6/>d2
+d 1qLTv 7(Eg;8 6/>e>
+d 1qLTX 7(Eg6~ 6/>fY
+d 1qLTy 6fM[+ 6/>h(
+d 1qLTV 6fMZ] 6/>ir
+d 1qLTW 7(Eg)) 6/>k=
+d 1qLTT 7(Eg%\ 6/>l=
+d 1qLT{ 7(Ef~M 6/>mK
+d 1qLUP 7(Efy: 4.L(
+d 1qLT6 7(Efp= 6/>oZ
+d 1qLTZ 5'z&I 6/>p:
+d 1qLT2 7(EfFu 6/>s+
+d 1qLS{ 7(Ef;@ 5"IX:
+w "6\D: building#yes
+d /8fQE 7(Ei~A 6/>{/
+d /8fQu 7(Ej$6 6/>{~
+d /8fW* 7(Eiz6 6/>}V
+d /8fWG 7(EiuP 6/>|V
+d /8fKj 7(Eibv 6/?!S
+d /8fL< 7(EiaD 5"IYH
+d /8fL{ 7(Ei^@ 6/?![
+d /8fL6 7(EiXZ 6/>~8
+d /8fOR 7(Ei[; 6/>}k
+d /8fVl 7(EiRg 6/>{y
+d /8fVD 7(Ei[Q 6/>zT
+d /8fKu 7(Ei\B 6/>zY
+d /8fSy 7(EiaL 6/>{i
+d /8fS# 7(Eic_ 6/>{;
+d /8fWE 7(EidB 6/>zn
+d /8fQ: 7(Eidm 6/>z=
+d /8fV^ 7(Eidm 6/>ym
+d /8fMH 6fMrv 6/>yH
+d /8fRF 6fMrq 6/>yB
+d /8fTW 7(Eib` 6/>y1
+d /8fSz 7(Eid{ 6/>xh
+d /8fR- 7(EieA 6/>we
+d /8fTv 7(EihM 6/>w9
+d /8fN% 7(EikQ 6/>wu
+d /8fR% 7(Ein$ 6/>wM
+d /8fQE 7(Ei~A 6/>{/
+w "Eu~Q building#yes
+d 0{v_M 7(Eg~n 6/??P
+d 0{vf' 6fMbG 6/?@2
+d 0{v`C 7(Egxg 6/??g
+d 0{vo% 7(Eg|R 6/??&
+d 0{v_M 7(Eg~n 6/??P
+w "Eu~V addr:housenumber#10 addr:street#Slånbärsvägen building#yes
+d 0{vds 7(EhOz 6/?OH
+d 0{vm" 5'z'~ 6/?PD
+d 0{vg9 7(EhF% 6/?OQ
+d 0{v^j 7(EhL& 6/?NV
+d 0{vds 7(EhOz 6/?OH
+w "Eu}i building#yes
+d 0{vjO 7(Eh9N 6/?H9
+d 0{va) 7(Eh3X 6/?I5
+d 0{v[u 7(Eh/~ 6/?HJ
+d 0{vi7 7(Eh5u 6/?GN
+d 0{vjO 7(Eh9N 6/?H9
+w "Eu~L building#yes
+d 0{vjW 7(EhE_ 6/?R\
+d 0{v_H 6fMf0 6/?S)
+d 0{v\2 6fMew 5"I^B
+d 0{vkU 7(EhC6 6/?R&
+d 0{vjW 7(EhE_ 6/?R\
+w "Eu}w addr:housenumber#118 addr:street#Västra_bräckevägen building#yes
+d 0{vlU 7(EhLR 6/?6N
+d 0{v^{ 7(EhF< 6/?7P
+d 0{vmb 7(EhBN 6/?6b
+d 0{vj_ 7(EhHc 6/?5`
+d 0{vlU 7(EhLR 6/?6N
+w "Eu}e building#yes
+d 0{vjz 7(Eg>& 6/?KG
+d 0{v_W 7(Eg:d 5"I]W
+d 0{vlk 7(Eg4; 6/?Kt
+d 0{vg# 7(Eg7[ 6/?LT
+d 0{vjz 7(Eg>& 6/?KG
+w "Ev!+ building#yes
+d 0{vaJ 7(Egwz 6/?5q
+d 0{vgs 7(Egq8 6/?6|
+d 0{vbm 7(Egn. 6/?6>
+d 0{v^^ 7(Egto 6/?54
+d 0{vaJ 7(Egwz 6/?5q
+w "Ev!f addr:housenumber#12 addr:street#Slånbärsvägen building#yes
+d 0{vk| 7(EhH/ 6/?L~
+d 0{v`* 7(EhB[ 6/?Mu
+d 0{vmH 7(Eh?5 6/?M0
+d 0{vgy 7(EhDg 6/?L9
+d 0{vk| 7(EhH/ 6/?L~
+w "Exw4 building#yes
+d 0|=Eu 7(Ek$F 6/?8[
+d 0|=GP 7(Ek#o 6/?96
+d 0|=Fp 7(Ek%O 6/?9;
+d 0|=G+ 7(Ek$f 6/?:*
+d 0|=FR 7(EjxP 6/?9i
+d 0|=E} 7(Ejy# 6/?94
+d 0|=EN 7(Ej~H 6/?9D
+d 0|=F' 7(Ek!4 6/?8Q
+d 0|=Eu 7(Ek$F 6/?8[
+w "Ev!? addr:housenumber#25 addr:street#Slånbärsvägen building#yes
+d 0{v`? 7(Eh.K 5"I[g
+d 0{vfs 7(Eh'm 6/?9W
+d 0{vc\ 7(Eg~j 6/?8,
+d 0{vdK 7(Eh'H 6/?6~
+d 0{v`? 7(Eh.K 5"I[g
+w "Eu}8 building#yes
+d 0{v_& 7(EgAF 6/?M!
+d 0{veV 7(Eg?U 5"I]o
+d 0{vb& 7(EgAM 6/?Mc
+d 0{v_R 7(Eg>< 6/?N7
+d 0{vn= 7(Eg;& 6/?MU
+d 0{vf} 7(Eg@' 6/?Ld
+d 0{v_& 7(EgAF 6/?M!
+w "Eu}p building#yes
+d 0{vmZ 7(Eh!/ 6/?HT
+d 0{vaj 7(Eg|* 6/?H}
+d 0{vj; 7(Egyh 6/?HF
+d 0{vem 7(Eg|m 6/?G|
+d 0{vmZ 7(Eh!/ 6/?HT
+w "Eu~7 addr:housenumber#124 addr:street#Västra_bräckevägen building#yes
+d 0{vna 7(EhAr 6/?-g
+d 0{vc: 7(Eh7W 6/?/R
+d 0{v\A 7(Eh2: 5"IZg
+d 0{vke 7(Eh<U 6/?,`
+d 0{vna 7(EhAr 6/?-g
+w "Ev!S building#yes
+d 0{v\| 7(EgEk 6/?:?
+d 0{vdM 7(EgBC 6/?9\
+d 0{vbT 7(Eg?Z 6/?:,
+d 0{v^A 7(EgC$ 6/?:l
+d 0{v\| 7(EgEk 6/?:?
+w "Eu~G building#yes
+d 0{v_% 7(EhmK 6/?Rm
+d 0{veU 7(Ehhn 6/?S`
+d 0{vo# 7(Ehfq 6/?S=
+d 0{vj[ 7(EhkM 6/?RJ
+d 0{v_% 7(EhmK 6/?Rm
+w "Eu}1 building#yes
+d 0{vlZ 6fMkp 6/?OV
+d 0{v`D 7(Ehv+ 6/?PM
+d 0{vo& 7(EhqM 6/?OQ
+d 0{vhN 7(Ehvi 6/?NZ
+d 0{vlZ 6fMkp 6/?OV
+w Tnu] bridge#yes highway#trunk lanes#2 layer#1 maxspeed#70 name#Hisingsleden oneway#yes ref#E_6.20
+d %)hcY 7(Ef/? 5"IXj
+d 'v;Tb 7(Ef:, 6/>w7
+d 2k6? 7(EfFd 6/>u>
+d 'v;T_ 7(EfQ^ 6/>s>
+d 'v;T\ 7(Ef_E 6/>p=
+d 2k6> 7(Efko 6/>m/
+d 'v;TR 7(Efvh 6/>ia
+d EdO3 7(Ef~r 6/>fA
+d #$%A* 7(Eg(W 6/>bW
+d 'v;TD 7(Eg/p 6/>^/
+d 'v;TH 7(Eg3| 6/>Z;
+d @gBG 7(Eg6j 6/>U`
+d 'v;TC 7(Eg7e 5"ITl
+d 'v;T< 7(Eg6U 6/>KP
+d 2k6= 7(Eg3! 6/>DY
+w "Eu|s building#yes
+d 0{v[{ 7(Eg|> 6/?-]
+d 0{vd) 7(Egz4 6/?->
+d 0{v_m 7(Egxl 6/?-[
+d 0{vh: 7(Egzw 6/?-z
+d 0{v[{ 7(Eg|> 6/?-]
+w "6\DJ building#yes
+d /8fT< 7(EjBZ 5"I^S
+d /8fO) 7(EjMT 6/?S=
+d /8fPY 7(EjKr 5"I^D
+d /8fR, 7(EjNh 5"I^B
+d /8fTy 7(EjIf 6/?PQ
+d /8fMV 7(Ej>6 6/?QV
+d /8fKi 7(Ej>a 6/?Ql
+d /8fV[ 7(Ej=' 5"I^<
+d /8fW8 6fMwg 6/?OE
+d /8fT{ 7(Ej3j 6/?O\
+d /8fKw 6fMwF 6/?O:
+d /8fLI 7(Ej1: 6/?OB
+d /8fL3 7(Ej0^ 6/?O4
+d /8fV} 7(Ej+T 6/?Od
+d /8fUJ 7(Ej** 6/?OB
+d /8fW6 7(Ej&| 6/?Oh
+d /8fUZ 7(Ej+[ 5"I^4
+d /8fTX 7(Ej*k 5"I^5
+d /8fN^ 7(Ej1z 6/?Sp
+d /8fM_ 7(Ej4" 6/?TU
+d /8fNd 7(Ei{x 6/?VH
+d /8fNn 7(Ei}I 6/?Vu
+d /8fQ^ 5'z)k 6/?S|
+d /8fT< 7(EjBZ 5"I^S
+w "Eu~= building#yes
+d 0{vch 7(Egs_ 6/?N&
+d 0{vjs 6fMa> 6/?NX
+d 0{vgm 7(Egmo 6/?N&
+d 0{vd; 7(EgqF 6/?MR
+d 0{vch 7(Egs_ 6/?N&
+w 4#Bu highway#trunk_link maxspeed#70 name#Ovädersgatan oneway#yes
+d Ed<D 7(Eg}{ 6/>X,
+d #$%Lv 7(EhXs 6/>`h
+d #$%Lw 7(Ehea 6/>cF
+d 'v;Uf 7(Ehol 6/>eZ
+d #$%GB 6fMkA 6/>ge
+w "Eu~D addr:housenumber#54 addr:street#Utmarksgatan building#yes
+d 0{v^u 7(Ef|b 6/?6F
+d 0{veH 7(Efyk 5"I[N
+d 0{val 7(Ef|< 5"I[J
+d 0{v_k 6fMXH 6/?3u
+d 0{vnR 7(Efm, 6/?5:
+d 0{vgA 7(Efw0 6/?7@
+d 0{v^u 7(Ef|b 6/?6F
+w "Eu~H addr:housenumber#126 addr:street#Västra_bräckevägen building#yes
+d 0{vgE 7(Eh=U 6/?*q
+d 0{vn0 7(Eh3` 5"IZU
+d 0{vi; 7(Eh/3 6/?+[
+d 0{vfL 7(Eh9) 6/?)x
+d 0{vgE 7(Eh=U 6/?*q
+w "6\D. building#yes
+d /8fNr 7(Ej'; 6/?LH
+d /8fWL 7(Ej&I 6/?LR
+d /8fNZ 7(Eizs 6/?Mf
+d /8fOG 7(Eigq 6/?P.
+d /8fNE 6fMs4 6/?Oy
+d /8fO: 6fMr< 6/?Q.
+d /8fSl 7(EidB 6/?Rp
+d /8fOP 7(Eih> 6/?RC
+d /8fVr 7(Eiih 6/?Rg
+d /8fOT 7(EijD 6/?Rv
+d /8fQ4 7(EimN 5"I^B
+d /8fV0 7(Eins 6/?RA
+d /8fTU 7(Eio\ 6/?RR
+d /8fW6 7(Ej&| 6/?Oh
+d /8fUJ 7(Ej** 6/?OB
+d /8fT" 7(Ej/X 6/?N]
+d /8fNr 7(Ej'; 6/?LH
+w "Eu|q building#yes
+d 0{vf$ 7(Eg^& 6/?Sy
+d 0{vlN 7(EgZl 6/?SA
+d 0{vfr 7(EgXv 6/?Sc
+d 0{v^C 7(Eg\1 6/?T=
+d 0{vf$ 7(Eg^& 6/?Sy
+w "Eu~: addr:housenumber#18 addr:street#Stenåldersvägen building#yes
+d 0{vdf 7(EgbZ 6/?M}
+d 0{vlq 7(EgYT 5"I^%
+d 0{vea 7(EgUF 6/?NR
+d 0{vb4 7(Eg^M 6/?M(
+d 0{vdf 7(EgbZ 6/?M}
+w "Eu~Y building#yes
+d 0{v_j 6fMdG 6/?KP
+d 0{vfI 7(Eh+i 6/?LM
+d 0{vdU 6fMcW 6/?Ku
+d 0{v`= 7(Eh.# 6/?Jx
+d 0{v_j 6fMdG 6/?KP
+w "Ev!- addr:housenumber#28 addr:street#Slånbärsvägen building#yes
+d 0{vdQ 7(Egks 6/?9z
+d 0{vik 6fM`R 6/?96
+d 0{veJ 7(Egd` 6/?9q
+d 0{vg6 7(Ega} 6/?9@
+d 0{vd" 7(Eg]; 6/?:0
+d 0{v^1 6fM`' 6/?;H
+d 0{vdQ 7(Egks 6/?9z
+w @Ro> highway#unclassified name#Edvard_Rodhes_väg
+d $`944 7(EhYg 6/>z4
+d %#Ftg 7(EhbZ 5"IY"
+d $`9:A 7(Ehtj 6/?!O
+d $`9BD 7(Ehj( 6/?#o
+d $`9:D 6fMle 6/?8g
+d $`9U_ 7(Ei0G 6/?=$
+d /8g)E 6fMnQ 6/?Bv
+d $`9BN 7(EiCa 6/?I4
+d 'v;VB 7(EiZ: 6/?RC
+d 'v;VA 6fMt1 6/?Z3
+d $`9:F 7(Eiyc 6/?\u
+w "Eu}t building#yes
+d 0{vbG 7(Eh/h 6/?5T
+d 0{vh} 6fMdH 6/?68
+d 0{vdl 7(Eh-M 6/?6P
+d 0{vb~ 7(Eh,( 6/?5l
+d 0{vbG 7(Eh/h 6/?5T
+w "O\Nr highway#trunk lanes#2 maxspeed#70 oneway#yes
+d 5I7[ 7(Eek) 6/?"k
+d '`T_d 7(Ee~T 6/?!H
+d 5I7\ 7(Ef52 6/>}t
+d '`T_f 6fMSv 6/>|A
+d '`T_i 7(EfW' 5"IX{
+d 5I7] 7(Efk` 6/>w/
+w "6\D_ building#yes
+d /8fSh 7(Ej[d 6/?N8
+d /8fS$ 7(EjSd 6/?N{
+d /8fL# 7(EjP< 6/?Mc
+d /8fKe 7(EjDT 6/?Nd
+d /8fSF 7(Ej@m 6/?M@
+d /8fMZ 7(EjBs 6/?M/
+d /8fUK 7(EjC1 6/?Ly
+d /8fR# 7(EjDM 6/?Lo
+d /8fV\ 7(EjA% 6/?KK
+d /8fON 7(EjEp 6/?K$
+d /8fM} 7(EjIf 6/?LX
+d /8fSq 7(EjU7 6/?KX
+d /8fSh 7(Ej[d 6/?N8
+w "Eu~6 addr:housenumber#21 addr:street#Fornminnesvägen building#yes
+d 0{v]! 6fMY7 6/?O>
+d 0{vdN 7(Efzi 6/?Oh
+d 0{vn* 6fMY< 5"I^.
+d 0{vi+ 7(Efz( 6/?Q&
+d 0{vcI 7(Efxp 5"I^2
+d 0{v_7 7(Eftr 6/?QQ
+d 0{v[c 7(Efz} 5"I^D
+d 0{vk< 7(Eg&0 6/?Q+
+d 0{vdr 7(Eg!F 6/?P0
+d 0{v`w 7(Eg"W 6/?Oz
+d 0{v]! 6fMY7 6/?O>
+w 4#BZ highway#trunk_link maxspeed#70 name#Bräckemotet oneway#yes
+d 5I7] 7(Efk` 6/>w/
+d 'v;T~ 7(EfwT 5"IXI
+d 'v;U! 7(Eg%c 6/>r/
+d '`T_k 7(Eg/4 6/>o#
+d #$%G: 7(Eg5# 6/>ll
+d 'v;Tp 7(Eg>Y 5"IW>
+d #$%G; 7(EgFv 6/>h0
+d 'v;Tq 7(EgO% 6/>f\
+d '`T_n 7(EgZs 6/>e!
+d #$%G< 7(Eggs 6/>c7
+d 'v;Tx 6fMav 6/>a|
+d #$%G= 7(Eh$e 6/>a#
+d '`T_q 7(Eh.> 6/>`F
+d #$%G> 7(Eh:# 6/>`(
+d 'v;T{ 7(EhDM 6/>`-
+d #$%G? 7(EhNI 6/>`U
+d #$%G@ 7(EhW= 6/>aV
+d 'v;Uc 7(Eh^F 6/>b_
+d '`T_w 7(Ehe4 6/>d?
+d #$%GA 7(Ehm| 6/>f?
+d #$%GB 6fMkA 6/>ge
+w "Eu~_ addr:housenumber#17 addr:street#Slånbärsvägen building#yes
+d 0{vo/ 7(EhEs 6/?Br
+d 0{vcj 6fMf! 5"I\b
+d 0{v]d 7(Eh;F 6/?Bx
+d 0{vlh 6fMex 6/?Cs
+d 0{vo/ 7(EhEs 6/?Br
+w "Ev!4 building#yes
+d 0{vh@ 7(Eh*N 6/?K3
+d 0{v]7 6fMcD 6/?KX
+d 0{vew 7(Eh#0 6/?JE
+d 0{vbR 7(Eh&w 6/?I~
+d 0{vh@ 7(Eh*N 6/?K3
+w "Eu}V building#yes
+d 0{ven 7(Eg-3 6/?*z
+d 0{vn( 6fMZ! 6/?)l
+d 0{vnd 7(Eg#q 6/?*E
+d 0{vj$ 7(Eg*% 6/?+T
+d 0{ven 7(Eg-3 6/?*z
+w "Ev!p addr:housenumber#52 addr:street#Utmarksgatan building#yes
+d 0{vgL 7(Eft2 6/?8e
+d 0{v\& 7(EfmB 6/?7L
+d 0{vi@ 7(Efe9 6/?8~
+d 0{vdz 7(Efl) 5"I[x
+d 0{vgL 7(Eft2 6/?8e
+w "Ev!. building#yes
+d 0{vj- 7(Eg*n 6/?@f
+d 0{v_/ 7(Eg#o 6/?As
+d 0{vmv 7(Ef}{ 6/?A%
+d 0{vk- 7(Eg&z 6/??v
+d 0{vj- 7(Eg*n 6/?@f
+w "Eu~8 building#yes
+d 0{vf? 7(EfxD 6/?.v
+d 0{vl} 7(Efvz 6/?.S
+d 0{vg5 7(Eftb 6/?.o
+d 0{veC 7(Efv, 6/?/4
+d 0{vf? 7(EfxD 6/?.v
+w "Ev!) building#yes
+d 0{vj= 6fM\q 5"I[P
+d 0{v_6 6fM\Y 6/?5O
+d 0{vg, 7(Eg=J 6/?6,
+d 0{vcx 7(Eg?~ 6/?6\
+d 0{vj= 6fM\q 5"I[P
+w "O\Nt highway#trunk lanes#1 maxspeed#70 oneway#yes
+d 5I7] 7(Efk` 6/>w/
+d 'v;T` 7(Efx9 6/>sT
+d 'v;U" 6fMY_ 6/>pF
+d #$%?Z 7(Eg2M 6/>jr
+d 'v;Tk 7(Eg:P 6/>h>
+d 'v;To 6fM]* 6/>eB
+d #$%?[ 7(EgQ? 6/>c,
+d 'v;Tj 7(EgZG 6/>aY
+d 'v;Tw 6fM`. 6/>`F
+d 'v;Tv 7(Egqd 6/>^~
+d #$%?\ 7(Eg}- 6/>]o
+w Tnud highway#unclassified name#Ovädersgatan oneway#yes
+d %#EuX 7(Ej{[ 5"IVL
+d %#EuY 6fN!Y 6/>`,
+d 1qLU* 6fN!z 6/>_^
+d %#Eu] 7(Ek.U 4.Kw
+d 'v;V, 7(Ek0Q 6/>]H
+d 'v;V+ 7(Ek0c 5"IUw
+d %#Eu_ 7(Ek.K 6/>Yr
+w "Ev!2 building#yes
+d 0{vj4 7(Eg|_ 6/?,V
+d 0{v\d 7(Egyf 6/?-!
+d 0{vl$ 7(Egx5 6/?,^
+d 0{vb7 6fMbH 5"IZR
+d 0{vj4 7(Eg|_ 6/?,V
+w "Ev!C addr:housenumber#26 addr:street#Slånbärsvägen building#yes
+d 0{viA 7(EgsG 6/?<B
+d 0{v^I 7(EgiQ 6/?>#
+d 0{vfE 7(Egb= 6/?<S
+d 0{vc' 7(EggL 6/?;_
+d 0{v[o 6fM`k 6/?<C
+d 0{vk@ 7(EgoZ 6/?;V
+d 0{viA 7(EgsG 6/?<B
+w "Eu|a addr:housenumber#24 addr:street#Slånbärsvägen building#yes
+d 0{vg^ 7(Eg{= 6/??#
+d 0{v\> 7(Egrt 6/?@K
+d 0{viL 7(EgmC 6/??>
+d 0{ve( 7(Egui 6/?=t
+d 0{vg^ 7(Eg{= 6/??#
+w "Exw@ building#yes
+d 0|=EV 6fN!t 6/?14
+d 0|=G& 7(Ek#o 6/?0@
+d 0|=Gz 7(Ek"0 6/?0f
+d 0|=G1 6fN!P 6/?1=
+d 0|=FS 7(Ek$C 6/?1b
+d 0|=F$ 7(Ek&R 6/?2!
+d 0|=EV 6fN!t 6/?14
+w "O\O! highway#trunk maxspeed#70 oneway#yes
+d Ed<D 7(Eg}{ 6/>X,
+d 'v;U] 7(EhPT 6/>^,
+d 'v;U_ 7(Eh]v 6/>_2
+d 'v;U^ 7(Eho% 6/>`J
+d Ed<F 7(Ei%N 6/>aX
+d 'v;Ui 7(EiE{ 6/>c5
+d 1qLUO 6fMvc 6/>gf
+w "Eu~$ addr:housenumber#58 addr:street#Utmarksgatan building#yes
+d 0{vdx 7(Eg/" 6/?0q
+d 0{vm% 7(Eg'' 6/?/0
+d 0{vex 7(Eg!$ 5"IZw
+d 0{vbS 7(Eg(} 6/?1p
+d 0{vdx 7(Eg/" 6/?0q
+w "Eu~i building#yes
+d 0{vcX 7(Ehgh 6/?Gd
+d 0{vjS 7(EhcI 6/?Fq
+d 0{va% 7(EhY| 6/?HS
+d 0{v[r 7(Eh^= 6/?IE
+d 0{vcX 7(Ehgh 6/?Gd
+w "Ev!Y building#yes
+d 0{vfl 7(EgXT 6/?Ps
+d 0{vaO 7(EgU$ 6/?P7
+d 0{v\c 7(EgNR 6/?QN
+d 0{vi[ 7(EgR# 6/?R-
+d 0{vfl 7(EgXT 6/?Ps
+w "Eu~r addr:housenumber#21 addr:street#Slånbärsvägen building#yes
+d 0{vn` 7(Eh9u 6/?=g
+d 0{vc8 7(Eh2f 6/?>v
+d 0{vaF 7(Eh-s 6/?=q
+d 0{v\N 7(Eh5% 6/?<b
+d 0{vn` 7(Eh9u 6/?=g
+w "6\C} building#yes
+d /8fVl 7(EiRg 6/>{y
+d /8fSM 7(EiN1 6/>zx
+d /8fP1 7(Eia= 5"IXb
+d /8fLT 7(Ei`T 6/>wg
+d /8fT% 7(Eic4 6/>w=
+d /8fQ; 7(Eicu 6/>wL
+d /8fP5 7(Eiip 6/>vM
+d /8fR% 7(Ein$ 6/>wM
+d /8fN% 7(EikQ 6/>wu
+d /8fTv 7(EihM 6/>w9
+d /8fR- 7(EieA 6/>we
+d /8fSz 7(Eid{ 6/>xh
+d /8fTW 7(Eib` 6/>y1
+d /8fRF 6fMrq 6/>yB
+d /8fKu 7(Ei\B 6/>zY
+d /8fVD 7(Ei[Q 6/>zT
+d /8fVl 7(EiRg 6/>{y
+w "Eu~b building#yes
+d 0{v`9 7(Eg_B 6/??q
+d 0{vfo 7(Eg]= 6/??I
+d 0{vd{ 7(EgZz 6/??m
+d 0{va* 7(Eg]" 6/?@8
+d 0{v`9 7(Eg_B 6/??q
+w "6\DC building#yes
+d /8fVI 7(Eijv 6/?FQ
+d /8fNK 7(Eipj 6/?H%
+d /8fLj 7(Eip8 6/?H*
+d /8fW( 7(Eis5 6/?Hp
+d /8fLu 7(EiqS 6/?I(
+d /8fS7 6fMtD 6/?IF
+d /8fSj 7(EilV 6/?J4
+d /8fQb 7(EikJ 4.L^
+d /8fM^ 7(Eif# 5"I]U
+d /8fQk 7(EigF 6/?Jz
+d /8fKm 7(EihT 6/?Jw
+d /8fK} 7(Eih0 6/?K^
+d /8fL[ 7(EieO 6/?L$
+d /8fSI 7(Eib' 6/?Kn
+d /8fRY 7(Eib` 6/?K_
+d /8fW5 7(Ei`[ 5"I]\
+d /8fUQ 7(EiW" 6/?LO
+d /8fP0 5'z)$ 6/?Ki
+d /8fN4 7(EiQ} 4.L`
+d /8fTl 7(EiLO 6/?JJ
+d /8fVI 7(Eijv 6/?FQ
+w "Eu~| building#yes
+d 0{vl* 7(Eh)L 6/?L]
+d 0{v^e 7(Eh&A 6/?M8
+d 0{vmM 7(Eh#t 6/?Ll
+d 0{vc> 7(Eh'! 6/?L3
+d 0{vl* 7(Eh)L 6/?L]
+w "Eu~P building#yes
+d 0{vmB 7(Eh$J 6/?LB
+d 0{vn^ 7(Eg|s 6/?MB
+d 0{vi~ 6fMbM 6/?M,
+d 0{vd4 7(Egxn 6/?M\
+d 0{v_z 7(Egu% 6/?Lu
+d 0{v]] 7(Eg}N 5"I]]
+d 0{vmB 7(Eh$J 6/?LB
+w "Ev!G building#yes
+d 0{va5 7(Eh$v 6/?<)
+d 0{vgW 7(Eg}H 6/?<k
+d 0{vb_ 7(EgzE 5"I\*
+d 0{v^N 7(Eh!t 6/?;9
+d 0{va5 7(Eh$v 6/?<)
+w "Eu}4 addr:housenumber#26 addr:street#Stenåldersvägen building#yes
+d 0{vl_ 6fM\> 6/?E;
+d 0{v`F 7(Eg:P 6/?DX
+d 0{viD 7(Eg33 6/?Ew
+d 0{ve! 7(Eg6i 6/?FZ
+d 0{vl_ 6fM\> 6/?E;
+w "6\Cg building#yes
+d /8fQ% 7(Ej*t 6/?'j
+d /8fL1 7(Ej&< 6/?'h
+d /8fN` 7(Ej&& 6/?(/
+d /8fRB 7(Ej%h 6/?(R
+d 0{}0{ 7(Eiyw 6/?(L
+d /8fVU 7(EipM 6/?(J
+d /8fRo 7(EipF 6/?)S
+d /8fLr 7(Ein] 6/?)O
+d /8fRc 7(Eik& 6/?(_
+d /8fQZ 7(Eihi 6/?(~
+d /8fQo 7(EimW 6/?*;
+d /8fNx 7(EimH 6/?+D
+d /8fSf 7(Ej&C 6/?+F
+d /8fR] 7(Ej&C 5"IZF
+d /8fPk 7(Ej+? 6/?*z
+d /8fLl 7(Ej+> 6/?*N
+d /8fP^ 7(Ej+V 6/?)Q
+d /8fQ2 7(Ej*k 6/?)R
+d /8fQ% 7(Ej*t 6/?'j
+w "Eu}c building#yes
+d 0{vnj 7(Eg?' 6/?5;
+d 0{vc? 7(Eg:h 6/?4J
+d 0{vd1 7(Eg7B 6/?5&
+d 0{v_u 6fM[n 6/?5G
+d 0{vm1 7(Eg6y 6/?5n
+d 0{vgQ 6fM[p 6/?6=
+d 0{vnj 7(Eg?' 6/?5;
+w "Ev!H building#yes
+d 0{va9 6fM[* 5"I]U
+d 0{vge 7(Eg/- 6/?I~
+d 0{vd5 7(Eg,` 6/?JK
+d 0{vmi 7(Eg/P 6/?J~
+d 0{va9 6fM[* 5"I]U
+w "Eu}h addr:housenumber#56 addr:street#Utmarksgatan building#yes
+d 0{vav 7(Eg(! 6/?3`
+d 0{vhB 7(Ef{@ 6/?1Z
+d 0{vc* 7(EfuI 6/?2a
+d 0{v^y 6fMXa 6/?3.
+d 0{vfj 7(Efuf 6/?3Q
+d 0{vcQ 7(Ef|S 5"I[E
+d 0{v\{ 7(Ef~? 6/?4P
+d 0{vl> 7(Eg!m 6/?4k
+d 0{vav 7(Eg(! 6/?3`
+w "6\DX addr:housenumber#10 addr:street#Bräcke_Västergårds_väg building#yes
+d /8fO3 7(EiOj 6/?'%
+d /8fT: 7(EiH\ 6/?(/
+d /8fM( 7(EiJ* 6/?(N
+d /8fO! 7(EiGK 6/?(u
+d /8fKt 7(EiN9 6/?*I
+d /8fPo 7(EiZ} 6/?(L
+d /8fL! 7(EiSn 6/?&p
+d /8fVF 7(EiPv 6/?'=
+d /8fO3 7(EiOj 6/?'%
+w "Eu~& building#yes
+d 0{vhP 6fMfO 6/?S&
+d 0{v]M 7(EhCd 6/?SF
+d 0{vf# 7(EhE! 6/?Sb
+d 0{vbZ 7(EhG3 6/?SB
+d 0{vhP 6fMfO 6/?S&
+w @Rqx highway#unclassified name#Diakonivägen
+d $`9:A 7(Ehtj 6/?!O
+d /8fPn 7(Eh}_ 6/?";
+d $`9T. 7(Ei(I 6/?".
+d $`9T/ 7(EiG- 6/>{e
+d /8fOB 7(EiI0 6/>}v
+d $`9UP 7(EiU> 6/?".
+w "Ev!n building#yes
+d 0{vnP 7(EhPA 6/?F,
+d 0{vg- 7(EhM3 6/?F^
+d 0{vcy 7(EhJ+ 6/?F#
+d 0{v]u 7(EhM: 6/?EN
+d 0{vnP 7(EhPA 6/?F,
+w "6\Cz building#yes
+d /8fKY 7(EiZY 6/?#(
+d /8fR} 7(EiW" 6/?#]
+d /8fLJ 7(EiUs 6/?#G
+d /8fK| 7(EiQ' 6/?$)
+d /8fRA 7(EiRC 6/?$B
+d /8fPH 7(EiOE 5"IYk
+d /8fPr 7(EiVN 6/?&N
+d /8fQI 7(EiU+ 6/?&d
+d /8fLV 7(Ei[| 5"IZ,
+d /8fKy 7(Ei]H 6/?'|
+d /8fL, 7(Eidm 6/?)Y
+d /8fQZ 7(Eihi 6/?(~
+d /8fRc 7(Eik& 6/?(_
+d /8fL4 7(Eio\ 6/?'}
+d /8fO- 7(Eigq 6/?&#
+d /8fS! 6fMsC 6/?%x
+d /8fR| 7(Eihq 6/?%_
+d /8fPq 7(Eidm 5"IYj
+d /8fQ& 6fMrq 6/?$e
+d /8fRN 7(Eib< 6/?$t
+d /8fKY 7(EiZY 6/?#(
+w Tnu[ bridge#yes highway#trunk lanes#1 layer#1 maxspeed#70 oneway#yes
+d #$%?\ 7(Eg}- 6/>]o
+d 'v;Tu 7(Eh)V 6/>]1
+d 'v;Tz 7(Eh5O 5"IU|
+d #$%?] 7(Eh@4 6/>\E
+d 'v;Tr 7(EhQZ 6/>\3
+w "Ev!, building#yes
+d 0{v]A 7(Eh)7 6/?!Z
+d 0{vdY 7(Eg~1 6/?#0
+d 0{v`@ 7(Eh$M 6/?$$
+d 0{vi= 7(Eh-R 6/?"N
+d 0{v]A 7(Eh)7 6/?!Z
+w "Eu}, addr:housenumber#27 addr:street#Slånbärsvägen building#yes
+d 0{veh 7(Eh+- 6/?5?
+d 0{vmx 7(Eh!` 6/?7%
+d 0{vk/ 7(Egz5 6/?5~
+d 0{vf7 7(Eh"z 6/?4i
+d 0{v`^ 7(Eh&7 6/?5F
+d 0{v[S 7(Eh(| 6/?4v
+d 0{veh 7(Eh+- 6/?5?
+w "Ev!o addr:housenumber#27 addr:street#Stenåldersvägen building#yes
+d 0{vey 7(EgQ[ 6/?>j
+d 0{v]+ 7(EgK> 6/??o
+d 0{vlJ 7(EgFk 6/?>t
+d 0{veK 7(EgM* 6/?=o
+d 0{vey 7(EgQ[ 6/?>j
+w "Ev!k building#yes
+d 0{vnL 7(Efu1 6/?.6
+d 0{vc$ 7(Efr^ 6/?-}
+d 0{v^o 7(Efq. 6/?.S
+d 0{vfd 6fMX: 6/?.j
+d 0{vnL 7(Efu1 6/?.6
+w "Eu~A addr:housenumber#14 addr:street#Slånbärsvägen building#yes
+d 0{veY 7(Eh@f 6/?J\
+d 0{vmp 7(Eh9] 6/?Kq
+d 0{vh\ 7(Eh6, 6/?K.
+d 0{vio 7(Eh=5 6/?Iw
+d 0{veY 7(Eh@f 6/?J\
+w "Eu}U addr:housenumber#13 addr:street#Stenåldersvägen building#yes
+d 0{vbv 7(Eh,) 6/?N[
+d 0{vi^ 7(Eh$= 6/?Ou
+d 0{vcw 7(Eg}> 6/?No
+d 0{v_` 7(Eh'* 6/?MU
+d 0{vbv 7(Eh,) 6/?N[
+w "Eu~) building#yes
+d 0{vcD 7(EgML 6/?Ph
+d 0{vj3 7(EgK% 6/?P?
+d 0{vek 7(EgIH 6/?P]
+d 0{v`- 7(EgKo 6/?Q(
+d 0{vcD 7(EgML 6/?Ph
+w "Eu}' addr:housenumber#19 addr:street#Fornminnesvägen building#yes
+d 0{ve= 7(Eg0$ 6/?S1
+d 0{vk0 7(Eg){ 6/?T4
+d 0{vf8 7(Eg%* 6/?S4
+d 0{vdG 7(Eg+1 6/?R1
+d 0{ve= 7(Eg0$ 6/?S1
+w "Ev!> building#yes
+d 0{vce 7(Eg4k 6/?(F
+d 0{vjm 7(Eg/+ 6/?'@
+d 0{vf+ 7(Eg," 6/?'v
+d 0{v`I 7(Eg1b 6/?(|
+d 0{vce 7(Eg4k 6/?(F
+w "Eu}G building#yes
+d 0{vm^ 6fMjM 6/?JL
+d 0{van 7(EhhD 5"I]]
+d 0{v]. 7(Ehd& 6/?JQ
+d 0{vn1 7(EhiB 6/?IX
+d 0{vm^ 6fMjM 6/?JL
+w "O\O3 highway#trunk_link lanes#1 maxspeed#50 name#Ovädersgatan oneway#yes
+d #$%U? 7(Ejl] 6/>^s
+d 'v;Ux 7(EjZM 6/>[t
+d 'v;UY 6fMz) 5"IUb
+d @gBR 6fMy6 6/>Xy
+d 'v;UW 7(Ej<: 6/>X>
+d 'v;UX 7(Ej1' 6/>X$
+d @gBQ 7(Ej&- 6/>X2
+d 'v;US 7(Eiv+ 6/>X`
+d @gBP 7(Eige 6/>Y2
+d 'v;UU 7(EiY} 6/>Y5
+d 'v;UV 7(EiL. 6/>Xz
+d @gBO 6fMo9 5"IUT
+d 'v;UN 7(Ei.M 6/>Vn
+w "Eu~4 addr:housenumber#25 addr:street#Stenåldersvägen building#yes
+d 0{v_E 7(EgYu 6/?@}
+d 0{vf! 7(EgPo 6/?BD
+d 0{vbW 7(EgJA 6/?@t
+d 0{vn} 7(EgSG 6/??P
+d 0{v_E 7(EgYu 6/?@}
+w "Eu~; building#yes
+d 0{v]J 6fMUt 5"I[{
+d 0{vdZ 7(EfY" 6/?:+
+d 0{v`A 7(EfW> 6/?:L
+d 0{vmd 6fMUd 6/?:x
+d 0{v]J 6fMUt 5"I[{
+w "Eu|p building#yes
+d 0{v[K 6fMdG 6/?2"
+d 0{vcs 7(Eh.: 6/?2N
+d 0{v_^ 7(Eh+s 6/?1}
+d 0{v^! 7(Eh._ 6/?1Q
+d 0{v[K 6fMdG 6/?2"
+w "Eu}[ addr:housenumber#29 addr:street#Slånbärsvägen building#yes
+d 0{vj. 7(Eh$j 6/?2p
+d 0{v\Y 7(EgxZ 6/?4X
+d 0{vkz 7(EgsZ 6/?3V
+d 0{vb. 7(Eg{D 6/?27
+d 0{v]i 7(Eg~C 6/?2p
+d 0{vj# 7(Eh"i 6/?2I
+d 0{vj. 7(Eh$j 6/?2p
+w "Ev!Q building#yes
+d 0{vdV 7(Eg7^ 6/>~i
+d 0{vlK 6fM[. 6/>~#
+d 0{vfq 7(Ef|q 5"IYk
+d 0{ve# 7(Eg$, 5"IYr
+d 0{vdV 7(Eg7^ 6/>~i
+w "6\Do building#yes
+d /8fVr 7(Eiih 6/?Rg
+d /8fLs 7(Eifr 6/?S2
+d 0{}0J 7(Eio~ 6/?UX
+d /8fLR 6fMtf 6/?W@
+d /8fW" 6fMtz 6/?W#
+d /8fOg 7(Eiyl 6/?WC
+d /8fNn 7(Ei}I 6/?Vu
+d /8fNd 7(Ei{x 6/?VH
+d /8fQ4 7(EimN 5"I^B
+d /8fOT 7(EijD 6/?Rv
+d /8fVr 7(Eiih 6/?Rg
+w "Eu~] building#yes
+d 0{vbc 7(Eht5 6/?M#
+d 0{viM 7(Ehk@ 6/?NS
+d 0{vca 7(Ehf1 6/?MM
+d 0{v_O 7(Eho% 6/?K{
+d 0{vbc 7(Eht5 6/?M#
+w "Eu|h addr:housenumber#50 addr:street#Utmarksgatan building#yes
+d 0{vm5 7(EflV 6/?;l
+d 0{vnV 7(Efdx 6/?:1
+d 0{vit 7(Ef^` 6/?;4
+d 0{vd+ 7(Eff> 6/?<o
+d 0{vm5 7(EflV 6/?;l
+w "Eu~I addr:housenumber#12 addr:street#Stenåldersvägen building#yes
+d 0{vn[ 7(Eg|R 6/?T(
+d 0{vc5 7(Egxy 6/?S@
+d 0{v\; 7(EgsA 6/?T<
+d 0{vkY 7(Egvy 6/?U#
+d 0{vn[ 7(Eg|R 6/?T(
+w "Eu~! building#yes
+d 0{vm: 7(Eg<( 6/?Le
+d 0{v_P 7(Eg:O 6/?LC
+d 0{vn: 7(Eg8R 6/?L`
+d 0{vkc 7(Eg:+ 6/?M#
+d 0{vm: 7(Eg<( 6/?Le

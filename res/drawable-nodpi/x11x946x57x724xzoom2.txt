@@ -1,0 +1,11 @@
+w 4&a6 highway#tertiary name#Magnetgatan
+d E@R& 7(F"vQ 6/Dy>
+d *A]*P 7(F"xv 6/D{5
+d .>:@c 7(F"{E 6/D|)
+d *A]*9 6fP5B 6/E$o
+d E@R> 7(F#Jl 6/E+6
+d E@RU 7(F$#j 6/E99
+d E@Rd 7(F$2E 6/E;p
+w @t!k highway#residential
+d $dHlg 7(E~l5 6/Eoh
+d $dHmB 7(E~p/ 6/Eo!

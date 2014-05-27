@@ -1,0 +1,449 @@
+w kSpt building#yes
+d *t'H? 7(EP0/ 4.NE
+d *t'Hg 7(EO9M 6/A>s
+d *t'Hp 7(EO;v 6/A@u
+d *t'HX 7(EP2X 6/A=>
+d *t'H? 7(EP0/ 4.NE
+w kSmG building#yes
+d *t&bj 6fK6K 6/@d2
+d *t&a| 7(EO21 6/@c3
+d *t&b[ 7(EODw 6/@]$
+d *t&br 7(EON6 6/@^#
+d *t&bj 6fK6K 6/@d2
+w "?n{: amenity#parking
+d 0@.)p 7(EMg( 6/@Ub
+d 0@.+. 7(EN&3 6/@`P
+d 0@.*6 7(EM~^ 5"Ii4
+d 0@.)R 7(EMaT 6/@V5
+d 0@.)p 7(EMg( 6/@Ub
+w "?bvR addr:housenumber#10 addr:street#Fotögatan building#yes
+d 0>q2p 7(EL.s 6/@Lg
+d 0>q1E 7(EL$> 6/@LG
+d 0>q3^ 7(EL*) 6/@F2
+d 0>q17 7(EL&g 6/@F(
+d 0>q2u 7(EL,3 6/@@5
+d 0>q3E 7(EL3) 6/@@J
+d 0>q2\ 7(EL9: 6/@AW
+d 0>q2p 7(EL.s 6/@Lg
+w "?bvT addr:housenumber#6 addr:street#Fotögatan building#yes
+d 0>q3S 6fJvT 6/@Pv
+d 0>q2> 7(EKkf 6/@P%
+d 0>q2t 7(EKh] 6/@S`
+d 0>q3N 7(EKw" 6/@T*
+d 0>q3c 7(EKxJ 6/@RJ
+d 0>q2[ 7(EL(g 6/@Rr
+d 0>q3S 6fJvT 6/@Pv
+w "?n{> amenity#parking
+d 0@.*E 7(EN-N 6/@f6
+d 0@.+: 6fK-" 6/@q<
+d 0@.*l 7(EMy' 6/@r`
+d 0@.*| 7(EMu$ 6/@oF
+d 0@.*8 7(EN0z 6/@n;
+d 0@.*J 7(EN'B 6/@fO
+d 0@.*E 7(EN-N 6/@f6
+w ?WA- highway#trunk_link oneway#yes
+d $T96a 7(EMar 6/@MG
+d $T96c 7(EM]i 5"Ig+
+d $T96d 7(EM\T 6/@J$
+w kSmA building#yes
+d *t&bQ 7(EOQo 6/@k.
+d *t&b6 6fK7e 5"Ij+
+d *t&c' 7(EO_n 6/@bb
+d *t&b} 7(EOiG 6/@ci
+d *t&bQ 7(EOQo 6/@k.
+w "?n{C addr:housenumber#56 addr:street#Fridhemsgatan building#yes
+d 0@.*4 7(ENDA 6/@ul
+d 0@.*" 6fK*^ 6/@w3
+d 0@.+6 7(EM}` 6/@t&
+d 0@.*+ 7(EN@Q 6/@r^
+d 0@.*4 7(ENDA 6/@ul
+w kSq$ building#yes
+d *t'IH 7(EP$$ 5"Il8
+d *t'IA 7(EOIb 6/A#i
+d *t'Hh 6fK8* 6/A%b
+d *t'H: 7(EP&= 6/A#E
+d *t'IH 7(EP$$ 5"Il8
+w "?o07 amenity#parking
+d 0@0b: 7(ENYm 4.MW
+d 0@0b# 7(EO#| 6/@Q*
+d 0@0b< 7(EN|v 5"Igb
+d 0@0b% 6fK/W 6/@I:
+d 0@0b: 7(ENYm 4.MW
+w kSmD building#yes
+d *t&b) 7(ENm~ 6/@q>
+d *t&b] 7(ENcr 6/@p9
+d *t&bw 7(ENmx 6/@ls
+d *t&bT 7(ENpv 6/@m3
+d *t&bb 7(EO+5 6/@e$
+d *t&c6 7(EO5N 6/@f+
+d *t&c9 7(EN{# 6/@n>
+d *t&c+ 7(ENwu 6/@m}
+d *t&b) 7(ENm~ 6/@q>
+w ;sHi highway#unclassified name#Knipplagatan
+d $'zXq 7(EN%r 6/@dF
+d $'zXu 7(EMQt 6/@R!
+d 0>q28 7(EMEB 6/@NY
+d $'zXy 7(EM6b 6/@Ku
+d $'zY3 6fJ~D 6/@HT
+d $'zX} 7(ELD} 6/@Bk
+d 0>q2V 7(EL29 6/@?-
+w "?q\3 building#yes
+d 0@VlN 7(ENkr 6/@xc
+d *t&b~ 7(ENqw 6/@xJ
+d *t&bK 6fK3K 6/@yR
+d 0@VmZ 7(ENy? 6/@z>
+d 0@Vl; 7(EO!9 6/@~j
+d *t&b" 7(ENzk 6/A!x
+d 0@Vmy 7(ENtw 5"Il?
+d 0@VlN 7(ENkr 6/@xc
+w "?n{< addr:housenumber#2 addr:street#Knipplagatan building#yes
+d 0@.*} 7(EMq/ 6/@_B
+d 0@.+/ 7(EM{, 5"IiI
+d 0@.*a 7(EMwf 6/@dY
+d 0@.*v 7(EMrz 6/@dp
+d 0@.*& 6fK)) 6/@dF
+d 0@.*e 7(EMnC 6/@dc
+d 0@.)i 7(EMd! 6/@`X
+d 0@.*} 7(EMq/ 6/@_B
+w "?n{G building#yes
+d 0@.+, 7(EMo; 6/@pc
+d 0@.*j 7(EMt* 6/@tp
+d 0@.*\ 7(EMj/ 6/@u8
+d 0@.)n 7(EMe? 6/@q+
+d 0@.+, 7(EMo; 6/@pc
+w kSm: building#yes
+d *t&b? 7(EOjX 6/@pI
+d *t&c* 7(EO`9 5"Ij\
+d *t&bs 7(EP1* 6/@`X
+d *t&c7 7(EP;J 6/@ag
+d *t&b? 7(EOjX 6/@pI
+w "@1ao building#yes
+d 0CqHt 7(EOh~ 6/AAT
+d 0CqF1 7(EOj7 6/ABT
+d 0CqCC 7(EOeP 4.NL
+d 0CqIO 7(EOd9 6/AAg
+d 0CqHt 7(EOh~ 6/AAT
+w kSq) building#yes
+d *t'H` 7(EO|$ 6/@y%
+d *t'HZ 7(EOYR 6/@zO
+d *t'HO 7(EO[q 6/@|J
+d *t'HP 7(EO~C 5"Ikl
+d *t'H` 7(EO|$ 6/@y%
+w "?bvU addr:housenumber#3 addr:street#Fotögatan building#yes
+d 0>q36 7(EL^r 5"Ih,
+d 0>q3) 7(ELQs 6/@Y"
+d 0>q3O 7(ELcJ 6/@[n
+d 0>q2r 7(ELm] 6/@YY
+d 0>q3A 7(ELj\ 6/@Y,
+d 0>q1r 7(ELmH 5"IhB
+d 0>q36 7(EL^r 5"Ih,
+w kSmB building#yes
+d *t&bP 7(ENVx 6/@_)
+d *t&bf 7(ENMD 6/@^&
+d *t&bt 7(ENm/ 6/@Sa
+d *t&c3 7(ENvc 6/@Td
+d *t&bP 7(ENVx 6/@_)
+w "?n{D addr:housenumber#6 addr:street#Knipplagatan building#yes
+d 0@.*H 7(EMJ. 6/@RV
+d 0@.*0 7(EMNR 6/@T7
+d 0@.*C 7(EMR5 6/@Su
+d 0@.)O 7(EM[l 6/@WS
+d 0@.)m 7(EMPq 6/@XT
+d 0@.+# 7(EMG6 6/@Tt
+d 0@.)Y 7(EMH! 6/@Tm
+d 0@.*u 7(EMC` 6/@S0
+d 0@.*H 7(EMJ. 6/@RV
+w C=As highway#trunk_link maxspeed#70 oneway#yes
+d %!pJ' 7(EK<' 6/?uN
+d %*B_E 7(EKQ" 6/@!A
+d %!pJ( 6fJq` 6/@%=
+d ,qK2F 7(EK[H 6/@)9
+d %*B_F 6fJr; 4.M?
+d %*B_H 7(EK[2 6/@3b
+d %!pJ) 7(EKT\ 6/@;y
+d ,qK1@ 7(EKL4 6/@HD
+d ,qK2+ 7(EKIV 6/@OE
+d %!pJ* 7(EKH@ 5"Ih1
+w "?q\M building#yes
+d 0@Vm5 7(ENp% 6/@^l
+d 0@Vn> 7(ENb$ 6/@cF
+d 0@Vkn 7(ENXy 6/@bI
+d 0@Vj3 7(ENfz 5"Iht
+d 0@Vm5 7(ENp% 6/@^l
+w kSm= building#yes
+d *t&cR 7(EOWg 6/@qX
+d *t&bz 7(EO-" 6/@|S
+d *t&bS 7(EO+& 6/@|:
+d 0@Vl; 7(EO!9 6/@~j
+d *t&b" 7(ENzk 6/A!x
+d *t&cV 7(EO&9 6/A#5
+d *t&cM 7(EO45 4.N+
+d *t&bZ 7(EO6! 6/@}t
+d *t&cG 7(EOa% 6/@rq
+d *t&cR 7(EOWg 6/@qX
+w "?n{B addr:housenumber#2 addr:street#Varholmsgatan building#yes
+d 0@.*c 7(EM}< 6/@g$
+d 0@.*n 7(EN%Z 6/@l;
+d 0@.*y 7(EMO. 6/@nO
+d 0@.)M 7(EMHn 6/@i8
+d 0@.*c 7(EM}< 6/@g$
+w "?bvW highway#unclassified name#Fotögatan
+d $'zX} 7(ELD} 6/@Bk
+d $'zY# 7(EL>| 5"If>
+d $'zY) 7(EL.7 6/@Tn
+d $'zY+ 7(ELd/ 6/@\b
+d $'zY0 6fK![ 6/@[B
+w "@1ar building#yes
+d 0CqB% 6fK8" 6/A.;
+d 0CqBB 7(EOL! 6/A/&
+d 0CqI% 7(EOGl 6/A/6
+d 0CqF= 7(EOFv 6/A.J
+d 0CqB% 6fK8" 6/A.;
+w kSm9 building#yes
+d *t&c# 7(EO(P 6/@Gv
+d *t&cN 7(EOt} 6/@Vs
+d *t&bH 7(EO}P 6/@UB
+d *t&c/ 7(EO1# 6/@FE
+d *t&c# 7(EO(P 6/@Gv
+w "?bvQ building#yes
+d 0>q2| 7(ELI8 6/@DX
+d 0>q1Y 7(ELq8 5"Ifl
+d 0>q3? 7(ELh+ 6/@RV
+d 0>q3] 7(EL]d 6/@R1
+d 0>q3( 7(ELY[ 6/@SZ
+d 0>q3M 7(ELSI 6/@Ty
+d 0>q1y 7(ELZ% 6/@V#
+d 0>q2T 6fJz0 6/@XN
+d 0>q3; 7(EL5n 6/@Te
+d 0>q3T 7(EL2t 6/@S7
+d 0>q26 7(EL<] 6/@S!
+d 0>q2n 7(EL=b 6/@SZ
+d 0>q1v 7(ELBp 6/@TF
+d 0>q2N 7(ELJ) 6/@Rw
+d 0>q3k 6fJz1 6/@S\
+d 0>q1W 7(ELS] 6/@Rc
+d 0>q2P 7(ELRb 6/@Qa
+d 0>q3& 7(ELPl 6/@Q[
+d 0>q1X 7(ELO{ 6/@R<
+d 0>q1w 7(ELHQ 6/@R"
+d 0>q1C 7(ELIB 6/@Q:
+d 0>q1q 6fJwf 6/@P_
+d 0>q3K 7(EL<] 6/@J7
+d 0>q3` 7(ELI$ 6/@JZ
+d 0>q3G 7(ELHQ 6/@K=
+d 0>q3_ 7(ELJF 6/@KB
+d 0>q2J 7(ELIB 6/@LL
+d 0>q2~ 7(ELPb 6/@Lf
+d 0>q20 7(ELRv 6/@J;
+d 0>q2d 7(ELdT 6/@Jp
+d 0>q19 7(ELeE 6/@I}
+d 0>q1Z 7(ELCk 6/@F<
+d 0>q2| 7(ELI8 6/@DX
+w "@1ai building#yes
+d 0CqIm 7(EOXD 6/@|2
+d 0CqGq 7(EOZs 6/@~7
+d 0CqIK 7(EOVu 6/@~G
+d 0CqG* 7(EOTG 6/@|B
+d 0CqIm 7(EOXD 6/@|2
+w "?n{A building#yes
+d 0@.*R 7(EMDz 5"IhJ
+d 0@.)g 7(EM+L 6/@[>
+d 0@.)s 7(EM3- 6/@^n
+d 0@.+& 7(EM;> 6/@^4
+d 0@.+9 6fK$$ 6/@`$
+d 0@.*k 7(EM7, 6/@`_
+d 0@.+* 7(EM;r 5"IiE
+d 0@.*T 7(EMOG 5"Ii7
+d 0@.*o 7(EMC$ 6/@[`
+d 0@.)z 6fK%! 6/@[6
+d 0@.*R 7(EMDz 5"IhJ
+w kSj] building#yes
+d *t%kK 7(ENAX 6/@G9
+d *t%kD 7(EN0" 6/@L{
+d *t%kP 7(EN9> 6/@M{
+d *t%kI 7(ENJt 6/@H:
+d *t%kK 7(ENAX 6/@G9
+w "?n{@ building#yes
+d 0@.+0 7(EM(S 6/@Z-
+d 0@.+) 7(EL{] 3"A`
+d 0@.)E 6fJ}} 6/@PU
+d 0@.*m 7(ELz( 6/@K0
+d 0@.++ 7(EM$@ 6/@JO
+d 0@.*V 7(EM00 6/@L$
+d 0@.*q 7(EM/E 6/@L:
+d 0@.){ 7(EM7N 6/@MB
+d 0@.*( 7(EMFI 6/@P1
+d 0@.+1 7(EM>l 6/@QV
+d 0@.)^ 7(EM;a 4.M^
+d 0@.*x 7(EM5L 6/@R$
+d 0@.+5 7(EMC0 6/@X*
+d 0@.+0 7(EM(S 6/@Z-
+w &.P| highway#trunk_link lanes#1 maxspeed#70 name#Högsboleden oneway#yes
+d @e`> 7(EL$' 6/@0i
+d %*B_B 7(EKr] 6/@3g
+d ?x<b 7(EKhE 6/@6p
+d %*B_D 7(EK`$ 6/@:B
+d ?x<a 7(EKX$ 6/@Ay
+d ,qK1Y 7(EKOj 6/@KD
+d %!pJ* 7(EKH@ 5"Ih1
+w kSm6 building#yes
+d *t&bE 7(ENq. 6/@_F
+d *t&b& 7(ENXK 6/@g_
+d *t&c: 7(ENbN 6/@hd
+d *t&c$ 7(EN{0 6/@`J
+d *t&bE 7(ENq. 6/@_F
+w "?n{? addr:housenumber#4 addr:street#Knipplagatan building#yes
+d 0@.*< 7(EMa< 6/@Yd
+d 0@.)[ 7(EMJ/ 6/@[o
+d 0@.*w 7(EMM0 5"Ihl
+d 0@.+3 7(EMT~ 6/@\:
+d 0@.*g 7(EM]6 6/@_H
+d 0@.*z 7(EMb= 6/@^{
+d 0@.*- 7(EMcx 6/@_W
+d 0@.*? 7(EMj/ 6/@_"
+d 0@.)N 7(EMhR 6/@^E
+d 0@.)k 6fK(U 6/@^#
+d 0@.*< 7(EMa< 6/@Yd
+w kSm@ building#yes
+d *t&c1 6fK5r 6/@X:
+d *t&bB 7(EO,) 6/@W;
+d *t&az 7(ENx$ 5"Ihp
+d *t&c! 7(EO#U 6/@^E
+d *t&c1 6fK5r 6/@X:
+w "?o00 building#yes
+d 0@0ak 7(ENbv 6/@Q=
+d 0@0ah 6fK1_ 4.M`
+d 0@0b+ 7(ENgL 6/@Rd
+d 0@0ao 6fK0j 6/@Q}
+d 0@0ak 7(ENbv 6/@Q=
+w "?bvV building#yes
+d 0>q2; 7(EL6x 5"Ih5
+d 0>q3g 7(EL%r 6/@Zt
+d 0>q2e 7(ELKF 6/@`x
+d 0>q35 7(ELRs 6/@_9
+d 0>q3i 6fJzg 6/@_R
+d 0>q1G 6fJ{# 6/@_M
+d 0>q37 7(EL\L 6/@c|
+d 0>q3R 6fJ|~ 6/@cI
+d 0>q3" 7(ELmw 6/@f(
+d 0>q3I 7(EM1v 6/@dj
+d 0>q1t 7(EM.t 6/@b4
+d 0>q2L 5'yl? 6/@b8
+d 0>q34 7(EM*0 6/@_y
+d 0>q3Q 7(EM'S 6/@`%
+d 0>q2- 7(EM#f 6/@\z
+d 0>q2b 6fJ~[ 5"Ihn
+d 0>q1s 7(EL|) 6/@]v
+d 0>q2H 7(ELdr 6/@^i
+d 0>q3e 7(EL[y 6/@]H
+d 0>q1F 7(EL\v 6/@]4
+d 0>q2; 7(EL6x 5"Ih5
+w kSm8 building#yes
+d *t&c) 7(ENJ} 6/@UY
+d *t&c- 7(ENAb 6/@TX
+d *t&a~ 7(ENVR 6/@Mq
+d *t&bc 7(EN_n 6/@Nr
+d *t&c) 7(ENJ} 6/@UY
+w kSm; building#yes
+d *t&c& 7(EOdU 6/@]D
+d *t&c" 7(EOT) 6/@Z,
+d *t&b` 7(EO\1 6/@Xa
+d *t&b2 7(EOl] 6/@[y
+d *t&c& 7(EOdU 6/@]D
+w kSq# building#yes
+d *t'HW 7(EP1S 6/A."
+d *t'I[ 7(EO*0 6/A2H
+d *t'I: 7(EO,] 6/A4H
+d *t'I* 7(EP4" 6/A0"
+d *t'HW 7(EP1S 6/A."
+w "@1al addr:housenumber#33 addr:street#Fridhemsgatan amenity#school building#yes
+d 0CqB` 7(EOG# 5"Im/
+d 0CqH2 7(EOJQ 5"ImJ
+d 0CqAH 7(EO4* 5"ImS
+d 0CqI> 7(EO0Z 6/A+J
+d 0CqB` 7(EOG# 5"Im/
+w "?n{E building#yes
+d 0@.+2 7(EN9v 6/@m?
+d 0@.+$ 7(EN?> 6/@m&
+d 0@.)_ 6fK.& 6/@qL
+d 0@.*r 7(EN@. 5"Ijs
+d 0@.+2 7(EN9v 6/@m?
+w kSm> building#yes
+d *t&bK 6fK3K 6/@yR
+d *t&b~ 7(ENqw 6/@xJ
+d *t&b5 7(EO!N 6/@t8
+d *t&b< 7(EO$* 6/@tT
+d *t&c. 7(EO?? 6/@l,
+d *t&bU 7(EOIH 6/@m:
+d *t&b7 7(EO-y 6/@uh
+d *t&b$ 7(EO*j 6/@uG
+d *t&bK 6fK3K 6/@yR
+w kSm7 building#yes
+d *t&bh 7(EOL{ 6/@XU
+d *t&bg 6fK5+ 6/@RW
+d *t&c% 7(EO5n 5"Ig[
+d *t&a} 7(EOTd 6/@W0
+d *t&bh 7(EOL{ 6/@XU
+w kSpv building#yes
+d *t'H[ 7(EP4< 6/A4P
+d *t'HM 7(EO2M 6/A8`
+d *t'HV 7(EO4y 6/A:^
+d *t'H~ 7(EP6h 6/A6N
+d *t'H[ 7(EP4< 6/A4P
+w ?WA. highway#trunk_link lanes#1 oneway#yes
+d $T91` 7(EMl^ 5"Ig<
+d $T96a 7(EMar 6/@MG
+d $T96h 6fK&E 6/@LU
+d $T96i 7(EMMf 6/@K;
+d $T96k 7(EMHf 6/@IH
+d $T96l 7(EMHB 6/@GA
+d $T96m 7(EMJB 6/@E_
+d 0@.)x 7(EMOe 6/@C{
+d 0@.*X 6fK&) 6/@Bv
+w ;sHp highway#unclassified name#Varholmsgatan
+d $'zY3 6fJ~D 6/@HT
+d $'zY6 7(ELp> 6/@Q>
+d $'zY0 6fK![ 6/@[B
+d $'zXn 7(EMC* 6/@gD
+d $'zY_ 7(EMDW 6/@h\
+d "7|>C 6fK%l 6/@w8
+w ?WA8 highway#trunk_link oneway#yes
+d $T98F 7(ELcc 6/@>a
+d $T98[ 7(ELy# 6/@C.
+d $T98\ 7(EM4" 6/@H<
+d $T98] 7(EME< 6/@K~
+d $T98^ 7(EMSv 6/@Nn
+d $T93? 7(EMb3 6/@PJ
+w "?bvS addr:housenumber#8 addr:street#Fotögatan building#yes
+d 0>q3d 7(EL-, 5"Ig>
+d 0>q2g 7(EKuX 6/@MR
+d 0>q1; 7(EK~y 6/@CC
+d 0>q1[ 7(EL&n 6/@B@
+d 0>q2k 7(EL*O 6/@>k
+d 0>q39 7(EL)# 6/@>P
+d 0>q1] 7(EK|H 6/@?^
+d 0>q24 7(EKmn 6/@Nd
+d 0>q1I 7(EL+^ 6/@OP
+d 0>q3d 7(EL-, 5"Ig>
+w "?n{H addr:housenumber#1 addr:street#Varholmsgatan building#yes
+d 0@.+7 7(EMD0 6/@ci
+d 0@.*t 7(EMH7 6/@cY
+d 0@.+' 7(EMGZ 6/@c)
+d 0@.*N 7(EM]d 6/@b-
+d 0@.*] 7(EM^J 6/@bd
+d 0@.)` 7(EMfG 6/@bC
+d 0@.*$ 7(EMl= 6/@df
+d 0@.+- 7(EMGM 6/@fI
+d 0@.+7 7(EMD0 6/@ci
+w "?q\7 highway#unclassified name#Varholmsgatan
+d $'zXn 7(EMC* 6/@gD
+d $'zXq 7(EN%r 6/@dF
+d $(`c3 7(EN>4 6/@c4
+d $nn#^ 7(ENCA 6/@bv
+d #o+MY 7(ENIY 6/@bT
+w kSp{ building#yes
+d *t'H4 7(EP*e 6/A'p
+d *t'IV 7(EOKl 5"Im.
+d *t'IM 7(EON, 6/A,?
+d *t'H^ 6fK>G 6/A)j
+d *t'H4 7(EP*e 6/A'p

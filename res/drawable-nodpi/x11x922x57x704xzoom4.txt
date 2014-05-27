@@ -1,0 +1,147 @@
+w APT0 foot#yes highway#footway surface#paved
+d $k=6) 7(Ehip 6/C*;
+d $k=6` 6fMjI 6/C#2
+w 1>Q^ highway#footway
+d "Y"Ut 6fMcD 6/C8B
+d %F{%e 6fMbs 6/C,B
+d "Y"UZ 7(Eg}% 6/C(!
+d "Y"Uq 7(EgnS 6/C'4
+d "Y"Un 6fM_r 6/C$'
+d "Y"Te 7(Eg]O 6/B}\
+w @[F5 bicycle#yes bridge#yes foot#yes highway#footway layer#1 name#Sannegårdsbron
+d "Y"Uf 7(Eg]> 6/Bsq
+d $a@aC 7(Eg]< 4.Os
+d $a@`p 7(Eg]# 6/BZ>
+w @[M2 bicycle#yes foot#yes highway#cycleway
+d $aAy> 7(EiE& 6/B4E
+d )tfE/ 7(Ei<f 6/B4m
+d $kU4w 7(Ei7t 5"Iw]
+d $aAy? 7(Ei8R 6/B7#
+d /&vyX 7(Ei8O 6/B7g
+d /&v|w 7(Ei7" 6/B8D
+d )tfE2 6fMn2 6/B8e
+d $aAy@ 7(Ei2= 6/B9'
+d )tfE3 7(Ei/! 5"Ix'
+w @[FC foot#yes highway#footway
+d $a@b! 7(EhF~ 6/Bq=
+d "Y"Uj 7(EhCZ 6/Bsk
+w AR_M foot#yes highway#footway
+d $kU0! 7(EgRI 6/Bxr
+d "Y"Uf 7(Eg]> 6/Bsq
+w @[FB foot#yes highway#footway surface#paved
+d $a@aC 7(Eg]< 4.Os
+d $a@b! 7(EhF~ 6/Bq=
+d $a@bK 7(Ehpz 6/Bq_
+d $hZ=\ 7(Ej6c 6/Bur
+d $hZ>t 7(Ej}x 6/Bxk
+w EX3; bicycle#yes foot#yes highway#footway name#Västra_Sannegårdskajen
+d $a@`p 7(Eg]# 6/BZ>
+d $a@cZ 7(Ei$f 6/B\P
+d $a@dj 7(EjKw 6/Bal
+d $a@dk 7(El"m 6/Bki
+w F73K highway#service
+d %F{2y 7(Eji* 6/C%*
+d %F{5f 7(Ejm` 6/C#S
+d %F{5g 7(Ejua 5"I~S
+d %F{5i 7(Ejn_ 6/Bz%
+d %F{5k 7(EjfG 6/C#8
+d %F{2y 7(Eji* 6/C%*
+w A7E3 foot#designated highway#cycleway lit#yes segregated#yes
+d $aAyV 7(Ei[( 6/B<^
+d $aA|{ 7(Eie[ 6/B<C
+d $aA|| 7(Ej1) 6/B@"
+d $aA|} 6fN!g 6/BHj
+d $aA}! 7(Ek_W 6/BM}
+d $aA}" 7(ElNg 6/BU:
+d -6jyL 7(ElTH 6/BUx
+d -6jn\ 7(ElWE 6/BVb
+d -6jzC 7(ElXD 6/BW`
+d -6juy 7(ElWw 6/BX:
+d -6joy 7(ElL. 6/B\:
+d -6jxC 7(ElGa 6/B^M
+d -6jl+ 7(ElDp 6/B_p
+d $a@dk 7(El"m 6/Bki
+d $hZ?K 7(EkRE 6/B{6
+d -6jrP 7(EkDr 6/C!R
+d %F{6< 7(Ek6n 6/C%\
+d $hZ;" 7(Ek1o 5"J!Z
+d -6jm" 7(Ek.F 6/C(6
+d $hZ;# 7(Ejq- 6/C1@
+d $hZ?M 7(Ejgr 6/C9*
+d .,~_^ 7(EjiE 6/CU'
+d $hZ;% 6fM|f 6/CWY
+w APT9 foot#yes highway#footway surface#paved
+d $k=6q 7(Eh<K 6/C(q
+d $k=7I 7(Eh>* 6/C$n
+w A7EP foot#yes highway#footway surface#unpaved
+d $hZ>t 7(Ej}x 6/Bxk
+d $hZ?K 7(EkRE 6/B{6
+w 1>Q] foot#yes highway#cycleway name#Miragatan
+d "Y"UM 7(EjbU 6/C/?
+d /&v~R 7(Eiqk 6/C-B
+d "Y"T/ 7(Ei=d 6/C+m
+d $k=6) 7(Ehip 6/C*;
+d %idD5 7(Eh^l 6/C)t
+d %ahxy 6fMgi 6/C)S
+d $k=6q 7(Eh<K 6/C(q
+d "Y"UZ 7(Eg}% 6/C(!
+w F73O bicycle#yes foot#yes highway#cycleway
+d %F{5f 7(Ejm` 6/C#S
+d %F{6< 7(Ek6n 6/C%\
+w H3'q foot#yes highway#footway
+d 5I9, 7(Eh[) 6/C6g
+d %ahxw 7(EhXZ 5"J"d
+d %ahxx 7(EhRe 5"J!x
+d %ahxy 6fMgi 6/C)S
+w "4lDA bicycle#yes foot#yes highway#cycleway
+d )tfE3 7(Ei/! 5"Ix'
+d /&vx( 7(Ei2. 6/B:i
+d /&w!b 7(Ei6" 6/B:x
+d /&v}t 7(Ei9< 6/B;1
+d /&v~a 7(Ei;O 6/B;M
+d /&v}0 7(Ei=* 6/B;w
+d /&v|- 7(Ei=y 6/B<H
+d /&v}5 7(Ei>7 6/B<q
+d /&v|S 7(Ei?b 6/B<{
+d /&v~6 7(EiDb 6/B=-
+d /&vzf 7(EiHS 6/B=6
+d /&v~, 7(EiLH 6/B<\
+d /&v|v 7(EiOb 5"Ix@
+d /&v~= 7(EiT% 6/B<D
+d $aAyV 7(Ei[( 6/B<^
+d )tfE7 7(Ei\| 6/B;f
+d $aAyW 7(Ei`# 5"Ix1
+d /&w![ 6fMrt 6/B94
+d $aAyX 7(Eia6 5"Iwv
+d )tfE9 7(Ei[[ 6/B6n
+d $aAyY 7(EiUt 6/B57
+d /&v{z 7(EiPO 6/B50
+d )tfE: 7(EiLy 6/B4z
+d /&w!l 7(EiIw 6/B4M
+d $aAy> 7(EiE& 6/B4E
+w @[FM bicycle#yes foot#yes highway#footway
+d $k=G] 7(E`PT 6/A+)
+d $k=G^ 7(E`In 6/A-i
+d $k=G_ 7(E`In 6/A.a
+d $k=G` 7(E`Ki 6/A/?
+d $k=Ga 7(Ea3T 6/A82
+d $k=Gb 7(Eb`+ 6/AJ0
+d 1c_@7 6fM1X 6/ALD
+d $k=Gc 7(Ec8: 6/AWr
+d $k=Gd 7(EcN6 6/A_J
+d $k=Ge 7(Ec\D 6/AdU
+d $k=Gf 7(Ecwb 6/Apt
+d $k=Gg 7(Edav 6/BOk
+d $k=Gh 7(Eddo 6/BPb
+d $k=Gi 7(Edh8 6/BQ'
+d $k=Gj 7(Edn* 6/BQ8
+d $k=Gk 6fME4 5"IzN
+d $k=Gl 7(EdvF 6/BRl
+d $k=Gm 7(Ee$X 6/BUB
+d $k=Gn 7(Ee.o 6/BVK
+d $a@di 6fMK+ 6/BXL
+d $a@`p 7(Eg]# 6/BZ>
+w F72} highway#footway
+d "Y"UZ 7(Eg}% 6/C(!
+d %F{-h 7(Eg|n 6/C&v
+d %F{-j 7(Eg|p 5"J!D

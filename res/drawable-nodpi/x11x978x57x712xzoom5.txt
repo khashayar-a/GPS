@@ -1,0 +1,38 @@
+n 0,8]| 7(Erfv 6/Ij> railway#switch
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n 0ChG) 7(En#h 6/I1V railway#switch
+n 0,8^% 7(Ere! 6/Iev railway#switch
+n 4+)W~ 7(Et.1 6/I6l railway#buffer_stop
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n 52pE: 7(Et*K 6/J7@ railway#level_crossing
+n 4+)W_ 7(Et!$ 6/I8' railway#buffer_stop
+n 0,8^c 7(Eq0T 6/IY4 railway#switch
+n 0Cj\B 7(Emst 6/Hzn railway#switch
+n 4+)Vr 7(Ermx 6/IHJ railway#buffer_stop
+n 0EC=w 7(En/2 6/I.< railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0CjBr 7(Em~* 6/I$" railway#switch
+n 0,8_& 6fNa0 6/I_Q railway#switch
+n 0,8^a 7(Eo>s 6/HD[ railway#switch
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n 0,8^q 7(Eo;, 5"JS9 railway#switch
+n 4+)Wn 7(Et)2 6/I7$ railway#buffer_stop
+n 0uNH/ 7(EqkA 6/Hb8 name#Gullbergsvass place#suburb
+n 4+)W` 6fNu| 6/I7` railway#buffer_stop
+n 0,8^t 5'z1I 6/Ic) railway#switch
+n 0,5Vb 7(Er./ 6/IIF railway#switch
+n 0ELOg 7(Emfc 6/Hqu railway#switch
+n 0,8^w 7(EoAi 6/HC{ railway#switch
+n 4+)Vq 7(Erhg 6/IMp railway#buffer_stop
+n 0Cgp6 6fN?w 6/I9` railway#railway_crossing
+n 0,8_* 7(Eo5y 6/H=S railway#switch
+n 4+)Vt 7(Erq` 6/IGa railway#buffer_stop
+n %/mU? 7(ErxL 6/IqU railway#switch
+n 0CjB! 7(Em^8 6/HdF railway#switch
+n 4+)W] 7(Esyi 6/I8G railway#buffer_stop
+n 0,8^, 7(ErcO 6/Ids railway#switch
+n 4+)Vn 7(Ere4 6/IN> railway#buffer_stop
+n 0EC>$ 7(EmV_ 6/HQ\ railway#switch
+n IfV0 7(Etx/ 6/I&5 highway#traffic_signals
+n 52pEL 7(Ete0 6/I(Q highway#traffic_signals
+n 4+)Vy 7(Es"d 6/IC< railway#buffer_stop

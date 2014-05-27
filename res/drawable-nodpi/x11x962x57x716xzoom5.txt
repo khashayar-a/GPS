@@ -1,0 +1,7 @@
+n "77N3 7(Ey%0 6/FUr name#Frihamnen railway#tram_stop
+n $hzm: 7(EvTp 6/Fnx barrier#gate
+n $hzs3 7(EvxK 6/Fq, barrier#gate
+n .//`a 7(Exw; 6/F$. highway#traffic_signals
+n .BkiO 7(ExCP 6/G%A amenity#veterinary name#Blå_stjärnan_djursjukhus
+n 4J'3} 7(EyAh 6/E`p name#Hjalmar_Brantingsplatsen_Läge_A public_transport#stop_position tram#yes
+n 4MGz= 7(Ey?a 6/Eeq railway#crossing

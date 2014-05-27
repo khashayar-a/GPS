@@ -1,0 +1,16 @@
+n E^*- 7(EaNQ 6/DmM name#Masthuggstorget railway#tram_stop
+n EcN3 7(E^kD 6/Cy# tourism#viewpoint
+n K'iz 7(E_6z 5"J"P highway#turning_circle
+n $1D"% 7(E`]S 6/Cce name#Hemköp shop#supermarket
+n $1D#& 7(Ea*{ 6/CZ6 amenity#atm
+n $`ixp 7(Ea3q 6/CfD name#Stigbergstorget railway#tram_stop
+n $a(ju 7(E]wZ 6/C\A name#Willys_hemma shop#supermarket
+n $aq|k 7(Ea+c 6/C[( name#Bengans_Skivbutik shop#record_shop website#http://www.bengans.se/
+n 'b)vZ 7(Ea*S 6/C~m addr:housenumber#10 addr:street#Stigbergsliden name#STF_Vandrarhem_Stigbergsliden tourism#hostel
+n )M!<; 7(E`]9 6/Ca& name#Stigbergstorget railway#tram_stop
+n )M!<> 7(E`vK 5"J&` name#Stigbergstorget railway#tram_stop
+n 0uNAr 7(E_vQ 6/D!8 name#Stigberget place#suburb
+n 1{p21 5'z!% 6/CEp name#Sjöfartsmuséet tourism#museum
+n 1{p22 7(Ea/v 6/C\K name#Bengans shop#music
+n 1{phL 7(E`JT 6/CQn name#Lidl shop#supermarket
+n 1{qFT 7(E`L} 6/C^o addr:housenumber#1 addr:street#Bangatan name#Blomaffär shop#florist

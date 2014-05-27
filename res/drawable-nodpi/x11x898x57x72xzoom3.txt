@@ -1,0 +1,515 @@
+w "5<9X addr:housenumber#20 addr:street#Långströmsgatan building#yes
+d /+`&t 7(E}6p 6/?sZ
+d /+`#R 7(E}8O 6/?uc
+d /+`'j 6fOj0 6/?vw
+d /+`%+ 7(E|hz 6/?tn
+d /+`&t 7(E}6p 6/?sZ
+w "5<:% addr:housenumber#16 addr:street#Långströmsgatan building#yes
+d /+`$4 7(E{X4 6/?k0
+d /+`#2 7(E{Zu 5"Ia#
+d /+`$w 7(E|(U 5"I`n
+d /+`&h 7(E|%r 6/?i/
+d /+`$4 7(E{X4 6/?k0
+w "5>MD leisure#playground
+d /+o/+ 7(EzMi 6/?sx
+d /+o*! 7(EzBn 5"Iah
+d /+o(J 7(EzDn 6/?uj
+d /+o*+ 7(EzOi 6/?u/
+d /+o/+ 7(EzMi 6/?sx
+w "5<9o addr:housenumber#24 addr:street#Långströmsgatan building#yes
+d /+`&f 7(E|^G 6/?g"
+d /+`%n 5'z;" 6/?i+
+d /+`#@ 7(E}.' 6/?gt
+d /+`'0 6fOmA 6/?ek
+d /+`&f 7(E|^G 6/?g"
+w "4mT] addr:housenumber#42 addr:street#Sunnerviksgatan building#yes
+d /'(vh 7(Exu& 6/@/k
+d /'(vJ 7(ExZ@ 6/@4:
+d /'(w3 7(Exb! 6/@5s
+d /'(w1 6fOFD 6/@1F
+d /'(vh 7(Exu& 6/@/k
+w "4mT[ addr:housenumber#9 addr:street#Långströmsgatan building#yes
+d /'(vf 7(E}_8 6/@1$
+d /'(vB 7(E}_* 6/@3R
+d /'(va 7(E|{% 6/@3F
+d /'(w* 6fOkn 6/@0v
+d /'(vf 7(E}_8 6/@1$
+w "5>MG amenity#parking
+d /+o/N 7(E{=k 6/?tj
+d /+o,| 7(E{Gb 6/?zv
+d /+o(m 7(E{_7 6/?yW
+d /+o'r 6fO^w 6/?sH
+d /+o/N 7(E{=k 6/?tj
+w "Ch_a amenity#parking
+d 0gR?w 7(EyKg 6/?g.
+d /f`.0 7(Ey7< 5"I`U
+d 0gR?o 7(Ey9> 6/?j9
+d 0gR@7 7(EyMO 6/?iC
+d 0gR?w 7(EyKg 6/?g.
+w "4mT_ addr:housenumber#7 addr:street#Långströmsgatan building#yes
+d /'(vs 7(E}_^ 6/@(h
+d /'(wW 7(E}_H 6/@+9
+d /'(wB 7(E|{< 6/@+.
+d /'(w. 6fOkq 6/@([
+d /'(vs 7(E}_^ 6/@(h
+w ":k}: addr:housenumber#11 addr:street#Kvarnhålegatan building#yes
+d /f`:> 7(Exw: 6/?UA
+d /f`>F 7(Exg* 5"I^d
+d /f`Ma 7(ExeW 6/?U%
+d /f_s} 7(Exug 6/?T9
+d /f`:> 7(Exw: 6/?UA
+w "4nx` amenity#parking
+d /'0@j 7(Eze( 6/@%f
+d /'0@H 7(EzbT 5"Ic<
+d /'0@D 7(Ez_` 6/@&$
+d /'0@X 7(Eza3 5"IcR
+d /'0@S 7(Ezbr 6/@)&
+d /'0@* 7(E{"4 5"IcI
+d /'0@` 7(E{:4 6/@%o
+d /'0@Z 7(E{O> 6/@$g
+d /'0?z 7(E{ZP 6/@$7
+d /'0@= 7(E{oZ 6/@#.
+d /'0@% 7(E|2} 6/@!R
+d /'0@F 6fOf[ 6/?~^
+d /'0@5 7(E|`i 6/?}\
+d /'0@^ 7(E}"> 6/?|X
+d /'0@? 6fOl, 6/?yJ
+d /'0?w 7(E|h0 6/?z/
+d /'0?~ 7(E|L3 6/?{0
+d /'0@\ 7(E|0i 6/?|@
+d /'0@9 7(E{mc 6/?~"
+d /'0@A 7(E{i> 6/?~4
+d /'0@_ 7(E{bm 6/?~P
+d /'0@' 7(E{Cz 6/@"*
+d /'0@) 7(E{&x 6/@#b
+d /'0@j 7(Eze( 6/@%f
+w "5<9[ addr:housenumber#12 addr:street#Långströmsgatan building#yes
+d /+`'/ 7(E{j) 6/?xj
+d /+`%= 7(E{lv 6/?zn
+d /+`&L 7(E|:+ 6/?xf
+d /+`$( 7(E|7< 6/?vb
+d /+`'/ 7(E{j) 6/?xj
+w "5<:? addr:housenumber#4 addr:street#Långströmsgatan building#yes
+d /+`$q 7(Ezp\ 6/?}M
+d /+`'G 7(Ezsn 6/@!L
+d /+`%W 7(E{@/ 5"IbZ
+d /+`#o 7(E{<{ 6/?{(
+d /+`$q 7(Ezp\ 6/?}M
+w "79&o building#yes
+d /?_Mz 7(EyU~ 6/@Ho
+d /?_MT 7(EyO{ 6/@Gb
+d /?_F+ 6fONr 5"If"
+d /?_Kw 7(EyzG 6/@BF
+d /?_DW 7(Eyxb 6/@Bd
+d /?_CK 7(Eyyn 6/@Bx
+d /?_DM 7(EywX 5"If7
+d /?_M_ 7(EyvP 4.MR
+d /?_Gm 7(Eys? 6/@Ce
+d /?_FN 7(EytS 6/@Cz
+d /?_DR 5'z8D 6/@DD
+d /?_G< 7(Eyq# 6/@D.
+d /?_Ld 7(EynR 6/@DZ
+d /?_Jo 7(Eyoe 5"IfE
+d /?_G% 7(Eym< 6/@E<
+d /?_D? 7(Eyl/ 6/@E(
+d /?_Ku 7(Eyif 6/@ER
+d /?_K% 7(Eyk" 6/@Ei
+d /?_N& 7(Eyh; 6/@F:
+d /?_M= 7(Eyfn 6/@E~
+d /?_KB 7(EydF 6/@FK
+d /?_DP 7(EyeD 6/@F\
+d /?_DE 7(Eyc" 5"IfZ
+d /?_D2 7(Eyac 6/@Fn
+d /?_C} 7(Ey^T 6/@GG
+d /?_DK 7(Ey_Y 6/@GZ
+d /?_G! 7(Ey]u 5"Ifb
+d /?_MM 7(Ey\h 5"If`
+d /?_Mk 7(EyY& 6/@HE
+d /?_MH 7(EyZ$ 6/@HW
+d /?_L2 7(EyX^ 6/@Ho
+d /?_KC 7(EyWB 6/@HX
+d /?_Mz 7(EyU~ 6/@Ho
+w "5<9v addr:housenumber#2 addr:street#Långströmsgatan building#yes
+d /+`%% 7(EzkT 6/?|C
+d /+`$| 7(Ez@b 6/@!"
+d /+`$m 7(EzD< 6/@#%
+d /+`$D 7(Ezo- 6/?~F
+d /+`%% 7(EzkT 6/?|C
+w "4nt. highway#unclassified name#Almquistgatan
+d /'/Tf 7(ExnP 6/@=9
+d /'/Xp 7(Exv@ 6/@;`
+d 0fhhZ 7(Ey9Q 6/@6-
+d /'/Wc 7(Ey@2 6/@5"
+w "79'F addr:housenumber#13 addr:street#Spantgatan building#yes
+d /?_NN 7(E{Hx 6/@Ht
+d /?_Mr 7(E{=% 5"Ifb
+d /?_At 7(E{@n 6/@F;
+d /?_M/ 7(E{E` 6/@F`
+d /?_Ms 7(E{G4 6/@F"
+d /?_JO 7(E{N7 6/@FX
+d /?_CU 7(E{M! 6/@G,
+d /?_NN 7(E{Hx 6/@Ht
+w "5>MM leisure#playground
+d /+o/U 7(Ez?R 6/?v$
+d /+o,m 7(EzA0 6/?w4
+d /+o/$ 7(Ez8q 6/?w[
+d /+o)Y 7(Ez76 6/?vK
+d /+o/U 7(Ez?R 6/?v$
+w "79&L building#yes
+d /?_MS 7(E|hV 5"Ifv
+d /?_C& 7(E|dn 6/@L=
+d /?_G} 7(E|^~ 5"Ig*
+d /?_AK 7(E|bf 6/@Ic
+d /?_MS 7(E|hV 5"Ifv
+w ":k~? building#yes
+d /f_xf 7(Ey:d 6/@Ix
+d /f`2P 7(Ey@S 6/@K0
+d /f`+W 7(Ey:d 6/@L,
+d /f`"k 7(Ey4u 6/@Jt
+d /f_xf 7(Ey:d 6/@Ix
+w ":l#4 building#yes
+d /f`;b 7(Exwx 5"I^{
+d /f`?$ 7(Exgh 6/?Y;
+d /f`CE 7(Exf% 6/?Wv
+d /f`.] 7(Exv5 6/?W4
+d /f`;b 7(Exwx 5"I^{
+w ":k~l building#yes
+d /f`$r 7(Ey0& 6/?dx
+d /f`4+ 7(Ey0/ 6/?eW
+d /f`99 7(Exy/ 6/?eb
+d /f`={ 7(Exxw 6/?d(
+d /f_zs 7(Ey+< 6/?d!
+d /f`%n 7(Ey+4 6/?cJ
+d /f_{. 7(Ey3P 6/?cF
+d /f`B_ 7(Ey3D 6/?bR
+d /f`:1 7(Ey:/ 6/?bN
+d /f`5d 7(Ey:S 5"I`4
+d /f`>A 7(Ey4* 6/?e&
+d /f_r_ 7(Ey4( 6/?dv
+d /f`$r 7(Ey0& 6/?dx
+w "79&| addr:housenumber#9 addr:street#Spantgatan building#yes
+d /?_KW 6fObm 5"If`
+d /?_Gu 6fOb! 6/@HX
+d /?_L. 7(E{}@ 6/@J_
+d /?_H3 7(E|/\ 6/@KP
+d /?_Lo 6fOdd 6/@J$
+d /?_MJ 7(E|+} 6/@I.
+d /?_F; 7(E|*v 6/@IE
+d /?_EE 7(E|%B 6/@I-
+d /?_KW 6fObm 5"If`
+w "5<9U addr:housenumber#28 addr:street#Långströmsgatan building#yes
+d /+`'' 7(E}/j 6/?fO
+d /+`&X 7(E}0t 6/?hW
+d /+`%: 7(E}^B 6/?gf
+d /+`&& 6fOr6 6/?e^
+d /+`'' 7(E}/j 6/?fO
+w ":k|| building#yes
+d /f`D\ 7(Ey"F 5"I_L
+d /f`LJ 7(Ey"g 6/?^#
+d /f`E8 7(Ex|> 6/?^.
+d /f`@f 7(Ex{{ 5"I_M
+d /f`=k 6fOEf 6/?]p
+d /f`>o 7(Exvf 6/?^A
+d /f`;0 7(Exr* 6/?^M
+d /f`Aw 7(Exqc 6/?]{
+d /f`<# 7(Exmc 6/?^'
+d /f`(v 7(ExlF 6/?\D
+d /f`9$ 7(Exr~ 5"I_?
+d /f_t> 7(ExrZ 6/?[b
+d /f`OA 7(Extr 6/?[\
+d /f`#0 7(Exu9 6/?\.
+d /f_y> 7(Ex|U 6/?[y
+d /f`CT 7(Ex|0 6/?[I
+d /f`'> 7(Ex~x 6/?[B
+d /f`RX 7(Ey!@ 5"I_<
+d /f`J- 7(Ey(L 6/?[a
+d /f_u` 7(Ey(! 6/?[*
+d /f`Q$ 7(Ey*n 6/?["
+d /f_zO 7(Ey-% 5"I_O
+d /f`:I 7(Ey(J 6/?^"
+d /f`BQ 6fOG= 6/?]I
+d /f`D\ 7(Ey"F 5"I_L
+w "79', building#yes
+d /?_Ia 6fOjb 6/@H`
+d /?_EZ 7(E|oH 6/@I9
+d /?_N0 7(E|sL 6/@ID
+d /?_DA 6fOk* 6/@Hk
+d /?_Ia 6fOjb 6/@H`
+w ":k}q building#yes
+d /f`.s 7(Exg6 6/?cH
+d /f_r~ 7(Exg[ 6/?a|
+d /f`Cq 7(ExdV 5"I_u
+d /f`GG 7(Exdg 6/?a;
+d /f`L[ 7(Exgl 6/?a>
+d /f`=} 7(Exg| 6/?`b
+d /f_y" 7(Exrt 6/?`l
+d /f`RF 7(Exr^ 6/?a]
+d /f`N- 7(ExoH 6/?aZ
+d /f`Eq 7(Exo- 5"I_|
+d /f`*= 7(ExrL 6/?bd
+d /f`=@ 7(Exr5 6/?c\
+d /f`C4 7(Exns 6/?cY
+d /f`43 7(Exnc 6/?d6
+d /f`>q 7(ExgO 6/?d/
+d /f`&> 7(ExgD 6/?dX
+d /f`+s 7(ExnO 6/?d_
+d /f`2W 7(Exn& 6/?f>
+d /f_tE 7(Exj: 6/?f;
+d /f`CK 7(Exj3 6/?fU
+d /f`FM 6fOCn 6/?fO
+d /f_~W 7(ExcK 6/?eS
+d /f`6P 7(Exf5 4.Lx
+d /f_|; 7(ExfM 6/?dZ
+d /f`<] 7(Exc^ 6/?dX
+d /f`7H 7(Exc} 6/?cE
+d /f`.s 7(Exg6 6/?cH
+w "D%8V addr:housenumber#11 addr:street#Spantgatan building#yes
+d 0j`4q 7(E{j~ 6/@Gv
+d 0j`4x 7(E{au 6/@F@
+d 0j`4~ 7(E{XD 6/@H:
+d 0j`5" 7(E{aN 6/@Ip
+d 0j`4q 7(E{j~ 6/@Gv
+w ":l!t addr:housenumber#40 addr:street#Kölnåsgatan building#yes
+d /f`0K 7(Ey;D 6/?Sm
+d /f`?Q 7(Ey;Y 6/?W8
+d /f`Ch 7(Ey2< 6/?W:
+d /f`G@ 7(Ey2' 6/?Sn
+d /f`0K 7(Ey;D 6/?Sm
+w "5<9l addr:housenumber#14 addr:street#Långströmsgatan building#yes
+d /+`&/ 7(E{a: 6/?q{
+d /+`&_ 7(E{c| 6/?s|
+d /+`$M 7(E|13 6/?qy
+d /+`&i 7(E|.P 6/?ox
+d /+`&/ 7(E{a: 6/?q{
+w "5<9s addr:housenumber#6 addr:street#Långströmsgatan building#yes
+d /+`$k 7(Ezi$ 6/?xf
+d /+`&o 7(Ezeq 6/?vf
+d /+`$n 7(E{2- 6/?tD
+d /+`&z 7(E{5> 6/?vD
+d /+`$k 7(Ezi$ 6/?xf
+w ":k}/ addr:housenumber#38 addr:street#Kölnåsgatan building#yes
+d /f`FC 7(Ey,S 6/?Th
+d /f`Nr 7(Ey,) 6/?Wz
+d /f_u< 7(Ey#d 6/?Ww
+d /f_|w 7(Ey$0 6/?Td
+d /f`FC 7(Ey,S 6/?Th
+w "5<9b addr:housenumber#22 addr:street#Långströmsgatan building#yes
+d /+`#6 7(E|co 6/?ms
+d /+`#N 7(E|eP 5"Ia=
+d /+`#l 7(E}3U 6/?ng
+d /+`'P 7(E}1s 6/?l]
+d /+`#6 7(E|co 6/?ms
+w "5<:" addr:housenumber#18 addr:street#Långströmsgatan building#yes
+d /+`$X 7(E|8g 6/?ut
+d /+`%x 7(E|;" 6/?wy
+d /+`#w 7(E|gY 6/?v4
+d /+`$, 7(E|e@ 6/?t0
+d /+`$X 7(E|8g 6/?ut
+w "4ntU addr:housenumber#1 addr:street#Almquistgatan building#yes
+d /'/Rp 6fOJ~ 6/@3[
+d /'/U8 7(EyGx 6/@2Y
+d /'/Xt 7(Ey@z 6/@3k
+d /'/Yg 7(Ey:J 6/@2J
+d /'/Z& 7(EyQ] 5"Id/
+d /'/[Y 7(EyX/ 6/@/o
+d /'/W> 7(EyMC 6/@1`
+d /'/[% 7(EyRV 6/@2[
+d /'/U4 7(Ey\o 6/@0n
+d /'/Z/ 6fOM: 6/@22
+d /'/VW 7(EyN: 5"Idu
+d /'/R[ 7(EyGJ 6/@4W
+d /'/Rp 6fOJ~ 6/@3[
+w "ORhg leisure#park
+d 1pJ=\ 7(E|(w 6/?W7
+d 1pJ=I 7(E|%E 6/?ek
+d 1pJ=m 7(E})= 6/?cU
+d 1pJ=A 7(E}^X 6/?a|
+d 1pJ=R 7(E~8< 6/?a|
+d 1pJ=F 7(E~eP 6/?bA
+d 1pJ=W 7(F"+t 6/?i(
+d 1pJ=j 7(F!V5 6/?^z
+d 1pJ=? 7(F!*5 6/?[M
+d 1pJ=C 7(F!8^ 4.La
+d 1pJ=t 7(E~oj 6/?GC
+d 1pJ=_ 7(E~Kz 6/?W@
+d 1pJ=q 7(E}z" 6/?Wu
+d 1pJ=\ 7(E|(w 6/?W7
+w "@m?P addr:housenumber#5 addr:street#Långströmsgatan building#yes
+d 0JWD+ 7(E}]x 5"Ic@
+d 0JWDH 7(E}UI 6/@&<
+d 0JWE~ 7(E}NV 6/@&<
+d 0JWC# 7(E||P 6/@&9
+d 0JWDo 6fOkz 6/@'L
+d 0JWF= 7(E}]v 6/@'P
+d 0JWD+ 7(E}]x 5"Ic@
+w "Cu'. addr:housenumber#117 addr:street#Hakefjordsgatan building#yes
+d %A!WI 7(Exi- 6/?r&
+d %A!T} 7(Exib 6/?rz
+d /'(vR 7(ExgN 6/?sD
+d /'(vG 7(Exf, 6/?sz
+d /'(w' 7(Exev 6/?tW
+d %A!T~ 7(Exfz 6/?u.
+d /'(vq 7(Exhi 6/?uZ
+d /'(wC 7(ExkZ 6/?uw
+d %A!U" 7(Exo' 6/?u~
+d /'(vc 7(Exq] 6/?uz
+d %A!U# 7(Ext: 6/?uZ
+d /'(w, 6fOEd 6/?u,
+d %A!U$ 7(Exw: 6/?tL
+d /'(v_ 7(Exvf 5"Iaa
+d /'(vn 7(Ext` 5"Ia[
+d %A!T| 7(Expz 5"IaX
+d /'(vk 5'z7H 6/?qt
+d %A!WM 7(Exo9 6/?o|
+d %A!WK 7(Ex*A 6/?qR
+d %A!WJ 7(Ex+W 6/?sJ
+d %A!WI 7(Exi- 6/?r&
+w "4ntL addr:housenumber#17 addr:street#Sunnerviksgatan building#yes
+d /'/Wf 7(Exn$ 5"If#
+d /'/[i 7(ExSg 6/@Fc
+d /'/[3 7(Ex[u 6/@H1
+d 0g;)A 7(Exa" 6/@G-
+d 0g;(* 7(Exif 6/@EA
+d 0g;'c 7(ExrN 6/@CT
+d /'/Tr 7(Exvd 6/@Ba
+d /'/Wf 7(Exn$ 5"If#
+w ":k}[ building#yes
+d /f`E3 7(Exk- 6/?]K
+d /f`B< 7(Exj_ 6/?_*
+d /f`Dn 7(ExdG 6/?_$
+d /f`Jt 7(Exds 6/?]E
+d /f`E3 7(Exk- 6/?]K
+w "79&H building#yes
+d /?_CU 7(E{M! 6/@G,
+d /?_Ck 7(E{P] 6/@GH
+d /?_N' 7(E{Te 6/@E_
+d /?_MZ 7(E{Q) 5"IfJ
+d /?_JO 7(E{N7 6/@FX
+d /?_CU 7(E{M! 6/@G,
+w ":k~J addr:housenumber#42 addr:street#Kölnåsgatan building#yes
+d /f_w_ 7(EyOS 6/?V)
+d /f`!V 7(EyP] 6/?Y$
+d /f_vR 7(EyG@ 6/?Y/
+d /f_~8 7(EyF6 6/?V4
+d /f_w_ 7(EyOS 6/?V)
+w ":l"/ building#yes
+d /f`L` 7(EyD[ 6/?]p
+d /f`<c 7(EyD^ 6/?^E
+d /f`(e 7(EyAn 6/?^F
+d /f`'. 7(EyAj 6/?]V
+d /f`?+ 7(Ey:/ 5"I_L
+d /f`Pf 7(Ey:2 6/?^0
+d /f`HK 7(Ey7l 6/?^0
+d /f`;t 7(Ey7i 6/?]X
+d /f`1Q 7(Ey/H 6/?]Z
+d /f`*D 7(Ey/@ 6/?[{
+d /f`0` 6fOHE 6/?[z
+d /f`CM 7(Ey2l 6/?[B
+d /f`FV 7(Ey9d 6/?[@
+d /f`6U 6fOI( 6/?[x
+d /f`>i 7(Ey?Q 6/?[w
+d /f`8q 7(Ey?N 6/?[I
+d /f`R; 7(EyDe 6/?[H
+d /f`C+ 7(EyDi 6/?\7
+d /f`.# 7(EyJ4 6/?\6
+d /f`9G 7(EyJ1 6/?[\
+d /f`R| 6fOK2 6/?[[
+d /f_z$ 7(EyN{ 6/?^J
+d /f`#v 7(EyJ< 6/?^K
+d /f`Bo 7(EyJ9 6/?]p
+d /f`L` 7(EyD[ 6/?]p
+w "4nsu amenity#parking
+d /'/[N 7(Ey(9 6/@0S
+d 0fhh] 7(Ey"v 6/@1N
+d /'/SN 7(ExzK 6/@2[
+d /'/YA 6fOH9 6/@6q
+d /'/Y9 7(Ey=` 6/@4p
+d /'/[N 7(Ey(9 6/@0S
+w "@m?' access#public amenity#parking fee#yes
+d 0JWB_ 7(E}3J 6/@#6
+d 0JWAV 7(E}3= 6/@&!
+d 0JWC{ 6fOg~ 6/@&N
+d 0JWER 6fOgq 6/@#}
+d 0JWB_ 7(E}3J 6/@#6
+w ":l!k addr:housenumber#61 addr:street#Kölnåsgatan building#yes
+d /f`1A 7(EykJ 6/?Zy
+d /f`7: 7(Eykt 5"I_T
+d /f`<P 7(Eyb* 6/?^M
+d /f`H; 7(Eya_ 6/?Z}
+d /f`1A 7(EykJ 6/?Zy
+w "5<9W addr:housenumber#10 addr:street#Långströmsgatan building#yes
+d /+`$- 7(E{+R 6/?n7
+d /+`&] 7(E{.J 6/?p9
+d /+`%5 7(E{Y~ 6/?n&
+d /+`#K 7(E{W( 6/?l$
+d /+`$- 7(E{+R 6/?n7
+w "4ntV addr:housenumber#15 addr:street#Sunnerviksgatan building#yes
+d /'/Tp 7(Exb5 6/@@j
+d /'/[l 7(Ex?q 6/@9D
+d /'/TR 6fOA) 5"Ie+
+d 0g;'_ 7(ExMk 6/@9@
+d 0g;'X 7(ExV& 6/@;+
+d 0g;(m 7(Ex^K 6/@<v
+d 0g;)- 7(Exc9 6/@=y
+d /'/Rm 7(ExjD 6/@?L
+d /'/Tp 7(Exb5 6/@@j
+w EtlT addr:housenumber#1 addr:street#Norrviksgatan building#yes
+d %A!Xk 7(Ex=& 6/?tO
+d %A!Xl 7(Ex4n 6/?tc
+d %A!Xm 7(Ex8c 6/?zu
+d %A!Xn 6fOA< 6/?~.
+d %A!Xo 7(Ex_8 6/?~`
+d %A!Xp 7(ExmI 6/@"p
+d %A!Xq 6fOE) 6/@$i
+d %A!Xs 7(Exwf 6/@$L
+d %A!Xt 7(Exu< 5"Ibx
+d %A!Xu 7(ExcL 6/?}*
+d %A!Xv 7(ExMu 6/?|c
+d %A!Xw 7(Ex@f 5"Ib@
+d %A!Xk 7(Ex=& 6/?tO
+w "79&_ addr:housenumber#14 addr:street#Skeppsbyggaregatan building#yes
+d /?_@& 6fOm] 6/@Fr
+d /?_MO 7(E},; 6/@H:
+d /?_H~ 7(E}68 6/@I%
+d /?_@V 7(E}3Z 6/@J6
+d /?_AW 7(E}7x 6/@JV
+d /?_Ad 7(E}=` 6/@G|
+d /?_@& 6fOm] 6/@Fr
+w "79'O addr:housenumber#15 addr:street#Spantgatan building#yes
+d /?_A_ 7(E{7a 6/@DW
+d /?_D# 7(E{4s 6/@Es
+d /?_>Q 7(E{30 6/@Eg
+d /?_D; 7(E{2K 6/@F'
+d /?_>) 7(E{/D 6/@Eo
+d /?_K, 7(E{0' 6/@EQ
+d /?_IM 7(E{,< 6/@E6
+d /?_>a 7(E{/+ 6/@Cx
+d /?_A_ 7(E{7a 6/@DW
+w "79': building#yes
+d /?_@a 7(E|~k 6/@IM
+d /?_L} 7(E||\ 6/@Iw
+d /?_={ 7(E}!\ 6/@JI
+d /?_N@ 7(E}#l 6/@I~
+d /?_@a 7(E|~k 6/@IM
+w "5<:; addr:housenumber#119 addr:street#Hakefjordsgatan building#yes
+d /+`'7 7(Eyb# 6/?iz
+d /+`&T 7(EyB? 6/?je
+d /+`'e 7(EyD/ 6/?m:
+d /+`%> 7(EyUR 5"I`~
+d /+`%@ 7(Ey[[ 6/?u.
+d /+`'B 7(EyiN 6/?tf
+d /+`%U 7(Eyc, 6/?lO
+d /+`') 6fOM< 5"I`z
+d /+`'7 7(Eyb# 6/?iz
+w "5<:8 addr:housenumber#8 addr:street#Långströmsgatan building#yes
+d /+`$s 7(EzZk 6/?p&
+d /+`%u 7(Ez]} 6/?r&
+d /+`&m 7(E{*n 6/?o`
+d /+`#s 6fOZ' 6/?m`
+d /+`$s 7(EzZk 6/?p&
+w ":k~W building#yes
+d /f`Bf 7(EyMJ 6/?dh
+d /f`E5 7(EyDL 6/?dj
+d /f`L2 7(EyDF 6/?cU
+d /f_rX 7(EyMD 5"I`&
+d /f`Bf 7(EyMJ 6/?dh

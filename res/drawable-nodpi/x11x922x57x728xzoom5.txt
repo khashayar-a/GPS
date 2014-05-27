@@ -1,0 +1,29 @@
+n @uBR 7(F$2> 6/BfV highway#traffic_signals
+n @uBV 7(F#PF 5"J(1 crossing#island highway#traffic_signals
+n $0T,C 7(F$^n 6/Baa amenity#fuel contact:phone#031-232155 name#Preem_-_Göteborg,Bjurslättstorg
+n $8j@y 7(F%vZ 6/A{8 barrier#block bicycle#yes foot#yes
+n $gXsN 7(F'|& 6/Bk} barrier#gate
+n $|Spy 7(F$E9 6/CL, barrier#gate
+n %:^eN 6fP7: 6/ChR highway#crossing
+n %}uhl 7(F(c7 5"J'% highway#turning_circle
+n &^;rE 6fPGr 6/Bqb name#Tempo shop#supermarket
+n 'i0|V 7(F$GB 6/B_s highway#bus_stop name#Bjurslätts_torg
+n 'i0|z 6fP<j 6/Bnu highway#bus_stop name#Bjurslätts_torg
+n 'iI}e 7(F$dg 6/Bb\ amenity#post_box
+n 'iI}i 7(F$za 5"I}M amenity#post_box
+n ,mW(! 7(F(4G 6/BYZ addr:city#Göteborg addr:housenumber#1A addr:postcode#41727 addr:street#Bufjällsleden
+n ,mW2% 7(F%M9 6/BsR addr:housenumber#1 addr:street#Bjurslätts_torg amenity#fast_food description#pizza name#Pomodoro
+n ,mY"q 7(F'}& 6/BaT addr:city#Göteborg addr:housenumber#26A addr:postcode#41727 addr:street#Toleredsgatan
+n ,mY"r 7(F(&} 6/Beh addr:city#Göteborg addr:housenumber#26 addr:postcode#41727 addr:street#Toleredsgatan
+n ,mY"y 7(F('X 6/Bo" addr:city#Göteborg addr:housenumber#28A addr:postcode#41727 addr:street#Toleredsgatan
+n ,mY"z 6fPcc 6/Brj addr:city#Göteborg addr:housenumber#28 addr:postcode#41727 addr:street#Toleredsgatan
+n ,mgRD 7(F%@J 6/Be; addr:city#Göteborg addr:housenumber#6 addr:postcode#41726 addr:street#Bjurslätts_torg amenity#hospital name#Bjurslätts_vårdcentral
+n .2YQA 7(F%GZ 6/Bl* name#Bjurslätts_torg place#hamlet
+n .<m[Y 7(F$.U 6/BiB highway#crossing
+n .<m[` 7(F'to 6/B/a highway#crossing
+n .<m[} 7(F$%i 6/Be{ highway#crossing
+n .<m[~ 7(F$7H 6/Bco highway#crossing
+n .<m\$ 7(F$BE 6/BgP highway#crossing
+n /+hYN 7(F#eL 6/BMs traffic_calming#yes
+n /~|Hg 7(F'NY 6/B>E amenity#recycling
+n 5vhw] 7(F$u} 6/B\P amenity#recycling recycling:batteries#yes recycling:clothes#no recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes

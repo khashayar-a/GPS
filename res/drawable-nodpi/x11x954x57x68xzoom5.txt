@@ -1,0 +1,15 @@
+n @@B_ 7(EP1% 6/Fzy highway#traffic_signals
+n "4K:X 7(EOUj 6/Fc< name#Sahlgrenska railway#tram_stop
+n "x=Oc 7(EO\, 6/F0y aeroway#helipad
+n $|-S/ 6fK0Z 6/F8* highway#turning_circle
+n &.zk! 7(EOl? 6/FSp addr:housenumber#6 addr:street#Medicinaregatan
+n &.zk6 7(EOw7 6/Fcc addr:housenumber#4 addr:street#Medicinaregatan
+n &0\>g 7(EN{} 6/Fhj addr:housenumber#2 addr:street#Blå_stråket
+n '24RT 7(ELID 6/F%\ amenity#cafe name#Botaniska_Paviljongen website#http://www.botaniskapaviljongen.com/
+n )APx> 6fK7X 6/FXL highway#bus_stop name#Sahlgrenska
+n .J%]j 7(EKH" 6/E}s amenity#toilets name#Toaletter
+n .J+Ti 6fJs} 6/E|B name#Lusthus
+n 1"!^[ 7(EMO| 6/Ev% leisure#playground
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing

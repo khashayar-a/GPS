@@ -1,0 +1,13 @@
+n $oqMX 7(Eww^ 6/LdK highway#turning_circle
+n (%F&Q 6fO#_ 6/L~F amenity#library name#Härlanda/Örgryte ref#Harl
+n 1BRza 6fNyx 6/K\j name#Redbergsplatsen railway#tram_stop
+n 1BR{- 7(EuEB 6/L`\ name#Stockholmsgatan railway#tram_stop
+n 1BR{J 7(EtRY 6/K_g name#Redbergsplatsen railway#tram_stop
+n 1BR{T 7(EuAE 6/L[< name#Stockholmsgatan railway#tram_stop
+n 3AtN\ 7(EvOZ 6/La* amenity#gym name#Kettlebell_center website#http://kettlebellcenter.com
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 3k"/b 7(Etm; 6/LVY highway#turning_circle
+n 4HTCH 7(Es4* 6/LhX highway#turning_circle
+n 6!PcL 7(EviG 6/L~- bench#yes bus#yes highway#bus_stop name#Tomtebacksgatan operator#Västtrafik public_transport#stop_position shelter#yes shelter_type#public_transport
+n 6!PcM 7(Evm[ 6/L{l bench#yes bus#yes highway#bus_stop name#Tomtebacksgatan operator#Västtrafik public_transport#stop_position shelter#no shelter_type#public_transport
+n 6!PfU 7(Ev+J 6/Lh* fixme#continue

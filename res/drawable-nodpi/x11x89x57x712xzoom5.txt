@@ -1,0 +1,33 @@
+w "i]34 bridge#yes layer#1 name#Vårväderstorget_Läge_B public_transport#platform
+d 4J8eq 7(Epq) 6/>z`
+d 4J8eS 7(EpY{ 5"IYa
+w "i]33 bridge#yes layer#1 name#Vårväderstorget_Läge_A public_transport#platform
+d 4J8eX 7(EpgO 6/>zL
+d 4J8eO 7(EpRH 6/?"l
+n @@:W 7(EprF 6/?EB highway#traffic_signals
+n @@;' 7(EpbV 6/?Ea highway#traffic_signals
+n "77N~ 7(ExnP 6/>}* name#Önskevädersgatan railway#tram_stop
+n "77O' 7(E|^} 6/?!8 name#Friskväderstorget railway#tram_stop
+n "77O+ 7(F"5S 6/?"z name#Väderilsgatan railway#tram_stop
+n "77OI 7(F-Z* 6/??\ name#Varmfrontsgatan railway#tram_stop
+n #$%S_ 7(Epnk 6/?Bp highway#traffic_signals
+n #$%U, 7(Ep^k 6/?C- highway#traffic_signals
+n %H<7f 7(Esdz 6/>fz name#Mildvädersgatan railway#tram_stop
+n %H<E) 7(Ep~I 6/?G\ highway#traffic_signals
+n &8@)J 7(Eq>5 6/?y` name#Sälöfjordsgatan_Läge_B public_transport#stop_position tram#yes
+n &8@)L 7(Eocb 6/>xW fax#+4631645899 name#Willys_hemma_Vårväderstorget opening_hours#Mo-Sa_08:00-21:00;Su_09:00-21:00 operator#Willys_hemma phone#+4631645890 shop#supermarket
+n &8@)M 7(Epc! 6/>~/ name#Vårväderstorget_Läge_B public_transport#stop_position tram#yes
+n &8@)N 6fPm8 6/?7S name#Temperaturgatan railway#tram_stop
+n 'T1R5 7(F)\* 5"I\3 crossing#island crossing_ref#zebra highway#crossing traffic_calming#hump
+n *gloj 7(Exvr 6/>}l crossing#uncontrolled highway#crossing
+n 0B-hW 7(Erd0 6/?@L amenity#recycling recycling:glass#yes recycling:paper#yes recycling:scrap_metal#yes
+n 46h4z 7(EpG! 6/>wQ amenity#atm operator#Swedbank
+n 46k)_ 7(EpL^ 6/>s5 amenity#pharmacy
+n 46k)c 7(Ep>" 6/>qF shop#florist
+n 46k)f 7(EqP3 6/?(F amenity#pharmacy dispensing#no
+n 46k)j 7(Ep%\ 6/>pc amenity#pub
+n 46k)s 7(EpmV 6/?#D highway#bus_stop
+n 46k;! 7(Epk- 6/>tC amenity#post_office
+n 4J'2I 7(Ep_= 6/>}j name#Vårväderstorget_Läge_A public_transport#stop_position tram#yes
+n 4J'2S 7(EqMM 6/@)[ name#Sälöfjordsgatan_Läge_A public_transport#stop_position tram#yes
+n 4UGda 6fPoJ 6/?;m bench#no highway#bus_stop name#Temperaturgatan shelter#no

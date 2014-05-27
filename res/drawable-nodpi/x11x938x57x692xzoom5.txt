@@ -1,0 +1,17 @@
+n E;@] 7(E[%" 6/Dpq name#Eldaregatan
+n ED!1 7(E\B} 6/D5y amenity#school name#Fjällskolan
+n Ec<n 7(EYNc 6/DdF man_made#water_tower
+n $X7fu 7(EZJU 6/DB9 amenity#recycling
+n $X7fw 7(EZB8 6/D;o amenity#post_box
+n $X7l[ 6fL@R 6/D<| name#Bockhornsgatans_Livs shop#convenience
+n %!Vem 7(E\in 6/D-! amenity#recycling
+n %"I0h 7(E]4$ 6/DGV barrier#gate
+n %"I0j 7(E]8Q 6/DRM barrier#gate
+n &vf`k 7(E]2I 6/DU- amenity#post_box
+n )Aa:w 7(E\T4 6/D9^ highway#bus_stop name#Fjällskolan
+n )Aa:} 7(E\A< 6/D81 highway#bus_stop name#Fjällskolan
+n )Aa;$ 7(E['Q 6/DAq highway#bus_stop name#Bockhornsgatan shelter#yes
+n )Aa;) 6fLC> 6/DB5 highway#bus_stop name#Bockhornsgatan shelter#no
+n )Aa;/ 7(EZd2 6/DX- highway#bus_stop name#Masthugget shelter#no
+n )Aa]_ 7(E]", 6/DPy highway#bus_stop name#Paradisgatan shelter#yes
+n )Aa]b 7(E]1} 6/DR~ highway#bus_stop name#Paradisgatan shelter#no

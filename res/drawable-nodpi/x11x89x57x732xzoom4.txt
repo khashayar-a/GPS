@@ -1,0 +1,678 @@
+w S!0p highway#service service#parking_aisle
+d 'QPn$ 7(F+aU 6/?2=
+d 'QPo. 7(F+]d 6/?5#
+d 'QPo/ 7(F,#j 6/?6K
+w Sbtj highway#service service#parking_aisle
+d 'c+l9 7(F)W> 6/>uT
+d )@m&U 7(F)[@ 6/>uO
+d )@m&X 7(F)]z 6/>u*
+d )@m&V 7(F)_A 6/>tR
+d )@m&W 7(F)_y 6/>sa
+d 'c+l: 7(F)`< 6/>rl
+d 'c+l; 6fPnS 6/>qP
+w jB?z highway#footway
+d *i?yz 7(F+5b 6/>_?
+d *i?yT 7(F+,q 5"IVD
+d *i?z% 6fQ!U 6/>a4
+d *i?y\ 7(F+)q 6/>b,
+w jB@# highway#footway
+d *i?y^ 7(F*%P 6/>QV
+d *i?z3 7(F)^L 6/>Q.
+d *i?z2 6fPr2 6/>S@
+d *i?ym 7(F)T| 6/>]f
+w dY6\ bicycle#designated foot#designated highway#path segregated#no
+d $mQlg 7(F)"t 6/?9L
+d *#@v^ 7(F#lD 6/?'[
+d ,1%L[ 6fP3d 6/?%V
+w R%w& foot#yes highway#path tracktype#grade5
+d %(!.> 7(F-YB 6/?K`
+d $mQiI 7(F,*~ 6/?J>
+w ^Lcc bicycle#yes highway#footway layer#-1 tunnel#yes
+d )@m%v 7(F)=W 6/?*v
+d )@m%R 7(F)>} 6/?(_
+w ^y6x highway#footway
+d )@m&4 7(F)). 6/?3,
+d )@m&2 7(F))- 6/?1}
+w S*d_ highway#footway
+d 'T1S' 7(F+A\ 6/?Ti
+d 'T1SG 7(F+Ag 6/?QL
+d 'T1S+ 7(F+Cx 6/?P%
+d 'T1S0 7(F+G4 6/?MS
+d 'T1S. 7(F+MX 6/?K7
+w S!0L highway#footway
+d 'QPj| 6fP{/ 6/>xC
+d 'QPj~ 7(F*RZ 6/>~L
+d 'QPn@ 7(F*Jp 6/>~4
+d 'QPk% 7(F*D{ 6/>~"
+d 'QPk# 7(F*@h 6/>}>
+d 'QPlV 7(F)^d 6/>z}
+w S!0S bicycle#yes highway#footway
+d $mQlg 7(F)"t 6/?9L
+d )G\*v 7(F)&" 6/?72
+d 'QPk? 7(F)&j 6/?6G
+d )G\+4 7(F)3# 6/?6v
+d )G\+2 6fPn3 6/?6'
+d )G\+. 7(F)<x 6/?6J
+d )G\+, 7(F)C. 6/?6_
+d )G\+* 7(F)FV 6/?6c
+d )G\+( 7(F)Gs 6/?6T
+d )G\+0 7(F)Fl 6/?6B
+d )G\+! 7(F)/d 6/?5E
+d )@m&0 7(F)-& 6/?54
+d )G\*| 7(F),L 6/?4r
+d )@m&. 7(F).Z 5"I[E
+d )@m&? 7(F)>B 6/?5H
+d )@m&= 7(F)Bi 6/?5P
+d 'QPk< 7(F)DV 5"I[K
+d )@m&8 7(F)E" 6/?57
+d 'QPk9 7(F)Cj 6/?4z
+d )@m&7 7(F)5L 6/?48
+d 'QPk6 7(F)2< 6/?3x
+d )@m&- 7(F)-o 6/?35
+d )@m&+ 7(F)+C 6/?2b
+d )@m&2 7(F))- 6/?1}
+d )@m&) 6fPl| 6/?10
+d )@m%h 7(F)(r 6/?05
+d 'QPk1 7(F))n 5"IZp
+d )@m%g 7(F)+= 6/?.q
+d 'QPk/ 7(F).% 6/?.=
+d )@m&& 7(F)1| 6/?-l
+d 'QPk- 7(F)4] 6/?-Q
+d )@m&$ 7(F)=i 5"IZY
+d )@m&" 7(F)E8 6/?,f
+d )@m%~ 7(F)Jx 6/?,K
+d 'QPk* 7(F)Qd 6/?+v
+d )@m%| 7(F)T4 6/?+P
+d )@m%z 7(F)T_ 6/?+-
+d 'QPk) 7(F)U@ 5"IZ@
+d )@m&e 6fPqS 6/?'b
+d )@m&f 7(F)Vm 6/?&~
+w S!0J highway#footway
+d 'QPil 7(F,V' 6/>~M
+d 'QPjn 7(F,[& 6/>xk
+w S*e& highway#footway
+d 'T1WJ 7(F)?@ 6/?@Y
+d 'T1QC 7(F)B; 6/??^
+w S!0C highway#footway
+d 'QPjK 7(F+j9 6/>{_
+d 'QPjN 7(F+nr 6/>vD
+d 'QPjI 7(F+`J 6/>we
+w jB@+ highway#footway
+d *i?z5 7(F*<` 6/>\]
+d *i?z1 7(F*VE 6/>]J
+d *i?yz 7(F+5b 6/>_?
+d *i?yq 7(F+9> 6/>_I
+d *i?yX 7(F+=( 6/>[/
+d *i?y> 7(F+>N 6/>YU
+d *i?yN 7(F+Ez 6/>Q&
+d *i?yv 7(F+{b 6/>R_
+w S*db highway#footway
+d 'T1S0 7(F+G4 6/?MS
+d 'T1S3 7(F+>} 6/?Mk
+d 'T1S4 7(F+4K 6/?M}
+d 'T1SK 7(F+*8 6/?M(
+d 'T1S7 7(F+#1 6/?K)
+d 'T1S9 7(F+*O 5"I]C
+w ^Lcp bicycle#yes highway#footway
+d )@m&i 7(F)X! 6/?%@
+d )@m&] 7(F)[x 6/>~1
+d )@m&b 7(F)]G 6/>|R
+d 'QPlV 7(F)^d 6/>z}
+d )@m&` 6fPrR 6/>y4
+d %'~hE 7(F)gY 6/>qo
+w Sbu> highway#service layer#1 service#parking_aisle
+d 'c+pV 7(F({~ 6/>W>
+d 'c+pX 6fPj@ 6/>V{
+d 'c+pZ 7(F(^= 6/>g`
+w S!0u highway#footway
+d 'QPoU 7(F,Hx 6/?46
+d 'QPoW 7(F,L0 6/?5Z
+d 'QPo[ 7(F-.H 6/?7,
+w ^Lcf bicycle#yes bridge#yes highway#footway layer#1
+d )@m$k 7(F)!/ 6/>|^
+d )@m$m 7(F(m2 5"IY,
+w ^Lcr highway#steps
+d )@m&f 7(F)Vm 6/?&~
+d )@m&i 7(F)X! 6/?%@
+w S!0i highway#footway
+d 'QPn@ 7(F*Jp 6/>~4
+d 'QPnD 7(F*PF 6/?!j
+d 'QPnG 7(F*cj 6/?"v
+d 'QiEM 7(F*zj 6/?#`
+d 'QPnI 7(F+-C 6/?%`
+d 'QPnL 7(F+G| 6/?(C
+d 'QPn& 7(F+fc 6/?*4
+d 'QPnN 7(F+vp 5"IZJ
+d 'QPnl 7(F,+" 6/?-6
+d 'QPnQ 7(F,:7 6/?.j
+d 'Jq'C 6fQ/b 6/?/m
+w Y5a, foot#yes highway#footway
+d %'~h6 7(F,I\ 6/>MY
+d %'~h7 7(F,Cj 6/>SJ
+d %'~h8 7(F,<M 6/>[E
+d %'~h9 7(F,Wi 5"IVG
+d %'~h: 7(F,:R 6/>bj
+d %'~h; 7(F,'# 6/>cQ
+d %'~h< 7(F+k2 5"IVY
+d %'~h= 7(F+6T 6/>aG
+d %'~h> 6fQ"; 4.Kz
+d *i?y\ 7(F+)q 6/>b,
+d %'~h? 7(F*~Z 6/>c.
+d %'~h@ 7(F*tr 5"IVe
+d %'~hA 7(F*lW 6/>db
+d %'~hB 7(F*B0 6/>cj
+d %'~hC 7(F)sl 6/>h9
+d %'~hD 6fPsl 6/>jm
+d 'QPks 7(F)iX 6/>o<
+w ^y6z highway#steps
+d )G\+$ 6fPlo 6/?5I
+d )G\+& 7(F)'v 6/?4`
+d )@m&4 7(F)). 6/?3,
+w ^y6{ highway#footway
+d )G\*| 7(F),L 6/?4r
+d )G\+& 7(F)'v 6/?4`
+w jB@" highway#footway
+d %'~h: 7(F,:R 6/>bj
+d *i?y~ 7(F,4] 6/>eY
+d *i?yj 7(F,%$ 6/>e-
+w S!0Z addr:housenumber#1 highway#footway
+d 'QPiq 7(F*E+ 6/>wk
+d 'QPl] 7(F*CE 6/>w,
+w R%w% highway#footway
+d $mQiI 7(F,*~ 6/?J>
+d 'A&b* 7(F,&p 6/?KZ
+d 'A&b+ 7(F+}T 6/?Ok
+d 'T1S" 7(F+tU 6/?Vq
+w ShX% highway#footway
+d 'T1SK 7(F+*8 6/?M(
+d 'T1S; 7(F*xB 6/?Lk
+w S!0t highway#service service#parking_aisle
+d 'QPoM 7(F,3x 6/?3`
+d 'QPoP 7(F,/T 6/?8+
+w ^Lcm bicycle#yes highway#footway
+d 'QPk- 7(F)4] 6/?-Q
+d )@m%t 6fPnb 6/?,G
+d )@m%u 7(F)<# 6/?+e
+d )@m%v 7(F)=W 6/?*v
+w S!0o highway#service service#parking_aisle
+d 'QPo. 7(F+]d 6/?5#
+d 'QPo4 7(F+." 6/?3x
+w S*dd highway#footway
+d 'T1S7 7(F+#1 6/?K)
+d 'T1S; 7(F*xB 6/?Lk
+d 'T1S= 7(F*i0 6/?Mp
+d 'T1RC 7(F*J! 6/?M4
+d 'T1Qs 7(F*+6 6/?M}
+w ^Lc[ bicycle#yes highway#footway
+d )@m&] 7(F)[x 6/>~1
+d )@m%6 7(F)Jh 6/>}d
+d )@m$y 7(F)-X 6/>||
+d )@m$k 7(F)!/ 6/>|^
+w RXiL highway#footway
+d 'A&bu 7(F.V' 6/?:4
+d 'Jq'8 7(F.]X 6/?6|
+d 'Jq': 7(F.W. 6/?2,
+d 'Jq'< 7(F.Cx 6/?/E
+d 'Jq'> 7(F-?b 6/?%c
+d 'Jq'@ 7(F-/4 6/?&b
+d 'Jq'A 7(F-"N 5"IZ"
+d 'QPng 7(F,]^ 4.LD
+d 'Jq'C 6fQ/b 6/?/m
+d %(!-H 7(F,en 6/?3'
+w Q~NP bicycle#designated foot#designated highway#cycleway
+d $mQl[ 5'zLQ 6/@)l
+d $mQg% 7(F1+g 6/@(>
+d $mQi@ 7(F1!Q 6/@&q
+d $mQg' 7(F0wd 6/@%F
+d $mQg( 7(F0\H 6/?}2
+d %'~j7 7(F0XC 6/?|"
+d $mQg* 6fQU> 6/?{B
+d $mQiB 7(F0R2 6/?y9
+d $mQg- 7(F0N< 6/?w8
+d $mQl] 7(F0EQ 6/?uI
+d $mQl_ 7(F/^k 6/?hw
+d ',eYT 7(F/Q5 6/?g1
+d $mQg2 7(F/'d 6/?bI
+d *j1p# 7(F.{' 6/?aE
+d $mQg4 7(F.g" 6/?_H
+d $mQg5 7(F.Vx 6/?]X
+d $mQiG 7(F.&2 6/?Y_
+d $mQiI 7(F,*~ 6/?J>
+d $mQiK 7(F+K! 6/?E,
+d $mQlc 7(F*j- 6/?AD
+d $mQle 7(F)]r 6/?;~
+d $mQlg 7(F)"t 6/?9L
+w ^LcW bicycle#yes highway#footway
+d )@m%R 7(F)>} 6/?(_
+d )@m%S 7(F)?T 6/?'z
+d )@m%T 7(F)A* 6/?'d
+d )@m%U 7(F)M[ 6/?'P
+d )@m&e 6fPqS 6/?'b
+w Sbu< highway#service service#parking_aisle
+d 'c+p: 7(F(x1 6/>[<
+d 'c+p< 7(F)&P 6/>\E
+d 'c+pJ 7(F)"7 6/>a#
+w ^Lcl highway#steps
+d )@m&4 7(F)). 6/?3,
+d )@m&5 7(F({@ 6/?2X
+w S!0a highway#steps
+d 'QPmp 7(F*=g 6/?#e
+d 'QPms 7(F*Ed 6/?#{
+w S*dP highway#footway
+d 'T1P| 7(F(). 6/?OK
+d 'T1Q( 7(F(K_ 6/?LJ
+d 'T1Q* 7(F(p[ 6/?I$
+d 'T1Q- 7(F(Zu 6/?I*
+d 'T1Q1 7(F(c! 6/?GR
+d 'T1Q3 7(F(d= 6/?G*
+d 'T1Q= 7(F(j[ 6/?Bv
+d 'T1QA 7(F(rG 6/?>9
+d 'T1QC 7(F)B; 6/??^
+d 'T1QF 7(F)CH 6/?>u
+d 'T1QI 7(F(wI 6/?<z
+d 'T1QL 7(F(um 6/?<J
+d 'T1QO 6fPkf 6/?<"
+d 'T1R1 7(F)IR 6/?=W
+d 'T1QS 6fPqr 6/?>.
+d 'T1QU 7(F)c` 6/?>d
+d 'T1QY 7(F)o# 6/?@#
+d 'T1Q\ 7(F)z4 6/?A~
+d 'T1Q_ 7(F*"R 6/?CF
+d 'T1Qi 6fPw; 5"I]-
+d 'T1RE 6fPwL 6/?Gg
+d 'T1Qo 7(F*3t 6/?Hv
+d 'T1Qp 7(F*1' 6/?L6
+d 'T1Qs 7(F*+6 6/?M}
+d 32\{] 7(F*$l 6/?OW
+d 'T1Qv 7(F*"b 5"I^8
+d 'T1Qw 7(F)|l 6/?Uh
+d 'T1Qz 7(F)jl 6/?UR
+d 'T1Q} 7(F)Dr 6/?T@
+d 'T1R! 7(F)*y 6/?R:
+d 'T1R# 7(F(`f 6/?P=
+d 'T1R& 7(F(GZ 6/?P=
+d 'T1R/ 7(F(;y 6/?QH
+d 'T1Pg 7(F(6j 6/?T3
+w S!0R bridge#yes foot#yes highway#footway layer#1
+d 'QPks 7(F)iX 6/>o<
+d %'~hE 7(F)gY 6/>qo
+w S!0k highway#steps
+d 'QPng 7(F,]^ 4.LD
+d 'QPni 7(F,GI 6/?,"
+w S!0Q highway#service layer#-1 oneway#yes service#parking_aisle
+d 'QPkg 7(F)|q 5"IYD
+d 'QPkY 7(F)x( 5"IZ"
+w jB@) highway#footway
+d *i?z+ 7(F(rp 6/>e0
+d *i?yL 6fPr5 6/>fX
+d %'~hC 7(F)sl 6/>h9
+d *i?z- 7(F)y@ 6/>i<
+d *i?ya 7(F*-i 6/>jE
+d *i?y: 7(F*EJ 6/>jk
+d 'c+p' 7(F*J% 6/>iJ
+w jB?v highway#footway
+d *i?z4 7(F*zw 6/>i>
+d *i?z) 7(F*jI 6/>i@
+d 'c+p% 6fPzq 6/>i'
+w ^Lci bicycle#yes highway#footway
+d )@m%U 7(F)M[ 6/?'P
+d )@m%Z 7(F)Il 6/?'1
+d )@m%\ 7(F)F) 6/?&T
+d )@m%^ 7(F)Ab 6/?%O
+d )@m%e 7(F)?G 6/?$y
+d )@m%_ 7(F):. 6/?#*
+d )@m%a 7(F)8k 6/?"G
+d )@m%2 7(F)86 6/?!o
+d )@m$p 7(F).^ 6/>}e
+d )@m$y 7(F)-X 6/>||
+w Con" foot#yes highway#footway
+d )@m$f 6fPe7 6/>y`
+d *gloq 7(F(.g 6/>y?
+d *glmk 7(F('U 6/>x6
+d *gloF 7(F'aF 6/>vl
+d *glm0 7(F'QL 5"IXQ
+d *gllz 7(F'># 6/>tM
+d .~*R! 6fP[U 6/>t>
+d *gln2 7(F&~; 6/>sn
+w S!0` highway#footway
+d 'QPmj 7(F*\= 6/?,~
+d 'QPmm 7(F+!6 6/?,c
+w S!0D highway#footway
+d 'QPjQ 7(F+9N 6/>z6
+d 'QPjS 7(F+>{ 6/>tv
+d 'QPjE 7(F+DA 6/>w(
+w S!0I highway#path surface#unpaved
+d 'QPjh 7(F-:6 6/?)X
+d 'Jq'A 7(F-"N 5"IZ"
+d 'QPjl 7(F,a& 6/?!e
+w S*dT highway#steps
+d 'T1QF 7(F)CH 6/?>u
+d 'T1R1 7(F)IR 6/?=W
+w S!0v highway#service service#parking_aisle
+d 'QPoe 7(F*)& 5"IZL
+d 'QPoi 7(F*5X 5"IYB
+w S!0P highway#service layer#-1 service#parking_aisle
+d 'QPkX 7(F)tn 6/?+*
+d 'QPkY 7(F)x( 5"IZ"
+d 'QPk] 7(F)`Z 6/?&=
+d 'QPk_ 7(F)e) 6/>}~
+d 'QPkg 7(F)|q 5"IYD
+d 'QPkb 7(F*,u 6/?!0
+d 'QPkf 7(F*(& 5"IZ&
+d 'QPkY 7(F)x( 5"IZ"
+w S!0Y highway#service service#parking_aisle
+d 'QPlf 7(F)m4 6/>u!
+d 'QPli 7(F)oB 5"IX7
+d 'QPll 7(F*5@ 6/>tc
+w S*e# highway#service service#driveway
+d "=&OC 7(F(Wo 5"I]0
+d 'T1Q3 7(F(d= 6/?G*
+d 'T1W1 7(F(mb 6/?F6
+w S!0b highway#footway
+d 'QPms 7(F*Ed 6/?#{
+d 'QPmu 7(F+)M 6/?&1
+d 'QPmc 7(F+$D 6/?*M
+d 'QPmx 7(F+f0 6/?,`
+d 'QPm{ 7(F+g( 6/?-l
+d 'QPno 7(F,%/ 6/?.b
+d 'QPm~ 7(F,R! 6/?0+
+w "5[5O highway#footway
+d 'T1RE 6fPwL 6/?Gg
+d 'T1RI 7(F*:U 6/?F:
+d 'T1RK 7(F*B) 6/?E;
+d "=&O2 7(F*Q{ 6/?EH
+w S!0l highway#steps
+d 'QPnl 7(F,+" 6/?-6
+d 'QPno 7(F,%/ 6/?.b
+w S*dR highway#footway
+d 'T1R/ 7(F(;y 6/?QH
+d 'T1P| 7(F(). 6/?OK
+w ^Lcb bicycle#yes highway#footway
+d )@m$] 7(F)QX 6/>uK
+d )@m$[ 7(F)O! 6/>xb
+d )@m%4 7(F)L4 6/>|"
+d )@m%6 7(F)Jh 6/>}d
+w jB?{ highway#footway
+d *i?yU 7(F+ym 6/>e-
+d *i?z0 7(F+rR 6/>h6
+d *i?yh 7(F+,y 6/>f8
+d *i?yD 7(F*|m 6/>et
+d %'~h@ 7(F*tr 5"IVe
+w S!0< highway#footway
+d 'QPid 7(F-6g 6/?#9
+d 'QPjc 7(F-%p 6/?"h
+d 'QPjl 7(F,a& 6/?!e
+d 'QPig 5'zH, 6/?!S
+d 'QPij 7(F,Wb 6/?!B
+d 'QPil 7(F,V' 6/>~M
+d 'QPin 7(F,OR 6/>}]
+d 'QPn+ 6fQ)5 6/>{w
+d 'QPjK 7(F+j9 6/>{_
+d 'QPjV 6fQ&W 6/>{.
+d 'QPj\ 7(F+F^ 6/>zZ
+d 'QPjQ 7(F+9N 6/>z6
+d 'QPj| 6fP{/ 6/>xC
+d 'QPiq 7(F*E+ 6/>wk
+d 'QPk# 7(F*@h 6/>}>
+d 'QPmp 7(F*=g 6/?#e
+d 'QPma 7(F*:_ 6/?(7
+d 'QPiv 7(F*8- 6/?+|
+w S*dS highway#footway
+d 'T1Q- 7(F(Zu 6/?I*
+d "=&OF 7(F(S* 6/?HJ
+w S!0_ highway#footway
+d 'QPma 7(F*:_ 6/?(7
+d 'QPmc 7(F+$D 6/?*M
+d 'QPmm 7(F+!6 6/?,c
+d 'QPn1 7(F*}S 6/?-v
+d 'QPmg 7(F*|h 6/?.L
+w ^Lck highway#footway
+d 'QPk? 7(F)&j 6/?6G
+d )G\+$ 6fPlo 6/?5I
+w Cok; foot#yes highway#footway
+d %'~h9 7(F,Wi 5"IVG
+d %'~h[ 7(F-D> 6/>cH
+w jB?t highway#footway
+d *i?yl 7(F+#w 6/>RL
+d *i?y[ 7(F*`i 5"ITq
+d *i?z# 6fP{Z 6/>Uh
+d *i?z1 7(F*VE 6/>]J
+w S*dU highway#footway
+d 'T1QS 6fPqr 6/?>.
+d 'T1R5 7(F)\* 5"I\3
+d $mQle 7(F)]r 6/?;~
+w S!0e highway#footway
+d 'QPmx 7(F+f0 6/?,`
+d 'QPn& 7(F+fc 6/?*4
+d 'QPn) 7(F+j. 6/?(.
+d 'QPn+ 6fQ)5 6/>{w
+w S!0c highway#path
+d 'QPm~ 7(F,R! 6/?0+
+d %(!-G 7(F,N" 6/?4C
+w "4,:; highway#footway
+d )@m$= 6fPa` 6/>ph
+d .~*m@ 7(F'zw 6/>p4
+d .~*^U 7(F(0R 6/>qU
+d .~*G. 7(F(F6 6/>r3
+d .~*Ml 7(F(qV 6/>sM
+w Sbti highway#service
+d 'c+l6 7(F)/F 6/>n~
+d 'c+l7 7(F)-5 6/>sI
+d 'c+l8 7(F).& 6/>t(
+d )@m$Z 7(F)0Q 6/>tP
+d )@m$] 7(F)QX 6/>uK
+d 'c+l9 7(F)W> 6/>uT
+w "4,;S highway#footway
+d )@m$a 7(F(QS 6/>{8
+d .~*m6 7(F(LA 6/?!s
+d .~*^7 7(F'^k 6/>~#
+d .~*MI 7(F'\u 6/>}:
+d .~*?A 7(F']1 6/>|!
+d .~+#q 7(F'Xd 6/>{3
+d .~*n3 7(F'LV 6/>zw
+d .~*_D 7(F'G> 6/>{Y
+d .~*O: 7(F'FP 6/>|t
+d .~*@. 7(F'Hx 6/>~+
+d .~+%V 6fP]8 6/?!.
+d "=&N$ 7(F'CY 6/?"@
+w "lJA6 highway#footway
+d 'T1R= 6fP|# 5"I^d
+d 'T1R@ 7(F*]7 6/?Q`
+d 'T1RC 7(F*J! 6/?M4
+d 'T1Qo 7(F*3t 6/?Hv
+w ^Lc` bicycle#yes highway#footway
+d )@m$m 7(F(m2 5"IY,
+d )@m$g 7(F(ja 6/>|(
+d )@m$_ 6fPi] 6/>{d
+d )@m$a 7(F(QS 6/>{8
+d )@m$c 7(F(G9 6/>zx
+d )@m$d 7(F(B3 6/>zX
+d )@m$e 7(F(>m 6/>z5
+d )@m$f 6fPe7 6/>y`
+d )@m$A 6fPdY 6/>w:
+d )@m$D 7(F(., 6/>v;
+d .~*zN 7(F(+_ 6/>uq
+d )@m$G 7(F(%* 6/>td
+d )@m$8 7(F'|P 6/>s/
+d )@m$: 7(F'vA 6/>qo
+d )@m$= 6fPa` 6/>ph
+d .~+)4 7(F'qS 6/>ow
+d )@m$? 7(F'hN 6/>lF
+d )@m$& 7(F'd{ 6/>j%
+d )@m$) 7(F'b} 6/>i&
+d )@m$+ 7(F']w 6/>g;
+d .~+'x 7(F']c 6/>fP
+d )@m$. 7(F'\0 6/>`m
+d )@m$0 7(F'[e 6/>_O
+d )@m$2 7(F'Z2 6/>^L
+d )@m$6 7(F'U, 6/>\V
+d )@m#z 7(F'Qn 5"IUf
+d )@m$" 7(F'Qe 6/>W;
+d )@m$% 7(F'T@ 6/>S|
+d )@m#s 6fP_O 6/>Kj
+d .~*@` 7(F'^, 6/>KP
+d .~*k] 7(F'`' 6/>GK
+d .~*S< 7(F'Xs 6/>Ed
+d .~*D8 7(F']| 6/>B&
+d .~++1 7(F'cX 6/>@>
+d .~*w= 7(F'e> 6/>>n
+d .~*f/ 7(F'`^ 6/><:
+d .~*TO 7(F'R. 6/>89
+d .~*ES 6fP\? 6/>6z
+w Sbu@ highway#service layer#-1 service#parking_aisle surface#paved
+d %'~3e 6fPj\ 6/>oD
+d 'c+pc 6fPhT 6/>ne
+d 'c+pe 7(F(]S 6/>iC
+d 4+bxs 7(F(q8 6/>if
+w S!0X highway#service
+d 'QPlY 7(F*HV 6/>r:
+d 'QPl] 7(F*CE 6/>w,
+d 'QPla 6fPxF 6/>w{
+d 'QPlc 7(F)lw 5"IXR
+d 'QPlf 7(F)m4 6/>u!
+w "4,<O highway#footway
+d .~*G. 7(F(F6 6/>r3
+d .~+&> 6fPgY 5"IVv
+d .~*:& 7(F(`X 6/>TC
+d .~*{b 7(F(}j 6/>UP
+w "4,:V highway#footway
+d .~+&> 6fPgY 5"IVv
+d .~*pi 7(F(@{ 6/>eP
+d .~*aQ 7(F(5W 6/>e_
+d .~*Q> 7(F(## 6/>e6
+d .~*A~ 7(F'na 6/>f1
+d .~+'x 7(F']c 6/>fP
+d .~*jm 7(F'Nq 6/>eT
+d .~*Zx 6fP\A 6/>dl
+d .~*Io 7(F&uG 4.K}
+d .~*<2 7(F&gM 6/>d0
+d .~*~O 7(F&]t 6/>bx
+d .~*kI 7(F&U@ 6/>b@
+d .~*[r 7(F&OL 6/>ar
+d .~*Jr 7(F&P' 6/>`|
+d .~*=: 7(F&=/ 6/>_H
+d .~+!a 7(F&2S 6/>^6
+d .~*l= 7(F&.E 5"IV"
+d .~*\w 7(F&-{ 6/>[F
+d .~*L1 7(F%wo 6/>ZP
+d .~*>h 7(F%n1 6/>]R
+d .~+#^ 7(F%d4 6/>^!
+d .~*n+ 7(F%U> 6/>]v
+d 'c+r8 7(F%=: 6/>]i
+w S!0f highway#footway
+d 'QPn/ 6fQ'e 6/?0-
+d 'QPn1 7(F*}S 6/?-v
+w S*e$ highway#service service#parking_aisle
+d 'T1W1 7(F(mb 6/?F6
+d 'T1W: 7(F(vk 6/?@M
+d 'T1W= 7(F)9b 6/?B&
+w S!0d highway#footway
+d 'QPm{ 7(F+g( 6/?-l
+d 'QPn/ 6fQ'e 6/?0-
+d 'QPn$ 7(F+aU 6/?2=
+w S!0r highway#service
+d %(!-C 6fQ!5 6/?.j
+d 'QPo5 7(F*|+ 6/?31
+d 'QPo@ 7(F+$D 6/?6O
+d 'QPoF 6fQ#> 5"I[`
+d 'QPoH 7(F+uv 6/?9`
+w J{]r bicycle#designated foot#designated highway#path segregated#yes
+d 'T1QO 6fPkf 6/?<"
+d *glm: 7(F(+J 6/?;7
+d *glnT 7(F'y~ 6/?:R
+d *gll` 7(F'I5 6/?7,
+d *glmn 7(F&]a 6/?4%
+d *glmS 7(F$|c 6/?-?
+d *glo, 7(F#|$ 6/?*u
+d *glo+ 7(F#Z1 6/?*2
+d *glog 7(F#A( 6/?)\
+d 3`4g! 7(F"|1 5"IZ*
+d *glmX 7(F";H 6/?&7
+d 3`4fs 7(F!w= 5"IYn
+d *glo4 7(F!eJ 5"IYp
+d 3`4fq 7(F!Yk 6/?&)
+d *glm' 7(F!Fw 6/?&!
+d ',fjc 7(F!9B 6/?%{
+d 3`4fb 7(F!/o 6/?%p
+d &6kyR 7(E~b# 5"IYR
+d &6kyS 7(E}zB 6/?";
+d &6kyT 7(E}$x 6/?$9
+d 3`4fA 7(E|q? 6/?$Q
+d 3`4f? 7(E|d4 6/?$c
+d 3`4f9 7(E|=v 6/?%-
+d /{s(G 7(E{zZ 6/?&f
+d &6kyU 7(E{W+ 6/?'G
+d 2<\N] 6fO]? 6/?'<
+d 2<\NX 7(Eyv? 6/?(y
+d &6kyV 7(Ey8c 6/?+A
+d *#@uc 7(Exz/ 6/?-(
+d &6kyW 6fOAY 6/?1a
+d 0eJGl 7(Ex4F 6/?3b
+d &6kyX 7(Ew5v 6/?;%
+d &6kyY 7(EveW 6/?>b
+d &6kyZ 7(Eu*0 6/?DR
+d &6ky[ 7(Esjn 6/?H|
+d )vqFe 7(ErXb 6/?H,
+d &6ky\ 7(ErT~ 6/?H&
+d 0eJGk 7(EqmG 6/?Ft
+d &6ky] 7(EqAu 6/?F"
+d 0eJGj 7(Eq<T 6/?F\
+d %H<9W 7(Eq1" 6/?G~
+w S!0F highway#footway
+d 'QPj\ 7(F+F^ 6/>zZ
+d 'QPj_ 7(F+Gv 6/>y;
+w S!0s highway#service layer#-1 service#parking_aisle tunnel#yes
+d 'QPo5 7(F*|+ 6/?31
+d 'QPo9 7(F+&: 6/?3O
+d 'QPo; 6fQ*N 6/?5_
+w ^Lcj bicycle#yes foot#yes highway#path
+d )@m%O 7(F),l 6/?(B
+d )@m%Q 7(F)/_ 6/?'1
+d )@m%e 7(F)?G 6/?$y
+w Sbu: highway#service service#parking_aisle
+d 'c+p) 7(F*~4 5"IX-
+d 'c+p, 6fQ(7 6/>sE
+d 'c+p. 7(F,]] 6/>uv
+d 'c+p0 6fQ6D 6/>we
+w S!0E highway#footway
+d 'QPjV 6fQ&W 6/>{.
+d 'QPjZ 7(F+Yl 6/>yb
+w S*de highway#footway
+d 'T1SG 7(F+Ag 6/?QL
+d 'T1S4 7(F+4K 6/?M}
+w jB?x highway#footway
+d *i?yD 7(F*|m 6/>et
+d *i?z4 7(F*zw 6/>i>
+d *i?z( 7(F+G+ 6/>jV
+w ShX& highway#footway
+d 'T1S= 7(F*i0 6/?Mp
+d 'T1R@ 7(F*]7 6/?Q`
+w jB?u highway#footway
+d *i?yA 7(F)<$ 6/>]"
+d *i?yk 7(F)CA 6/>UM
+d *i?y{ 7(F)I] 5"ITY
+d *i?yW 7(F*&+ 6/>PZ
+w jB@( highway#footway
+d 'c+p< 7(F)&P 6/>\E
+d *i?yA 7(F)<$ 6/>]"
+d *i?ym 7(F)T| 6/>]f
+d *i?yi 7(F*:/ 6/>_`
+d *i?z5 7(F*<` 6/>\]
+d *i?y8 7(F*>Y 6/>Z@
+d *i?z' 7(F*?k 6/>Xt
+d *i?yG 7(F*GE 6/>Og
+d *i?z! 7(F+$m 6/>Q8
+w jB?| highway#steps
+d *i?yj 7(F,%$ 6/>e-
+d *i?yU 7(F+ym 6/>e-
+w jB?~ highway#footway
+d *i?yg 7(F-08 6/>h#
+d *i?yH 7(F,l] 6/>fl
+d *i?yd 7(F,R7 6/>et
+d %'~h9 7(F,Wi 5"IVG
+w jB@& highway#footway
+d *i?yd 7(F,R7 6/>et
+d *i?yt 7(F,JB 6/>mV
+d *i?yQ 7(F,.8 6/>lf
+d *i?y~ 7(F,4] 6/>eY
+d *i?yd 7(F,R7 6/>et

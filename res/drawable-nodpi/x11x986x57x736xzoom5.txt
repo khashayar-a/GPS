@@ -1,0 +1,44 @@
+n 3EZ}P 7(F2%r 6/Imp railway#switch
+n 3E[!> 7(FCg4 6/JVp railway#switch
+n %i_xm 7(F/}D 6/I7o traffic_calming#hump
+n %i_w= 7(F.:4 6/IJt traffic_calming#hump
+n $gY*8 7(FB7l 6/J-% highway#motorway_junction name#Bäckebolsmotet ref#79
+n &NxnH 7(F&?, 6/I3P highway#motorway_junction name#Tingstadsmotet ref#77
+n %i_w# 7(F3d* 6/ITV traffic_calming#hump
+n %i_wK 7(F*B5 6/I<a traffic_calming#hump
+n 3EZ}J 7(F/[* 6/IjO railway#switch
+n 3EZ|[ 6fQpW 6/JIt railway#switch
+n %i_y! 7(F/d, 5"J]d traffic_calming#chicane
+n 3EZ~m 7(F/2Y 6/J=o railway#switch
+n #2|aU 7(F62, 6/Iq# highway#motorway_junction name#Backadalsmotet ref#78
+n *""Xn 7(F%Z` 6/I-N highway#motorway_junction name#Ringömotet ref#76
+n &#`~R 7(F%I_ 6/I_V railway#crossing
+n 3EZ{q 7(F..) 6/Ib8 railway#switch
+n 3EZ~& 7(F(Z0 6/J"- railway#switch
+n 3E["K 7(F0K9 6/Ij4 railway#switch
+n 3EZ|f 6fQCd 6/Idk railway#switch
+n 3E[!@ 7(FGw? 6/Jav railway#switch
+n 3E[!O 7(F2#% 6/JFT railway#switch
+n 3E["& 7(FC)m 6/JW~ railway#switch
+n 3EZ|C 7(F1{s 6/JEZ railway#switch
+n 3E[!0 7(FEML 6/JUT railway#switch
+n 3E[!$ 7(F,ov 6/IZo railway#switch
+n %i_xj 7(F02E 5"JZ: traffic_calming#hump
+n $heTF 7(F*:_ 6/IEk highway#motorway_junction name#Tingstadsmotet ref#77
+n %hT_R 7(F8c& 6/Ilp traffic_calming#hump
+n (/",v 7(F*/d 6/IMd railway#switch
+n %hT_0 7(F2UH 6/I\I traffic_calming#hump
+n 3EZ}m 7(F4zE 6/JN% railway#switch
+n 3E[!S 7(F.`E 6/Ic3 railway#switch
+n %i_v{ 7(F5,9 6/I\q traffic_calming#hump
+n 3E[!' 7(F.>> 6/Ibs railway#switch
+n 3E["" 7(F/bP 6/J@. railway#switch
+n "`;~q 7(F'AN 6/H|Q traffic_calming#hump
+n 3E[!8 7(FGY! 6/J`2 railway#switch
+n 1|r 7(F=\a 6/J)# highway#motorway_junction name#Backadalsmotet ref#78
+n %i_vt 7(F7"[ 6/Ig( traffic_calming#hump
+n 3E["( 7(F,G* 6/IYC railway#switch
+n 3E[!x 7(F?L% 5"Jht railway#switch
+n %i_w8 7(F/_v 6/IOT traffic_calming#hump
+n $gY(6 7(FIKI 6/J6e highway#motorway_junction name#Bäckebolsmotet ref#79
+n &f1g* 7(Fj$F 6/K75 highway#motorway_junction name#Kärramotet ref#81

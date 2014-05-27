@@ -1,0 +1,24 @@
+w F9lb amenity#ferry_terminal area#yes bicycle#yes foot#yes public_transport#platform
+d %G>WV 7(Eek> 6/Bud
+d %G>X7 7(EekD 6/Bu"
+d %G>X8 7(EegK 6/Bt~
+d 4e`IE 7(Ee]4 6/BtT
+d 4e`IG 7(Eecy 6/BtQ
+d %G>X9 7(Eec~ 6/Brt
+d %G>X: 7(EeXq 6/Brp
+d %Fz{1 7(EeW' 6/Bs/
+d 4e`I= 7(EeU] 6/BsS
+d 4e`I? 7(EeUn 6/BtN
+d 4e`ID 7(EeY5 6/BtN
+d %G>X; 7(EeYD 6/Btx
+d 4e`IJ 7(Eefr 6/BuZ
+d 4e`IQ 7(Eei" 6/Bu_
+d %G>WV 7(Eek> 6/Bud
+n /]\N* 7(EbkU 6/Bb$ seamark:buoy_lateral:category#starboard seamark:buoy_lateral:colour#green seamark:buoy_lateral:shape#spar seamark:light:character#Fl seamark:light:colour#green seamark:light:period#5 seamark:type#buoy_lateral
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n j&b] 7(Ek8c 6/C'F highway#traffic_signals
+n /]\M~ 7(Ed?r 6/C-% seamark:buoy_lateral:category#port seamark:buoy_lateral:colour#red seamark:buoy_lateral:shape#spar seamark:light:character#Fl seamark:light:colour#red seamark:light:period#3 seamark:type#buoy_lateral
+n 5!(#@ 7(EeRF 6/BJ& name#Sörhallsberget natural#peak

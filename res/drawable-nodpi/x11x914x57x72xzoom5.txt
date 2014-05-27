@@ -1,0 +1,45 @@
+n @@:u 7(Ew%h 6/Ayz highway#crossing
+n $_pgn 7(Ex,. 6/A&= highway#mini_roundabout
+n $kUZ- 7(EvY. 6/A|D highway#crossing
+n $o.AX 7(E{l7 6/A;O highway#turning_circle
+n $p}}D 7(F$-! 6/Ao3 highway#crossing
+n $p~us 7(E}^\ 6/AZ* highway#crossing
+n $q!1w 7(Ey![ 6/Ae< highway#crossing
+n %#IOH 7(E|;f 6/A>3 highway#turning_circle
+n %#IRd 7(E|_m 6/AB$ highway#turning_circle
+n %#I[L 7(E|kQ 6/AW5 barrier#block foot#yes
+n %#I]F 7(E|g- 6/AVW amenity#recycling
+n %:_yy 7(E}.- 6/AW+ barrier#block
+n &^;IB 7(EyWP 6/A]~ amenity#fast_food cuisine#pizza name#toredals_pizzeria
+n &^;M9 7(Ey)K 6/Ac- amenity#post_box
+n /f_x@ 6fOgC 6/AAB addr:housenumber#16 addr:street#Laholmsgatan
+n /f_~l 7(E{hf 6/ACL addr:housenumber#12 addr:street#Skänningegatan
+n /f`)6 7(E{l* 6/AEL addr:housenumber#2 addr:street#Laholmsgatan
+n /f`<z 7(E|+j 6/ACd addr:housenumber#8 addr:street#Laholmsgatan
+n /f`>W 7(E|"w 6/AIG addr:housenumber#14 addr:street#Skänningegatan
+n /f`By 7(E|$8 6/AG% addr:housenumber#1 addr:street#Laholmsgatan
+n /f`Qn 7(E|2d 6/AC6 addr:housenumber#10 addr:street#Laholmsgatan
+n /~|7= 7(Exo$ 6/Ab| addr:housenumber#18 addr:street#Toredalsgatan
+n /~|8e 7(Ey(I 6/AYk addr:housenumber#8 addr:street#Stenbergsgatan
+n /~|99 7(EzVR 6/AV0 addr:housenumber#1 addr:street#Kärrsmossegatan
+n /~|9O 7(Ex}Y 5"Iq\ addr:housenumber#9 addr:street#Halmstadgatan
+n /~|9f 6fOV! 6/AXO addr:housenumber#32 addr:street#Toredalsgatan
+n /~|9r 7(Exy. 6/Aa3 addr:housenumber#2 addr:street#Stenbergsgatan
+n /~|:M 7(E|Gr 5"IqI addr:housenumber#23 addr:street#Skänningegatan
+n /~|:{ 7(E|G{ 6/AVn addr:housenumber#48 addr:street#Toredalsgatan
+n 0@+yf 7(EyCi 6/A]f addr:housenumber#20 addr:street#Toredalsgatan
+n 0@+y{ 7(EyHR 6/AW$ addr:housenumber#5 addr:street#Stenbergsgatan
+n 0@+y~ 7(EzD, 6/AIJ addr:housenumber#19B addr:street#Halmstadgatan
+n 0@+z* 7(EyS( 6/AUo addr:housenumber#11 addr:street#Halmstadgatan
+n 0@+z: 7(Ez;\ 6/AY$ addr:housenumber#2 addr:street#Kärrsmossegatan
+n 0@+{H 7(EzK6 6/AK@ addr:housenumber#12 addr:street#Kärrsmossegatan
+n 0@+{_ 7(Ez5a 6/A[M addr:housenumber#30 addr:street#Toredalsgatan
+n 0@+{w 7(Ey8( 6/A\- addr:housenumber#1 addr:street#Stenbergsgatan
+n 0JWA| 7(EzMV 5"Io] addr:housenumber#14 addr:street#Kärrsmossegatan
+n 0JWEE 7(EzKS 6/AA@ addr:housenumber#53 addr:street#Marstrandsgatan
+n 0XLaY 6fOKW 6/A^0 name#Eklöf's_Fastighetsbyrå shop#estate_agent
+n 0iBYA 7(E|E? 6/AA} addr:housenumber#14 addr:street#Laholmsgatan
+n 0iBYY 7(E|<" 6/ABY addr:housenumber#12 addr:street#Laholmsgatan
+n 0iBYq 7(E|!t 6/AD= addr:housenumber#6 addr:street#Laholmsgatan
+n 0iBZ6 7(E{u~ 6/ADt addr:housenumber#4 addr:street#Laholmsgatan
+n 0jwyr 7(EzA* 5"Ir. amenity#post_box

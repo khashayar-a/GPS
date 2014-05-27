@@ -1,0 +1,6 @@
+n 4g*`R 7(EW+~ 6/Lc3 fixme#continue noexit#no
+n %uTn} 7(EX)) 6/M0< amenity#toilets
+n "1^[Y 7(E[k` 6/L/t bench#yes highway#bus_stop name#Skårsplatsen shelter#yes
+n 1Ham: 7(EUOt 6/LP, fixme#continue
+n 1Halz 7(EUVL 6/LRk amenity#waste_basket
+n 4g*`\ 7(EX/~ 5"JxP barrier#cycle_barrier bicycle#no foot#yes horse#no motorcycle#no

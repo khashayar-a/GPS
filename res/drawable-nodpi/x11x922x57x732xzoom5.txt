@@ -1,0 +1,15 @@
+n ,mY"# 7(F(Rq 6/BXg addr:city#Göteborg addr:housenumber#2C addr:postcode#41727 addr:street#Bufjällsleden
+n ,mY"% 7(F(D6 6/Bb+ addr:city#Göteborg addr:housenumber#1 addr:postcode#41727 addr:street#Bufjällsleden
+n %}uhl 7(F(c7 5"J'% highway#turning_circle
+n ,mY"! 7(F(I* 6/BS0 addr:city#Göteborg addr:housenumber#2A addr:postcode#41727 addr:street#Bufjällsleden
+n ,mY"$ 6fPh] 6/B[D addr:city#Göteborg addr:housenumber#2D addr:postcode#41727 addr:street#Bufjällsleden
+n 0"W.Y 7(F(_4 6/B|" amenity#kindergarten
+n ,mW($ 7(F(9u 6/B\b addr:city#Göteborg addr:housenumber#1B addr:postcode#41727 addr:street#Bufjällsleden
+n $gXsN 7(F'|& 6/Bk} barrier#gate
+n .<m[` 7(F'to 6/B/a highway#crossing
+n ,mY!~ 7(F(_^ 6/B]t addr:city#Göteborg addr:housenumber#2 addr:postcode#41727 addr:street#Bufjällsleden
+n $Q4N[ 7(F+2T 6/BK_ name#Norra_Toppen tourism#viewpoint
+n &^;oj 7(F)vE 6/C'k amenity#cafe name#slätta_damm_cafe
+n ,Q3bS 7(F*,[ 6/CE* name#Södra_toppen tourism#viewpoint
+n ,mY"" 7(F(NX 6/BV" addr:city#Göteborg addr:housenumber#2B addr:postcode#41727 addr:street#Bufjällsleden
+n ,mW(% 6fPej 6/B__ addr:city#Göteborg addr:housenumber#1C addr:postcode#41727 addr:street#Bufjällsleden

@@ -1,0 +1,535 @@
+w "irug building#yes
+d 4LkD) 7(ERF! 6/C<C
+d 4LkC} 7(ERD9 6/C=O
+d 4LkC@ 7(ER>} 6/C=5
+d 4LkCP 7(ER@e 6/C<(
+d 4LkD) 7(ERF! 6/C<C
+w "irwd building#yes
+d 4LkT2 7(ESRM 6/C9Z
+d 4LkT. 7(ESRD 6/C:X
+d 4LkSi 7(ESL` 6/C:V
+d 4LkSk 6fK]j 6/C9X
+d 4LkT2 7(ESRM 6/C9Z
+w "irw( building#yes
+d 4LkJ4 7(ERq- 6/C;f
+d 4LkK- 7(ERuf 6/C<@
+d 4LkJv 7(ERs$ 6/C=&
+d 4LkI` 7(ERnJ 5"J#g
+d 4LkJ4 7(ERq- 6/C;f
+w "irw0 building#yes
+d 4LkHn 7(ERex 6/C/s
+d 4LkI$ 7(ERg, 6/C0v
+d 4LkHJ 7(ERb" 6/C1,
+d 4LkH1 7(ER`n 6/C0)
+d 4LkHn 7(ERex 6/C/s
+w "irwN building#yes
+d 4Lk=H 7(EQ|+ 6/C0@
+d 4Lk>, 7(ER!| 6/C0}
+d 4Lk<w 7(EQ{{ 5"J"a
+d 4Lk<Z 7(EQx* 6/C1/
+d 4Lk=H 7(EQ|+ 6/C0@
+w "irx5 building#yes
+d 4LkBs 7(ER:& 6/C<>
+d 4LkBl 7(ER9P 6/C=5
+d 4LkA= 7(ER3m 6/C=*
+d 4LkAG 7(ER4B 6/C<2
+d 4LkBs 7(ER:& 6/C<>
+w "S2p_ building#yes
+d 25mx* 7(ES[k 6/C>Y
+d 25mwp 6fK_\ 6/C?#
+d 25mwv 7(ES[Y 6/C@(
+d 25mwa 7(ESX+ 6/C?_
+d 25mx* 7(ES[k 6/C>Y
+w "irwK building#yes
+d 4LkK+ 6fKXJ 6/C=Z
+d 4LkL+ 7(ERy{ 6/C>4
+d 4LkKK 7(ERvZ 5"J$"
+d 4LkJb 7(ERr" 6/C>P
+d 4LkK+ 6fKXJ 6/C=Z
+w "irwH building#yes
+d 4Lk6R 7(EQRQ 6/C/\
+d 4Lk6: 6fKKG 6/C0Z
+d 4Lk5H 7(EQLL 6/C0D
+d 4Lk5` 7(EQMy 6/C/F
+d 4Lk6R 7(EQRQ 6/C/\
+w "irv' building#yes
+d 4LkI, 7(ERh` 6/C:E
+d 4LkI\ 7(ERn* 5"J#Z
+d 4LkIR 7(ERj~ 6/C;y
+d 4LkHl 7(EReV 6/C;:
+d 4LkI, 7(ERh` 6/C:E
+w "irwU building#yes
+d 4Lk5X 7(EQMU 6/C0|
+d 4Lk5= 7(EQL: 4.P0
+d 4Lk4[ 7(EQG& 6/C1l
+d 4Lk4n 7(EQHA 5"J"W
+d 4Lk5X 7(EQMU 6/C0|
+w "irwB building#yes
+d 4LkJ] 7(ERq6 6/C>0
+d 4LkIY 7(ERmn 5"J$"
+d 4LkI7 7(ERjR 5"J#|
+d 4LkIZ 7(ERmx 6/C=g
+d 4LkJ] 7(ERq6 6/C>0
+w "irxH building#yes
+d 4LkSJ 7(ESHK 6/C0a
+d 4LkS[ 7(ESIn 6/C1e
+d 4LkRw 7(ESDf 6/C1{
+d 4LkRm 7(ESCB 6/C0w
+d 4LkSJ 7(ESHK 6/C0a
+w "iry) building#yes
+d 4Lk0K 7(EPjx 6/C2>
+d 4Lk0m 7(EPmP 6/C39
+d 4Lk0G 6fKDI 6/C3_
+d 4Lk0C 7(EPfa 6/C2d
+d 4Lk0K 7(EPjx 6/C2>
+w a-f* addr:housenumber#87 addr:street#Slottsskogsgatan building#yes
+d )\QFD 7(EOtf 6/C25
+d )\QG; 7(EOlb 6/C3B
+d )\QG5 6fK;{ 6/C4l
+d )\QGs 7(EOzZ 6/C3_
+d )\QFD 7(EOtf 6/C25
+w \X?R building#yes
+d )&)4u 7(EPsK 6/CuY
+d )&)4v 7(EPll 6/Cti
+d )&)4w 7(EPm- 6/Cs5
+d )&)4x 7(EPtB 6/CrR
+d )&)4y 7(EP{F 6/CsF
+d )&)4z 7(EPzn 6/Ctu
+d )&)4u 7(EPsK 6/CuY
+w "irxF building#yes
+d 4LkM6 7(ES!@ 6/C2I
+d 4LkMV 7(ES"R 5"J"p
+d 4LkL< 7(ER{9 6/C3\
+d 4LkL. 7(ERz' 6/C2^
+d 4LkM6 7(ES!@ 6/C2I
+w "irwc building#yes
+d 4Lk9n 7(EQh8 6/C4r
+d 4Lk9^ 7(EQgB 6/C5^
+d 4Lk8l 7(EQaf 5"J#%
+d 4Lk9! 7(EQb\ 6/C4]
+d 4Lk9n 7(EQh8 6/C4r
+w a-f- addr:housenumber#85 addr:street#Slottsskogsgatan building#yes
+d )\QGE 7(EP%P 6/C01
+d )\QGD 7(EO{K 6/C1D
+d )\QGu 6fK=K 6/C2k
+d )\QGX 7(EP+R 6/C1X
+d )\QGE 7(EP%P 6/C01
+w wg>& building#yes
+d +|@c8 7(EUmN 6/C<Q
+d +|@bu 7(EV,@ 6/CDZ
+d +|@cQ 7(EV68 6/CCA
+d +|@bx 5'ytW 6/C:t
+d +|@bK 7(EUxd 6/C:7
+d +|@c. 7(EUKU 6/C4g
+d +|@cG 7(EULv 6/C4!
+d +|@bl 7(ETz% 4.P0
+d 4M:8d 7(ETyK 6/C1=
+d 4M:8b 7(ETw[ 5"J"[
+d +|@br 7(ETwU 6/C0,
+d +|@cU 7(ETD@ 6/C0_
+d +|@bR 6fKfB 6/C2q
+d +|@bO 7(ETuL 6/C2J
+d 4M:8` 7(ETwF 6/C2V
+d +|@bn 7(ETv6 6/C37
+d +|@bU 7(EUD. 6/C5w
+d 4M:8z 7(EUH= 6/C6G
+d +|@bf 7(EUFX 5"J#3
+d +|@c; 7(EUmI 4.P:
+d 4M:9! 5'ytQ 5"J#e
+d +|@c8 7(EUmN 6/C<Q
+w aiyY building#yes
+d )bbAj 7(EPM6 6/Cw`
+d )bbA~ 7(EPAP 6/CwS
+d )bbB% 7(EP@S 6/CzP
+d )bbB2 7(EPL9 6/Cz]
+d )bbAj 7(EPM6 6/Cw`
+w "iry! building#yes
+d 4LkQG 7(ES7q 6/C7.
+d 4LkQ+ 6fK[^ 6/C80
+d 4LkPB 7(ES1~ 5"J#>
+d 4LkPH 7(ES2B 6/C7(
+d 4LkQG 7(ES7q 6/C7.
+w "irvZ building#yes
+d 4LkNR 7(ES)& 6/C6(
+d 4LkO; 7(ES-M 6/C6\
+d 4LkNq 7(ES*] 6/C7H
+d 4LkN" 7(ES&6 6/C6s
+d 4LkNR 7(ES)& 6/C6(
+w "irx# building#yes
+d 4Lk5j 7(EQNX 6/C;r
+d 4Lk4r 7(EQH} 6/C;e
+d 4Lk4w 7(EQId 6/C:_
+d 4Lk5t 7(EQO@ 6/C:l
+d 4Lk5j 7(EQNX 6/C;r
+w "irvz building#yes
+d 4Lk=K 7(EQ|^ 6/C;{
+d 4Lk=F 7(EQ|' 6/C<v
+d 4Lk;~ 7(EQvT 6/C<k
+d 4Lk<' 7(EQw. 6/C;p
+d 4Lk=K 7(EQ|^ 6/C;{
+w "irxG building#yes
+d 4Lk8y 7(EQbS 5"J#Z
+d 4Lk8G 7(EQad 5"J#f
+d 4Lk84 7(EQ\A 6/C<6
+d 4Lk8; 6fKL[ 6/C:z
+d 4Lk8y 7(EQbS 5"J#Z
+w "irx[ building#yes
+d 4LkG~ 7(ER_W 6/C84
+d 4LkFk 7(ERYa 6/C7Q
+d 4LkG= 7(ER\S 6/C6_
+d 4LkHM 7(ERbH 6/C7B
+d 4LkG~ 7(ER_W 6/C84
+w "iruf building#yes
+d 4LkR~ 6fK]* 6/C._
+d 4LkS. 5'yr6 6/C/g
+d 4LkRF 6fK\k 6/C/z
+d 4LkR7 6fK\^ 6/C.r
+d 4LkR~ 6fK]* 6/C._
+w "iry, building#yes
+d 4LkT$ 7(ESO0 6/C7%
+d 4LkT) 7(ESPK 6/C8(
+d 4LkSa 7(ESJc 6/C8?
+d 4LkSW 7(ESIH 6/C7<
+d 4LkT$ 7(ESO0 6/C7%
+w aizy building#yes
+d )bb^N 7(EPtU 6/Cz"
+d )bb^D 7(EPp< 6/C{j
+d )bb^b 7(EPs$ 6/C|,
+d )bb^T 7(EPwZ 6/Cz7
+d )bb^N 7(EPtU 6/Cz"
+w "irvC building#yes
+d 4LkNL 7(ES(^ 6/C?>
+d 4LkO2 7(ES,k 6/C?w
+d 4LkNt 7(ES*h 6/C@F
+d 4LkN> 7(ES&\ 6/C?l
+d 4LkNL 7(ES(^ 6/C?>
+w "irxe building#yes
+d 4Lk1E 7(EPv& 6/C62
+d 4Lk1M 7(EPxK 6/C7*
+d 4Lk18 7(EPt0 6/C7O
+d 4Lk12 6fKE; 6/C6W
+d 4Lk1E 7(EPv& 6/C62
+w "irxb building#yes
+d 4Lk32 7(EQ5] 6/C2|
+d 4Lk3X 7(EQ8$ 6/C3t
+d 4Lk3& 7(EQ3A 6/C4>
+d 4Lk2h 7(EQ0z 6/C3F
+d 4Lk32 7(EQ5] 6/C2|
+w a-f9 addr:housenumber#92 addr:street#Slottsskogsgatan building#yes
+d )\QFg 7(EPZS 6/C8w
+d )\QGU 7(EP$v 6/C8J
+d )\QG$ 7(EP$; 6/C:x
+d )\QGI 7(EPYv 6/C;F
+d )\QFg 7(EPZS 6/C8w
+w "irw% building#yes
+d 4LkPw 7(ES5* 6/C3{
+d 4LkQ% 7(ES6V 6/C4|
+d 4LkO| 7(ES1* 6/C59
+d 4LkOl 7(ES/\ 6/C47
+d 4LkPw 7(ES5* 6/C3{
+w "irwu building#yes
+d 4Lk;K 7(EQrB 6/C8&
+d 4Lk:c 7(EQlV 6/C7w
+d 4Lk:g 7(EQm2 6/C6~
+d 4Lk;k 6fKNl 5"J#5
+d 4Lk;K 7(EQrB 6/C8&
+w "irxd building#yes
+d 4Lk07 7(EPbp 6/C.i
+d 4Lk0@ 7(EPfT 6/C/S
+d 4Lk0; 7(EPc? 6/C0(
+d 4Lk02 7(EP_[ 6/C/?
+d 4Lk07 7(EPbp 6/C.i
+w "irxk building#yes
+d 4LkS^ 7(ESJU 6/C2g
+d 4LkSe 7(ESL$ 6/C3k
+d 4LkS% 7(ESG& 6/C4$
+d 4LkRx 7(ESEW 6/C2~
+d 4LkS^ 7(ESJU 6/C2g
+w "irwa building#yes
+d 4LkSh 7(ESLF 5"J#e
+d 4LkSR 6fK]J 6/C=,
+d 4LkRt 7(ESD1 6/C<N
+d 4LkS* 7(ESG4 6/C;Z
+d 4LkSh 7(ESLF 5"J#e
+w "iryR building#yes
+d 4Lk7' 7(EQW% 6/C6=
+d 4Lk86 7(EQ\W 6/C6R
+d 4Lk7c 7(EQ[< 6/C7[
+d 4Lk6z 7(EQUh 6/C7F
+d 4Lk7' 7(EQW% 6/C6=
+w "iry" building#yes
+d 4Lk:Z 7(EQkL 6/C01
+d 4Lk;D 7(EQpV 6/C0s
+d 4Lk:e 7(EQl} 6/C1k
+d 4Lk9d 7(EQgs 6/C1)
+d 4Lk:Z 7(EQkL 6/C01
+w "irwx building#yes
+d 4LkPE 7(ES20 6/C1X
+d 4LkPT 7(ES3\ 6/C2]
+d 4LkOa 7(ES.{ 6/C2r
+d 4LkOW 7(ES-N 5"J"a
+d 4LkPE 7(ES20 6/C1X
+w "iqf} addr:housenumber#94 addr:street#Slottsskogsgatan building#yes
+d 4L`aE 7(EOt` 6/C;t
+d 4L`aC 7(EOtD 6/C=k
+d 4L`aG 7(EP$s 6/C=r
+d 4L`aS 7(EP%# 6/C<y
+d 4L`aU 7(EP,q 5"J#l
+d 4L`aW 7(EP-! 6/C<"
+d 4L`aE 7(EOt` 6/C;t
+w a-f1 addr:housenumber#83 addr:street#Slottsskogsgatan building#yes
+d )\QG. 6fK?3 6/C-w
+d )\QGY 7(EP,m 6/C/,
+d )\QGZ 6fK>} 5"J"U
+d )\QGS 7(EP:u 6/C/?
+d )\QG. 6fK?3 6/C-w
+w "irvB building#yes
+d 4LkR; 7(ESBO 6/C?;
+d 4LkR2 7(ES?e 6/C@)
+d 4LkQ^ 7(ES:v 6/C?Q
+d 4LkR' 6fK\: 6/C>c
+d 4LkR; 7(ESBO 6/C?;
+w "S2]g building#yes
+d 25ji? 7(EPvJ 6/Cm:
+d 25ji6 7(EP{u 6/CnI
+d 25ji[ 7(EPtc 6/CoZ
+d 25jiP 7(EPo9 5"J(g
+d 25ji? 7(EPvJ 6/Cm:
+w "irx- building#yes
+d 4LkF9 7(ERV^ 6/C9V
+d 4LkEM 7(ERPr 6/C9B
+d 4LkEW 7(ERQt 6/C8B
+d 4LkF> 5'yqK 6/C8U
+d 4LkF9 7(ERV^ 6/C9V
+w "irx! building#yes
+d 4Lk>3 7(ER"I 6/C4+
+d 4Lk>. 7(ER!| 6/C4j
+d 4Lk<b 7(EQz2 6/C4]
+d 4Lk<j 7(EQz\ 6/C3|
+d 4Lk>3 7(ER"I 6/C4+
+w "irvx building#yes
+d 4Lk@o 7(ER1P 6/C5%
+d 4Lk@a 7(ER0D 6/C5}
+d 4Lk?A 7(ER)q 6/C5c
+d 4Lk?q 7(ER*} 6/C4i
+d 4Lk@o 7(ER1P 6/C5%
+w "irw] building#yes
+d 4Lk3T 7(EQ7P 6/C;I
+d 4Lk2q 6fKH7 6/C;>
+d 4Lk2s 7(EQ1q 6/C:G
+d 4Lk3V 7(EQ8" 6/C:R
+d 4Lk3T 7(EQ7P 6/C;I
+w "irv7 building#yes
+d 4Lk3\ 6fKI1 6/C4m
+d 4Lk4$ 7(EQ=* 6/C5a
+d 4Lk3Z 7(EQ8+ 6/C60
+d 4Lk36 7(EQ5e 6/C5<
+d 4Lk3\ 6fKI1 6/C4m
+w "irw; building#yes
+d 4Lk?h 7(ER){ 6/C;s
+d 4Lk?< 7(ER)% 6/C=%
+d 4Lk>5 7(ER#4 6/C<t
+d 4Lk>= 7(ER$, 6/C;d
+d 4Lk?h 7(ER){ 6/C;s
+w "irx? building#yes
+d 4Lk=N 7(EQ}_ 6/C8<
+d 4Lk</ 6fKO< 6/C8/
+d 4Lk<] 7(EQxO 5"J#6
+d 4Lk=Q 7(EQ~< 6/C7D
+d 4Lk=N 7(EQ}_ 6/C8<
+w "irx> building#yes
+d 4LkMf 7(ES#K 6/C4<
+d 4LkMv 7(ES$f 6/C5<
+d 4LkLv 7(ER}( 6/C5T
+d 4LkLD 7(ER{k 6/C4T
+d 4LkMf 7(ES#K 6/C4<
+w "irvb building#yes
+d 4Lk0w 7(EPpe 5"J"x
+d 4Lk15 7(EPs4 6/C5.
+d 4Lk0q 7(EPnj 6/C5W
+d 4Lk0d 7(EPl= 6/C4b
+d 4Lk0w 7(EPpe 5"J"x
+w "iry$ building#yes
+d 4Lk2@ 7(EQ,* 6/C;9
+d 4Lk1~ 7(EQ&i 5"J#[
+d 4Lk2* 7(EQ'3 6/C:8
+d 4Lk2E 7(EQ,S 6/C:@
+d 4Lk2@ 7(EQ,* 6/C;9
+w "iry4 building#yes
+d 4LkB} 7(ER:c 6/C6,
+d 4LkA\ 7(ER5) 6/C5~
+d 4LkA` 7(ER5m 6/C4|
+d 4LkC& 7(ER;H 5"J#"
+d 4LkB} 7(ER:c 6/C6,
+w "irxj building#yes
+d 4LkSz 6fK]p 6/C4m
+d 4LkS~ 5'yr= 6/C5v
+d 4LkSO 7(ESHz 6/C60
+d 4LkS1 7(ESGW 6/C5'
+d 4LkSz 6fK]p 6/C4m
+w "irv0 building#yes
+d 4LkGh 7(ER^M 6/C<C
+d 4LkGD 7(ER]C 6/C=L
+d 4LkF< 7(ERW? 6/C=8
+d 4LkFd 6fKUT 6/C</
+d 4LkGh 7(ER^M 6/C<C
+w "irw7 building#yes
+d 4LkB? 7(ER8- 6/C9!
+d 4Lk@s 7(ER1{ 6/C8s
+d 4LkA7 7(ER2[ 6/C7d
+d 4LkBC 7(ER8j 6/C7o
+d 4LkB? 7(ER8- 6/C9!
+w "irus building#yes
+d 4LkO& 7(ES+{ 6/C<8
+d 4LkOp 6fKZs 6/C<z
+d 4LkN} 7(ES+P 6/C=g
+d 4LkNH 7(ES'e 6/C=$
+d 4LkO& 7(ES+{ 6/C<8
+w "irw9 building#yes
+d 4LkDX 7(ERH- 6/C8V
+d 4LkDH 7(ERGF 6/C9N
+d 4LkCT 6fKS< 6/C9?
+d 4LkCt 7(ERBZ 6/C8H
+d 4LkDX 7(ERH- 6/C8V
+w "irx% building#yes
+d 4Lk4D 7(EQBv 6/C;[
+d 4Lk4( 7(EQ=N 6/C;P
+d 4Lk4- 7(EQ>/ 6/C:K
+d 4Lk4N 7(EQCW 6/C:V
+d 4Lk4D 7(EQBv 6/C;[
+w a-fH addr:housenumber#90 addr:street#Slottsskogsgatan building#yes
+d )\QF[ 6fKB= 6/C3a
+d )\QF! 7(EPjf 6/C;U
+d )\QF7 6fKEm 6/C:=
+d )\QF= 7(EP`A 6/C2I
+d )\QF[ 6fKB= 6/C3a
+w "irv% building#yes
+d 4LkE{ 7(ERSm 6/C/^
+d 4LkF* 7(ERU" 6/C0d
+d 4LkE6 6fKTa 6/C0x
+d 4LkE/ 7(ERNZ 6/C/q
+d 4LkE{ 7(ERSm 6/C/^
+w "irwy building#yes
+d 4LkLO 7(ER|N 6/C0@
+d 4LkM# 7(ER}` 6/C1F
+d 4LkKc 7(ERxV 5"J"_
+d 4LkKX 7(ERwC 5"J"U
+d 4LkLO 7(ER|N 6/C0@
+w "irw+ building#yes
+d 4LkFu 7(ERZ0 6/C1W
+d 4LkGt 7(ER^q 6/C22
+d 4LkG8 6fKUq 4.P2
+d 4LkF: 7(ERVn 6/C2O
+d 4LkFu 7(ERZ0 6/C1W
+w "irw. building#yes
+d 4Lk5U 7(EQML 6/C2`
+d 4Lk5E 7(EQLK 6/C3d
+d 4Lk4a 7(EQG2 6/C3S
+d 4Lk4k 7(EQH3 6/C2P
+d 4Lk5U 7(EQML 6/C2`
+w "irvn building#yes
+d 4LkDk 7(ERJ@ 5"J#.
+d 4LkDB 7(ERG# 6/C7>
+d 4LkCp 7(ERB* 6/C6b
+d 4LkD% 7(EREG 6/C5i
+d 4LkDk 7(ERJ@ 5"J#.
+w "iryF building#yes
+d 4Lk7o 7(EQ[o 6/C0}
+d 4Lk8E 7(EQa( 6/C17
+d 4Lk8D 7(EQ_Z 6/C2<
+d 4Lk7` 7(EQZB 6/C2$
+d 4Lk7o 7(EQ[o 6/C0}
+w "irxN building#yes
+d 4Lk3/ 7(EQ4\ 6/C0/
+d 4Lk2^ 7(EQ0X 6/C0y
+d 4Lk2B 7(EQ,D 6/C02
+d 4Lk2Y 7(EQ0H 6/C/F
+d 4Lk3/ 7(EQ4\ 6/C0/
+w "irx+ building#yes
+d 4LkQ. 6fK[^ 6/C:)
+d 4LkPz 6fK[K 6/C;-
+d 4LkOs 7(ES0h 6/C:m
+d 4LkPM 7(ES2j 6/C9i
+d 4LkQ. 6fK[^ 6/C:)
+w "irwM building#yes
+d 4LkHT 7(ERbJ 6/C5V
+d 4LkHc 7(ERe" 6/C4i
+d 4LkI. 7(ERiI 6/C5:
+d 4LkI! 7(ERfq 5"J#+
+d 4LkHT 7(ERbJ 6/C5V
+w "S2Zr building#yes
+d 25i~F 7(EQ$H 6/Ct:
+d 25i~G 7(EQ)V 6/Ct7
+d 25i~K 7(EQ)r 5"J)L
+d 25i~C 7(EQ$d 6/Cu[
+d 25i~F 7(EQ$H 6/Ct:
+w "irvG building#yes
+d 4Lk6> 6fKKG 6/C4^
+d 4Lk65 7(EQP- 6/C5^
+d 4Lk51 7(EQKB 6/C5P
+d 4Lk5A 7(EQL; 6/C4P
+d 4Lk6> 6fKKG 6/C4^
+w "S2t_ building#yes
+d 25nH2 7(ER.+ 6/C0;
+d 25nH8 7(ER3+ 6/C/4
+d 25nH0 7(ER:0 6/C0B
+d 25nHM 7(ER50 6/C1I
+d 25nH2 7(ER.+ 6/C0;
+w "iry+ building#yes
+d 4Lk1n 7(EP|a 6/C7v
+d 4Lk1s 7(EQ!A 6/C8q
+d 4Lk1U 6fKF) 6/C9F
+d 4Lk1H 6fKEn 6/C8K
+d 4Lk1n 7(EP|a 6/C7v
+w tVx9 building#yes
+d +]~>r 7(ESl8 6/C+t
+d +]~>v 7(ES`o 5"J".
+d +]~>z 7(ESqS 6/C9n
+d +]~>{ 7(ES|y 6/C9?
+d +]~>r 7(ESl8 6/C+t
+w "irw$ building#yes
+d 4Lk;> 7(EQos 5"J#`
+d 4Lk;6 7(EQo6 6/C<^
+d 4Lk:% 7(EQj1 6/C<S
+d 4Lk:W 7(EQjm 6/C;X
+d 4Lk;> 7(EQos 5"J#`
+w "irx6 building#yes
+d 4Lk2c 7(EQ0X 6/C17
+d 4Lk2w 7(EQ2k 5"J"d
+d 4Lk2I 7(EQ.0 6/C2R
+d 4Lk2? 7(EQ+z 6/C1\
+d 4Lk2c 7(EQ0X 6/C17
+w "irvm building#yes
+d 4Lk@* 7(ER-2 6/C7Z
+d 4Lk@& 7(ER,H 6/C8]
+d 4Lk>{ 7(ER') 6/C8P
+d 4Lk?( 7(ER'q 6/C7M
+d 4Lk@* 7(ER-2 6/C7Z
+w "irx@ building#yes
+d 4LkOg 7(ES/O 6/C/R
+d 4LkOx 7(ES0{ 6/C0U
+d 4LkO* 7(ES+} 6/C0l
+d 4LkNk 6fKZB 6/C/i
+d 4LkOg 7(ES/O 6/C/R
+w "S2p` addr:housenumber#26 addr:street#Ekedalsgatan building#yes
+d 25mwk 6fK]d 6/CD*
+d 25mx1 7(ESJJ 6/CE^
+d 25mx+ 7(ES8c 6/CD}
+d 25mx/ 7(ES:F 6/CCI
+d 25mx5 7(ES>2 5"J$L
+d 25mxF 7(ES>N 6/CCB
+d 25mx( 7(ESAu 6/CCK
+d 25mx- 7(ESA^ 6/CCb
+d 25mwk 6fK]d 6/CD*
+w "irx] building#yes
+d 4Lk;9 7(EQoH 6/C3Z
+d 4Lk;2 7(EQna 6/C4f
+d 4Lk9z 7(EQi^ 6/C4[
+d 4Lk:O 7(EQjE 6/C3P
+d 4Lk;9 7(EQoH 6/C3Z
+w "irvp building#yes
+d 4Lk5x 7(EQON 6/C6S
+d 4Lk5f 7(EQNV 6/C7Q
+d 4Lk4t 7(EQI8 6/C7@
+d 4Lk5& 7(EQJ0 6/C6B
+d 4Lk5x 7(EQON 6/C6S

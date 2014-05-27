@@ -1,0 +1,32 @@
+n @@B_ 7(EP1% 6/Fzy highway#traffic_signals
+n @u[K 7(EP=* 6/FwN highway#traffic_signals
+n ""cgQ 7(EQ3# 6/F}T highway#traffic_signals
+n ""cw* 7(EPo$ 6/F[- highway#turning_circle
+n "4K:M 7(ESQp 6/G6w bicycle#yes railway#crossing
+n "4K:R 7(EQ:_ 6/G"W name#Medicinaregatan railway#tram_stop
+n $|-FC 7(EM(! 6/G.! highway#traffic_signals
+n %"]-n 7(EU8: 6/GG~ crossing#uncontrolled highway#crossing
+n %%\9c 6fK@h 5"JP. name#Dr_Fries_Torg railway#tram_stop
+n %%\:U 7(ELCn 6/H@z name#Dr_Sydows_Gata railway#tram_stop
+n %*r1{ 7(ETJU 5"JF$ addr:housenumber#6 addr:street#Lövskogsgatan
+n %*r1| 7(ET'8 6/Fw_ addr:housenumber#4 addr:street#Lövskogsgatan
+n %*r1} 7(ESPU 6/Fx6 addr:housenumber#2 addr:street#Lövskogsgatan
+n %+/s+ 7(ET7: 6/G"W barrier#bollard
+n %+/s4 7(ET'V 6/G!6 addr:housenumber#3 addr:street#Lövskogsgatan
+n %+/s8 7(ET"! 6/G*' addr:housenumber#11 addr:street#Ängemarken
+n %+/sB 7(ESV/ 6/G$Q addr:housenumber#4 addr:street#Fricksgatan
+n %+/sD 7(ESF} 6/G-h addr:housenumber#2 addr:street#Fricksgatan
+n %+x73 7(EQ(k 6/G#T highway#traffic_signals
+n &.zk8 7(EP\A 6/Fq^ addr:housenumber#2 addr:street#Medicinaregatan
+n 'ajQo 7(ESOO 6/G\L amenity#school name#Guldhedsskolan
+n 'bc[D 6fKbG 5"JIp amenity#school name#International_School_of_the_Gothenburg_Region
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1aUwA 7(EP@$ 6/G{2 crossing#uncontrolled highway#crossing
+n 1aUwN 7(EP+l 6/H"5 crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing
+n 1eE#& 7(EQ7n 6/G^+ traffic_calming#hump
+n 1eE#B 7(EPP` 6/GkT traffic_calming#hump
+n 1eE#O 6fKBA 6/Gvi traffic_calming#hump
+n 1eE%] 7(ERQ| 6/GPS traffic_calming#hump
+n 5`Gqi 7(EQq$ 6/Fxo amenity#parking

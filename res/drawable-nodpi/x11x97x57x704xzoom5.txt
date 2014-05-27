@@ -1,0 +1,87 @@
+w ",hOa amenity#bicycle_parking
+d .(I>- 6fMv* 6/Go6
+d .(I<? 6fMvD 6/Gq+
+d .(I?G 7(Ej;D 6/Gr.
+d .(I;\ 7(Ej:: 6/Gpl
+d .(I2L 7(Ej-l 6/GpA
+d .(I-i 7(Ej+D 5"JNF
+d .(I>- 6fMv* 6/Go6
+n JR> 7(EcHM 6/I1% highway#traffic_signals
+n JRG 7(EgO; 6/GVj railway#crossing
+n )sP< 7(Ej7c 6/IAS highway#traffic_signals
+n 2k,m 7(Eap$ 6/IFe highway#traffic_signals
+n ?l0q 7(Ei`G 6/G`v highway#crossing
+n ?lnq 7(Ee6q 5"JPD highway#traffic_signals
+n E;dm 7(El(< 6/HOf highway#traffic_signals
+n Ebs& 7(Ei}P 6/H#5 addr:city#Göteborg addr:country#SE addr:housenumber#59-65 addr:postcode#401_24 addr:street#Södra_Hamngatan name#Radisson_Blu_Scandinavia tourism#hotel website#http://www.radissonblu.se/hotell-goteborg wheelchair#yes
+n j2M- 7(Ej78 6/IE2 highway#traffic_signals
+n j>-! 6fN&( 6/HOK highway#traffic_signals
+n #(m5Q 7(Ej0\ 6/G^8 highway#crossing
+n $\#mf 7(EjW9 6/H(Z name#Centralstationen public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n $\#q; 7(EjaC 6/H$9 name#Centralstationen public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n $\$0+ 7(Ek)L 5"JOJ addr:city#Göteborg addr:country#SE addr:postcode#401_25 addr:street#Drottningtorget name#Hotel_Eggers tourism#hotel website#http://www.hoteleggers.se/ wheelchair#no
+n $\$0R 7(Ejy> 6/Go? tourism#hotel
+n $_"QT 6fM}u 6/H"y name#Centralstationen public_transport#stop_position railway#tram_stop shelter#no tram#yes
+n %#X\R 7(Ej%W 6/IA\ highway#traffic_signals
+n %#X\S 7(Ej&T 6/IE< highway#traffic_signals
+n %#bXS 7(EgN. 6/GU~ highway#crossing
+n %#bfz 7(EgR( 6/GXN highway#crossing
+n %#bf} 7(EhaE 6/GRw highway#crossing
+n %#bg" 7(Eh+v 6/GU\ highway#crossing
+n %#{1X 7(EfZ% 6/F~z highway#crossing
+n %*OY% 7(Eh)6 6/Go_ barrier#bollard
+n %+Lh1 7(Ei}{ 5"JV' bicycle#yes crossing#uncontrolled highway#crossing
+n %-A55 6fN/( 6/HTU railway#switch
+n &Uz_M 7(Ehzf 6/Gsd amenity#parking name#P-hus_City parking#multi-storey
+n '%I3j 7(Ec@1 6/I/2 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (9J}= 7(Ek%g 6/Ggh amenity#restaurant cuisine#indian name#Mother_India wheelchair#no
+n (F1hS 6fMq# 6/HCx amenity#cafe cuisine#coffee_shop name#Rosenkaféet
+n (F1hT 7(Eit; 6/HC" amenity#toilets
+n (F1hU 7(Eg(2 5"JS. amenity#restaurant name#Trädgår'n
+n (F1hV 7(EiFT 6/HIQ name#Rosariet
+n (Xfq3 7(Eavu 6/IEl bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n (XfqD 7(Ec?p 6/I29 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqG 7(EcQ_ 6/I/Y bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqJ 7(EcN^ 6/I2Q bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (jMZP 7(Ej2r 5"JPr bus#yes highway#bus_stop name#Centralstationen public_transport#stop_position
+n (xE?C 7(Ejzz 6/HQW highway#bus_stop name#Polhemsplatsen
+n ))9ag 7(EhgP 5"JO( amenity#restaurant name#Sun_Wall
+n ))9xN 7(Eg'c 6/GyF amenity#restaurant name#Ritz
+n ))9{H 7(Eisg 6/Gd\ amenity#restaurant name#Palace wheelchair#no
+n ))9}s 7(EhD; 5"JOM amenity#place_of_worship name#Göteborgs_Synagoga religion#jewish
+n )):&I 6fMg2 6/GqA amenity#fast_food cuisine#sushi name#Hälso_Sushi
+n )):'K 7(Ehjb 6/Gfp amenity#fast_food cuisine#burger name#McDonald's
+n )):'V 7(Ei-[ 6/Gje amenity#fast_food cuisine#sushi name#Super_Sushi
+n )3+?d 7(Ee_s 6/G}a barrier#gate
+n )3+?k 7(Ej,C 6/H9o barrier#gate
+n +<nY5 6fMWy 6/Gx2 amenity#bicycle_rental capacity#20 name#Bastionsplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#21
+n +<nYE 6fMx" 6/G}u amenity#bicycle_rental capacity#20 name#Slussplatsen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#6
+n .(I+; 7(Eh29 6/Gr; amenity#cafe cuisine#coffee_shop name#Fröken_Olssons_Kafe website#http://www.frokenolsson.se/
+n .(I;6 7(Ej:4 6/H&R crossing#uncontrolled highway#crossing
+n .(I?W 7(Ej@| 6/H'r amenity#parking capacity:motorbike#yes fee#no motorcycle#designated parking#surface
+n 1<\7@ 7(EpU! 6/Ise railway#switch
+n 1<f[- 7(EjT> 6/Gk) amenity#pub name#Alysa_Pub
+n 1C,k) 7(Ej\( 6/H(x name#Centralstationen public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 1C,k* 7(Ejgi 6/H%J highway#bus_stop name#Centralstationen public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 1e*%u 7(Egw@ 6/HS% bicycle#yes crossing#uncontrolled highway#crossing
+n 1e*&` 7(Ej<- 6/H/T crossing#uncontrolled highway#crossing
+n 1e*&d 7(Ei}V 6/HV' bicycle#yes crossing#uncontrolled highway#crossing
+n 2;qIV 7(Efi4 6/GaW name#Kungsfrukten shop#kiosk
+n 2;qIa 7(Eff^ 6/Gax amenity#atm operator#SEB
+n 2;qJ# 7(Ef_T 6/Gc* name#Telia operator#Telia shop#mobile_phone
+n 2@kTI 7(Elew 4.T@ amenity#parking name#P-hus_Nordstan parking#multi-storey
+n 2Z'|& 7(Ej7L 6/ICO highway#traffic_signals
+n 2Z'}Z 7(Ej%t 6/IBm highway#traffic_signals
+n 2[ZPP 7(Ei}c 6/H_g bicycle#yes crossing#uncontrolled highway#crossing
+n 44,h2 7(Ei?R 6/GcS amenity#cafe cuisine#coffee_shop FIXME#tagging_roast_their_own_beans name#Mauritz_Kaffe wheelchair#no
+n 5uv0U 7(EjPY 6/Gi> amenity#fast_food cuisine#kebab name#City_Kebab
+n 5uv0Y 7(Egx( 6/Gk' amenity#cafe internet_access#yes internet_access:fee#no name#Condeco website#http://www.condeco.com/
+n 5uv0^ 7(EjFd 6/Gc) name#Elgiganten shop#electronics
+n 5uv0v 7(EjG5 6/Gd! addr:city#Göteborg addr:housenumber#32 addr:interpolation#even addr:postcode#41109 addr:street#Norra_Hamngatan
+n 5uv0z 7(EjMc 6/Gg{ addr:city#Göteborg addr:housenumber#36 addr:interpolation#even addr:postcode#41109 addr:street#Norra_Hamngatan
+n 5uv0} 7(EjY2 6/GnM addr:city#Göteborg addr:housenumber#40 addr:interpolation#even addr:postcode#41109 addr:street#Norra_Hamngatan
+n 5uv1' 7(EjVb 6/Gl~ name#Hälsa_&amp;_Fitness shop#deli
+n 5uv1) 7(EjId 6/Ge5 name#Intersport shop#sports
+n 5uv1* 7(Ej\E 6/Gox name#Japan_Photo shop#photo
+n 5uv1A 7(EjLv 6/Gg0 amenity#bank atm#yes name#Pantbanken_Sverige
+n 5uv1J 7(EjU< 6/Gl& amenity#fast_food cuisine#sushi name#Sushi_House

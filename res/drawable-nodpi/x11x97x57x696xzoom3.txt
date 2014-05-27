@@ -1,0 +1,401 @@
+w SA~w building#yes
+d 'Zh#x 7(E]ri 6/G}~
+d 'Zh#} 7(E]\P 5"JP+
+d 'Zh$# 7(E]l. 6/H'{
+d 'Zh$( 7(E]xj 6/H&k
+d 'Zh$. 7(E]m~ 6/H"d
+d 'Zh$4 7(E]w[ 6/H!n
+d 'Zh#x 7(E]ri 6/G}~
+w vDL! building#yes
+d +n^.l 6fM!_ 6/HYS
+d +n^.p 7(E`m4 6/HSY
+d +n^.t 7(Eam- 6/HEu
+d +n^.z 7(Eb(f 6/HL<
+d +n^.l 6fM!_ 6/HYS
+w SB$e building#yes
+d 'Zi>r 7(E]vF 6/GxZ
+d 'Zi>| 7(E\@[ 6/H((
+d 'Zi?# 7(E[lX 6/H!V
+d 1_lX* 7(E[l- 6/H!*
+d 1_lWQ 7(E[mP 6/G~\
+d 1_lVo 7(E\:0 6/G|*
+d 1_lU\ 7(E^!H 6/GnJ
+d 1_lWi 7(E^%< 6/Gn'
+d 1_lTX 7(E^)( 6/Gn*
+d 1_lT" 7(E^+q 6/GnV
+d 'Zi?& 7(E^+` 6/Go<
+d 'Zi>r 7(E]vF 6/GxZ
+w C-fq amenity#parking capacity#30
+d $}u?h 7(E^)/ 6/HV/
+d $}u?j 7(E]sH 5"JU^
+d $}u?l 7(E]eY 6/HV>
+d $}u?n 7(E]f$ 6/HU9
+d $}u?s 7(E]p; 6/HSH
+d $}u?p 7(E]qo 6/HS-
+d $}u?r 7(E]y" 6/HS3
+d $}u?h 7(E^)/ 6/HV/
+w v@M$ building#yes
+d +nEZu 5'y|# 6/Gjp
+d +nEZw 7(E\]= 6/Gt6
+d 1_lVC 7(E\Q\ 5"JNJ
+d 1_lWa 7(E\P. 6/GoO
+d +nEZy 7(E\J> 5"JN6
+d 1_lUv 7(E\b. 6/GjU
+d 1_lT< 6fLVY 6/Gjl
+d 1_lW2 7(E]@) 5"JM<
+d 1_lVQ 7(E]?7 6/GcX
+d +nEZz 7(E]HL 6/GbW
+d 1_lWp 7(E]RA 6/GdV
+d +nEZ{ 7(E]Wn 6/GeO
+d 1_lT` 7(E]bZ 6/Gfl
+d 1_lUj 7(E]o, 6/Gg~
+d 1_lW" 6fLaR 5"JMj
+d .3|>0 7(E]q{ 6/Gj3
+d +nEZu 5'y|# 6/Gjp
+w &fh` leisure#park
+d EaV/ 7(Ea?Z 5"JO#
+d EaV0 7(E`rq 4.TP
+d EaV1 7(E`h) 6/Gib
+d %+dV_ 7(E`C; 6/G`-
+d %+dVZ 7(E^}M 6/Gh=
+d EaV) 6fLm" 6/H*K
+d EaV* 7(E_;z 6/H1[
+d EaV/ 7(Ea?Z 5"JO#
+w vD+. building#yes
+d +nY*' 7(E_jo 6/H;q
+d +nY*) 7(E_H` 6/H3}
+d +nY*, 7(E`HZ 6/H&F
+d +nY*- 7(E`hx 5"JQC
+d +nY*' 7(E_jo 6/H;q
+w D.W* access#no highway#unclassified name#Vasagatan oneway#yes psv#yes railway#tram
+d ?}G? 7(EbJy 6/H(<
+d ?}R8 7(Eb%g 6/G}+
+d ?}R6 7(Ea]- 5"JNj
+d ?}R5 7(Ea() 6/Gfa
+d EaMX 7(E`^< 6/G]S
+w vj4| building#yes
+d +r)l1 7(EbMI 6/Ge&
+d +r)l7 7(Eb#e 6/GZa
+d +r)l? 7(Ea12 6/Gf=
+d 5rNdX 7(Ea0b 6/Gfu
+d 5rNd` 7(EaVI 6/Gp)
+d +r)lD 7(EaZ] 5"JNR
+d +r)l1 7(EbMI 6/Ge&
+w C\Fj highway#unclassified name#Vasagatan oneway#yes railway#tram
+d 5^J6A 7(E`w. 6/Gh|
+d EaK! 6fM%+ 6/GtQ
+d ?}R7 7(EaM5 6/Gu6
+d ?}R9 7(Eat! 6/H!4
+d ?}G@ 7(Eb=j 5"JPy
+w "'qen building#yes
+d -OO<N 7(E_!l 6/HWg
+d -OO<V 7(E^z, 6/HN&
+d -OO;| 7(E^ux 6/HMf
+d -OO<& 7(E^E! 6/HTe
+d -OO<! 7(E^x| 6/HaL
+d -OO<' 7(E_8@ 6/H]:
+d -OO<N 7(E_!l 6/HWg
+w C[1; access#no highway#unclassified psv#yes railway#tram
+d %$@st 7(E`LJ 6/G^>
+d %!p7= 7(E^sC 5"JMQ
+d 0uNEV 7(E^,t 6/Gkt
+d "1<ol 6fLN2 6/G}j
+d "1"pC 6fLHw 6/H"g
+d +Kc@* 7(EZiz 6/H%H
+w vD+7 building#yes
+d +nY+N 7(E_Iu 6/H]2
+d +nY+P 7(E`8g 5"JT|
+d +nY+R 7(E`(; 6/HN,
+d +nY+T 7(E_/` 6/HL\
+d +nY+U 6fLn1 6/HW5
+d +nY+N 7(E_Iu 6/H]2
+w `;|c building#yes
+d )U$'D 7(E]Rl 6/HR2
+d )U$'G 7(E]Cg 6/HPq
+d )U$'I 7(E]4; 6/HW!
+d )U$'L 7(E]F\ 6/HX[
+d )U$'M 7(E]JV 6/HW&
+d )U$'N 7(E]G9 6/HVi
+d )U$'D 7(E]Rl 6/HR2
+w A'9] amenity#school building#yes name#hvitfeldtska_gymnasiet
+d $fe72 7(E]3t 6/H+k
+d $fe73 7(E]1t 6/H*~
+d $fe75 7(E\h) 6/H.P
+d $fe76 7(E\o% 6/H1:
+d $fe.c 7(E]@/ 6/H-+
+d $fe2P 7(E]XZ 6/H6n
+d $fe.e 7(E]Hj 6/H85
+d $fe78 7(E]L@ 6/H9\
+d $fe.h 7(E]p1 6/H6M
+d $fe2R 7(E]lR 6/H5"
+d $fe.j 7(E]ey 6/H5Y
+d $fe79 7(E]^y 6/H2n
+d $fe.l 7(E]pB 5"JQ\
+d $fe.m 7(E]f| 5"JQ9
+d $fe.n 7(E]U] 6/H/)
+d $fe7; 7(E]O' 6/H,M
+d $fe.q 7(E][X 6/H+D
+d $fe2V 7(E]U7 6/H(q
+d $fe72 7(E]3t 6/H+k
+w vD2_ building#yes
+d +nZLk 7(E`v{ 6/H,v
+d +nZLn 7(E`T3 6/H$w
+d +nZLr 7(EaHS 5"JO2
+d +nZLu 7(EaiM 6/H!O
+d +nZLk 7(E`v{ 6/H,v
+w vD+6 building#yes
+d +nY+: 7(E`=\ 6/HGp
+d +nY+< 7(E`T3 6/HMj
+d +nY+> 7(EaT, 6/H@(
+d +nY+@ 7(Ea>0 6/H:Y
+d +nY+: 7(E`=\ 6/HGp
+w "'ny9 building#yes
+d -ODHX 7(E^=B 6/H'W
+d -ODH, 7(E^9N 5"JPC
+d -ODH8 7(E^<W 6/H$N
+d -ODHH 7(E^4$ 6/G{z
+d -ODHP 7(E^*M 6/G|E
+d -ODHK 7(E^6s 6/H's
+d -ODHX 7(E^=B 6/H'W
+w vD+3 building#yes
+d +nY*f 7(E`5) 6/Hb4
+d +nY*g 7(E`8g 6/Hc!
+d +nY*i 7(E`+@ 6/Hdo
+d +nY*j 7(E_u4 6/H`O
+d +nY*l 7(E`MN 6/HX%
+d +nY*m 7(Ea+9 6/Heq
+d +nY*o 7(E`v{ 5"JW0
+d +nY*r 7(E`Ls 6/H^j
+d +nY*f 7(E`5) 6/Hb4
+w C-]t amenity#parking
+d $}tNi 7(E]>r 6/H-m
+d $}tNj 7(E]U= 6/H6U
+d $}tNk 7(E]E0 6/H8!
+d $}tNl 6fL]S 6/H:"
+d $}tNm 6fLYv 6/H=:
+d #+p'y 7(E\su 6/H6|
+d $}tNn 7(E\km 6/H3n
+d $}tNp 7(E\ub 6/H2x
+d $}tNr 7(E\rB 6/H1\
+d $}tNi 7(E]>r 6/H-m
+w vD2Q building#yes
+d +nZL5 7(EaaS 6/H>N
+d +nZL6 7(EaJ| 6/H8t
+d +nZL7 7(Eb94 6/H-"
+d +nZL: 7(EbR5 6/H3]
+d +nZL5 7(EaaS 6/H>N
+w A3v: leisure#park
+d -ODHO 7(E^IM 6/H/b
+d -ODH7 7(E^pX 6/H7b
+d $h3M{ 7(E_+{ 6/H3i
+d $h3ST 7(E^zj 6/H-Z
+d $h3Mx 7(E^kJ 4.TO
+d $h3Tf 7(E^:Y 6/Gn.
+d $h3Mz 7(E^*Y 6/Gwr
+d $h3LL 7(E^)[ 6/Gz&
+d $h3LN 6fLe- 6/H(,
+d $h3LO 7(E^B@ 6/H/|
+d -ODHO 7(E^IM 6/H/b
+w vD+4 building#yes
+d +nY+% 7(E`5) 5"JSd
+d +nY+' 7(Ea4G 6/H8?
+d +nY+) 5'y~t 6/H0j
+d +nY+, 7(E_qT 6/H>8
+d +nY+% 7(E`5) 5"JSd
+w v@M& building#yes
+d +nE[4 6fLxh 6/G\m
+d +nE[8 7(E^wX 6/Gd6
+d +nE[: 7(E^fQ 6/GZ2
+d +nE[A 7(E`.r 4.T9
+d +nE[4 6fLxh 6/G\m
+w v@M# building#yes
+d +nEZ; 7(E^SJ 6/Gc'
+d +nEZ< 7(E^K' 6/G^R
+d +nEZ= 7(E^+E 4.TF
+d +nEZ> 7(E^&s 6/G]X
+d +nEZ? 7(E^V^ 6/GZ]
+d +nEZA 7(E^hA 6/Gdl
+d +nEZC 7(E^V% 6/Gf1
+d +nEZE 7(E^Cg 5"JMX
+d +nEZR 6fLe= 6/Gf|
+d +nEZT 7(E^,V 5"JMX
+d +nEZU 7(E]z* 6/Gf<
+d +nEZZ 6fL`e 6/Gdw
+d +nEZ\ 7(E]OF 6/Ga9
+d +nEZ] 6fLbA 6/G^2
+d +nEZ_ 7(E^!C 5"JL~
+d +nEZa 7(E]nB 6/Gb&
+d +nEZc 7(E]w: 6/Gb~
+d -XS/? 6fLc* 6/GbJ
+d +nEZe 7(E^(_ 6/Gd&
+d -XS/! 7(E^0K 6/GdB
+d +nEZf 7(E^>% 5"JMA
+d +nEZg 7(E^Jl 6/Gcr
+d +nEZ; 7(E^SJ 6/Gc'
+w vD+9 building#yes
+d +nY+h 7(E_-p 6/HH2
+d +nY+k 7(E_rh 6/HI4
+d +nY+l 7(E`!s 6/HG'
+d +nY+p 7(E_8& 6/H6J
+d +nY+q 7(E_&R 6/H9A
+d +nY+h 7(E_-p 6/HH2
+w "gijG access#no highway#unclassified name#Kungsportsavenyn oneway#yes psv#yes railway#tram
+d 3]cl/ 7(E`iw 6/HNa
+d 46_X? 7(E`fJ 5"JT^
+d 46_X8 7(E`dZ 6/HP0
+d 46_XF 6fL|6 5"JTk
+d 46_X< 7(E`bJ 6/HQH
+d 46_Xe 7(E`bC 5"JTv
+d 46_XD 7(E`b8 6/HRc
+d "fEKG 7(E`bn 6/HSJ
+w vj5' building#yes
+d +r)od 7(Eb([ 6/G{A
+d +r)og 7(EacX 6/Grq
+d +r)oj 7(EbV1 6/Gg4
+d +r)on 7(Eby4 6/Gob
+d +r)od 7(Eb([ 6/G{A
+w <;^H amenity#university area#yes building#yes description#Göteborgs_universitets_huvudbyggnad
+d $+\NU 7(E`C" 6/Gj@
+d $+\NV 7(E`=K 6/Gh{
+d $+\NW 7(E`-` 6/Gk2
+d 5+:S3 7(E`3) 6/GlT
+d 5+:S4 7(E`3e 6/GlL
+d $+\NX 7(E`<< 6/GnW
+d $+\NY 7(E`+9 6/Gq#
+d 5+:S/ 7(E`*: 6/Gpy
+d $+\NZ 7(E`(* 6/Gq9
+d 5+:S- 7(E`'y 6/GqT
+d $+\N[ 7(E`)F 6/Gqs
+d 5+:S. 7(E`(v 6/Gr2
+d $+\N\ 7(E`): 6/GrN
+d $+\N] 7(E`*6 5"JNk
+d $+\N^ 7(E`,3 6/GsF
+d 5+:S0 7(E`.R 6/Gsa
+d 5+:S1 7(E`04 6/Gsi
+d $+\N_ 7(E`1= 6/Gsf
+d 5+:S2 7(E`2? 6/Gt"
+d $+\N` 7(E`4T 6/Gt)
+d 5+:S5 7(E`6& 6/Gsl
+d $+\Na 7(E`5~ 6/GsN
+d $+\Nb 7(E`G& 6/Gq/
+d $+\Nd 7(E`OY 6/Gs6
+d $+\Ne 7(E`N} 6/GsB
+d $+\Nf 7(E`Tm 6/Gtf
+d 5+:S= 7(E`Y$ 6/Gt.
+d 5+:S> 7(E`[, 6/Gt(
+d 5+:S? 7(E`][ 6/Gsq
+d 5+:S@ 7(E`_R 6/GsJ
+d 5+:SA 7(E``< 6/Gs+
+d $+\Ng 7(E`dK 6/GrL
+d $+\Nh 7(E`^k 6/Gq+
+d $+\Ni 7(E`[` 6/GqV
+d $+\Nj 7(E`Rr 6/GoE
+d $+\Nk 7(E`T< 6/Go2
+d $+\Nl 7(E`I` 6/Gla
+d $+\Nm 7(E`HO 6/Gln
+d $+\Nn 7(E`@! 6/Gjg
+d $+\NU 7(E`C" 6/Gj@
+w "MPPK amenity#place_of_worship building#church name#Vasakyrkan religion#christian
+d 1_lW{ 7(E^ez 6/H%A
+d 1_lV^ 7(E^gr 6/H%7
+d 1_lW; 7(E^iO 6/H%!
+d 1_lU~ 7(E^j( 5"JPB
+d 1_lTK 7(E^i* 6/H$+
+d 1_lW` 7(E^g- 6/H#y
+d 1_lSo 7(E^e% 6/H#z
+d 1_lW{ 7(E^ez 6/H%A
+w "MPPy amenity#place_of_worship building#church name#Vasakyrkan religion#christian
+d $fe`v 7(E^]` 6/H%f
+d 1_lTR 7(E^\Q 6/H#{
+d $fe`x 7(E^dx 5"JP;
+d 1_lSo 7(E^e% 6/H#z
+d 1_lW{ 7(E^ez 6/H%A
+d $fekx 7(E^f) 6/H%T
+d $fe`v 7(E^]` 6/H%f
+w vD2K building#yes
+d +nZKu 7(EaDs 6/H6/
+d +nZKw 7(Eb0` 6/H+^
+d +nZKy 6fM(f 6/H#t
+d +nZK} 7(Ea&6 6/H.k
+d +nZKu 7(EaDs 6/H6/
+w "'ny6 leisure#park
+d -ODH@ 7(E^Im 6/H=T
+d '_dW* 7(E^&N 6/H5\
+d '_dW/ 7(E\h~ 6/HA3
+d '_dW4 6fLXM 6/HF>
+d '_dW8 7(E^9r 6/HQ]
+d -ODH9 7(E^w@ 6/HHQ
+d $h3LQ 7(E^sY 6/HCY
+d -ODH@ 7(E^Im 6/H=T
+w vDL' building#yes
+d +n^/E 7(Eb4h 6/HJ#
+d +n^/H 6fM)w 6/HC{
+d +n^/L 7(Ebhs 6/H8M
+d +n^/P 7(Ec#a 6/H>G
+d +n^/T 7(EbkP 6/HA^
+d +n^/V 7(Ebd@ 6/H?y
+d +n^/Y 7(EboO 6/H>=
+d +n^/d 7(Ebi* 6/H<j
+d +n^/f 7(EbL[ 6/H@y
+d +n^/i 7(Eb[/ 6/HDH
+d +n^/E 7(Eb4h 6/HJ#
+w SB!C building#yes
+d 'Zh0% 7(E^)\ 6/H4]
+d 'Zh0' 7(E^A[ 6/H:W
+d 'Zh0+ 7(E^am 6/H6#
+d 'Zh0. 7(E^In 6/H0)
+d 'Zh0% 7(E^)\ 6/H4]
+w "MPPf building#yes
+d +nEZu 5'y|# 6/Gjp
+d 1_lWu 7(E]q( 6/GkQ
+d 1_lVW 6fLb> 6/Gjf
+d 1_lX% 7(E]z. 6/Gh+
+d 1_lVh 7(E]qI 6/Gg=
+d 1_lUj 7(E]o, 6/Gg~
+d 1_lW" 6fLaR 5"JMj
+d .3|>0 7(E]q{ 6/Gj3
+d +nEZu 5'y|# 6/Gjp
+w SB'$ building#yes
+d 'Zj+c 7(E]x( 6/HH4
+d 'Zj+h 7(E^S- 6/H?h
+d 'Zj+o 7(E^fn 6/HDG
+d 'Zj+s 7(E^J| 6/HHS
+d 'Zj+x 6fLfG 6/HG.
+d 'Zj," 7(E^N: 6/HEi
+d 'Zj,' 7(E^Hv 6/HDP
+d 'Zj,/ 7(E^"N 6/HJ3
+d 'Zj+c 7(E]x( 6/HH4
+w A'>D amenity#place_of_worship building#church name#Vasakyrkan religion#christian
+d 1_lTR 7(E^\Q 6/H#{
+d $fek} 7(E^Kf 6/H$A
+d $feke 6fLg* 6/H$a
+d $fekh 7(E^F8 6/H$m
+d $fe`l 7(E^K0 6/H,A
+d $fe`n 7(E^Tr 6/H,,
+d $fem3 7(E^U. 6/H,B
+d 1_lT> 7(E^W, 6/H,d
+d $fem4 7(E^ZH 6/H,g
+d 1_lWS 7(E^\y 6/H,X
+d $fem5 7(E^^T 6/H,5
+d $fe`r 7(E^^` 6/H+u
+d $fem7 7(E^gv 6/H+a
+d $fe`t 7(E^g" 6/H*?
+d $fe`u 7(E^`j 6/H*L
+d $fe`v 7(E^]` 6/H%f
+d 1_lTR 7(E^\Q 6/H#{
+w SB!' building#yes
+d 'Zh(U 7(E]{i 6/H(l
+d 'Zh(W 7(E^1U 6/H0@
+d 'Zh(\ 7(E^=u 6/H/3
+d 'Zh(a 7(E^*, 6/H'_
+d 'Zh(U 7(E]{i 6/H(l
+w C.`i amenity#theatre building#yes name#Göteborgs_konserthus
+d $~"T\ 7(E^7/ 6/HW+
+d $~"T] 5'y|w 6/Hcg
+d $~"T^ 7(E^N6 6/Hgi
+d $~"T_ 7(E]xt 6/H[-
+d $~"T\ 7(E^7/ 6/HW+
+w CQbF access#no highway#unclassified name#Vasagatan oneway#yes psv#yes railway#tram
+d %$@st 7(E`LJ 6/G^>
+d 5+:S; 7(E`SB 6/G`K
+d 5^J6A 7(E`w. 6/Gh|

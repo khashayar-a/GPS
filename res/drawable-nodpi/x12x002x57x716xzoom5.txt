@@ -1,0 +1,23 @@
+n $1D%> 7(EtSu 6/KYA name#Redbergsplatsen railway#tram_stop
+n $orqa 7(Exll 5"Jon highway#turning_circle
+n $qUT^ 7(Ew[) 6/KJ> amenity#school name#Ånässkolan
+n )>NJ] 7(Et1O 6/K[t highway#bus_stop name#Redbergsplatsen
+n )A`B( 7(EtPm 6/KVk highway#bus_stop name#Redbergsplatsen
+n 1<ZZH 7(F!Dc 6/KR| railway#switch
+n 1<ZZX 7(E}Lt 6/K]p railway#railway_crossing
+n 1<ZZb 6fOt* 5"Jqv railway#switch
+n 1A29x 7(Etbf 6/KZP bench#yes name#Redbergsplatsen railway#tram_stop
+n 1A2so 7(Eyo; 6/Kgu bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1A2sp 6fN{7 5"Jr2 name#Pressbyrån shop#kiosk
+n 1A2sq 7(EtNC 6/KXk bench#yes name#Redbergsplatsen railway#tram_stop shelter#yes
+n 1A2sy 7(EyZ> 6/Kff bench#yes name#Ejdergatan railway#tram_stop shelter#yes
+n 1A2t* 7(EtYH 6/K]| amenity#atm
+n 1A2t+ 7(Et[1 6/K^S amenity#toilets
+n 1BRza 6fNyx 6/K\j name#Redbergsplatsen railway#tram_stop
+n 1BR{- 7(EuEB 6/L`\ name#Stockholmsgatan railway#tram_stop
+n 1BR{J 7(EtRY 6/K_g name#Redbergsplatsen railway#tram_stop
+n 1BR{T 7(EuAE 6/L[< name#Stockholmsgatan railway#tram_stop
+n 3U/$P 7(EtwN 6/Kh! barrier#bollard
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 5Hi+; 7(Etbf 6/K>k name#Redbergsparken tourism#picnic_site
+n 6!VEk 7(Et}Y 6/K_y bench#yes bus#yes highway#bus_stop name#Redbergsplatsen operator#Västtrafik public_transport#stop_position ref#Läge_G shelter#yes shelter_type#public_transport

@@ -1,0 +1,14 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n Ed<M 7(En%C 6/B>z highway#speed_camera
+n "75m% 7(Ep#z 6/@GW highway#speed_camera
+n "75qU 7(Eol| 6/@HX highway#speed_camera
+n $a@yC 7(Eq@c 6/AD9 amenity#place_of_worship name#Minneslunden religion#christian
+n $k=tj 6fMbo 6/A9a highway#crossing
+n $k=va 7(Em%t 6/Alc highway#crossing
+n $k>+7 7(Ekr, 5"Isp highway#crossing
+n $k>83 6fNq] 6/Atj barrier#gate
+n $|H1C 7(Eoj4 6/B.R barrier#gate
+n $|H2v 7(EqHr 6/AqB barrier#gate
+n %F{vW 7(Eqt\ 6/BnT highway#crossing
+n +oVa{ 7(Eim; 6/Ack highway#crossing
+n ,rhy@ 7(EpVk 6/AVs highway#bus_stop name#Lundby_Gamla_Kyrka

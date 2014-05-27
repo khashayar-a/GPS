@@ -1,0 +1,63 @@
+n 1a' 7(Ep=S 6/JTl highway#motorway_junction name#Olskroksmotet ref#74
+n 1a0 7(EjR1 6/J[, highway#motorway_junction name#Ullevimotet ref#73
+n 1a6 7(Ebhf 5"Jg[ highway#motorway_junction name#Gårda ref#72
+n 1a< 7(EYI. 6/Jp8 highway#motorway_junction name#Kallebäcksmotet ref#70
+n 3Df 7(E_S< 6/J`Z highway#traffic_signals
+n [rg 6fM[V 6/JU" highway#motorway_junction name#Ullevimotet ref#73
+n [rl 7(E]|K 6/J`t highway#motorway_junction name#Örgrytemotet ref#71
+n @SH' 7(E_K` 6/JTV highway#traffic_signals
+n @SH+ 7(E_;Y 6/J\g highway#traffic_signals
+n @SNu 7(E_VO 6/Jc{ highway#traffic_signals
+n @SNv 7(E_@P 6/Je/ highway#traffic_signals
+n A[#N 7(E^zN 6/JV{ highway#motorway_junction name#Örgrytemotet ref#71
+n "qe;S 7(Ea_g 6/L0} name#Ekmanska railway#tram_stop
+n "qe;i 7(Eda2 5"K&R name#Töpelsgatan railway#tram_stop
+n "qe;u 7(EhwK 6/Mk3 name#Welandergatan railway#tram_stop
+n ##}sa 7(E_d? 6/JUQ name#Liseberg railway#station ref#Lis
+n #$""f 7(Ea,? 6/JeL highway#turning_circle
+n #$$q[ 7(E^HB 5"Jo- highway#mini_roundabout
+n $o9x5 7(E`Dt 6/Jf% amenity#place_of_worship denomination#lutheran name#Örgryte_gamla_kyrka religion#christian
+n $o;IZ 7(E^.W 6/Jcs highway#turning_circle
+n $s(RL 7(E_1B 6/JSj highway#traffic_signals
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n $~m|L 7(E_"l 6/J0< name#Liseberg railway#tram_stop
+n %%[=O 7(Ec<x 6/Lyb name#Bögatan railway#tram_stop
+n %%[Bh 7(Eayn 6/KK} name#Bäckeliden railway#tram_stop
+n %%[D: 6fLz$ 6/K!: name#Sankt_Sigfrids_plan railway#tram_stop
+n %-C7/ 7(E^37 6/J}; addr:housenumber#3 addr:street#Betaniagatan
+n %-R5% 7(E^6N 6/JnF addr:housenumber#2 addr:street#Kronhjortsgatan
+n %-R6e 7(E^FW 6/JmV addr:housenumber#4 addr:street#Kronhjortsgatan
+n %-R6n 7(E^W1 6/Jk< addr:housenumber#6 addr:street#Kronhjortsgatan
+n %-R7! 7(E^S: 6/Jg\ addr:housenumber#8A addr:street#Kronhjortsgatan
+n %-R74 7(E^LJ 6/Je9 addr:housenumber#8 addr:street#Kronhjortsgatan
+n %-R8' 7(E^;B 6/Jeu addr:housenumber#8B addr:street#Kronhjortsgatan
+n %-R8; 7(E^!" 5"Jig addr:housenumber#10 addr:street#Kronhjortsgatan
+n %-R8e 7(E^'B 6/Js. addr:housenumber#2 addr:street#Påskbergsgatan
+n %-R:a 6fLbz 5"Jjd addr:housenumber#4 addr:street#Påskbergsgatan
+n %-R;F 7(E^.` 6/JmE addr:housenumber#3 addr:street#Påskbergsgatan
+n %-R;l 7(E^$I 6/JiD addr:housenumber#9 addr:street#Påskbergsgatan
+n %-R;u 6fL`, 6/JlM addr:housenumber#6 addr:street#Påskbergsgatan
+n %-R<) 7(E]^> 6/Jh) addr:housenumber#8 addr:street#Påskbergsgatan
+n &w4hR 7(E^rj 6/K$F highway#bus_stop name#Betaniagatan
+n )3+?S 7(E^[o 6/J&s barrier#gate
+n )M("c 7(EhUW 6/MmK name#Welandergatan railway#tram_stop
+n +<nX< 7(E__6 6/JS" amenity#bicycle_rental capacity#30 name#Liseberg_Station network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#27
+n 1Hakd 7(E^~e 6/K+\ highway#bus_stop name#Betaniagatan
+n 1Halk 7(E^sh 6/K/F traffic_calming#choker
+n 1nA>, 7(Em/P 6/MeK name#Torp railway#tram_stop ref#C
+n 1nA>: 7(ElkX 6/Me* name#Torp railway#tram_stop ref#D
+n 1nEIq 7(EaVj 6/L+x name#Ekmanska railway#tram_stop
+n 1nEJ4 7(EavG 6/KP< name#Bäckeliden railway#tram_stop
+n 1nEJS 7(EdsP 6/M[f name#Töpelsgatan railway#tram_stop
+n 1nEK; 7(Ec+" 6/Lt| name#Bögatan railway#tram_stop
+n 2.cp] 7(E_8o 6/J>= highway#traffic_signals
+n 2.cqF 6fLl{ 6/JD. highway#traffic_signals
+n 2.cqY 7(E_;q 6/JA} highway#traffic_signals
+n 20GDt 7(E^%O 6/Ik* barrier#gate
+n 547"J 7(E`HM 6/Jzm bicycle#yes highway#crossing
+n 547"L 7(E`Ha 6/Jv{ bicycle#yes highway#crossing
+n 547"c 7(Ea=; 6/J{% bicycle#yes crossing#island highway#crossing
+n 547"d 7(Ea?= 6/Jz) bicycle#yes crossing#island highway#crossing
+n 56M4- 7(Ee?H 6/KS^ bicycle#yes crossing#island highway#crossing

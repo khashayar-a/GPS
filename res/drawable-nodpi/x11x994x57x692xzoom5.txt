@@ -1,0 +1,55 @@
+n 1a< 7(EYI. 6/Jp8 highway#motorway_junction name#Kallebäcksmotet ref#70
+n [rl 7(E]|K 6/J`t highway#motorway_junction name#Örgrytemotet ref#71
+n A[#N 7(E^zN 6/JV{ highway#motorway_junction name#Örgrytemotet ref#71
+n $|-d` 7(En+n 6/Go: construction#station name#Göteborg_C railway#construction
+n $|-iF 7(E^?! 6/IU` construction#station name#Korsvägen railway#construction
+n $|-ii 7(E`]} 6/F^k construction#station name#Haga railway#construction
+n %-C<z 7(E]:r 6/K$y addr:housenumber#1 addr:street#Laboratoriegatan
+n %-C>I 7(E]'o 6/K&> addr:housenumber#3 addr:street#Laboratoriegatan
+n %-C?9 7(E\qn 6/K'i addr:housenumber#5 addr:street#Laboratoriegatan
+n %-C?N 7(E\^o 5"Jm* addr:housenumber#7 addr:street#Laboratoriegatan
+n %-C?p 7(E\hU 6/K.( addr:housenumber#8 addr:street#Laboratoriegatan
+n %-C@% 7(E]5O 6/K*7 addr:housenumber#4 addr:street#Laboratoriegatan
+n %-C@P 7(E]"L 6/K+t addr:housenumber#6A addr:street#Laboratoriegatan
+n %-C@f 7(E\y. 6/K,Z addr:housenumber#6B addr:street#Laboratoriegatan
+n %-CAV 7(E]KK 6/K(Y addr:housenumber#2 addr:street#Laboratoriegatan
+n %-CA| 7(E\W{ 6/K0B addr:housenumber#10 addr:street#Laboratoriegatan
+n %-CCJ 7(E\Gr 6/K1n addr:housenumber#12 addr:street#Laboratoriegatan
+n %-CCe 7(E\7h 6/K3L addr:housenumber#14 addr:street#Laboratoriegatan
+n %-CDn 7(E\'0 6/K5" addr:housenumber#16 addr:street#Laboratoriegatan
+n %-CFu 7(E[q] 6/K22 addr:housenumber#13 addr:street#Laboratoriegatan
+n %-CG; 7(E[vR 6/K6p addr:housenumber#14 addr:street#Pipblåsaregatan
+n %-CL9 6fLPD 6/K0B addr:housenumber#11 addr:street#Laboratoriegatan
+n %-CNd 6fLKt 6/K5" addr:housenumber#15 addr:street#Laboratoriegatan
+n %-CP> 7(E[F5 6/K6p addr:housenumber#17 addr:street#Laboratoriegatan
+n %-CQ) 7(E[6Y 6/K8y addr:housenumber#19 addr:street#Laboratoriegatan
+n %-CQP 7(E[&} 5"Jnj addr:housenumber#21 addr:street#Laboratoriegatan
+n %-CQ~ 7(EZwm 6/K<- addr:housenumber#23 addr:street#Laboratoriegatan
+n %-CR< 7(EZp! 6/K=% addr:housenumber#25 addr:street#Laboratoriegatan
+n %-C\C 7(E[`( 6/K9, addr:housenumber#9 addr:street#Pipblåsaregatan
+n %-C]> 7(E[O! 6/K;> addr:housenumber#22 addr:street#Laboratoriegatan
+n %-C]j 7(E[=w 6/K=P addr:housenumber#24 addr:street#Laboratoriegatan
+n %-R<` 7(E]Gr 5"Jj! addr:housenumber#10 addr:street#Påskbergsgatan
+n %-R<n 7(E]/M 6/Jj* addr:housenumber#12 addr:street#Påskbergsgatan
+n %-R=P 6fLUN 6/Jlp addr:housenumber#18 addr:street#Påskbergsgatan
+n %-R=e 7(E\j@ 6/Jkg addr:housenumber#16 addr:street#Påskbergsgatan
+n %-RB* 7(E\E8 6/Jmp addr:housenumber#20 addr:street#Påskbergsgatan
+n %-RC9 6fLW| 6/Jo$ addr:housenumber#1A addr:street#Jättegrytsgatan
+n %-RCm 7(E\sZ 6/Jq% addr:housenumber#1B addr:street#Jättegrytsgatan
+n %-RE& 7(E\x| 6/Jts addr:housenumber#3A addr:street#Jättegrytsgatan
+n %-RE) 7(E\|s 6/Jvt addr:housenumber#3B addr:street#Jättegrytsgatan
+n %-RE2 7(E]0K 6/Jmh addr:housenumber#2 addr:street#Jättegrytsgatan
+n %-RE^ 7(E]3D 6/Joq addr:housenumber#2B addr:street#Jättegrytsgatan
+n %-RF# 7(E]6k 5"Jjv addr:housenumber#4 addr:street#Jättegrytsgatan
+n %-RF- 7(E]<] 6/JuZ addr:housenumber#6 addr:street#Jättegrytsgatan
+n %-RFt 7(E]0K 6/J~D addr:housenumber#7 addr:street#Jättegrytsgatan
+n ))S8& 6fLS| 6/JV% amenity#cafe name#Café_Åkaj
+n ))S89 7(E\Ox 6/JG: amenity#fast_food name#Burger_King
+n )3+?J 7(EY&N 6/J:h barrier#gate
+n )3+?S 7(E^[o 6/J&s barrier#gate
+n 20GDt 7(E^%O 6/Ik* barrier#gate
+n 2}v4a 7(E[&F 6/JQW name#SpinRock tourism#attraction
+n 3#[47 7(E\%: 6/JLh amenity#fountain
+n 3#[4: 7(E[WP 6/JS+ amenity#fountain name#Hoppande_Vatten
+n 3$W2{ 7(E\Y| 6/JM$ name#Små_Grodorna tourism#attraction
+n 3$W3$ 7(E\UM 6/JLW name#Små_Grodorna tourism#attraction

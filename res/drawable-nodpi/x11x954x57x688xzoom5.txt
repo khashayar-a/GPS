@@ -1,0 +1,43 @@
+n ?tt0 7(EW'~ 6/Ej0 highway#traffic_signals
+n Hmqk 7(E[@* 6/F8~ highway#traffic_signals
+n Hmrs 7(EYZP 6/F&] highway#traffic_signals
+n ""c[! 6fL,P 6/FMI highway#turning_circle
+n "iX<1 7(EXpz 6/EzC highway#traffic_signals
+n #?sV" 7(E[;W 6/F:h highway#traffic_signals
+n #?sVF 7(EW"G 6/Em) highway#traffic_signals
+n #?sVM 7(EXo. 6/E|e highway#traffic_signals
+n #?s{! 7(EY"T 6/F!/ highway#traffic_signals
+n #?s{# 7(EY'Z 6/E}B highway#traffic_signals
+n $~P?< 7(EYS@ 6/F(5 highway#traffic_signals
+n %%[IB 7(EXrP 6/El: name#Olivedalsgatan railway#tram_stop
+n %%[^P 7(EY86 6/F8i name#Seminariegatan railway#tram_stop
+n %%[^Q 7(E[!R 6/FN| name#Brunnsgatan railway#tram_stop
+n %*r'v 7(EU<6 5"JDO addr:housenumber#3 addr:street#Källsprångsgatan
+n %*r*, 6fK|_ 6/Fi' addr:housenumber#19 addr:street#Lövskogsgatan
+n %+/rq 7(EV0A 6/Fd{ addr:housenumber#16 addr:street#Lövskogsgatan
+n %+/ru 7(EV_/ 6/F^Y addr:housenumber#18 addr:street#Lövskogsgatan
+n &0#_| 7(ET\B 6/FZq addr:housenumber#20C addr:street#Medicinaregatan name#Miljövetenskap
+n &0#a8 7(EU'd 6/FOA addr:housenumber#18B addr:street#Medicinaregatan
+n &0#aY 7(ETi8 6/FJ? addr:housenumber#18A addr:street#Medicinaregatan
+n (aL8, 6fL2j 6/F,: amenity#parking
+n (o<s@ 7(EX@C 6/F+o amenity#library name#Studietorget_Campus_Linné
+n (o<sA 7(EWfD 6/FEA amenity#recycling
+n 0t*y< 7(EY~n 6/F`D barrier#bollard bicycle#yes foot#yes
+n 2owoS 7(EW-1 6/F6W name#Konstepidemin place#locality
+n 4"Ggh 7(EX"t 6/FO; leisure#playground
+n 4"Xae 7(EXOQ 6/FS. addr:housenumber#40 addr:street#Carl_Grimbergsgatan
+n 4"Xaf 7(EXCq 6/FQv addr:housenumber#42 addr:street#Carl_Grimbergsgatan
+n 4"Xag 7(EX<f 6/FQ) addr:housenumber#44 addr:street#Carl_Grimbergsgatan
+n 4"Xah 7(EX6L 6/FPD addr:housenumber#46 addr:street#Carl_Grimbergsgatan
+n 4"Xao 7(EWo_ 6/FI` barrier#bollard bicycle#yes horse#no motorcycle#no
+n 4"Xn> 7(EX*S 6/FA\ addr:housenumber#14 addr:street#Seminariegatan
+n 4"Xn? 7(EX<z 6/FC\ addr:housenumber#16 addr:street#Seminariegatan
+n 4"Xn@ 7(EW{\ 6/FE} addr:housenumber#18 addr:street#Seminariegatan
+n 4"XnA 7(EX.$ 6/FGs addr:housenumber#20 addr:street#Seminariegatan
+n 4"Xv7 7(EXAU 6/F:c addr:housenumber#10
+n 4"Xv8 7(EXQX 6/F<m addr:housenumber#12 addr:street#Seminariegatan
+n 4"Xv9 7(EXMA 6/F6I addr:housenumber#6 addr:street#Seminariegatan
+n 4"Xv: 7(EX`P 6/F89 addr:housenumber#8 addr:street#Seminariegatan
+n 4"^Ry 7(EXl= 6/F.^ addr:housenumber#2 addr:street#Seminariegatan
+n 4"^Rz 7(EXyp 6/F0b addr:housenumber#4 addr:street#Seminariegatan
+n 5`I!D 7(EU:V 6/F:q amenity#parking

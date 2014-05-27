@@ -1,0 +1,94 @@
+w "i]30 bridge#yes layer#1 name#Gropegårdsgatan_Läge_B public_transport#platform
+d 4J8fY 7(EviK 6/Asz
+d 4J8fg 7(Evr2 6/A{?
+w "i]3/ bridge#yes layer#1 name#Gropegårdsgatan_Läge_A public_transport#platform
+d 4J8f0 7(Ev`2 6/At6
+d 4J8fW 7(EviI 6/A{^
+n @@:u 7(Ew%h 6/Ayz highway#crossing
+n "77NO 7(Ex-B 6/BuK name#Rambergsvallen_Läge_B public_transport#stop_position tram#yes
+n "77NS 7(EvlE 6/AxN name#Gropegårdsgatan_Läge_B public_transport#stop_position tram#yes
+n $8[6^ 7(EwAR 6/Aw> highway#traffic_signals
+n $8[LU 7(Ew<3 6/At" highway#traffic_signals
+n $8[M| 7(ExKo 6/@v~ highway#mini_roundabout
+n $_pgn 7(Ex,. 6/A&= highway#mini_roundabout
+n $k>83 6fNq] 6/Atj barrier#gate
+n $kUZ- 7(EvY. 6/A|D highway#crossing
+n $p}}D 7(F$-! 6/Ao3 highway#crossing
+n $p~us 7(E}^\ 6/AZ* highway#crossing
+n $q!1w 7(Ey![ 6/Ae< highway#crossing
+n $|GcY 7(Ewje 6/@]n barrier#gate
+n $|GjO 7(Ew+t 6/@lV highway#mini_roundabout
+n $|Gkv 7(Exw$ 6/@js barrier#cycle_barrier;bollard
+n %F{v[ 7(Er7i 6/Bn9 highway#crossing
+n &#eNX 7(Ewdt 6/B7v amenity#waste_basket
+n &#eNY 7(Eu#$ 6/B3+ amenity#atm
+n &^;O( 7(Ew<7 6/A|H amenity#fuel brand#Statoil fuel:diesel#yes fuel:e85#yes fuel:octane_95#yes name#Statoil shop#convenience
+n 'j^Bw 7(EvVT 6/Azo highway#traffic_signals
+n 'j^B} 7(Ew%+ 6/AyE highway#traffic_signals
+n 'j^C= 7(EvST 6/Aw| highway#traffic_signals
+n 'tl11 7(Ev|= 6/AuB highway#traffic_signals
+n .cnb! 7(Ew*: 4.Nu addr:housenumber#2A addr:street#Toredalsgatan
+n .cnbs 7(EvrF 6/Ahx addr:housenumber#1A addr:street#Arbogagatan
+n .cnc) 7(Ew/a 6/Akg addr:housenumber#4 addr:street#Strömstadgatan
+n /}]'H 7(EwB: 6/A`Z addr:housenumber#12 addr:street#Strömstadgatan
+n /}](o 7(EvwN 6/AZU addr:housenumber#1F addr:street#Arbogagatan
+n /}]+{ 7(Ev`C 6/ANe addr:housenumber#8 addr:street#Köpingsgatan
+n /}],C 7(EvOB 6/A?v addr:housenumber#22 addr:street#Köpingsgatan
+n /}],q 6fO1D 6/APe addr:housenumber#6 addr:street#Köpingsgatan
+n /}].] 7(Ew#E 6/AN* addr:housenumber#2A addr:street#Arbogagatan
+n /}]/- 7(EwU[ 6/AWM addr:housenumber#14 addr:street#Strömstadgatan
+n /}]05 7(Ew,; 6/Acm addr:housenumber#1D addr:street#Arbogagatan
+n /}]2@ 7(EvYe 6/AKV addr:housenumber#10 addr:street#Köpingsgatan
+n /}]5H 7(EwIf 6/AX8 addr:housenumber#11 addr:street#Dykarens_gata
+n /}]6w 7(EvoG 6/AS\ addr:housenumber#2 addr:street#Köpingsgatan
+n /}]8k 7(Ex;Z 5"Is> addr:housenumber#12 addr:street#Toredalsgatan
+n /}]9W 7(EviD 6/AQX addr:housenumber#4 addr:street#Köpingsgatan
+n /}]:\ 6fO/n 6/AI: addr:housenumber#12 addr:street#Köpingsgatan
+n /}]<` 7(EwUl 6/AaT addr:housenumber#9 addr:street#Strömstadgatan
+n /}]<u 7(Ew0S 6/Agm addr:housenumber#6 addr:street#Strömstadgatan
+n /}]=| 7(EvV> 6/AHC addr:housenumber#14 addr:street#Köpingsgatan
+n /}]>? 7(EvU0 6/AF& addr:housenumber#16 addr:street#Köpingsgatan
+n /}]?t 7(Ew#p 5"IsH addr:housenumber#1A addr:street#Arbogagatan
+n /}]A! 7(Ew=b 6/A]* addr:housenumber#10 addr:street#Dykarens_gata
+n /}]A\ 6fO?2 6/Ael addr:housenumber#2 addr:street#Dykarens_gata
+n /}]C, 7(EvR^ 6/AB( addr:housenumber#20 addr:street#Köpingsgatan
+n /}]D@ 7(Ew&X 6/AYk addr:housenumber#14 addr:street#Dykarens_gata
+n /}]DJ 6fO2o 5"Ipl addr:housenumber#1 addr:street#Köpingsgatan
+n /}]DZ 7(Ew3] 6/AfI addr:housenumber#8 addr:street#Strömstadgatan
+n /}]FD 7(EwbT 6/A_p addr:housenumber#8 addr:street#Dykarens_gata
+n /~|7. 7(ExGv 6/A`h addr:housenumber#3 addr:street#Dykarens_gata
+n /~|76 7(ExM, 6/Ad2 addr:housenumber#1 addr:street#Dykarens_gata
+n /~|7u 7(EwMq 6/AFt addr:housenumber#1 addr:street#Rävsalsgatan
+n /~|8, 7(ExLr 6/A^` addr:housenumber#1 addr:street#Halmstadgatan
+n /~|8; 7(EwED 6/AH< addr:housenumber#11 addr:street#Arbogagatan
+n /~|8= 6fOB{ 6/AeH addr:housenumber#14 addr:street#Toredalsgatan
+n /~|9B 7(Ewrj 6/AJf addr:housenumber#5 addr:street#Rävsalsgatan
+n /~|9F 5'z5j 6/AS> addr:housenumber#3 addr:street#Arbogagatan
+n /~|:< 6fO5i 6/AUI addr:housenumber#15 addr:street#Dykarens_gata
+n /~|:r 7(Ewsn 6/ALt addr:housenumber#22 addr:street#Strömstadgatan
+n 0JWA: 7(Ex+t 6/A^& addr:housenumber#5 addr:street#Dykarens_gata
+n 0JWA{ 7(Ew]z 6/A@0 addr:housenumber#13 addr:street#Arbogagatan
+n 0JWB: 7(Ewod 6/A\$ addr:housenumber#9 addr:street#Dykarens_gata
+n 0JWBo 7(Ex7l 6/A\U addr:housenumber#2 addr:street#Halmstadgatan
+n 0JWCu 7(Ex+& 6/AC| addr:housenumber#24 addr:street#Strömstadgatan
+n 0JWDR 6fO:J 6/ABR addr:housenumber#2 addr:street#Rävsalsgatan
+n 0JWD[ 7(Ewxa 6/ADz addr:housenumber#6 addr:street#Rävsalsgatan
+n 0JWF; 7(Ewl> 6/AZ6 addr:housenumber#11 addr:street#Strömstadgatan
+n 1`KS~ 7(EtP~ 6/ANw addr:housenumber#13 addr:street#Kohagsgatan
+n 1`KT1 7(EtiK 6/ASp addr:housenumber#2 addr:street#Tegskiftesgatan
+n 1`KTQ 7(Euj\ 6/Amz addr:housenumber#3 addr:street#Solskiftesgatan
+n 1`KTg 7(EuMT 6/ANo addr:housenumber#20 addr:street#Institutsgatan
+n 1`KU3 7(EuLS 6/ATK addr:housenumber#9 addr:street#Tegskiftesgatan
+n 1`KUO 7(Et^] 6/ART addr:housenumber#19 addr:street#Solskiftesgatan
+n 1`KUS 7(EuVV 6/AUU addr:housenumber#18 addr:street#Institutsgatan
+n 1`KUU 7(Etmf 6/AVR addr:housenumber#1 addr:street#Tegskiftesgatan
+n 1`KVi 7(Etic 6/AY% addr:housenumber#17 addr:street#Solskiftesgatan
+n 1`KVn 7(EtV" 5"Iq& addr:housenumber#21 addr:street#Solskiftesgatan
+n 1`KW" 7(EuFN 6/AQW addr:housenumber#10 addr:street#Tegskiftesgatan
+n 1`KW6 7(Euw^ 6/Amz addr:housenumber#2 addr:street#Institutsgatan
+n 1u%T[ 7(EwmG 6/Bj| bus#yes local_ref#C name#Rambergsvallen_Läge_C public_transport#stop_position
+n 1u%UY 7(Ex9e 5"I~< bus#yes local_ref#D name#Rambergsvallen_Läge_D public_transport#stop_position
+n 4J'2w 7(Etc0 6/@t2 name#Eketrägatan_Läge_A public_transport#stop_position tram#yes
+n 4J'2z 7(Etl> 6/@uC railway#crossing
+n 4J'32 7(Evh( 6/AxV name#Gropegårdsgatan_Läge_A public_transport#stop_position tram#yes
+n 4J'3; 7(Ex(_ 6/BuC name#Rambergsvallen_Läge_A public_transport#stop_position tram#yes

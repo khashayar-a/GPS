@@ -1,0 +1,70 @@
+n 5I8( 7(Ek*v 6/>oR highway#speed_camera
+n #$%B( 7(EjSK 6/>gG highway#motorway_junction name#Bräckemotet
+n #$%Gk 7(EjpH 5"IV[ highway#traffic_signals
+n #$%My 7(Ej99 6/>iv name#Bräckemotet
+n #$%PY 6fM}0 6/>bL highway#traffic_signals
+n %#EuX 7(Ej{[ 5"IVL highway#traffic_signals
+n %#EvW 7(Ejvq 5"IVE highway#traffic_signals
+n 'v;U} 7(Ej_7 6/>cB highway#give_way
+n /8fK} 7(Eih0 6/?K^ addr:housenumber#30 addr:street#Edvard_Rodhes_väg
+n /8fL. 7(EjFv 6/?%m addr:housenumber#14 addr:street#Bräcke_Västergårds_väg
+n /8fL1 7(Ej&< 6/?'h addr:housenumber#15 addr:street#Bräcke_Västergårds_väg
+n /8fL6 7(EiXZ 6/>~8 addr:housenumber#10A addr:street#Diakonivägen
+n /8fLC 7(EiwL 6/?Lh addr:housenumber#33 addr:street#Edvard_Rodhes_väg
+n /8fLJ 7(EiUs 6/?#G addr:housenumber#11 addr:street#Bräcke_Västergårds_väg
+n /8fLT 7(Ei`T 6/>wg addr:housenumber#10B addr:street#Diakonivägen
+n /8fOP 7(Eih> 6/?RC addr:housenumber#34 addr:street#Edvard_Rodhes_väg
+n /8fPY 7(EjKr 5"I^D addr:housenumber#15B addr:street#Ellen_Hanssons_Väg
+n /8fS$ 7(EjSd 6/?N{ addr:housenumber#12 addr:street#Ellen_Hanssons_Väg
+n /8fT< 7(EjBZ 5"I^S addr:housenumber#15A addr:street#Ellen_Hanssons_Väg
+n /8h#7 7(EfN4 6/?H` traffic_calming#yes
+n /8h$^ 7(EgAG 6/?.! traffic_calming#yes
+n /8h$f 7(Eet^ 6/?QJ traffic_calming#yes
+n /8h$y 6fMYJ 6/?9% traffic_calming#yes
+n 0{v[u 7(Eh/~ 6/?HJ addr:housenumber#3 addr:street#Smala_Vägen
+n 0{v\U 7(EgR9 6/?1t addr:housenumber#34 addr:street#Slånbärsvägen
+n 0{v]. 7(Ehd& 6/?JQ addr:housenumber#9 addr:street#Slånbärsvägen
+n 0{v]] 7(Eg}N 5"I]] addr:housenumber#1 addr:street#Smala_Vägen
+n 0{v`0 6fM`, 6/?,M addr:housenumber#35 addr:street#Slånbärsvägen
+n 0{v`k 7(Egn/ 6/?Iq addr:housenumber#17 addr:street#Stenåldersvägen
+n 0{va% 7(EhY| 6/?HS addr:housenumber#11 addr:street#Slånbärsvägen
+n 0{vbc 7(Eht5 6/?M# addr:housenumber#102 addr:street#Västra_bräckevägen
+n 0{vc# 7(Eh-* 6/?Dj addr:housenumber#18 addr:street#Slånbärsvägen
+n 0{vcX 7(Ehgh 6/?Gd addr:housenumber#106 addr:street#Västra_bräckevägen
+n 0{vca 7(Ehf1 6/?MM addr:housenumber#7 addr:street#Slånbärsvägen
+n 0{vd4 7(Egxn 6/?M\ addr:housenumber#15 addr:street#Stenåldersvägen
+n 0{vdY 7(Eg~1 6/?#0 addr:housenumber#53 addr:street#Utmarksgatan
+n 0{vdv 7(Ehb{ 6/?E6 addr:housenumber#108 addr:street#Västra_bräckevägen
+n 0{ve' 6fM`N 6/?)` addr:housenumber#51 addr:street#Utmarksgatan
+n 0{vgS 7(Ei$\ 6/?Qx addr:housenumber#98 addr:street#Västra_bräckevägen
+n 0{vgo 7(EgD< 6/?2] addr:housenumber#49 addr:street#Utmarksgatan
+n 0{vhH 6fM\! 6/?8q addr:housenumber#47 addr:street#Utmarksgatan
+n 0{vi= 7(Eh-R 6/?"N addr:housenumber#132 addr:street#Västra_bräckevägen
+n 0{viV 7(Ef]_ 6/?I3 addr:housenumber#43 addr:street#Utmarksgatan
+n 0{vi` 7(Eh]% 6/?B5 addr:housenumber#110 addr:street#Västra_bräckevägen
+n 0{vim 6fMh= 6/?E/ addr:housenumber#13 addr:street#Slånbärsvägen
+n 0{vj- 7(Eg*n 6/?@f addr:housenumber#30 addr:street#Stenåldersvägen
+n 0{vjO 7(Eh9N 6/?H9 addr:housenumber#16 addr:street#Slånbärsvägen
+n 0{vjY 7(Eg63 6/?;G addr:housenumber#31 addr:street#Stenåldersvägen
+n 0{vk8 7(Eh)" 6/?Fy addr:housenumber#4 addr:street#Smala_Vägen
+n 0{vky 7(Ef`] 6/?Ky addr:housenumber#27 addr:street#Fornminnesvägen
+n 0{vlZ 6fMkp 6/?OV addr:housenumber#100 addr:street#Västra_bräckevägen
+n 0{vmO 7(EhNd 6/?C/ addr:housenumber#15 addr:street#Slånbärsvägen
+n 0{vm^ 6fMjM 6/?JL addr:housenumber#104 addr:street#Västra_bräckevägen
+n 0{vmk 7(EhxJ 6/?Qx addr:housenumber#3 addr:street#Slånbärsvägen
+n 0{vmv 7(Ef}{ 6/?A% addr:housenumber#45 addr:street#Utmarksgatan
+n 0{vnq 7(EgyW 6/?If addr:housenumber#2 addr:street#Smala_Vägen
+n 0{vo& 7(EhqM 6/?OQ addr:housenumber#5 addr:street#Slånbärsvägen
+n 0{}0J 7(Eio~ 6/?UX addr:housenumber#36 addr:street#Edvard_Rodhes_väg
+n 0{}0K 7(EifT 6/?7U addr:housenumber#5 addr:street#Bräcke_Västergårds_väg
+n 0{}0V 7(Eh{5 6/?TV addr:housenumber#1 addr:street#Slånbärsvägen
+n 0{}0W 7(EgS( 6/?'' addr:housenumber#64B addr:street#Utmarksgatan
+n 0{}0Y 7(Ej4o 6/?*U addr:housenumber#12 addr:street#Bräcke_Västergårds_väg
+n 0{}0] 7(Ei%! 6/?UC addr:housenumber#11 addr:street#Sommersgatan
+n 0{}0d 7(EiVV 6/?60 addr:housenumber#7 addr:street#Bräcke_Västergårds_väg
+n 0{}0j 7(Ega2 6/?#g addr:housenumber#66A addr:street#Utmarksgatan
+n 0{}0{ 7(Eiyw 6/?(L addr:housenumber#13 addr:street#Bräcke_Västergårds_väg
+n 0{}1$ 7(Ege^ 6/?"l addr:housenumber#66B addr:street#Utmarksgatan
+n 0{}12 6fMlh 6/?SH addr:housenumber#96 addr:street#Västra_bräckevägen
+n 0{}16 6fM^$ 6/?(( addr:housenumber#64A addr:street#Utmarksgatan
+n 1u%T; 7(EiIv 6/?WJ highway#bus_stop name#Bräcke_Östergård

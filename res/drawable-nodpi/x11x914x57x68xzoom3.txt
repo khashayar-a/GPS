@@ -1,0 +1,103 @@
+w ")2;j building#yes
+d .+96v 7(EP@# 6/Az"
+d -[?nM 7(EP3* 6/A{%
+d -[?nm 6fK=* 6/A{q
+d -[?me 7(EOkp 6/Am!
+d -[?nH 7(EP"Y 6/Al0
+d -[?oU 7(EP.G 6/Ak*
+d .+95} 7(EP@I 6/ArY
+d -[?nV 7(EPMS 6/AqS
+d -[?n> 7(EP;{ 6/Aj*
+d -[?nQ 7(EPN" 6/AfZ
+d -[?oi 7(EQ7# 6/ArH
+d -[?o< 7(EQ2? 6/AsF
+d -[?m) 7(EPkK 6/AvO
+d .+96% 6fKBT 6/As.
+d .+95s 7(EPAx 6/Atj
+d .+96v 7(EP@# 6/Az"
+w ")2;d building#yes
+d -[?nS 7(EPCg 6/Adq
+d 2:2;` 7(EP6] 6/AgY
+d -[?o6 7(EO|^ 6/AiT
+d -[?m! 7(EOh? 6/AjJ
+d -[?oX 7(EO\5 6/A`F
+d -[?oV 7(EOum 6/A]Z
+d -[?nS 7(EPCg 6/Adq
+w "dW8r building#yes
+d 3v5DP 7(EOq_ 6/AL^
+d 3v5DQ 7(EOsh 6/AM%
+d 3v5DO 7(EOpQ 6/AM^
+d 3v5DM 7(EOnG 6/AM9
+d 3v5DP 7(EOq_ 6/AL^
+w "@1ao building#yes
+d 0CqHt 7(EOh~ 6/AAT
+d 0CqF1 7(EOj7 6/ABT
+d 0CqCC 7(EOeP 4.NL
+d 0CqIO 7(EOd9 6/AAg
+d 0CqHt 7(EOh~ 6/AAT
+w "2!"s building#yes
+d .c]Js 7(EKIq 6/B-w
+d .c]Jr 7(EKOs 6/B/1
+d .c]K) 7(EKST 6/B.P
+d .c]Ii 7(EKb$ 5"Iw8
+d .c]K1 7(EKc9 6/B12
+d .c]K' 6fJtV 6/B3g
+d .c]J' 7(EKo= 6/B5+
+d .c]I} 7(EKg` 6/B4*
+d .c]KI 7(EKc\ 6/B5)
+d .c]I] 7(EKWX 6/B3=
+d .c]J" 6fJqf 6/B3-
+d .c]Id 7(EKJS 6/B0G
+d .c]KK 7(EKI[ 6/B0W
+d .c]JX 6fJoU 6/B//
+d .c]Js 7(EKIq 6/B-w
+w "dYAX building#yes
+d 3v]|A 7(EOF| 6/B0F
+d 3v]|I 7(EON{ 6/B0B
+d 3v]|J 7(EOO] 6/B4d
+d 3v]|B 7(EOG^ 6/B4h
+d 3v]|A 7(EOF| 6/B0F
+w kSpy building#yes
+d *t'Hk 7(EOe^ 6/ACJ
+d *t'Hv 6fK7# 6/AE!
+d *t'I< 7(EOCb 6/AG"
+d *t'I7 7(EOh, 6/AEL
+d *t'Hk 7(EOe^ 6/ACJ
+w "dYAY building#yes
+d 3v]|< 7(EO<- 6/B0q
+d 3v]|= 7(EO<: 6/B4o
+d 3v]|8 7(EO,: 5"IwX
+d 3v]|7 7(EO,. 6/B0s
+d 3v]|< 7(EO<- 6/B0q
+w kSq* building#yes
+d *t'IQ 7(EP22 6/AN5
+d *t'I- 7(EOjn 6/AH%
+d *t'I, 7(EOcA 6/AI\
+d *t'Ht 5'yo, 6/AOl
+d *t'IQ 7(EP22 6/AN5
+w "-#n4 amenity#fast_food building#yes
+d .+96\ 6fK== 6/AS$
+d .+96n 7(EP'c 6/AT!
+d .+96/ 7(EO~K 6/AU[
+d .+96| 7(EOxK 6/ATc
+d .+96\ 6fK== 6/AS$
+w kSp| building#yes
+d *t'IP 7(EO}i 6/AR9
+d *t'IN 7(EOWh 6/AL#
+d *t'HS 6fK8R 6/AM\
+d *t'I@ 7(EOv6 6/ASr
+d *t'IP 7(EO}i 6/AR9
+w "i`k- building#yes
+d 4JT>T 7(EL?v 6/B5=
+d 4JT>R 7(EL>k 6/B;;
+d 4JT>; 7(EL&r 6/B;,
+d 4JT>K 6fJv7 6/B8Z
+d 4JT>N 7(EL3r 5"Iw|
+d 4JT>P 7(EL4Q 6/B56
+d 4JT>T 7(EL?v 6/B5=
+w "dYAW building#yes
+d 3v]|2 7(EN}` 6/B0l
+d 3v]|3 7(EN}y 6/B4y
+d 3v]|/ 7(ENu! 5"IwY
+d 3v]|. 7(ENte 6/B0n
+d 3v]|2 7(EN}` 6/B0l

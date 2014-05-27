@@ -1,0 +1,371 @@
+w "ohUI access#no highway#service name#Östra_Hamngatan oneway#yes psv#yes railway#tram
+d 3]clL 7(Ef1I 6/GdV
+d 3]cl= 6fMR? 6/GcZ
+d 3]cl] 7(EfN6 6/G`O
+d 3]cl_ 7(Efgo 6/G\|
+d 3]cl6 7(Efpw 6/G[{
+d 3]cl5 7(Eg%j 6/GZ8
+w "jZ2t highway#footway
+d 4ta)L 7(Ei~c 6/GUg
+d (7h[E 7(Ej#7 6/GUY
+d #(m5Q 7(Ej0\ 6/G^8
+d 4ta)O 6fMxg 6/Gi6
+d (7h[G 7(Ej?x 6/Gi8
+w D/h= highway#cycleway
+d %#bTz 7(Ei>G 6/GM2
+d )>Gpe 7(Eib, 6/GK6
+w "Xy{# access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 1C6jQ 6fMu8 6/GNB
+d 2gcS' 7(Eiyx 6/GMj
+d 2gcS1 7(Eix] 6/GMD
+d 2gcSH 7(EivZ 6/GLv
+d 2gcS? 7(Eisc 6/GLK
+d 2gcSF 7(EiqT 6/GL7
+d 2gcSl 7(EioE 6/GL&
+w "Xy:m bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gfW" 7(Eh>G 6/FuR
+d 2gcyf 7(Eh@m 6/Fu^
+d 2gcyt 7(EhEE 5"JEd
+d 2gcy^ 7(EhI$ 6/Fvg
+d 2gcy` 7(EhKc 6/FwD
+d 2gcyn 7(EhMp 6/Fx1
+w "Xy\P access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gcTe 7(EiU6 6/GL`
+d 2gcTH 7(EiQV 6/GLg
+d 2gcTB 7(EiN& 6/GLf
+d 2gcT? 7(EiKi 6/GL[
+d 2gcS@ 7(EiHV 6/GLF
+d 2gcS! 7(EiFI 6/GL.
+d 2gcS& 7(EiCa 6/GKc
+d 2gcS` 7(EiA* 6/GK0
+d 2gcTQ 7(Ei?+ 6/GJ^
+d 2gcSa 7(Ei=C 6/GJ*
+d 2gcT# 7(Ei;E 6/GI4
+w "J>{! access#no bridge#yes highway#service lanes#1 layer#1 oneway#yes psv#yes railway#tram
+d 2gfV> 7(Eid< 6/GLL
+d 2gfV< 7(Eig/ 6/GLR
+d 2gfVr 7(Eiie 5"JJ{
+d 2gfV[ 6fMsj 6/GLf
+d 2gfVb 7(Eio* 6/GLv
+d 2gfVN 7(Eiq) 6/GM.
+w ^;5= bridge#yes highway#cycleway
+d )>GpU 4b>$ 6/GM#
+d )>GpA 7(Eif< 6/GMX
+w "Xyz~ access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gj}= 7(Ei'l 6/GOv
+d 2gj}B 7(Ei+` 6/GOj
+d 2gj|d 7(Ei/@ 6/GOj
+d 2gj|x 6fMn$ 6/GOq
+d 2gj|g 7(Ei7$ 6/GP!
+d 2l8g9 7(Ei8~ 6/GP+
+w "Xy\o bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gj}= 7(Ei'l 6/GOv
+d 2l8gG 7(EiE+ 6/GN3
+d 2gfV_ 7(EiU[ 6/GM7
+w _T~l highway#footway name#Götgatan wikipedia#sv:Götgatan,_Göteborg
+d $a./| 7(Ej;w 6/G]`
+d #(m5Q 7(Ej0\ 6/G^8
+d iH{\ 7(Ej.? 6/G^D
+w D%"E highway#cycleway
+d %#beJ 7(Eft/ 6/G\e
+d 3]cl6 7(Efpw 6/G[{
+d )>FVp 7(Efnb 6/G[R
+d %#c(O 7(Efh] 5"JL?
+w "YQZW access#no bus#yes highway#service name#Östra_Hamngatan oneway#yes taxi#yes wikipedia#sv:Östra_Hamngatan
+d 2l8g9 7(Ei8~ 6/GP+
+d 2l8gG 7(EiE+ 6/GN3
+w CKlK foot#yes highway#footway name#Kyrkogatan
+d %$=WF 6fMZr 6/Fx}
+d %#{-? 7(Eg3k 6/F{t
+w "Xy\L access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C6jO 7(EiK^ 6/GS-
+d 3/$O4 7(EiEl 6/GOF
+d 2gj}( 7(EiDY 5"JK1
+d 2gcT# 7(Ei;E 6/GI4
+w "J?fl access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C3lj 7(Ej.K 6/Gr!
+d 1C3lE 7(Ej(% 6/GqU
+d 1C3l\ 7(Ej#i 6/Gq,
+d 1C3lg 7(Ei~A 6/GpV
+d 1C3l% 7(Eiz~ 6/Goj
+d 1C3lx 7(Eixx 6/Gnz
+d 1C3lV 7(Eiu, 6/Gl}
+d 1C3m7 7(EieV 6/Gb~
+d 4T.(0 7(EicD 6/Ga_
+d 1C6jO 7(EiK^ 6/GS-
+w "Xy\l access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#no
+d 1C6jO 7(EiK^ 6/GS-
+d 2gj}9 7(EiIy 6/GRE
+d 2gj|Q 6fMp* 6/GQ_
+d 2gj}6 7(EiFB 6/GQ2
+d 2gj}8 7(EiCa 6/GPW
+d 2gj}! 7(Ei?z 6/GOx
+d 2gj|u 7(Ei=; 5"JK:
+d 2gj}- 6fMn` 6/GOE
+d 2gj}@ 6fMnD 5"JK6
+d 2gj}A 7(Ei3a 6/GO+
+d 2gj|y 7(Ei0c 6/GO$
+d 2gj}, 7(Ei-m 6/GO(
+d 2gj}? 7(Ei+R 6/GO,
+d 2gj|~ 7(Ei'# 6/GO9
+w ^;5> bridge#yes highway#cycleway
+d )>Gpe 7(Eib, 6/GK6
+d )>Gpi 7(Eim0 6/GJ`
+w "Xy{" access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gcT0 7(Eic@ 6/GKw
+d 2gcTe 7(EiU6 6/GL`
+w "Xy{& access#no bridge#yes bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gfV> 7(Eid< 6/GLL
+d 2goEO 7(Eio" 5"JJt
+w ^;5? highway#cycleway
+d )>Gpi 7(Eim0 6/GJ`
+d #8PIH 7(Eit| 5"JJb
+w &-Ma highway#service name#Östra_Larmgatan oneway#yes
+d ?l0y 7(Eg04 6/Gb=
+d %#beJ 7(Eft/ 6/G\e
+w "i\^k access#no highway#service name#Östra_Hamngatan oneway#yes psv#yes railway#tram wikipedia#sv:Östra_Hamngatan
+d 2goEM 7(Ei~Y 6/GJ|
+d $\#x` 7(Ej:G 6/GIP
+d %!G%\ 6fMz~ 6/GH$
+d %!G&s 7(Ek.T 4.T-
+d :)of 7(EkA$ 6/GDo
+d $\#g5 7(El6z 5"JIa
+d $\#gC 7(ElNE 6/G>V
+d :)og 7(Elbb 6/G=X
+d K"\ 7(El}$ 6/G<9
+d 6#M$I 6fN4h 6/G;f
+d '+:5O 7(Em1r 6/G;F
+d 1iNNQ 7(Em;y 6/G;F
+d )M%i8 7(EmCD 6/G;f
+d 1iNNN 7(EmH| 6/G</
+d )M%i7 7(EmMJ 6/G<^
+d 5?myS 7(EmSc 6/G=q
+d 1iNNM 7(EmYG 6/G?5
+d "hniB 7(Em]X 6/GA9
+d "hni@ 7(Emho 6/GJ/
+d "hni> 7(Emq> 5"JK>
+w CKm' access#no bicycle#yes cycleway#lane highway#service name#Kungsportsplatsen oneway#yes psv#yes
+d %#c(O 7(Efh] 5"JL?
+d 5+GnR 7(Ef?9 6/G`'
+d "fE3: 7(Ef5v 6/GbC
+w "YQLq bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2l5o} 7(Ei3= 6/GMk
+d 2gj|j 7(Ei1" 6/GN8
+d 2gj|f 7(Ei.3 6/GN`
+d 2gj|V 7(Ei+[ 6/GNy
+d 2gj|~ 7(Ei'# 6/GO9
+w "y4Y( highway#footway
+d 6#M$' 7(Ej[l 6/G%.
+d 6#M$% 7(EjY: 6/G%;
+w "J?.1 access#no bus#yes highway#service lanes#1 name#Norra_Hamngatan oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 1C*]I 7(EjSr 5"JNT
+d 1C3li 7(EjII 6/Gii
+d 1C3k} 7(Ej9W 6/G_b
+d 1C3lf 7(Ej)@ 6/GUa
+d 1C6jK 7(Ei}, 6/GO8
+d 1C6jQ 6fMu8 6/GNB
+w "iwV" access#no bus#yes highway#service lanes#1 name#Norra_Hamngatan oneway#yes psv#yes railway#tram
+d 2gfVN 7(Eiq) 6/GM.
+d 2gfVc 7(EitT 6/GMa
+d 2gcS~ 7(EivW 6/GN,
+d 1C6jS 6fMtx 6/GN[
+d 1C6jT 7(Eiz( 6/GOI
+d 1C3lB 7(Ei{Y 5"JK@
+d 1C3lR 7(Ej%D 6/GUJ
+d 1C3l7 7(Ej56 6/G_6
+d 1C3l} 7(EjII 6/Gk}
+d 1C*[5 7(EjRl 6/Gqk
+w "iwV# access#no bridge#yes bus#yes highway#service lanes#1 layer#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gcSl 7(EioE 6/GL&
+d 2gcSt 6fMsZ 6/GKm
+d 2gcT- 7(EihZ 6/GKj
+d 2gcS0 7(EieW 5"JJt
+d 2gcT0 7(Eic@ 6/GKw
+w D%"F highway#cycleway
+d %*L42 7(EfnG 6/GT%
+d %#bd! 7(EfwF 6/GY'
+w "ohUN access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gcT; 6fMdN 6/Ftr
+d 2gcS4 7(Egt^ 5"JEe
+d 2gcSw 7(Ega< 6/Fw?
+d 2gcTF 5'z'4 6/Fwj
+d 2gcTN 7(EgOZ 6/Fx?
+d 2gcT/ 7(EgBl 6/Fy.
+d 2gcTR 7(Eg6v 6/Fyy
+d 2gcTT 7(Eg0Q 6/Fz<
+d 2gcSi 7(Eg)V 6/Fz`
+d 2gcSU 6fMVH 6/F|m
+d 2gcSQ 7(EfZ' 6/F}5
+d 2gcSZ 7(EfS& 6/F}[
+d 2gcSG 7(EfCI 6/F~7
+d 2gcT= 7(Ef(n 6/G![
+d 2gqAU 7(Ef!L 5"JFc
+d 2gcS_ 7(Eeoe 6/G"u
+d 2gcT! 7(EeYb 6/G$-
+d 2gcSJ 7(EeI~ 6/G%$
+d 2gqAB 6fMJ9 6/G%8
+w D/h> highway#cycleway
+d 2l8g7 7(EixF 6/GL]
+d )>GpU 4b>$ 6/GM#
+w ^;.C access#no highway#service oneway#yes psv#yes
+d %#beJ 7(Eft/ 6/G\e
+d 3]cl5 7(Eg%j 6/GZ8
+w VW<@ bridge#yes highway#footway name#Brunnsparksbron wikipedia#sv:Brunnsparksbron
+d (7h[K 6fMtK 6/GVE
+d 4ta)L 7(Ei~c 6/GUg
+w "Xy\r bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gcyx 7(Ei8G 6/GII
+d 2gfVG 7(Ei:) 6/GJ?
+d 2gfVt 6fMnt 6/GK+
+d 2gfVZ 7(Ei>I 6/GKt
+d 2gfV` 7(EiA8 6/GLJ
+d 2gfW% 7(EiD` 6/GLw
+d 2gfVX 7(EiGW 6/GM7
+d 2gfV= 7(EiLZ 6/GMN
+d 2gfW# 7(EiPO 6/GMH
+d 2gfV_ 7(EiU[ 6/GM7
+w "oj]J access#no bus#yes highway#service lanes#1 name#Östra_Hamngatan oneway#yes psv#yes railway#tram taxi#yes tracks#1 wikipedia#sv:Östra_Hamngatan
+d 3]cl5 7(Eg%j 6/GZ8
+d 3]clX 7(EgPX 6/GWT
+d 3]cl< 7(Eg}l 6/GU:
+d 2gj|X 7(EhlN 5"JKI
+d 2gj}= 7(Ei'l 6/GOv
+w ^;5: highway#cycleway
+d )>GpA 7(Eif< 6/GMX
+d 3/$O4 7(EiEl 6/GOF
+d 2l8g9 7(Ei8~ 6/GP+
+w CN-j foot#yes highway#footway name#Kungsgatan
+d %#{/& 7(EfUM 6/F{{
+d ?n0y 7(EfY> 6/F~H
+d %#{1X 7(EfZ% 6/F~z
+w "Xy{% access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2goEO 7(Eio" 5"JJt
+d 2goER 7(Eiy0 6/GK7
+d 2goEM 7(Ei~Y 6/GJ|
+w "Xy{! bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gfV_ 7(EiU[ 6/GM7
+d 2gfVa 7(Ei^. 6/GLi
+d 2gfV> 7(Eid< 6/GLL
+w "y4Y2 highway#footway
+d 6#M$# 7(EjO, 6/Fze
+d 6#M$" 7(EjL@ 6/Fzs
+w "wVkI highway#footway
+d 5rNe% 7(EiLQ 6/G*~
+d 5rNe& 7(EiLr 6/G+8
+d 5rNe' 7(EiN& 6/G,,
+w CKlI foot#yes highway#footway name#Kyrkogatan
+d %#bX^ 6fMcR 6/GS:
+d ?l0z 7(Eh)a 5"JKc
+d %#bg" 7(Eh+v 6/GU\
+w "wVkF highway#steps
+d 5rNe' 7(EiN& 6/G,,
+d 5rNe( 7(EiO_ 6/G-/
+w CKl= foot#yes highway#footway name#Drottninggatan
+d %#bXW 7(Eh]l 6/GPX
+d ?l0v 7(Eh_. 6/GQ>
+d %#bf} 7(EhaE 6/GRw
+w "Xy{$ access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 4J'1o 7(Ei~$ 6/GJE
+d 2goET 7(Eix8 6/GJ^
+d 2goEJ 7(Ein) 6/GK8
+w "ohUW access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gcSW 6fMJA 6/G%o
+d 2gcSD 7(EeTQ 6/G%)
+d 2gcS: 7(Eez[ 6/G"z
+d 2gqAX 7(Ef"G 6/G"\
+d 2gcSB 7(Ef,y 6/G"$
+d 2gcSk 7(Ef<V 6/G!3
+d 2gcT, 7(EfHZ 6/F~^
+d 2gcSS 7(EfQa 6/F~8
+d 2gcyd 7(EfW0 6/F~#
+d 2gcya 6fMVd 6/F}?
+d 2gcyg 7(Eg): 6/F{D
+d 2gcy\ 7(Eg9f 6/FzJ
+d 2gcyl 7(EgFZ 5"JF&
+d 2gcym 7(EgNp 6/Fy"
+d 2gcyq 7(EgTO 6/Fx]
+d 2gcyb 7(EgcB 6/Fwr
+d 2gcyo 7(Egyo 6/Fv^
+d 2gcyr 7(Eh-Y 5"JE`
+d 2gcyv 7(Eh3F 6/FuK
+d 2gcyw 6fMe* 6/FuD
+d 2gcyj 7(Eh<7 6/FuJ
+d 2gfW" 7(Eh>G 6/FuR
+w "Xyz} access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gcTe 7(EiU6 6/GL`
+d 2gj|~ 7(Ei'# 6/GO9
+w CKl` access#no bicycle#yes cycleway#lane highway#service name#Kungsportsplatsen oneway#yes psv#yes
+d "fEet 7(Ef=g 6/Gcy
+d 5+GnS 6fMTK 6/GbL
+d 5+GnV 6fMWQ 6/G^(
+d %#beJ 7(Eft/ 6/G\e
+w ^;.N access#no highway#service oneway#yes psv#yes
+d )>FV2 7(Eg$a 6/GYO
+d %#c(O 7(Efh] 5"JL?
+w "wVkG highway#footway
+d 5rNe) 7(EiQt 6/G*~
+d 5rNe& 7(EiLr 6/G+8
+w "Xy\d access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram taxi#yes tracks#1
+d 2gj}= 7(Ei'l 6/GOv
+d 2gj}3 7(Ei,5 6/GO[
+d 2gj}# 7(Ei0M 6/GO<
+d 2gj|O 7(Ei3E 5"JK3
+d 2gj|Z 6fMn@ 6/GNG
+d 2gj}) 7(Ei8) 5"JK*
+d 2gj}+ 7(Ei:D 6/GM<
+d 2gj}" 7(Ei;q 6/GLd
+d 2gj|M 7(Ei<p 6/GKz
+d 2gj}. 7(Ei=6 6/GK(
+d 2gj}5 7(Ei<o 6/GJ9
+d 2gcT# 7(Ei;E 6/GI4
+w "Xy{' access#no bridge#yes bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2goEJ 7(Ein) 6/GK8
+d 2gcT0 7(Eic@ 6/GKw
+w ^;.F access#no highway#service name#Östra_Hamngatan oneway#yes psv#yes railway#tram
+d )>FV2 7(Eg$a 6/GYO
+d )>FVp 7(Efnb 6/G[R
+d JR3 7(Efet 6/G\P
+w "wVkH highway#steps
+d 5rNe$ 7(EiJp 6/G)y
+d 5rNe% 7(EiLQ 6/G*~
+w 5FeB bridge#yes foot#yes highway#footway name#Tyska_Bron
+d ?n1& 7(Ehnt 6/G2A
+d ?z7k 7(EiI> 6/G/6
+w "]?=G area#yes highway#footway leisure#square name#Brunnsparken wikipedia#sv:Brunnsparken,_Göteborg
+d 3/$O4 7(EiEl 6/GOF
+d 3/$Nx 7(Eib6 6/G`m
+d 3/$O0 7(Eif< 6/GaE
+d 3/$Nn 7(Ej$l 6/G`!
+d #(m5& 7(Ej#A 6/G_"
+d (7h[K 6fMtK 6/GVE
+d )>GpA 7(Eif< 6/GMX
+d 3/$O4 7(EiEl 6/GOF
+w &-Mb access#no bus#yes highway#service lanes#1 name#Östra_Hamngatan oneway#yes psv#yes railway#tram taxi#yes tracks#1 wikipedia#sv:Östra_Hamngatan
+d 2gj|~ 7(Ei'# 6/GO9
+d ?l0v 7(Eh_. 6/GQ>
+d ?l0z 7(Eh)a 5"JKc
+d JRG 7(EgO; 6/GVj
+d 3]clP 7(Eg<b 5"JL(
+d )>FV2 7(Eg$a 6/GYO
+w D$d= access#no highway#service name#Kungsportsplatsen oneway#yes psv#yes railway#tram
+d JR3 7(Efet 6/G\P
+d ?l0n 7(Ef8X 6/Gbt
+d )>FTt 7(Ef.Z 6/Gd?
+w 4GR[ bridge#yes highway#footway layer#1 name#Fredsbron wikipedia#sv:Fredsbron
+d #(m5& 7(Ej#A 6/G_"
+d iH{\ 7(Ej.? 6/G^D
+w CN,} foot#yes highway#footway name#Drottninggatan
+d %#{,X 7(Egd! 6/FvO
+d %#{,T 7(EggY 5"JE|
+w "Xy\T access#no bus#yes highway#service lanes#1 oneway#yes psv#yes railway#tram tracks#1
+d 2gcT# 7(Ei;E 6/GI4
+d 2gcT4 7(Ei17 6/GC&
+d 2gcTf 7(Ei%( 6/G:h
+d 2gcSC 7(EhRS 5"JEz
+d 2gcT6 7(EhOQ 6/Fw4
+d 2gcTd 7(EhKU 6/Fv/
+d 2gcT> 7(EhHB 6/FuZ
+d 2gcS- 7(EhCM 5"JEZ
+d 2gcST 7(Eh=a 6/Fte
+d 2gcS< 7(Eh83 6/Fte
+d 2gcT; 6fMdN 6/Ftr

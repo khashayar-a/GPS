@@ -1,0 +1,13 @@
+n $NxBJ 7(Ep4T 6/MeS highway#turning_circle
+n .ka^Q 7(E{Sq 6/MsI highway#traffic_signals
+n .n4JV 7(Eq$3 6/MdP amenity#recycling
+n 1nA>) 7(Ep~p 6/Mlc name#Sanatoriegatan railway#tram_stop
+n 1nA>+ 7(EtL( 6/Mvf name#Solrosgatan railway#tram_stop
+n 1nA>3 7(EqPe 6/Mmk name#Sanatoriegatan railway#tram_stop
+n 1nA>6 7(Etd/ 6/Mw} name#Solrosgatan railway#tram_stop
+n 1nA>; 7(EmR] 6/Me4 name#Kålltorp railway#tram_stop ref#B
+n 3j}9F 7(Es_t 6/KYn barrier#gate
+n 6!Pd- 7(Eo## 6/McL highway#turning_circle
+n 6!Pe, 7(Eq'O 6/MA, highway#turning_circle
+n 6!Pe0 7(Eq.0 6/MSv traffic_calming#hump
+n 6!Pe4 6fN[3 6/MeO traffic_calming#hump

@@ -1,0 +1,63 @@
+n JR. 7(Ea[v 6/Hi5 highway#traffic_signals
+n JR> 7(EcHM 6/I1% highway#traffic_signals
+n )sP= 7(Eg&7 6/IB2 highway#traffic_signals
+n 2k,m 7(Eap$ 6/IFe highway#traffic_signals
+n E[xS 7(Ed(y 6/IHw bicycle#yes crossing#uncontrolled highway#crossing
+n j2L~ 6fM*R 6/IQL highway#traffic_signals
+n j2M" 7(EfkO 6/IFQ bicycle#yes crossing#controlled highway#crossing
+n j2M+ 7(Eg)% 6/IF= highway#traffic_signals
+n j2M- 7(Ej78 6/IE2 highway#traffic_signals
+n "hmx; 7(EbU7 6/IN) name#Scandinavium railway#tram_stop
+n "hmx< 7(Ed*> 6/IJo highway#traffic_signals
+n "hmxB 7(Eg'} 6/IDb highway#traffic_signals
+n "iHi4 7(EfbL 6/I29 bicycle#yes crossing#uncontrolled highway#crossing
+n $}ujt 7(Efj8 6/ID~ bicycle#yes crossing#controlled highway#crossing
+n %#X\R 7(Ej%W 6/IA\ highway#traffic_signals
+n %#X\S 7(Ej&T 6/IE< highway#traffic_signals
+n '%I2\ 6fM:c 6/I"s name#Hotell_Liseberg_Heden tourism#hotel wheelchair#yes
+n '%I3R 7(Eb1| 6/IPe bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n '%I3j 7(Ec@1 6/I/2 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (Xfq3 7(Eavu 6/IEl bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n (Xfq7 7(Eb0G 6/ILk bicycle#yes crossing#traffic_signals crossing_ref#zebra highway#crossing
+n (XfqD 7(Ec?p 6/I29 bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqG 7(EcQ_ 6/I/Y bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqJ 7(EcN^ 6/I2Q bicycle#yes crossing#uncontrolled crossing_ref#zebra highway#crossing
+n (XfqM 7(Efq| 6/I@; bicycle#yes crossing#controlled highway#crossing
+n (XfqO 7(Eg%# 5"J\P bicycle#yes crossing#controlled highway#crossing
+n )T(5? 7(Eb%7 6/I@F amenity#restaurant name#Trattoria_da_Pasquale
+n +<nWf 7(EdK\ 6/IDz amenity#bicycle_rental capacity#20 name#Bergakungen network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#30
+n +<nWl 7(EeF. 6/Hoh amenity#bicycle_rental capacity#30 name#Heden/Sten_Sturegatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#15
+n -XR]k 7(EfhQ 6/IB` bicycle#yes crossing#controlled highway#crossing
+n -XR_# 7(Eg3f 6/IB% bicycle#yes crossing#controlled highway#crossing
+n 0uNG. 7(Edy_ 6/Hgi name#Heden place#suburb
+n 1d]6V 7(Eg6F 6/IF> bicycle#yes crossing#controlled highway#crossing
+n 1d]6i 7(Efr> 6/I0q crossing#uncontrolled highway#crossing
+n 1d]6v 7(Eb{A 5"J]\ crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]6x 7(Ed+5 6/IL@ bicycle#yes crossing#uncontrolled highway#crossing
+n 1d]8/ 7(Ec'1 5"J]| crossing#traffic_signals crossing_ref#zebra highway#crossing
+n 1d]8K 7(Efz( 6/IHX bicycle#yes crossing#controlled highway#crossing
+n 1d]8U 7(Eg5: 6/IDS bicycle#yes crossing#controlled highway#crossing
+n 1d]8Y 7(Eg)y 6/IHB bicycle#yes crossing#controlled highway#crossing
+n 1eSpL 7(Ebl, 6/I(> building#yes
+n 2Z'}( 7(Ej.| 6/IE7 highway#traffic_signals
+n 3]d,n 7(EgQH 6/IDI name#Ullevi_Södra railway#tram_stop
+n 3]d-( 7(Efik 6/IDD bicycle#yes crossing#controlled highway#crossing
+n 3]d-: 7(Eg4s 6/ICv bicycle#yes crossing#controlled highway#crossing
+n 3]d-[ 7(EfQ- 6/IDi name#Ullevi_Södra railway#tram_stop
+n 3]dA] 7(EfwK 6/IFB highway#traffic_signals
+n 3]dAj 7(Efs; 6/IBH highway#traffic_signals
+n 3]f|[ 7(Ed6i 5"J]C highway#traffic_signals
+n 3]f|g 7(Ed2N 6/IFh highway#traffic_signals
+n 3]}}a 7(Efu? 6/ID6 highway#traffic_signals
+n 3]}}d 7(Efuo 6/IDo highway#traffic_signals
+n 3]}}f 7(Eg'P 6/ID! highway#traffic_signals
+n 3gT*y 7(EdAf 6/IH7 highway#traffic_signals
+n 3gT*z 7(Ed>t 6/IF: highway#traffic_signals
+n 3gT*{ 6fM@z 6/IKS highway#traffic_signals
+n 3gT*| 7(Ed<_ 6/IKn highway#traffic_signals
+n 3gT*} 7(EdC0 6/IIU highway#traffic_signals
+n 3gT*~ 7(Ed9[ 6/IIn highway#traffic_signals
+n 3gT+! 7(EdD; 6/IJ3 highway#traffic_signals
+n 3gT+" 7(Ed*# 6/IJ8 highway#traffic_signals
+n 3gT+# 7(Ed:k 6/IJJ highway#traffic_signals
+n 41V#{ 7(Ec]- 6/ICI name#Scandic_Opalen tourism#hotel

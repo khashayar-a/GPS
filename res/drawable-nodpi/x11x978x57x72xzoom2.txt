@@ -1,0 +1,90 @@
+w "OFS_ highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d 1o;4y 7(Exl{ 6/Ix=
+d 1o;4b 7(E}%d 6/I::
+w &H," highway#motorway lanes#1 maxspeed#70 name#Lundbyleden oneway#yes ref#155;E_6.21
+d 5IE, 7(E~]F 4.U\
+d 'ttj( 7(E~Sb 6/I""
+d 'ttj' 7(E~F' 6/I$Q
+d 5IE- 7(E~,& 6/I(b
+d 'ttj$ 7(E}IE 6/I2d
+d 1o;4} 7(E}7G 6/I5F
+d 1o;4e 7(E|~h 6/I9'
+w g`eX highway#motorway int_ref#E_06 lanes#1 maxspeed#70 oneway#yes ref#E_6
+d 1`s 7(E}X| 6/I,`
+d 1o;4x 7(E}H| 6/I/{
+d 1`t 7(E}9> 6/I2t
+d B5Ub 6fOkb 6/I7}
+w 2L;L highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d B5Ub 6fOkb 6/I7}
+d 1`w 7(Exen 6/Iuf
+w &H,$ highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d :gb` 7(ExqP 6/Iy2
+d B5Uc 7(E}+9 6/I;N
+w "OFSl highway#motorway lanes#1 maxspeed#70 oneway#yes ref#E_6
+d 1o;4b 7(E}%d 6/I::
+d 1o;4f 7(E}5m 6/I7[
+d 1o;4d 7(E}@m 6/I6>
+w "OFS` highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d 1o;4e 7(E|~h 6/I9'
+d 1o;4{ 7(Exiv 6/Ivd
+w 4zu9 highway#tertiary name#Salsmästaregatan
+d "6h!u 7(E}-@ 6/H^%
+d "6h!x 7(E}oX 6/HrQ
+d "6h!{ 7(E}pN 5"JXE
+d "6h!~ 7(E}ja 6/Hw"
+d "6h"" 6fOil 6/I.G
+d $he]\ 7(E|]0 6/I0i
+d "6h"& 7(E|Y! 6/I2?
+d $he]] 7(E|YJ 6/I4"
+d "6h"' 7(E|c+ 6/I6B
+d "6h"( 7(E}cB 5"J]_
+d "6h") 7(F!PZ 6/I`.
+d $hedr 7(F!Zp 6/Ia?
+d $he\] 7(F!c! 6/Iak
+d $hegJ 7(F!kb 6/Ia_
+d "6h"+ 7(F!vm 6/I`1
+d "6h", 7(F""9 6/I]b
+d 1&ZBM 7(F#'e 5"J\z
+d "6h". 7(F#-. 6/IBr
+d $hefC 7(F#4? 6/IA>
+d 1&ZDa 7(F#9P 6/I@@
+d "6h"0 7(F#@Q 6/I?F
+d $hefD 7(F#L5 6/I?,
+d "6h"1 7(F#Z[ 6/I?8
+d &#a!* 7(F#l0 6/I@B
+d $hei/ 7(F$[H 6/IE.
+d "tFi} 6fPG- 6/IG]
+d $he[l 7(F%rV 6/INN
+d "6h"3 7(F&!X 6/IOL
+w "OFSi highway#motorway int_ref#E_06 lanes#1 maxspeed#70 oneway#yes ref#E_6
+d 1o;4o 7(E}(e 5"J[~
+d 1o;4j 6fOnC 6/I8p
+d B5Ud 7(E}FG 6/I7F
+w "OFSa highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d 1o;4| 6fOE! 6/Ixh
+d 1o;4o 7(E}(e 5"J[~
+w "OFSf highway#motorway int_ref#E_06 lanes#1 maxspeed#70 oneway#yes ref#E_6
+d 1o;4i 7(E}f4 6/I*v
+d 1o;4q 6fOqr 6/I-x
+d 1o;4m 7(E}Q" 6/I/_
+d 1o;4s 7(E}GH 6/I1J
+d 1o;4n 7(E}<< 6/I3E
+d 1o;4k 7(E}1? 6/I5<
+d 1o;4p 6fOlu 5"J[X
+d 1o;4h 7(E|{n 6/I8[
+w &H,& highway#motorway int_ref#E_06 maxspeed#70 oneway#yes ref#E_6
+d B5Uc 7(E}+9 6/I;N
+d B5Ud 7(E}FG 6/I7F
+w &bfi abutters#industrial highway#tertiary name#Ringögatan
+d Ki( 7(EyP0 6/FwK
+d Ki3 7(Eymm 5"JG}
+d Ki5 6fOPc 6/G?q
+d Ki6 7(EzBa 6/GOy
+d "6a}[ 7(EzfE 6/G`f
+d KiE 7(E{13 6/Gt.
+d "6a~U 7(E{hC 6/H0L
+d KiF 7(E|0. 6/HAO
+d "6h!u 7(E}-@ 6/H^%
+w "OFSh highway#motorway int_ref#E_06 lanes#1 layer#-1 maxspeed#70 name#Tingstadstunneln oneway#yes ref#E6 tunnel#yes
+d 1o;4h 7(E|{n 6/I8[
+d 1o;4r 7(Exgd 6/Iv5

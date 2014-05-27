@@ -1,0 +1,4 @@
+n L"1 7(E}Us 6/L_Z highway#motorway_junction name#Ånäsmotet ref#75a
+n :?HP 7(E}T+ 6/M.I highway#motorway_junction name#Munkebäcksmotet ref#76
+n $oqNA 7(Exi{ 6/L_$ highway#turning_circle
+n 4F"H| 7(E}Cu 6/LVr highway#motorway_junction name#Ånäsmotet ref#75b

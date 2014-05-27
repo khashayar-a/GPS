@@ -1,0 +1,4 @@
+n JOV 7(FJEe 6/K`Y highway#motorway_junction name#Lärjemotet
+n /fJ`# 7(F,]v 5"Jk? beacon#yes light:category#flood man_made#beacon name#Nr7763 seamark#beacon
+n /fJbh 6fPy1 6/Jh: beacon#yes light:category#flood man_made#beacon name#Nr7761 seamark#beacon
+n /fJ_[ 7(F*5. 6/JYi beacon#yes light:category#flood man_made#beacon name#Nr7762 seamark#beacon

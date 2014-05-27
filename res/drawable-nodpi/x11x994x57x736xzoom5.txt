@@ -1,0 +1,6 @@
+n /fJf4 7(F-%* 6/Jho beacon#yes light:category#flood man_made#beacon name#Nr7764 seamark#beacon
+n 3Ea:G 7(F2/I 6/K^Y railway#switch
+n 3Ea9t 7(F/uA 6/KLl railway#switch
+n /fJa: 7(F1#V 6/K&n beacon#yes light:category#flood man_made#beacon name#Nr7766 seamark#beacon
+n /fJ]p 7(F0mk 6/K0a beacon#yes light:category#flood man_made#beacon name#Nr7765 seamark#beacon
+n 3Ea:A 7(F/_N 6/KJ; railway#railway_crossing

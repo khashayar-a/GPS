@@ -1,0 +1,19 @@
+n K"r 7(F$\j 6/Jt) highway#motorway_junction name#Slakthusmotet ref#77
+n #8`%V 7(E~m| 6/KC} railway#switch
+n $0i?* 7(Ey7? 6/Jb& barrier#gate designation#Open_dayhours odbl#clean
+n $u>"8 7(E~dl 6/JoA highway#motorway_junction name#Marieholmsmotet ref#76a
+n %6::K 5'z7S 6/Jhd barrier#gate designation#Open_dayhours
+n %[i~K 7(F$wL 6/KW0 railway#switch
+n &=Fht 7(E|_w 6/K`k highway#motorway_junction name#Marieholmsmotet ref#76b
+n 'OG4e 7(E{hO 6/Jzu barrier#gate bicycle#no designation#Open_dayhours foot#no
+n 'OG53 7(F"mG 6/Ji< highway#motorway_junction name#Slakhusmotet ref#77
+n (=9%I 7(E}\? 6/Jql highway#motorway_junction name#Marieholmsmotet ref#76b
+n 0og>g 6fOz> 5"Jl" highway#motorway_junction name#Marieholmsmotet ref#76a
+n 5E6xp 7(E~+` 6/J]5 access#private amenity#parking fee#no README#Parking_only_for_service_technican_staf
+n 5LU&M 7(F"JP 6/J[s barrier#gate
+n 5LU&R 7(F"S] 6/JZd amenity#bench
+n 5LU&S 7(F"U[ 5"JhX amenity#bench
+n 5LU&T 7(F"W: 6/J[! amenity#bench
+n 5LU&U 7(F"YK 6/J[2 amenity#bench
+n 5LU&Y 7(F"\h 6/J[> building#entrance
+n 5LU&g 7(F"[` 6/JZ9 addr:city#Göteborg addr:housenumber#24 addr:postcode#41502 addr:street#Marieholmsgatan amenity#fast_food contact:phone#031-210824 contact:website#http://www.sibylla.se/ cuisine#burger name#24:ans_Sibylla opening_hours#Mo-Fr_07:00-16:30 website#http://www.sibylla.se/

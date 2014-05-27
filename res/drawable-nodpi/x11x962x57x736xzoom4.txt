@@ -1,0 +1,22 @@
+w "wy9m highway#footway
+d 5u}6? 7(F..J 6/G[_
+d 5u}6; 7(F.'- 6/Ga;
+d 5u}6< 6fQ=p 6/Ge^
+d 5u}6= 6fQ=x 5"JMp
+d 5u}6: 6fQ<} 6/Go:
+d 5u}67 7(F-xJ 6/Gop
+w "wy9{ highway#footway
+d 5u}6O 7(F/$e 6/GdV
+d 5u}6K 7(F/!) 6/Gbv
+d 5u}6J 7(F.z# 6/Gad
+d 5u}6H 7(F.uS 6/GaH
+d 5u}6G 7(F.mh 6/Gb!
+d 5u}6F 7(F.e} 6/GaH
+d 5u}6@ 7(F.EN 6/G]~
+d 5u}6? 7(F..J 6/G[_
+w =23j foot#yes highway#footway
+d $8,gw 7(F1yI 6/G(U
+d 5wXqe 7(F1v) 5"JG,
+d $8,g+ 7(F1d~ 6/F~A
+d $8,g, 7(F1FB 6/Fu_
+d "`<^. 7(F1)+ 6/Fn)

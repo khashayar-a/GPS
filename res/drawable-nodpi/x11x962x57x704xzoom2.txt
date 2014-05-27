@@ -1,0 +1,94 @@
+w C2L: highway#residential name#Köpmansgatan wikipedia#sv:Köpmansgatan,_Göteborg
+d #8P9@ 7(Ei]' 5"JE.
+d #8P:D 7(EirS 6/F}l
+w &.[& highway#residential name#Postgatan wikipedia#sv:Postgatan
+d ?z7n 7(Ej'f 5"JC@
+d #8P6F 6fMvD 6/Fa{
+d ?z7s 7(Ej7_ 6/FmU
+w C9P8 highway#residential name#Kronhusgatan oneway#yes wikipedia#sv:Kronhusgatan
+d #8PAZ 7(Ek^g 5"JIr
+d #8P;F 7(EkD= 6/G0D
+d #8PB! 6fN"` 6/G$|
+d 6#M$* 7(Ek.- 6/G"f
+d #8PAR 7(Ejhx 6/Fje
+w "E5Jx name#Nordstaden place#suburb wikipedia#sv:Nordstaden
+d 0uNF< 7(EjVL 6/GuA
+d 0uNGk 6fN)m 6/Gm3
+d 0uNG5 7(En-1 6/GZc
+d 0uNG> 7(EnO> 6/G:g
+d 0uNGI 6fN>v 6/G.]
+d 0uNGR 7(Eo?B 6/F}B
+d 0uNGf 7(EnqL 6/Ftv
+d 0uNGN 7(ElVp 6/F[A
+d 0uNGe 7(Ej8= 6/FBF
+d 0uNG? 6fMtV 6/FK)
+d 0uNGr 6fMqN 6/FJE
+d 0uNBn 7(Ehv\ 6/Fs"
+d 0uNF< 7(EjVL 6/GuA
+w 5Fc1 highway#residential name#Tyggårdsgatan wikipedia#sv:Tyggårdsgatan
+d #8P:% 7(Ei60 6/G"X
+d #8P:D 7(EirS 6/F}l
+d #8P:E 7(EjL\ 6/F{'
+w C2Kh highway#residential name#Smedjegatan wikipedia#sv:Smedjegatan
+d #8PAR 7(Ejhx 6/Fje
+d ?z7s 7(Ej7_ 6/FmU
+w &.[% highway#residential name#Kronhusgatan wikipedia#sv:Kronhusgatan
+d ?z7o 6fM{) 6/F`>
+d #8PAR 7(Ejhx 6/Fje
+w &.[$ highway#residential name#Smedjegatan oneway#yes wikipedia#sv:Smedjegatan
+d ?z7r 7(EkA) 6/Fg,
+d #8PAR 7(Ejhx 6/Fje
+w "E5K7 name#Inom_Vallgraven place#suburb
+d 0uNE8 7(EeU% 5"J;2
+d 0uNEC 5'z'< 6/F.&
+d 0uNEO 7(Egq. 6/F,t
+d 0uNG8 7(Ehlj 6/F<+
+d 1|Yw_ 7(Eh{5 6/F<v
+d 0uNGA 7(Ei$Q 6/F<R
+d 0uNGL 7(Ei87 6/F0,
+d 0uNGG 7(EiO@ 6/F2<
+d 0uNG9 7(EhSV 6/FpA
+d 0uNGF 7(EhY_ 6/FxU
+d 0uNGU 7(EiBF 6/GIB
+d 0uND< 7(Ei_I 6/GHC
+d 0uNC' 7(EjA\ 6/Gr<
+d 1C3m1 7(EjAM 6/Gu@
+d 0uNBZ 7(EjB= 5"JQH
+d 0uNFJ 7(EijR 5"JQX
+d 0uNHF 7(EiUv 6/H5T
+d 0uNH3 7(Eh\* 6/H#&
+d 0uNHI 7(Egw# 6/G|$
+d 0uNHC 6fMV_ 6/G~)
+d 0uNH= 7(EfWG 5"JM|
+d 0uNH1 7(Ef9K 6/Gf.
+d 0uNHK 7(Ef*; 6/GhF
+d 0uNFr 7(EeyY 6/GdU
+d 0uNCB 7(Ef1~ 6/G`q
+d 0uNC? 7(Eeij 6/G\=
+d 0uNC9 7(Edf4 6/GX3
+d 0uNCE 6fMEA 6/GF0
+d 0uNC6 7(Edtp 6/G9o
+d 0uNC= 6fM@* 6/G3_
+d 3%T>R 7(Ed-7 6/G21
+d 3%T>9 6fM>' 6/G1[
+d 0uNC8 7(EcJG 5"JGg
+d 0uNCA 6fM1N 5"JC`
+d 0uND' 6fM09 6/FY'
+d 1|YvV 7(EbZ< 6/FRe
+d 1|Yw? 7(Eb\2 6/FN~
+d 0uND+ 6fM0h 6/FK#
+d 0uND1 7(Ebkp 6/FEK
+d 1|Yw{ 7(Ebrw 6/FD3
+d 0uND2 7(EbyZ 6/FCx
+d 0uNCy 7(Ec-\ 6/F3\
+d 0uND! 7(Ec58 6/F/r
+d 1|Yw1 7(EcAa 6/F-j
+d 1|YwP 7(Ec}. 6/F'1
+d 0uND" 7(Ed+l 6/F%F
+d 1|YvS 6fM?: 6/F#3
+d 0uNC{ 7(EdLx 5"J<e
+d 0uNE8 7(EeU% 5"J;2
+w C2Kj highway#residential name#Smedjegatan oneway#yes wikipedia#sv:Smedjegatan
+d ?z7s 7(Ej7_ 6/FmU
+d #8P9@ 7(Ei]' 5"JE.
+d ?z7j 7(Ei!E 6/FsZ

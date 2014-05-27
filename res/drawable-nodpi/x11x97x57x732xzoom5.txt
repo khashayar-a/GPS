@@ -1,0 +1,5 @@
+n &"=Bx 6fPeK 6/H;r highway#bus_stop name#Balladgatan
+n 'tb9V 7(F*=h 6/G~J amenity#restaurant
+n 'tb9Y 6fPkZ 6/H$: shop#convenience
+n 't}lU 6fQ%N 6/H3p amenity#public_building description#Folkets_Hus_Backa
+n 5u}5U 7(F*{& 6/GzR traffic_calming#hump

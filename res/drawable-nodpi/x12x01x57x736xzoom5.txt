@@ -1,0 +1,6 @@
+n 3TS|5 7(F18Y 6/Li7 barrier#block
+n *K"@H 7(F0ec 6/LEo highway#turning_circle
+n 3T<I- 6fQQ~ 6/LeI highway#turning_circle
+n *K">6 7(F-d\ 6/LOO man_made#communications_tower name#Mast
+n 1hi9f 7(F+7[ 6/Lxk barrier#gate
+n 4&p`2 7(F/wV 6/LVp highway#turning_circle

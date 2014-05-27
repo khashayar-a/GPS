@@ -1,0 +1,26 @@
+w "l@=5 amenity#ferry_terminal bicycle#yes foot#yes public_transport#platform
+d 4e`Ha 7(EYZK 6/A*~
+d <Q5( 7(EYYl 6/A*l
+d 4e`H_ 7(EYXu 6/A*X
+d 4e`Hk 7(EY_C 6/A)b
+d 4e`Hd 7(EYZ[ 6/A(Y
+d 4e`Hf 7(EY\& 5"Ilu
+d 4e`Hh 7(EY^c 6/A'X
+d 4e`Ho 7(EYa~ 5"Ilq
+d %;8), 7(EYgX 6/A(j
+d 4e`I! 7(EYlV 6/A*5
+d 4e`H~ 7(EYl@ 6/A+!
+d 4e`H{ 7(EYkO 6/A+6
+d 4e`Hy 7(EYhm 6/A+:
+d 4e`Hw 7(EYea 6/A+&
+d 4e`Hq 7(EYd6 6/A*o
+d 4e`Hm 7(EY`y 5"Im+
+d 4e`Ha 7(EYZK 6/A*~
+n %;8)# 7(EbXi 6/AMv ferry#yes public_transport#stop_position
+n %;8), 7(EYgX 6/A(j ferry#yes public_transport#stop_position
+n %Fz{1 7(EeW' 6/Bs/ ferry#yes public_transport#stop_position
+n /]\Nn 7(EZMz 6/A+J seamark:buoy_lateral:category#starboard seamark:buoy_lateral:colour#green seamark:buoy_lateral:shape#spar seamark:type#buoy_lateral
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n 'b)vC 7(E]*9 6/A=6 amenity#ferry_terminal name#Tysklandsterminalen
+n %"Ho; 7(E\Aw 6/@8L barrier#gate
+n /]\NK 7(EYj} 6/@~- seamark:buoy_lateral:category#starboard seamark:buoy_lateral:colour#green seamark:buoy_lateral:shape#spar seamark:type#buoy_lateral

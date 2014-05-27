@@ -1,0 +1,56 @@
+n j>-! 6fN&( 6/HOK highway#traffic_signals
+n #+xS, 7(EmV} 6/IZy is_in#Göteborg name#Stampen place#suburb
+n %-A55 6fN/( 6/HTU railway#switch
+n 'hYu/ 7(Ekb[ 6/J<e highway#bus_stop name#Vagnhallen_Gårda odbl#clean
+n 'hYu3 7(Ek8` 6/J5Y highway#bus_stop name#Vagnhallen_Gårda odbl#clean
+n (xEiA 7(EmXq 6/Hyn railway#railway_crossing
+n ,tBO) 7(En$* 6/Ij] addr:housenumber#68 addr:street#Stampgatan
+n ,tBOl 7(ElX( 6/J@$ highway#crossing
+n ,tBOt 7(ElX` 6/JGi highway#crossing
+n ,tBPA 7(ElE[ 6/J?P highway#crossing
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 0CgoQ 7(ErwZ 5"Je+ railway#switch
+n 0CgoV 6fNVc 6/IiZ railway#switch
+n 0Cgoh 7(EptI 6/Io0 railway#switch
+n 0Cgox 7(EpY^ 6/Ie3 railway#switch
+n 0Cgp6 6fN?w 6/I9` railway#railway_crossing
+n 0CgpO 7(Eri* 6/J4` railway#switch
+n 0Cgp| 6fNl. 6/J5x railway#switch
+n 0Cgq8 7(Eqb5 6/J!U railway#switch
+n 0Cgq; 7(EpR$ 6/Ie{ railway#switch
+n 0CgqB 7(EpQ1 6/Ifl railway#switch
+n 0CgqW 7(Epb$ 6/Ij' railway#switch
+n 0Cgq^ 7(EqN{ 6/I{{ railway#switch
+n 0Cgr! 7(Er%5 6/J'" railway#switch
+n 0CgrG 7(Ep|R 5"JaJ railway#switch
+n 0ChF} 7(Ep73 6/IhX railway#switch
+n 0ChG) 7(En#h 6/I1V railway#switch
+n 0ChG- 7(En,W 5"J[a railway#switch
+n 0ChGT 7(EnAx 6/I?G railway#railway_crossing
+n 0CjfP 7(Er"m 6/J*) railway#switch
+n 0CjfQ 7(ErGB 5"Jd3 railway#switch
+n 0CkBF 7(Emt3 6/I2+ railway#railway_crossing
+n 0CkCC 7(En!M 6/I9^ railway#switch
+n 0CkCO 7(Emj- 6/I+' railway#railway_crossing
+n 0CkCn 7(En1W 6/I<C railway#switch
+n 0EEYH 7(Emw~ 5"JZ\ railway#railway_crossing
+n 0EGq? 6fN>% 6/I0` railway#railway_crossing
+n 0EGqE 7(EmU~ 6/H{$ railway#switch
+n 0ELOV 6fN;# 6/H{. railway#switch
+n 0ELOd 7(Em[y 6/Hp3 railway#railway_crossing
+n 0ELP) 7(En$H 6/I4! railway#railway_crossing
+n 0ELP7 7(EmuH 6/I%L railway#switch
+n 0EN=, 7(Em5Y 6/Hm@ railway#railway_crossing
+n 0EN=: 7(El}] 6/Hd+ railway#railway_crossing
+n 0EN=C 7(EmE} 6/Ht0 railway#railway_crossing
+n 0EN=L 7(EmaO 5"JY_ railway#railway_crossing
+n 1<[^p 7(EpSG 6/It; railway#switch
+n 1<\7' 7(Epg: 6/Iwz railway#railway_crossing
+n 1<\7@ 7(EpU! 6/Ise railway#switch
+n 1kUXQ 7(Ena# 6/Ifp amenity#bicycle_rental capacity#20 name#Alströmer-/Friggagatan network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#45
+n 2%rn3 6fNF. 6/Ixo bench#yes name#Svingeln railway#tram_stop shelter#yes
+n 2%rn4 7(Eo1) 6/Iz> bench#yes name#Svingeln railway#tram_stop shelter#yes
+n 43#fB 7(Emvd 6/IQ. amenity#pharmacy brand#Doc_Morris name#Doc_Morris
+n 43#fF 7(En+! 6/IUH brand#Coop_Konsum name#Coop_Konsum shop#supermarket wheelchair#yes
+n 43#g6 7(Enm/ 6/I_l amenity#parking
+n 4y~b: 6fN:! 6/J)C barrier#cycle_barrier

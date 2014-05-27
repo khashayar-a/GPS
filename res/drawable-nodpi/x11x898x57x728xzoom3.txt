@@ -1,0 +1,662 @@
+w "4,=c amenity#parking
+d .~+(q 7(F'9W 5"Id*
+d .~*~! 7(F'k, 6/@.9
+d .~*j~ 6fP`m 6/@+x
+d .~*[N 7(F'@3 6/@("
+d .~*JC 7(F';' 6/@(#
+d .~+(q 7(F'9W 5"Id*
+w "4,:< addr:housenumber#11B addr:street#Släktledsgatan building#yes
+d .~++: 6fPG< 6/?oh
+d .~+"; 7(F%$g 6/?qO
+d .~*wo 7(F$zS 6/?p|
+d .~*l` 7(F$}` 5"Ia6
+d .~++: 6fPG< 6/?oh
+w "4,:F addr:housenumber#16 addr:street#Släktledsgatan building#yes
+d .~*Ja 7(F&MR 6/?i#
+d .~*Cs 7(F&E) 6/?kX
+d .~*<v 7(F&8\ 6/?j/
+d .~+*Q 7(F&A' 6/?gX
+d .~*Ja 7(F&MR 6/?i#
+w "4,:^ addr:housenumber#7 addr:street#Övre_Släktledsgatan building#yes
+d .~*HC 7(F&:- 6/?a~
+d .~*A[ 7(F&87 5"I`)
+d .~*;# 7(F&/? 5"I`&
+d .~+'f 7(F&15 6/?a`
+d .~*HC 7(F&:- 6/?a~
+w "5<:+ building#yes
+d /+`'L 7(F$*% 6/?eg
+d /+`&[ 7(F#zr 6/?iK
+d /+`'< 7(F$!C 6/?i~
+d /+`&v 7(F$.L 5"I`@
+d /+`'L 7(F$*% 6/?eg
+w "4,=. building#yes
+d .~*KX 7(F%n% 6/@>"
+d .~*DI 7(F%pu 6/@>o
+d .~*>% 7(F%kx 6/@?J
+d .~++7 7(F%i( 6/@>Z
+d .~*KX 7(F%n% 6/@>"
+w "4,9S building#yes
+d .~*;B 7(F&:m 6/@I'
+d .~+(2 7(F&=q 6/@Ij
+d .~*}P 7(F&9D 6/@JL
+d .~*ro 7(F&6@ 6/@Ig
+d .~*;B 7(F&:m 6/@I'
+w "4,>& addr:housenumber#58A addr:street#Långströmsgatan building#yes
+d .~+,Y 7(F$4t 6/?~v
+d .~*n; 7(F$/] 6/@"4
+d .~*zJ 7(F$&e 6/?~x
+d .~+$> 6fP>= 6/?}]
+d .~+,Y 7(F$4t 6/?~v
+w "4,9s addr:housenumber#9 addr:street#Övre_Släktledsgatan building#yes
+d .~*QY 7(F&Xc 6/?b\
+d .~*Y/ 7(F&Wh 6/?dJ
+d .~*B= 7(F&Jb 6/?d4
+d .~*Hp 7(F&K\ 6/?bE
+d .~*QY 7(F&Xc 6/?b\
+w "4,:6 addr:housenumber#3 addr:street#Svartedalsgatan building#yes
+d .~*^; 7(F&Dr 6/@5_
+d .~*UR 7(F&NB 6/@3*
+d .~*Ma 7(F&Uh 6/@4&
+d .~*F' 7(F&L: 6/@6\
+d .~*^; 7(F&Dr 6/@5_
+w "4,<- building#yes
+d .~*b' 7(F&`v 6/@H6
+d .~*Yx 7(F&ag 6/@K'
+d .~*Q` 7(F&Wg 6/@K1
+d .~*I! 7(F&Vv 6/@H@
+d .~*b' 7(F&`v 6/@H6
+w "5g0H addr:housenumber#11 addr:street#Tredjedalsgatan building#yes
+d /0!*! 7(F#cT 6/@0S
+d //~Au 6fP;- 6/@1Y
+d //~;A 7(F#db 6/@2p
+d //~U1 7(F#]{ 6/@1j
+d /0!*! 7(F#cT 6/@0S
+w "4,83 building#yes
+d .~*mq 7(F%wd 6/@@>
+d .~*lo 7(F%{b 6/@AD
+d .~*Ty 7(F%rM 6/@BW
+d .~*]\ 7(F%n' 6/@AF
+d .~*gj 7(F%q. 6/@@~
+d .~*Er 7(F%lx 6/@?n
+d .~*?+ 7(F%uV 6/@>f
+d .~+,. 5'zAq 6/@@!
+d .~*mq 7(F%wd 6/@@>
+w "5g4X addr:housenumber#17 addr:street#Tredjedalsgatan building#yes
+d //~a^ 7(F$HV 6/@;b
+d /0!$z 7(F$R. 6/@=)
+d //~y' 5'z@L 6/@>E
+d //~6E 5'z@C 6/@<~
+d //~a^ 7(F$HV 6/@;b
+w "4,9~ building#yes
+d .~*`b 7(F&OW 6/@?S
+d .~*X; 7(F&VS 6/@@;
+d .~*PR 6fPTg 6/@B:
+d .~*G~ 7(F&IO 6/@AQ
+d .~*`b 7(F&OW 6/@?S
+w "4,>N addr:housenumber#13 addr:street#Svartedalsgatan building#yes
+d .~*:w 7(F'}V 6/@1_
+d .~*qU 7(F'|s 6/@4P
+d .~*|j 7(F']8 6/@46
+d .~+': 7(F']y 6/@1E
+d .~*:w 7(F'}V 6/@1_
+w "5g,f building#yes
+d //~`` 6fPH2 6/@>u
+d /0!#f 6fPI* 6/@AT
+d //~wV 7(F%2T 6/@BJ
+d //~4r 7(F%)G 6/@?k
+d //~`` 6fPH2 6/@>u
+w "4,9L building#yes
+d .~*GL 7(F(Qb 6/?kS
+d .~*u' 7(F(Pu 6/?m=
+d .~+!3 7(F(4< 6/?lp
+d .~*@] 7(F(5* 6/?k(
+d .~*GL 7(F(Qb 6/?kS
+w "4,>( addr:housenumber#15A addr:street#Släktledsgatan building#yes
+d .~*ZH 7(F%_Z 6/?ny
+d .~*Qj 7(F%[U 6/?qQ
+d .~*I. 7(F%R4 6/?p~
+d .~*BA 6fPKx 6/?nH
+d .~*ZH 7(F%_Z 6/?ny
+w "4,>_ building#yes
+d .~+&B 7(F%[K 6/@8,
+d .~*dI 7(F%^p 6/@8%
+d .~*\4 7(F%_k 6/@9V
+d .~*S% 7(F%TX 6/@9m
+d .~*:D 7(F%So 6/@8Z
+d .~+*t 6fPKF 5"Ie1
+d .~*=S 7(F%OM 6/@71
+d .~*vp 7(F%Z4 6/@6m
+d .~+&B 7(F%[K 6/@8,
+w "4,:w building#yes
+d .~*d? 7(F&-u 6/@>"
+d .~*\' 7(F&8& 6/@@e
+d .~*Rb 7(F&-/ 6/@B/
+d .~+"< 7(F&#! 6/@?J
+d .~*d? 7(F&-u 6/@>"
+w "4,9w addr:housenumber#19 addr:street#Släktledsgatan building#yes
+d .~*P6 7(F%rv 6/?v]
+d .~*j? 7(F%pa 6/?x<
+d .~*qP 7(F%b8 6/?wZ
+d .~*Gc 7(F%dL 6/?u{
+d .~*P6 7(F%rv 6/?v]
+w "4,>q building#yes
+d .~*`. 7(F%w| 6/@4j
+d .~*Wr 6fPO_ 6/@7}
+d .~*P4 7(F%n~ 6/@8N
+d .~*Ga 7(F%kC 6/@5;
+d .~*`. 7(F%w| 6/@4j
+w "4,<u building#yes
+d .~*Ib 7(F&(^ 6/@:~
+d .~*Bp 7(F&-O 6/@<`
+d .~*;~ 7(F&'o 6/@=7
+d .~+)B 7(F&"~ 6/@;U
+d .~*Ib 7(F&(^ 6/@:~
+w "4,8L building#yes
+d .~*]K 7(F&DE 6/@K_
+d .~*da 7(F&K| 6/@Ld
+d .~*K= 7(F&DW 6/@NX
+d .~*S) 7(F&<6 6/@MI
+d .~*ep 7(F&?6 6/@L_
+d .~*=w 7(F&92 6/@Kh
+d .~*w( 7(F&?} 6/@J0
+d .~+"! 7(F&FV 6/@K/
+d .~*]K 7(F&DE 6/@K_
+w "4,=h addr:housenumber#11A addr:street#Släktledsgatan building#yes
+d .~*\L 7(F%1w 6/?l&
+d .~*DS 7(F%.y 4.M!
+d .~*KZ 7(F%!@ 6/?mB
+d .~*SA 7(F%$> 6/?kA
+d .~*\L 7(F%1w 6/?l&
+w "4,8n building#yes
+d .~*J> 7(F&#v 6/@9E
+d .~*CG 7(F%v8 6/@:T
+d .~*<^ 7(F%s5 6/@9N
+d .~+*2 7(F%~s 6/@8?
+d .~*J> 7(F&#v 6/@9E
+w "5<:- building#yes
+d /+`&u 7(F#tt 6/?hc
+d /+`&4 7(F#pP 6/?h.
+d /+`'" 7(F#}z 6/?dM
+d /+`#A 7(F$$@ 6/?e$
+d /+`&u 7(F#tt 6/?hc
+w "4,7^ addr:housenumber#5 addr:street#Släktledsgatan building#yes
+d .~*a: 7(F$>i 5"Ia/
+d .~*S# 7(F$DM 6/?pf
+d .~*K0 5'z@; 6/?qZ
+d .~*D3 7(F$4| 6/?oC
+d .~*a: 7(F$>i 5"Ia/
+w "4,<} building#yes
+d .~*yQ 7(F#i# 6/?\:
+d 3`4e` 7(F#[Q 5"I_;
+d 3`4e^ 7(F#N" 6/?[9
+d 3`4e\ 7(F#@P 6/?Zg
+d 3`4eZ 7(F#3! 6/?Z8
+d .~*my 7(F#%O 6/?Yf
+d .~*gy 7(F#(G 6/?W"
+d .~*_# 7(F#ky 6/?YT
+d .~*yQ 7(F#i# 6/?\:
+w "5g3H addr:housenumber#13 addr:street#Tredjedalsgatan building#yes
+d //~f? 7(F#r[ 6/@2x
+d //~\v 7(F#~> 5"Idg
+d //~}? 7(F#xZ 6/@5~
+d //~r' 7(F#lv 6/@4L
+d //~f? 7(F#r[ 6/@2x
+w "4,:{ addr:housenumber#4 addr:street#Släktledsgatan building#yes
+d .~*^s 7(F$~7 6/?^'
+d .~*FL 7(F$z> 6/?_I
+d .~*N3 7(F$rP 6/?^\
+d .~*Un 7(F$vJ 6/?]:
+d .~*^s 7(F$~7 6/?^'
+w "4,9b building#yes
+d .~*Lr 5'zA\ 6/@;I
+d .~*mZ 7(F%g* 6/@<_
+d .~*wk 6fPN" 6/@<8
+d .~*]T 7(F%ni 5"Ie^
+d .~*f7 7(F%f- 6/@>E
+d .~*y& 7(F%bh 6/@=7
+d .~*?& 7(F%^$ 6/@=a
+d .~*E\ 7(F%ZB 6/@<>
+d .~*Lr 5'zA\ 6/@;I
+w "4,=A building#yes
+d .~*WE 7(F'~g 6/?i-
+d .~*Ll 7(F'~S 6/?iT
+d .~*TJ 7(F'Yz 6/?hv
+d .~*]Q 7(F'[$ 6/?fh
+d .~*f, 7(F(!R 6/?gF
+d .~*_k 7(F(!B 6/?gf
+d .~+$R 6fPc6 6/?gl
+d .~+,l 7(F('' 6/?d.
+d .~*i5 7(F("{ 5"I`+
+d .~*w8 7(F("Q 6/?d|
+d .~+"+ 7(F'q: 5"I`1
+d .~++" 7(F'r< 6/?b`
+d .~*=~ 7(F(#U 6/?by
+d .~*nM 7(F(#K 6/?c.
+d .~*?` 7(F('Z 5"I`#
+d .~*KC 7(F('d 5"I`!
+d .~*dj 7(F(0n 6/?c0
+d .~*\B 7(F(-C 6/?j'
+d .~*S7 7(F($) 6/?iv
+d .~*z_ 7(F($J 6/?i3
+d .~*WE 7(F'~g 6/?i-
+w "4,9u addr:housenumber#15 addr:street#Svartedalsgatan building#yes
+d .~*`n 6fPf? 6/@0D
+d .~*H< 7(F(CN 6/@3>
+d .~*Pp 7(F(&i 5"IdZ
+d .~*Xo 7(F('N 6/@0-
+d .~*`n 6fPf? 6/@0D
+w "4,>g addr:housenumber#7 addr:street#Släktledsgatan building#yes
+d .~*:2 7(F$Xc 6/?na
+d .~*pU 7(F$VA 6/?p8
+d .~*|+ 7(F$Ib 6/?oW
+d .~+&4 7(F$L& 6/?n"
+d .~*:2 7(F$Xc 6/?na
+w "4,>R addr:housenumber#5 addr:street#Övre_Släktledsgatan building#yes
+d .~*r, 7(F&"* 6/?a%
+d .~*Zt 7(F%~7 6/?bG
+d .~*bx 7(F%u0 6/?a|
+d .~*j` 6fPO4 6/?`Z
+d .~*r, 7(F&"* 6/?a%
+w "4,:$ addr:housenumber#1 addr:street#Släktledsgatan building#yes
+d .~*]/ 6fP=J 6/?u~
+d .~*E4 7(F#z| 6/?wa
+d .~*LW 7(F#l\ 6/?uk
+d .~*T! 7(F#s# 6/?t*
+d .~*]/ 6fP=J 6/?u~
+w "5g/c building#yes
+d //~EY 7(F$}w 6/@;+
+d //~>6 7(F%)t 6/@=2
+d //~Y( 7(F%!L 6/@>Z
+d //~Nr 7(F$uN 5"IeU
+d //~EY 7(F$}w 6/@;+
+w "4,;- addr:housenumber#12 addr:street#Släktledsgatan building#yes
+d .~*L) 7(F%{$ 6/?g8
+d .~++U 6fPO@ 6/?hz
+d .~*>b 7(F%hv 6/?h(
+d .~*Dw 6fPN' 6/?fD
+d .~*L) 7(F%{$ 6/?g8
+w "4,7c addr:housenumber#62 addr:street#Långströmsgatan amenity#fast_food building#yes cuisine#thai name#Viet-Thai phone#+4631542925
+d .~*bB 7(F%>J 6/@-8
+d .~*ZE 7(F%Hb 6/@.A
+d .~*Qe 7(F%F8 6/@//
+d .~*I( 7(F%;~ 5"Id+
+d .~*bB 7(F%>J 6/@-8
+w "4,7m building#yes
+d .~*cG 7(F&Hs 6/@DU
+d .~*[; 7(F&NB 6/@F8
+d .~*R> 7(F&Hy 6/@Fr
+d .~*J1 7(F&CL 6/@E0
+d .~*cG 7(F&Hs 6/@DU
+w "4,;= building#yes
+d .~*<T 7(F&9: 6/@DJ
+d .~+){ 6fPSb 6/@Go
+d .~*~| 7(F&@9 6/@HW
+d .~*t^ 7(F&3Z 6/@E1
+d .~*<T 7(F&9: 6/@DJ
+w "4,:) addr:housenumber#2 addr:street#Släktledsgatan building#yes
+d .~+,o 7(F$rI 6/?ax
+d .~*nl 7(F$o# 6/?c~
+d .~*zt 7(F$cI 5"I`$
+d .~+$e 7(F$fo 6/?a9
+d .~+,o 7(F$rI 6/?ax
+w "4,>W addr:housenumber#17 addr:street#Släktledsgatan building#yes
+d .~*{/ 7(F%q{ 6/?on
+d .~*o' 6fPN6 6/?rl
+d .~*iG 7(F%bz 6/?r6
+d .~*`< 7(F%g` 6/?o8
+d .~*{/ 7(F%q{ 6/?on
+w "5g1z addr:housenumber#10 addr:street#Tredjedalsgatan building#yes
+d //~bv 6fPBa 6/@7v
+d //~Q# 7(F$]q 6/@6X
+d //~Z5 7(F$d7 6/@7[
+d //~[% 6fPC? 6/@8y
+d //~bv 6fPBa 6/@7v
+w j6vp amenity#parking
+d *gln@ 7(F%%X 5"I]~
+d *gloe 7(F%"| 6/?Qx
+d *glld 6fPPh 6/?UQ
+d *glnY 7(F&E- 5"I^X
+d *glm> 6fPV= 5"I^M
+d *gloL 7(F&Z^ 6/?PX
+d *glnJ 7(F&5G 6/?Q{
+d *glm5 7(F&'^ 6/?R0
+d *gln@ 7(F%%X 5"I]~
+w "4,<r building#yes
+d .~+!> 7(F&0\ 6/@1U
+d .~*u? 7(F&1u 6/@4%
+d .~*ks 7(F&(o 6/@44
+d .~*dr 7(F&'V 6/@1e
+d .~+!> 7(F&0\ 6/@1U
+w "4,:, building#yes
+d .~*\s 6fPZt 6/?rP
+d .~*Sp 7(F'.? 6/?v:
+d .~*n1 7(F',2 6/?v7
+d .~*^/ 6fPZN 6/?w,
+d .~*U) 7(F&Ir 6/?v+
+d .~+#h 7(F&JW 6/?tS
+d .~*xJ 7(F&Ip 6/?tQ
+d .~+"e 7(F&K% 6/?r6
+d .~++\ 7(F&rQ 6/?rz
+d .~+,C 7(F&q[ 6/?t^
+d .~*yn 7(F&z( 6/?tk
+d .~*E% 6fPY" 6/?r7
+d .~*\s 6fPZt 6/?rP
+w "5g.: addr:housenumber#15 addr:street#Tredjedalsgatan building#yes
+d /0!'C 6fP?c 6/@8+
+d //~R( 7(F$46 6/@9T
+d //~8| 7(F$,8 6/@8H
+d //~@" 6fP>v 6/@6}
+d /0!'C 6fP?c 6/@8+
+w "4,>C addr:housenumber#14 addr:street#Släktledsgatan building#yes
+d .~*un 7(F&4^ 6/?hX
+d .~*\g 7(F&2Y 6/?j/
+d .~*e8 7(F&$t 6/?iR
+d .~*l2 7(F&&y 6/?g{
+d .~*un 7(F&4^ 6/?hX
+w "4,>, building#yes
+d .~*_v 7(F$b[ 6/?df
+d .~*GD 7(F$bQ 6/?fk
+d .~*Ot 7(F$M5 6/?fg
+d .~*Wf 7(F$M? 6/?db
+d .~*_v 7(F$b[ 6/?df
+w "4,;8 addr:housenumber#60 addr:street#Långströmsgatan building#yes
+d .~*:v 7(F$`j 6/@)%
+d .~+'+ 7(F$p? 4.M<
+d .~*|f 6fPD: 6/@-N
+d .~*q: 7(F$X, 6/@*l
+d .~*:v 7(F$`j 6/@)%
+w "4,7z building#yes
+d .~*eb 7(F%X+ 5"Idr
+d .~*]8 7(F%X| 6/@6L
+d .~*T9 7(F%S! 6/@6`
+d .~*LZ 7(F%R. 5"Idt
+d .~*eb 7(F%X+ 5"Idr
+w "4,;x addr:housenumber#58C addr:street#Långströmsgatan building#yes
+d .~*`i 7(F$Mu 6/@$h
+d .~*XW 7(F$Vm 6/@&,
+d .~*PZ 7(F$Qr 5"IcI
+d .~*H. 7(F$Hz 6/@%u
+d .~*`i 7(F$Mu 6/@$h
+w "4,=o building#yes
+d .~*hp 6fPMC 6/@3[
+d .~*_b 7(F%cZ 6/@2A
+d .~*Sa 7(F%f0 6/@2:
+d .~+%3 7(F%ex 6/@1|
+d .~+-# 7(F%tq 6/@1U
+d .~*>` 7(F%u* 6/@1r
+d .~*_7 7(F%w` 5"IdN
+d .~*V? 7(F%x\ 6/@2~
+d .~*Dt 7(F%v# 5"IdZ
+d .~*nx 7(F%vH 6/@3V
+d .~*{& 6fPM^ 6/@3}
+d .~*L& 7(F%g. 6/@3T
+d .~*hp 6fPMC 6/@3[
+w "4,7q addr:housenumber#58B addr:street#Långströmsgatan building#yes
+d .~*_` 7(F$=E 6/@"8
+d .~*W6 6fP@p 6/@#R
+d .~*Ob 7(F$@4 6/@$`
+d .~*G, 7(F$82 6/@#G
+d .~*_` 7(F$=E 6/@"8
+w "4,7U building#yes
+d .~*_X 6fPV( 6/@2n
+d .~*G# 7(F&Z* 6/@3k
+d .~*OF 7(F&SV 6/@2w
+d .~*Vx 7(F&W5 6/@1z
+d .~*_X 6fPV( 6/@2n
+w "4,>0 addr:housenumber#3 addr:street#Släktledsgatan building#yes
+d .~+*n 7(F$,J 5"IaZ
+d .~*lV 7(F$&= 6/?tR
+d .~*vZ 7(F#z0 6/?s$
+d .~+!i 7(F$"> 5"IaL
+d .~+*n 7(F$,J 5"IaZ
+w "4,:n addr:housenumber#6 addr:street#Svanehöjdsgatan building#yes
+d .~+-B 7(F&Ji 6/@;!
+d .~+%Z 7(F&R~ 6/@<=
+d .~*{E 7(F&Lg 6/@=a
+d .~*oV 7(F&DR 6/@<D
+d .~+-B 7(F&Ji 6/@;!
+w "4,9^ addr:housenumber#1 addr:street#Övre_Släktledsgatan building#yes
+d .~*sv 7(F%Q< 6/?`D
+d .~*[c 7(F%OV 6/?a{
+d .~*cy 7(F%A# 5"I_p
+d .~*k< 7(F%Bf 6/?_n
+d .~*sv 7(F%Q< 6/?`D
+w "4,>s addr:housenumber#10 addr:street#Släktledsgatan building#yes
+d .~*x? 6fPL| 6/?en
+d .~*]x 7(F%^C 6/?g4
+d .~*fb 7(F%Ps 6/?fH
+d .~*m" 7(F%S2 6/?e$
+d .~*x? 6fPL| 6/?en
+w "4,;_ addr:housenumber#6 addr:street#Släktledsgatan building#yes
+d .~*yZ 7(F%2x 6/?c'
+d .~*_> 7(F%0x 6/?d`
+d .~*h9 7(F%&V 6/?d5
+d .~*m} 7(F%(V 6/?bZ
+d .~*yZ 7(F%2x 6/?c'
+w "4,:Z building#yes
+d .~*S} 6fPLV 6/@3A
+d .~+,^ 7(F%ae 6/@3.
+d .~+$@ 7(F%bp 6/@4,
+d .~*L8 7(F%]^ 6/@4?
+d .~*Mq 7(F%]` 5"Idf
+d .~*]$ 7(F%W& 6/@4Z
+d .~*>m 7(F%Wz 6/@5F
+d .~++i 6fPK@ 6/@5c
+d .~+"x 7(F%N> 6/@3z
+d .~*eG 7(F%Tx 6/@3a
+d .~*^W 7(F%Si 6/@2_
+d .~*g= 7(F%[Q 6/@2B
+d .~*S} 6fPLV 6/@3A
+w "4,<z building#yes
+d .~*:I 7(F&#% 6/@Bn
+d .~+&Y 7(F&+n 6/@E1
+d .~*|L 7(F&"i 6/@FC
+d .~*pq 7(F%w~ 6/@D!
+d .~*:I 7(F&#% 6/@Bn
+w "4,>= addr:housenumber#9B addr:street#Släktledsgatan building#yes
+d .~*]V 7(F$wp 6/?k2
+d .~*TW 7(F$s4 6/?n"
+d .~*Ly 7(F$fg 6/?m=
+d .~*E^ 6fPD] 6/?jM
+d .~*]V 7(F$wp 6/?k2
+w "5g2P building#yes
+d /0!)3 7(F%?T 6/@I:
+d //~2_ 7(F%Db 5"Ifh
+d //~\; 7(F%HW 6/@IS
+d //~C# 7(F%M, 6/@Hv
+d //~KO 7(F%R> 6/@J5
+d //~Vb 7(F%H[ 6/@KV
+d /0!)3 7(F%?T 6/@I:
+w "4,>+ building#yes
+d .~*:_ 7(F&\v 6/@D,
+d .~+&o 7(F&a@ 6/@G,
+d .~*|_ 7(F&Vn 6/@G_
+d .~*q1 7(F&RF 6/@D_
+d .~*:_ 7(F&\v 6/@D,
+w "4,86 addr:housenumber#8 addr:street#Släktledsgatan building#yes
+d .~*M? 7(F%K} 6/?dM
+d .~+,A 7(F%J$ 5"I`;
+d .~*?; 7(F%@k 6/?e;
+d .~*F" 7(F%Bf 6/?c}
+d .~*M? 7(F%K} 6/?dM
+w "4,8[ addr:housenumber#56A addr:street#Långströmsgatan building#yes
+d .~*9y 7(F$@\ 6/@%:
+d .~*p( 7(F$;Z 6/@&O
+d .~*{_ 7(F$38 6/@%<
+d .~+%a 7(F$8; 5"Ic+
+d .~*9y 7(F$@\ 6/@%:
+w "5<:4 amenity#parking
+d /+`'a 7(F#tM 6/?Z@
+d /+`#Q 7(F#mE 6/?\|
+d /+`%! 7(F#i3 6/?]^
+d /+`$6 6fP8' 6/?c^
+d /+`%B 7(F#X; 6/?eX
+d 3`4g$ 7(F#_T 6/?f<
+d 3`4g% 7(F$!B 6/?j&
+d 3`4g& 7(F$.c 6/?fZ
+d 3`4g( 6fP>u 6/?dk
+d 3`4g) 7(F$3# 6/?bi
+d 3`4g' 7(F$1m 6/?`p
+d /+`&Z 7(F$-? 6/?_&
+d /+`#x 7(F#zW 6/?\7
+d /+`$A 7(F#w| 5"I_2
+d /+`'a 7(F#tM 6/?Z@
+w "4,9" addr:housenumber#4 addr:street#Svanehöjdsgatan building#yes
+d .~*SF 7(F&04 6/@78
+d .~*>* 7(F&:3 6/@6I
+d .~*DX 7(F&AW 6/@9X
+d .~*K\ 7(F&7X 5"IeA
+d .~*SF 7(F&04 6/@78
+w "4,<: building#yes
+d .~*u8 7(F%qp 6/@9P
+d .~*kb 7(F%u$ 6/@:b
+d .~*dm 7(F%mt 5"IeJ
+d .~*\G 7(F%jb 6/@:1
+d .~*u8 7(F%qp 6/@9P
+w j6vr access#private amenity#parking building#yes parking#multi-storey
+d *glmq 7(F%)3 6/?TL
+d *glmy 7(F%') 6/?VB
+d *gllh 7(F%%9 6/?W}
+d *gloS 7(F$Y: 5"I^f
+d *glnP 7(F$]3 6/?Rn
+d *glmq 7(F%)3 6/?TL
+w "4,:R addr:housenumber#11 addr:street#Svartedalsgatan building#yes
+d .~*bI 7(F'XG 6/@0i
+d .~*I2 7(F'W] 6/@3y
+d .~*Qk 7(F':0 6/@3b
+d .~*ZM 7(F':x 6/@0R
+d .~*bI 7(F'XG 6/@0i
+w "4,=V building#yes
+d .~*c7 7(F&,7 6/@EJ
+d .~*[# 6fPQD 6/@F7
+d .~*R: 6fPPs 6/@Fj
+d .~*Ix 7(F&'7 6/@E}
+d .~*c7 7(F&,7 6/@EJ
+w "5g3> addr:housenumber#4 addr:street#Tredjedalsgatan building#yes
+d //~hX 7(F#l7 6/@,[
+d //~t# 7(F#pD 6/@+U
+d //~~q 7(F#vx 6/@,K
+d //~]p 6fP;} 6/@-Q
+d //~hX 7(F#l7 6/@,[
+w "4,>: addr:housenumber#5 addr:street#Svartedalsgatan building#yes
+d .~+,U 7(F&e| 6/@3f
+d .~*n7 6fPW] 6/@4n
+d .~*z$ 7(F&_M 6/@8.
+d .~+$0 7(F&X& 6/@7%
+d .~+,U 7(F&e| 6/@3f
+w "5g/x building#yes
+d //~DB 7(F%?i 6/@C9
+d //~=C 7(F%H) 6/@El
+d //~Wp 7(F%?/ 6/@Fn
+d //~Lp 7(F%6p 6/@D;
+d //~DB 7(F%?i 6/@C9
+w "4,<S building#yes
+d .~*<9 7(F%|( 6/@Ab
+d .~+)o 7(F%~p 6/@BK
+d .~*~e 6fPOP 6/@C'
+d .~*tN 6fPO6 6/@B?
+d .~*<9 7(F%|( 6/@Ab
+w "4,:_ leisure#pitch sport#soccer
+d .~*[n 7(F'M. 6/?c\
+d .~*R\ 7(F&{c 6/?bl
+d .~*D( 7(F&s: 6/?pc
+d .~+*\ 6fP]2 6/?qS
+d .~*[n 7(F'M. 6/?c\
+w "4,;i addr:housenumber#2 addr:street#Svartedalsgatan amenity#social_facility building#yes name#Svartedalens_Äldreboende social_facility#group_home social_facility:for#senior
+d .~*p` 7(F'$O 6/@%,
+d .~*i{ 7(F&"H 6/@#W
+d .~*aG 7(F&$9 6/?}V
+d .~*jg 7(F&p_ 6/?~k
+d .~+'p 6fPX' 6/?zj
+d .~*HG 7(F'%; 6/?zx
+d .~*r< 7(F'$; 6/@!(
+d .~*Y@ 7(F'&@ 6/@!+
+d .~*p` 7(F'$O 6/@%,
+w "5g+@ addr:housenumber#8 addr:street#Tredjedalsgatan building#yes
+d //~d9 6fP@d 6/@2L
+d //~p^ 7(F$Ia 6/@37
+d //~{m 7(F$D! 5"Idi
+d //~\' 7(F$>L 6/@3t
+d //~d9 6fP@d 6/@2L
+w "4,=q addr:housenumber#3 addr:street#Övre_Släktledsgatan building#yes
+d .~*I\ 7(F%hb 6/?`=
+d .~+)8 6fPM[ 6/?b!
+d .~*;| 7(F%W~ 6/?aS
+d .~*Bh 7(F%YQ 6/?_n
+d .~*I\ 7(F%hb 6/?`=
+w "4,=w building#yes
+d .~*`? 7(F&0_ 6/@FZ
+d .~*X. 7(F&:@ 6/@Hl
+d .~*P8 7(F&1\ 5"Ifw
+d .~*Ge 7(F&'{ 6/@G{
+d .~*`? 7(F&0_ 6/@FZ
+w "4,:m addr:housenumber#54 addr:street#Långströmsgatan building#yes
+d .~++e 7(F#hb 6/?zW
+d .~+"q 7(F#yi 6/?}#
+d .~*xk 7(F#q| 6/?~x
+d .~*m> 7(F#`u 6/?|N
+d .~++e 7(F#hb 6/?zW
+w "4,>a addr:housenumber#56B addr:street#Långströmsgatan building#yes
+d .~*^> 7(F$"* 5"Ib|
+d .~*F: 7(F$'6 6/@!P
+d .~*Mj 7(F$/K 6/@"h
+d .~*U] 7(F$*? 6/@#y
+d .~*^> 7(F$"* 5"Ib|
+w "4,9k addr:housenumber#13B addr:street#Släktledsgatan building#yes
+d .~+*6 7(F%?) 6/?rZ
+d .~*kk 7(F%=G 6/?s`
+d .~*u; 7(F%4} 6/?s4
+d .~+!; 6fPHi 6/?r.
+d .~+*6 7(F%?) 6/?rZ
+w "4,98 addr:housenumber#15B addr:street#Släktledsgatan building#yes
+d .~*[L 7(F%L> 6/?sU
+d .~*RD 7(F%Sr 5"Iab
+d .~*J@ 7(F%RN 6/?tz
+d .~*CM 7(F%Jw 6/?tY
+d .~*[L 7(F%L> 6/?sU
+w "4,>7 building#yes
+d .~*<@ 7(F%], 6/@;'
+d .~+)v 7(F%XS 6/@;\
+d .~*~t 7(F%V0 6/@:{
+d .~*tW 7(F%Zf 6/@:F
+d .~*<@ 7(F%], 6/@;'
+w "4,9& building#yes
+d .~*af 7(F&3| 6/@BG
+d .~*Hb 7(F&7u 6/@CD
+d .~*QA 7(F&13 6/@D@
+d .~*Ye 7(F&-; 6/@CC
+d .~*af 7(F&3| 6/@BG
+w "4,7_ addr:housenumber#9A addr:street#Släktledsgatan building#yes
+d .~+,* 7(F$l2 6/?o{
+d .~*mf 7(F$jF 6/?q7
+d .~*y, 7(F$[P 5"IaB
+d .~+#> 7(F$]< 6/?o6
+d .~+,* 7(F$l2 6/?o{
+w "4,=' addr:housenumber#13A addr:street#Släktledsgatan building#yes
+d .~+(n 7(F%E0 6/?m7
+d .~*}} 7(F%@J 5"Ia;
+d .~*sE 7(F%8{ 6/?o;
+d .~*j} 6fPIM 6/?lg
+d .~+(n 7(F%E0 6/?m7
+w "4,;n building#yes
+d .~*l8 7(F%wz 6/@=5
+d .~*<} 6fPO4 6/@=>
+d .~*C} 7(F%rk 6/@;x
+d .~*Jg 7(F%x7 6/@;A
+d .~*uu 7(F%|' 6/@<Y
+d .~*sz 7(F%}@ 6/@<M
+d .~*kA 7(F&"{ 6/@=h
+d .~*c} 7(F%{- 6/@>@
+d .~*l8 7(F%wz 6/@=5
+w "4,:d addr:housenumber#21 addr:street#Släktledsgatan building#yes
+d .~*Ng 7(F&)! 6/?q+
+d .~*F\ 6fPPJ 6/?sQ
+d .~*?~ 7(F%x% 6/?rv
+d .~+-( 7(F%{a 6/?pP
+d .~*Ng 7(F&)! 6/?q+
+w "5g0O addr:housenumber#6 addr:street#Tredjedalsgatan building#yes
+d /0!(\ 7(F$&0 6/@04
+d //~So 7(F$+& 5"Id5
+d //~:6 7(F$4K 5"IdC
+d //~@} 7(F$/V 6/@1b
+d /0!(\ 7(F$&0 6/@04

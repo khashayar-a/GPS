@@ -1,0 +1,30 @@
+n "1^[Y 7(E[k` 6/L/t bench#yes highway#bus_stop name#Skårsplatsen shelter#yes
+n #$$q[ 7(E^HB 5"Jo- highway#mini_roundabout
+n %-CRV 7(EZap 6/K>Q addr:housenumber#27 addr:street#Laboratoriegatan
+n %-CRs 7(EZPi 6/K?| addr:housenumber#29 addr:street#Laboratoriegatan
+n %-C_F 7(E[+D 6/K?b addr:housenumber#26 addr:street#Laboratoriegatan
+n %-CaJ 7(EZts 6/KAc addr:housenumber#28 addr:street#Laboratoriegatan
+n %-Cb/ 7(EZdj 6/KCJ addr:housenumber#30 addr:street#Laboratoriegatan
+n %-Cb8 7(EZT2 6/KDm addr:housenumber#32 addr:street#Laboratoriegatan
+n &w4hP 5'yux 5"Jr4 highway#bus_stop name#Skårs_kyrka
+n &{*<I 7(E[G` 6/KF3 highway#bus_stop name#Årbogatan
+n &{*J. 7(EY3j 6/L&* highway#bus_stop name#Fagerängsgatan
+n (SS0U 7(E[>h 6/L.q addr:housenumber#1 addr:street#Förtroligheten
+n (SS5g 7(E[<> 6/L3h addr:housenumber#2 addr:street#Förtroligheten
+n (SS8k 7(E[+p 6/L/H addr:housenumber#3 addr:street#Förtroligheten
+n (SS:R 6fLEw 6/L05 addr:housenumber#5 addr:street#Förtroligheten
+n (SS>S 6fLD) 6/L.Q addr:housenumber#7 addr:street#Förtroligheten
+n (SS>^ 6fLB" 6/L/i addr:housenumber#9 addr:street#Förtroligheten
+n (SS>a 7(EZ@] 6/L/s addr:housenumber#11 addr:street#Förtroligheten
+n (SS>c 7(EZ+v 5"JwC addr:housenumber#13 addr:street#Förtroligheten
+n (SS@E 7(EYv~ 6/L3= addr:housenumber#15 addr:street#Förtroligheten
+n (SS@] 6fL:K 6/L3~ addr:housenumber#17 addr:street#Förtroligheten
+n (SS@_ 6fL8[ 6/L4` addr:housenumber#19 addr:street#Förtroligheten
+n (SS@i 7(EY>9 6/L4k addr:housenumber#21 addr:street#Förtroligheten
+n (SS@} 7(E['W 6/L4` addr:housenumber#4 addr:street#Förtroligheten
+n 1Hak@ 7(E[lr 6/L0H amenity#waste_basket
+n 1Hakd 7(E^~e 6/K+\ highway#bus_stop name#Betaniagatan
+n 1Hal4 7(E\e? 6/L1] amenity#post_box collection_times#Mo-Fr_17:00;_Su_13:00
+n 1Halk 7(E^sh 6/K/F traffic_calming#choker
+n 4hn5^ 7(EW;] 6/Kl3 crossing#uncontrolled highway#crossing
+n 4hn5d 7(EWg# 6/Kw6 crossing#uncontrolled highway#crossing

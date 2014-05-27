@@ -1,0 +1,23 @@
+w MF&> bicycle#yes foot#yes highway#cycleway
+d &O2K1 7(F.:I 6/F.p
+d &O2K2 7(F.~~ 6/F+Q
+d &O2K3 4bAB 6/F+v
+d &O2K4 7(F/:R 6/F+0
+d &O2K5 5'zJ] 5"J>+
+d &O2K0 7(F/;a 6/F):
+w MF&@ foot#yes highway#footway
+d &O2K0 7(F/;a 6/F):
+d &O2K: 5'zJZ 6/F(P
+d &O2K; 7(F/,0 6/F&D
+d &O2K< 5'zJE 6/E|}
+d &O2K= 7(F/'v 5"J<w
+d &O2K> 7(F/'f 6/E{'
+d &O2K? 7(F/"Z 6/EwE
+d &O2K@ 7(F.yk 6/Ev#
+d &O2K( 7(F.wA 6/Et2
+w MF&? bicycle#yes foot#yes highway#cycleway
+d &O2K( 7(F.wA 6/Et2
+d &O2K6 7(F.Z< 6/Ef~
+d &O2K7 6fQB4 6/E_V
+d &O2K8 6fQB\ 6/E\`
+d &O2K9 6fQBp 6/ESk

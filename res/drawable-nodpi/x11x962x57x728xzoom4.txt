@@ -1,0 +1,33 @@
+w "wy9h highway#footway
+d 5u}/l 7(F$o2 6/GIP
+d 5u}/b 7(F$lR 6/G^T
+d 5u}/p 7(F$p^ 6/G\Y
+d 5u}0. 7(F%&Z 6/GY)
+d %7KT# 7(F%2F 6/GXk
+w "wy9~ highway#footway
+d 5u}.1 7(F$#| 6/G,$
+d 5u}/< 7(F$Y, 6/G@r
+d 5u}/N 7(F$a^ 6/GD4
+d 5u}/l 7(F$o2 6/GIP
+d 5u}09 7(F%26 6/GV_
+d %7KT# 7(F%2F 6/GXk
+d 5u}0G 7(F%;5 6/GXz
+d %7L4_ 7(F%NR 6/G[b
+w "wy9R highway#footway
+d 5u}.* 7(F$"? 5"JIj
+d 5u}/< 7(F$Y, 6/G@r
+w "wy9d highway#footway
+d 5u}.3 7(F$$B 6/G&{
+d 5u}.1 7(F$#| 6/G,$
+d 5u}.* 7(F$"? 5"JIj
+d 5u}.& 7(F#}| 6/G^J
+d 5u}.$ 7(F#|w 6/GfT
+w "wy9E highway#footway
+d 5u}/N 7(F$a^ 6/GD4
+d 5u}0x 6fPM6 6/G;g
+w "wy9f highway#footway
+d 5u},E 7(F#<# 6/G^&
+d 5u}.& 7(F#}| 6/G^J
+d 5u}/b 7(F$lR 6/G^T
+d 5u}/{ 7(F$v( 6/G^V
+d 5u}0/ 7(F%); 6/G\o

@@ -1,0 +1,39 @@
+w Y63I amenity#ferry_terminal area#yes bicycle#permissive foot#yes name#Rosenlund public_transport#platform
+d (]i:D 7(Ee:@ 6/E`2
+d 4e`I$ 7(Ee4; 6/Ea&
+d 4e`I% 7(Ee5. 6/Ea@
+d 4e`I# 7(Ee37 6/Ea]
+d 4e`I/ 7(Ee8= 6/Ebz
+d (]i7j 7(Ee7T 6/Ec&
+d 4#(8! 7(Ee8A 6/Ec;
+d <Q30 7(Ee9/ 6/EcH
+d 4e`I1 7(Ee;T 6/Ec)
+d 4e`I2 7(Ee<J 6/Ec;
+d (]i:G 7(EeBR 6/EbH
+d (b2|y 7(Ee?) 6/EaM
+d 4e`I3 7(Ee<z 5"J:4
+d 4e`I4 7(Ee>) 6/E`d
+d (]i:D 7(Ee:@ 6/E`2
+n E^*- 7(EaNQ 6/DmM name#Masthuggstorget railway#tram_stop
+n iGNI 7(Eb8x 6/Ed= name#Järntorget railway#tram_stop
+n #(i4; 7(Ee~8 4.Rg highway#traffic_signals
+n #Tonn 7(Ec=W 4.RB highway#traffic_signals
+n #Tons 7(Ecn: 6/EN_ highway#traffic_signals shop#bicycle
+n #Too* 7(EcBC 6/ES& highway#traffic_signals
+n #Too4 7(Ecp{ 6/EQA highway#traffic_signals
+n $1Cwm 7(Eb!1 6/Eh; name#Järntorget railway#tram_stop
+n $`ixp 7(Ea3q 6/CfD name#Stigbergstorget railway#tram_stop
+n $a(n[ 7(Eb|E 6/En: amenity#atm name#Swedbank
+n %%IN' 6fMe7 6/D:N ferry#yes public_transport#stop_position
+n %+x[] 7(Ec9' 6/EV7 highway#traffic_signals
+n (b2|y 7(Ee?) 6/EaM ferry#yes public_transport#stop_position
+n )=K-U 7(Eb(0 6/Ea9 highway#bus_stop name#Järntorget
+n )R~!* 6fNJ> 6/G5* ferry#yes public_transport#stop_position
+n +<nXv 6fM1_ 6/Eo" amenity#bicycle_rental capacity#20 name#Olof_Palmes_plats network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#19
+n /]\NN 7(EfPv 6/E^S seamark:light:character#Fl seamark:light:colour#white seamark:light:group#2 seamark:light:height#5 seamark:light:period#6 seamark:light:range#6 seamark:light:ref#C_0594 seamark:longname#GOTEBORG_(GOTHEBURG)._Skeppsbron. seamark:name#Skeppsbron. seamark:type#light_major
+n 0Q{i4 7(Ea6_ 6/EB> amenity#pub name#Ölstugan_1892_Tullen wheelchair#no
+n 1iRD} 7(Ec]] 6/E@] highway#bus_stop local_ref#B name#Järnvågen
+n 1iRE# 7(Ec-> 6/ECO highway#bus_stop local_ref#A name#Järnvågen
+n 1u'x2 7(Ec*y 6/E<8 highway#give_way
+n 6#IS_ 7(EbIZ 6/EU- name#Arbetsförmedlingen_Järntorget
+n 6#IaU 7(Eb*U 6/E\. name#Svenssons_i_Lammhult

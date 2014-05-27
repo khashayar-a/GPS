@@ -1,0 +1,43 @@
+w "e5b3 access#no foot#designated highway#footway
+d 1P]/] 6fOm3 5"J{>
+d 3|&Vw 5'z;J 6/LYz
+w "oobJ highway#service service#parking_aisle
+d 5,DBz 6fOA* 6/Llz
+d 5,DC* 7(ExOc 6/Llx
+d 5,DC0 7(ExW] 6/Lm$
+d 5,DBp 6fOC? 6/Ln`
+d 5,DBr 7(Ex_J 5"J}k
+d 5,DB; 6fOB| 6/Ltf
+d 5,DA` 6fOC> 6/L{x
+d 5,DCP 6fOD4 6/L}M
+w "KrH+ highway#steps
+d 1P]/k 7(E|ya 5"J{,
+d 1P]/i 7(E}&{ 6/LWo
+d 'OG6x 7(E}(s 6/LXy
+d 1P]/] 6fOm3 5"J{>
+w "j8L1 highway#footway
+d $oqC~ 7(E}!M 6/M$>
+d 4PVh< 7(E}Cr 6/M$4
+w RvJ! bridge#yes highway#footway layer#2
+d 'OG6x 7(E}(s 6/LXy
+d 'OG6z 7(E}V7 5"Jzv
+w "oobY bicycle#designated foot#designated highway#cycleway segregated#yes
+d 5,DBD 7(E}=i 6/M9i
+d 3|&V] 7(E}AT 6/M6}
+d 3|&V^ 7(E}EZ 6/M/s
+d 3|&W" 7(E}J0 5"K!L
+d 4PVh> 7(E}J0 6/M$2
+d 3|&V~ 7(E}J0 6/M!=
+d 3|&Vi 7(E}Hp 5"J~:
+d 3|&Vo 7(E}DD 6/LnW
+d 3|&Vk 7(E};p 6/Le0
+d 3|&Vr 7(E}3Q 6/L^J
+d 3|&Vw 5'z;J 6/LYz
+d 3|&V` 7(E}&I 6/LUb
+d 3|&V[ 7(E|{9 6/LP6
+d 3|&Vt 7(E|YJ 6/LD"
+d 3|&Vv 7(E|CO 6/L:T
+d 3|&Vm 7(E|+_ 6/L/~
+d 56sLu 7(E|)= 6/L.x
+d 56sM) 7(E|%q 6/L-D
+d %_>hH 7(E{}K 6/L*P

@@ -1,0 +1,95 @@
+w "b1-K highway#footway
+d 1hi9z 7(F+!h 6/L~S
+d 3\P>+ 7(F*~H 6/M#,
+d 3\P=O 7(F*}T 5"K![
+w "b1-S highway#footway
+d 3\P=h 7(F++W 5"K!_
+d 3k="} 7(F*~p 6/M'7
+d 3\P=O 7(F*}T 5"K![
+d 3\P>U 7(F*d& 6/M&B
+w "NZ+x highway#service
+d $7TK% 7(F*<} 6/LB`
+d 1hi8H 7(F*t_ 6/L?F
+w "aPiB highway#footway
+d 3U7)o 7(F*Ai 6/M`U
+d 3U7){ 7(F*Rs 6/M\X
+d 3U7)| 7(F*XB 6/M[%
+d 3U7*F 7(F*[* 6/MY|
+d 3\P=j 7(F*gS 6/MLh
+d 3U7*. 7(F*oQ 6/MD;
+d 3\P>I 7(F*s8 5"K$,
+d 3U7*+ 7(F*~- 6/M48
+d 3\P=g 7(F*~O 6/M3p
+d 3\P=h 7(F++W 5"K!_
+d 3U7)m 7(F+3v 6/L|E
+d 3\EwT 7(F+6: 6/LyH
+w "b/yM bicycle#yes foot#yes highway#cycleway motor_vehicle#no
+d 3\Ew/ 7(F+@# 6/Lxt
+d 3\EwD 7(F+<& 6/LyN
+d 3\EwT 7(F+6: 6/LyH
+d 3\Ew; 7(F+45 6/LyF
+d 3\EwA 7(F+/r 5"J~C
+w "aQ\6 highway#service
+d 3T<IV 7(F-}f 6/M:O
+d 3U=I1 7(F-w@ 6/M9o
+d 3U=H} 7(F-l9 6/M8]
+d 3U=Hj 7(F-a= 6/M6B
+d 3U=I; 7(F-@| 6/M,,
+d 3U5yS 7(F-5p 6/M(x
+d (t*V7 7(F,pq 6/L}2
+d (t*V= 7(F,f\ 6/L|~
+d (t*:P 7(F,L~ 6/L|'
+d (t*:T 7(F,#p 6/LzG
+d (t*:X 7(F+b` 6/Ly>
+d (t*:Y 6fQ$x 6/Lx|
+d 3\Ew/ 7(F+@# 6/Lxt
+d 1hi9f 7(F+7[ 6/Lxk
+w "b1-U highway#cycleway
+d $6&ZT 7(F*)N 6/L|k
+d 3\P>D 7(F)`9 5"J~`
+d 3\P=w 7(F)Vt 5"J~]
+d 3\P>@ 7(F)Mo 6/Lz^
+d 3\P>8 7(F);U 6/Lx&
+d 3\P>: 7(F)-6 6/LvA
+d 3\P=M 7(F(|R 6/Lsl
+d 3\P=c 7(F(r" 5"J}f
+d 3\P=i 7(F(k> 6/Lq.
+d 3\P=e 7(F(a2 6/LoD
+d 3\P=_ 6fPhD 6/Lo!
+d 3\P=v 6fPf_ 6/LnR
+d 3\P>' 7(F(A% 6/LnO
+d 3\P=} 7(F(<1 5"J}=
+d 3\P={ 7(F(5i 6/Lkz
+d %"u7I 7(F(/P 6/Liv
+w "NZ,! highway#service service#parking_aisle
+d $6&ZT 7(F*)N 6/L|k
+d 1hi9B 7(F*.# 5"J~d
+d 1hi8e 7(F*2$ 6/L|(
+d 1hi8# 7(F*9/ 6/L|4
+d 3\P>) 7(F*Z` 6/L};
+d 1hi9z 7(F+!h 6/L~S
+w "cM?y highway#footway
+d 3k=#Q 7(F*bC 6/M?c
+d 3k=#O 7(F*fA 6/M?)
+d 3k=#5 7(F*iE 6/M>I
+d 3k=#M 7(F*mB 5"K#W
+d 3k=#1 6fP}v 6/M3T
+d 3k=#0 7(F*z' 6/M,L
+d 3k="} 7(F*~p 6/M'7
+w "NZ+v highway#service
+d %=Xgw 7(F+*~ 6/LxP
+d 1hi:# 7(F+0F 6/Lu:
+d 1hi9L 7(F+3v 6/Lt:
+d 1hi9) 7(F+C7 6/Lq}
+w =!Er foot#yes highway#cycleway
+d $6&Y_ 7(F*52 6/LuA
+d 1hi:< 7(F*16 6/Lv[
+d 1hi9c 7(F**9 6/L{b
+d $6&ZT 7(F*)N 6/L|k
+w "b1-Q highway#footway
+d 3\P=Y 7(F*;r 6/M>Z
+d 3\P>N 7(F*Fw 6/M26
+d 3\P>R 7(F*R- 6/M%l
+d 3\P>F 7(F*T5 6/M#:
+d 3\P>( 7(F*Xq 6/M!e
+d 3\P>) 7(F*Z` 6/L};

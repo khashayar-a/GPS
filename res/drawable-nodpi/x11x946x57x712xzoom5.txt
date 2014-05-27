@@ -1,0 +1,17 @@
+n 5I9r 7(Ep~w 6/E#~ highway#traffic_signals
+n 5I9u 7(Enk* 6/DbJ highway#traffic_signals
+n 5I9x 7(EnN{ 6/D]] highway#traffic_signals
+n #HzJw 7(Ex<! 6/F-" railway#level_crossing
+n $8A^. 6fM~9 5"J*] highway#traffic_signals
+n $hZ.h 7(Ek=@ 5"J+e highway#crossing
+n %"to{ 7(Eo\w 6/DpM highway#traffic_signals
+n (7hn, 7(Eji\ 6/D%7 highway#crossing
+n *{x]Q 7(Esq= 6/EKW amenity#parking
+n ,rhyC 7(En?< 6/D[! highway#bus_stop name#Regnbågsgatan
+n ,rhyJ 7(EpIL 6/D}T highway#bus_stop name#Pumpgatan
+n .f20j 7(EqJ7 6/Ehh name#Kvillepiren place#locality
+n .f3fB 7(EsQ( 6/Erz railway#switch
+n .f3f_ 7(Ew"V 5"J=< railway#switch
+n .f3fv 7(EqzL 6/Ev> railway#switch
+n .f3f{ 7(Ewkq 6/F() railway#crossing
+n .f3gH 7(Er!z 6/EsT railway#buffer_stop

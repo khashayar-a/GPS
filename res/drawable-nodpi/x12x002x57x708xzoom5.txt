@@ -1,0 +1,12 @@
+n "uxh! 7(Em4$ 6/K:k highway#turning_circle
+n $NqRU 5'z-G 6/L!n highway#turning_circle
+n 'b)wk 7(Ek/H 6/K{G highway#bus_stop name#Kärralundsgatan shelter#yes
+n 'b)ws 7(ElW, 6/Kt0 addr:city#Göteborg addr:country#SE addr:housenumber#70 addr:postcode#41659 addr:street#Danska_Vägen name#Hotel_Örgryte phone#+46-31-7078900 stars#3 tourism#hotel website#http://www.hotelorgryte.se
+n 'b)x0 7(EkeW 6/Kw> highway#bus_stop name#Kärralundsgatan shelter#yes
+n 'hYuJ 7(Em*m 6/K[K highway#bus_stop name#Ingeborgsgatan
+n *lIZ^ 6fNA] 6/Kr| name#Lejonet_&amp;_Björnen shop#icecream
+n +G|F{ 7(ElH@ 6/KHl amenity#fast_food name#Tomas_Pizzeria
+n 3/+;y 7(EmZp 6/KSd amenity#post_office name#StPauli_Livs
+n 56M4- 7(Ee?H 6/KS^ bicycle#yes crossing#island highway#crossing
+n 5fNT} 7(En`U 6/KQT amenity#fast_food cuisine#pizza name#Pizzeria_S:t_Pauli
+n 5fNU% 7(Eo=) 6/Kw_ name#Toppen_Frukt_och_Grönt shop#greengrocer

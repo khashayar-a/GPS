@@ -1,0 +1,41 @@
+n 5I:6 7(Eo>z 6/C;B highway#traffic_signals
+n E=Z1 7(ErFK 6/CBt tourism#viewpoint
+n E=Z4 7(Er:~ 6/CVV amenity#parking
+n E=Z< 7(Erfp 6/Cu6 amenity#parking
+n E=Z= 6fNgx 6/Cqs tourism#viewpoint
+n Ecr< 7(Eqd~ 5"J2> highway#traffic_signals
+n EcrK 6fNK. 6/C;8 highway#traffic_signals
+n $0T/O 7(Eol] 6/C48 amenity#fuel contact:city#GÖTEBORG_/_Hisingen contact:postcode#41713 contact:street#Ramberget:_Stålhandskegatan_/_Inlandsgatan fuel:diesel#yes fuel:e85#yes fuel:octane_95#yes name#JET_Ramberget
+n $0T3c 6fNO\ 6/C@h amenity#fuel contact:street#Herkulesgatan/Inlandsgatan name#Tanka-Göteborg
+n $}Ht/ 7(Ep0k 6/C4t amenity#fast_food name#Sibylla
+n %G8^+ 7(Erw3 6/CB\ amenity#bench
+n %G8^R 7(EsA2 6/C6, amenity#bench tourism#viewpoint
+n &.Gt} 7(Esm< 6/CE0 amenity#bench
+n &.Gt~ 7(EsQ, 6/CMP amenity#bench
+n &.Gu! 7(EsP$ 6/CMl amenity#waste_basket
+n &.Gu' 7(Es?V 6/CH^ amenity#bench
+n &.Gu( 7(Es$= 6/C?u amenity#bench
+n &.Gu) 7(Es&3 6/C?l amenity#waste_basket
+n &.Gu* 7(Eruz 6/CBc amenity#waste_basket
+n &;ZOC 7(Es\K 5"J*z amenity#bench
+n &;ZOZ 7(ErkH 6/D$g amenity#bench
+n &;ZO] 7(ErK# 5"J*O amenity#bench
+n &;ZOb 7(Er>T 5"J)P amenity#bench
+n &;ZOc 7(ErL+ 6/Csm amenity#bench
+n &;ZOd 7(ErLz 6/CsR amenity#waste_basket
+n &;ZOm 7(ErHN 6/Cr# amenity#bench
+n &;ZOn 7(Eq5l 6/Cqy amenity#bench
+n &;ZOo 7(Eq50 6/Cr0 amenity#waste_basket
+n &;ZOp 6fNZu 6/Cy> amenity#waste_basket
+n &;ZOq 5'z02 6/Cy1 amenity#bench
+n &;ZOr 7(Eq3Q 5"J*1 amenity#bench
+n &;ZOs 7(Eq1x 6/C|N amenity#waste_basket
+n &;ZOt 7(Eq<d 6/C}I amenity#bench
+n &;vJ9 7(EpN; 6/Cd[ addr:housenumber#32 addr:street#Gamla_Rambergsvägen
+n &;vJ: 7(EpXM 6/Cbw addr:housenumber#30,40 addr:street#Gamla_Rambergsvägen
+n &;vJ; 7(Epyl 5"J&u addr:housenumber#36 addr:street#Gamla_Rambergsvägen
+n &;vJ< 7(Ep}P 6/CX) addr:housename#Britteberg addr:housenumber#34 addr:street#Gamla_Rambergsvägen
+n &;vJ= 7(Eq#Q 6/CO\ addr:housenumber#28 addr:street#Gamla_Rambergsvägen
+n &;vJ> 7(Eq&w 6/CK) addr:housenumber#26 addr:street#Gamla_Rambergsvägen
+n &;vJ? 7(Eq/8 5"J$F addr:housenumber#24 addr:street#Gamla_Rambergsvägen
+n )B)K> 7(Eq1# 6/DcH highway#traffic_signals

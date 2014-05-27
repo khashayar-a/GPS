@@ -1,0 +1,612 @@
+w "!SGK addr:housenumber#11 addr:street#Silvergatan building#yes
+d ,lA-[ 7(ELko 6/?`a
+d ,lA/7 7(ELm9 6/?bj
+d ,lA.3 6fJ|? 6/?b~
+d ,lA)x 7(ELbi 6/?`v
+d ,lA-[ 7(ELko 6/?`a
+w "eq;+ building#yes
+d 4#aL8 7(EORD 6/?Uf
+d 4#aL9 7(EOT~ 6/?Ve
+d 4#aL. 7(EOJK 6/?Wb
+d 4#aL& 7(EOGo 6/?Vb
+d 4#aL8 7(EORD 6/?Uf
+w JK97 highway#trunk_link oneway#yes
+d %!pJ2 6fJlM 6/@)F
+d &'<KO 7(EK&0 6/@&@
+d &'<KG 7(EK)V 6/@$p
+d %+y<A 7(EK/o 6/@#d
+d %!pJ3 7(EK9o 6/@#V
+d %+y<? 7(EKBL 6/@$%
+d %!pJ4 7(EKJJ 6/@%?
+d %+y<B 7(EKP: 6/@'L
+d %!pJ5 7(EKT# 6/@*5
+d %!pJ6 6fJqR 6/@.J
+d ,qK1} 7(EKV[ 5"Idj
+d %!pJ) 7(EKT\ 6/@;y
+w C=Ar bridge#yes highway#trunk_link layer#2 oneway#yes
+d @e`< 7(ELap 6/@.W
+d 0@Vla 7(ELRz 6/@,?
+d %!pJ% 7(ELI) 6/@*+
+d %!pJ& 7(ELEa 6/@(7
+d .!W]I 7(ELFH 6/@&`
+d .!W]G 7(ELLg 6/@$n
+w "!SG] addr:housenumber#9 addr:street#Silvergatan building#yes
+d ,lA+g 7(ELYd 6/?[T
+d ,lA*O 7(ELbM 6/?]=
+d ,lA,F 7(EL\8 6/?^E
+d ,lA+/ 6fJz^ 6/?\\
+d ,lA+g 7(ELYd 6/?[T
+w "?q\: highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d 0@Vk] 7(EN0q 6/@?j
+d %&JU( 7(EN[Q 6/@?a
+w "?bvR addr:housenumber#10 addr:street#Fotögatan building#yes
+d 0>q2p 7(EL.s 6/@Lg
+d 0>q1E 7(EL$> 6/@LG
+d 0>q3^ 7(EL*) 6/@F2
+d 0>q17 7(EL&g 6/@F(
+d 0>q2u 7(EL,3 6/@@5
+d 0>q3E 7(EL3) 6/@@J
+d 0>q2\ 7(EL9: 6/@AW
+d 0>q2p 7(EL.s 6/@Lg
+w Cb=q highway#trunk_link layer#-1 oneway#yes
+d $T98F 7(ELcc 6/@>a
+d $T98G 7(ELw6 6/@@j
+d $T98H 7(EM'T 6/@BI
+d $T98I 7(EM2' 6/@By
+d $T98J 7(EM?} 6/@Bx
+d $T98K 7(EML7 6/@B5
+d @SB} 7(EMW: 6/@A'
+d @SB~ 7(EM^h 6/@?~
+d @SC% 7(EMfV 6/@>.
+d @SC$ 6fK(< 6/@;E
+d @SC# 7(EMf0 6/@8#
+d @SC" 7(EM\j 6/@4S
+d 0@VnN 7(EMTu 6/@2`
+d @SBy 7(EMI; 6/@0V
+d 0@VjO 7(EM*) 6/@-1
+d @SB{ 7(ELf^ 6/@*8
+d @SC& 7(ELCT 6/@'.
+d @SC' 7(EKrV 6/?}3
+w "eq;L building#yes
+d 4#aKQ 7(EN{L 6/?Ue
+d 4#aKV 7(EN}p 6/?V;
+d 4#aKD 7(ENzB 6/?Vl
+d 4#aK; 7(ENw| 6/?V8
+d 4#aKQ 7(EN{L 6/?Ue
+w "?q\E bridge#yes highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d $N|-W 7(EM`; 6/@>&
+d $N|-X 7(EN1\ 6/@>*
+w "!SGe addr:housenumber#1 addr:street#Platinagatan building#yes
+d ,lA-` 7(EKW, 6/?W-
+d ,lA,G 7(EK\H 5"I^{
+d ,lA/d 7(EKR_ 6/?Yn
+d ,lA.\ 7(EKMD 6/?XD
+d ,lA-` 7(EKW, 6/?W-
+w ?WA- highway#trunk_link oneway#yes
+d $T96a 7(EMar 6/@MG
+d $T96c 7(EM]i 5"Ig+
+d $T96d 7(EM\T 6/@J$
+w "eq;j building#yes
+d 4#aKh 7(EO)^ 6/?[E
+d 4#aKF 7(ENzC 6/?\_
+d 4#aK< 7(ENxL 6/?[|
+d 4#aKg 7(EO'g 6/?Zb
+d 4#aKh 7(EO)^ 6/?[E
+w "!SH$ addr:housenumber#15 addr:street#Silvergatan building#yes
+d ,lA+a 7(ELk6 6/?ki
+d ,lA/& 7(ELil 5"Ia,
+d ,lA., 7(ELbK 6/?n"
+d ,lA/` 6fJ|< 5"I`r
+d ,lA+a 7(ELk6 6/?ki
+w "!SGg addr:housenumber#10 addr:street#Platinagatan building#yes
+d ,lA*? 7(ELEa 6/?a9
+d ,lA*W 7(ELL. 6/?b~
+d ,lA+q 7(ELD! 6/?d&
+d ,lA)2 7(EL=S 6/?b?
+d ,lA*? 7(ELEa 6/?a9
+w "?q\5 bridge#yes highway#trunk_link lanes#1 oneway#yes
+d 0@.*X 6fK&) 6/@Bv
+d $T96n 7(EM_k 6/@At
+d $T96o 7(EMoI 6/@A/
+d $T96p 6fK+g 6/@@Y
+w &.P( highway#trunk maxspeed#70 oneway#yes
+d 5I4\ 7(ET-E 6/@\`
+d 5I4/ 6fKQo 6/@G/
+d $N{q, 7(EQL[ 6/@?<
+d 0CvA~ 7(EQ)< 6/@;h
+d 5I40 7(EPbQ 6/@90
+d 0CvA_ 7(EPNf 6/@8F
+d 5I43 7(EP;? 6/@8-
+d 5I45 7(EOg% 6/@8/
+d 5I6I 7(EN)T 6/@9b
+w "?o07 amenity#parking
+d 0@0b: 7(ENYm 4.MW
+d 0@0b# 7(EO#| 6/@Q*
+d 0@0b< 7(EN|v 5"Igb
+d 0@0b% 6fK/W 6/@I:
+d 0@0b: 7(ENYm 4.MW
+w @I4X highway#trunk lanes#3 layer#-1 maxspeed#70 name#Västerleden oneway#yes
+d ?x8# 7(EKh| 6/@$M
+d ?x8$ 5'ykP 6/@1n
+d ?x8% 7(ELV= 6/@6p
+w "!SH< addr:housenumber#6 addr:street#Platinagatan building#yes
+d ,lA)f 7(ELH, 6/?]d
+d ,lA(O 7(EL>B 6/?_-
+d ,lA,/ 7(EL7< 6/?]H
+d ,lA*t 7(ELA' 6/?\!
+d ,lA)f 7(ELH, 6/?]d
+w &.P) highway#trunk maxspeed#70 name#Västerleden oneway#yes
+d ?x7y 7(EEku 6/?8H
+d %!yJB 7(EF"x 6/?8~
+d ?x7z 7(EFN! 6/?:2
+d ?x7{ 7(EG2u 6/?;f
+d ,ohD& 7(EG_w 6/?=B
+d ,ohBc 7(EH#S 6/??4
+d ?x7| 7(EH9x 6/?@i
+d $nVo{ 7(EHXr 6/?C6
+d ?x7} 7(EHyA 6/?F=
+d ?x7~ 7(EIE} 6/?Kz
+d ,k%57 7(EI[J 6/?OM
+d ,k%5a 7(EIs= 6/?S;
+d ?x8! 7(EJ;} 6/?[.
+d $N|-H 7(EJ^] 6/?d)
+d ?x8" 7(EJt) 6/?j&
+d %!pJ' 7(EK<' 6/?uN
+d ?x8# 7(EKh| 6/@$M
+w "!SGn addr:housenumber#2 addr:street#Silvergatan building#yes
+d ,lA*d 7(EKC% 6/?R#
+d ,lA)S 7(EKH@ 6/?Sf
+d ,lA+B 7(EK@& 6/?T\
+d ,lA*- 7(EK:h 6/?Rw
+d ,lA*d 7(EKC% 6/?R#
+w "!SGN addr:housenumber#21 addr:street#Långedragsvägen building#yes
+d ,lA,e 6fJq% 6/?bo
+d ,lA.I 7(EKJI 6/?`N
+d ,lA-; 7(EKT& 6/?_N
+d ,lA)$ 7(EK[& 6/?an
+d ,lA,e 6fJq% 6/?bo
+w ;sHi highway#unclassified name#Knipplagatan
+d $'zXq 7(EN%r 6/@dF
+d $'zXu 7(EMQt 6/@R!
+d 0>q28 7(EMEB 6/@NY
+d $'zXy 7(EM6b 6/@Ku
+d $'zY3 6fJ~D 6/@HT
+d $'zX} 7(ELD} 6/@Bk
+d 0>q2V 7(EL29 6/@?-
+w ?WA5 highway#trunk_link oneway#yes
+d $T9<2 7(EK[w 6/@Gr
+d $T9<3 7(EKi< 6/@AW
+d $T9<5 7(EKto 6/@>o
+d $T9<6 7(EL#v 6/@=C
+d $T9<7 7(EL3] 6/@<A
+d $T9<8 7(ELCY 6/@<&
+d $T98E 7(ELR> 6/@<m
+d $T98F 7(ELcc 6/@>a
+w "!SG@ addr:housenumber#7 addr:street#Platinagatan building#yes
+d ,lA)} 7(EKx+ 6/?b*
+d ,lA+6 7(EL![ 6/?a(
+d ,lA,N 7(EL(g 6/?bv
+d ,lA(i 7(EL!7 6/?cx
+d ,lA)} 7(EKx+ 6/?b*
+w "!SGR addr:housenumber#11 addr:street#Platinagatan building#yes
+d ,lA-# 7(EL+n 6/?g;
+d ,lA.c 7(EL/u 5"I`Z
+d ,lA-n 7(EL(E 6/?i_
+d ,lA)C 7(EL$> 6/?gs
+d ,lA-# 7(EL+n 6/?g;
+w ?.na bridge#yes highway#trunk_link lanes#2 layer#2 maxspeed#70 oneway#yes
+d $N{y. 6fK*n 6/@6N
+d 0@Vm) 7(EMR^ 6/@5>
+w "!SH; addr:housenumber#13 addr:street#Silvergatan building#yes
+d ,lA)m 7(ELjZ 6/?g0
+d ,lA(Q 7(EL]W 6/?h$
+d ,lA,9 7(ELZ# 6/?f2
+d ,lA*| 7(ELg& 6/?e>
+d ,lA)m 7(ELjZ 6/?g0
+w @I4P highway#trunk maxspeed#70 name#Västerleden oneway#yes
+d K(R 7(EMSj 6/@8B
+d 0@VjV 7(EM=A 6/@7=
+d K(S 7(EM'0 6/@5g
+d 0@Vnu 7(ELiR 6/@30
+d ?x7x 7(ELPx 6/@/\
+d K(V 7(EKzF 6/@%[
+w &3V? highway#trunk_link
+d @SC' 7(EKrV 6/?}3
+d K(_ 7(EKDB 5"Ia[
+w "eq;m building#yes
+d 4#aKY 7(EN~? 6/?S1
+d 4#aK` 7(EO#/ 6/?SZ
+d 4#aK[ 7(EN~N 6/?T4
+d 4#aKR 7(EN{^ 6/?Si
+d 4#aKY 7(EN~? 6/?S1
+w "!SGa addr:housenumber#14 addr:street#Silvergatan building#yes
+d ,lA*f 7(ELOf 6/?Sm
+d ,lA,c 7(ELXu 6/?Sx
+d ,lA+G 7(ELXF 6/?UA
+d ,lA.o 6fJz6 6/?U6
+d ,lA*f 7(ELOf 6/?Sm
+w PK"x highway#trunk lanes#2 maxspeed#70 oneway#yes
+d ?x8& 6fJ~& 6/@9r
+d $N|-I 7(EM\. 6/@<(
+w "!SG` addr:housenumber#18 addr:street#Långedragsvägen building#yes
+d ,lA+Y 7(EKI, 6/?f8
+d ,lA*@ 7(EKP[ 6/?i4
+d ,lA+H 7(EKFG 6/?j+
+d ,lA*3 7(EK>v 5"I`H
+d ,lA+Y 7(EKI, 6/?f8
+w @I4Q highway#trunk maxspeed#70 oneway#yes
+d K(V 7(EKzF 6/@%[
+d K(_ 7(EKDB 5"Ia[
+d K(X 7(EJgC 6/?av
+d ,k%5R 7(EJHp 6/?Yy
+d K(Z 7(EJ&\ 6/?Rd
+d %!yOl 7(EIY2 6/?L%
+d K(\ 7(EI,h 5"I]0
+d %!yOm 7(EH[F 6/?An
+d K(^ 7(EH;v 6/??)
+d ,ohIc 7(EGxH 6/?<{
+d ,ohH] 7(EGWW 6/?;F
+d 5I71 7(EG3D 6/?::
+d %!yM] 7(EFs= 6/?8.
+d 5I73 7(EEl! 5"I[Q
+w "eq;1 building#yes
+d 4#aL' 7(EOH( 6/?W*
+d 4#aL* 7(EOIt 6/?Wn
+d 4#aL! 6fK7& 6/?XT
+d 4#aK} 6fK6s 6/?Wm
+d 4#aL' 7(EOH( 6/?W*
+w C=As highway#trunk_link maxspeed#70 oneway#yes
+d %!pJ' 7(EK<' 6/?uN
+d %*B_E 7(EKQ" 6/@!A
+d %!pJ( 6fJq` 6/@%=
+d ,qK2F 7(EK[H 6/@)9
+d %*B_F 6fJr; 4.M?
+d %*B_H 7(EK[2 6/@3b
+d %!pJ) 7(EKT\ 6/@;y
+d ,qK1@ 7(EKL4 6/@HD
+d ,qK2+ 7(EKIV 6/@OE
+d %!pJ* 7(EKH@ 5"Ih1
+w "!SG= addr:housenumber#16 addr:street#Silvergatan building#yes
+d ,lA/Q 7(ELb` 6/?VJ
+d ,lA.H 6fJ|U 6/?Wx
+d ,lA*2 6fJ{s 6/?XT
+d ,lA)# 7(EL[r 6/?W'
+d ,lA/Q 7(ELb` 6/?VJ
+w Bj*K bridge#yes highway#trunk maxspeed#70 name#Västerleden oneway#yes
+d 5I6I 7(EN)T 6/@9b
+d K(R 7(EMSj 6/@8B
+w ?.o6 highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d $N{h( 7(EQ4E 6/?s~
+d 'v;R_ 7(EQ$? 6/?w=
+d $N|)/ 7(EPuG 6/?zn
+d $N|)0 7(EPg8 6/@#W
+d $N|)1 7(EP]! 6/@(Y
+d $N|)2 7(EPO* 6/@+R
+d $N|)3 7(EPBG 6/@-W
+d $N|)4 7(EP4! 6/@/%
+d $N|)5 7(EO~7 6/@0%
+d $N|)6 7(EOF> 6/@1w
+d $N|)7 7(ENrk 6/@3|
+d $N|&7 7(ENDF 6/@6#
+d $N{y. 6fK*n 6/@6N
+w "?bvW highway#unclassified name#Fotögatan
+d $'zX} 7(ELD} 6/@Bk
+d $'zY# 7(EL>| 5"If>
+d $'zY) 7(EL.7 6/@Tn
+d $'zY+ 7(ELd/ 6/@\b
+d $'zY0 6fK![ 6/@[B
+w "?q\A highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d $N|-X 7(EN1\ 6/@>*
+d @e`0 7(EOxx 6/@=f
+w "?q\= bridge#yes highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d 0@Vie 7(EMUE 6/@?_
+d @e`/ 7(EMps 6/@?}
+d 0@Vk] 7(EN0q 6/@?j
+w "eq;\ building#yes
+d 4#aKu 7(EO6' 6/?Xl
+d 4#aKw 7(EO7O 6/?YL
+d 4#aKn 7(EO0L 6/?Y~
+d 4#aKl 7(EO/$ 6/?Y@
+d 4#aKu 7(EO6' 6/?Xl
+w PK"| highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d %&JU) 7(EO-: 6/@?b
+d @e`0 7(EOxx 6/@=f
+w "eq;- building#yes
+d 4#aK" 7(ENra 6/?T$
+d 4#aK5 7(ENv8 6/?U+
+d 4#aJu 6fK2& 6/?V,
+d 4#aJk 7(ENi| 6/?U%
+d 4#aK" 7(ENra 6/?T$
+w "!SGW addr:housenumber#6A addr:street#Silvergatan building#yes
+d ,lA,\ 7(EKgb 6/?S0
+d ,lA(4 7(EKgb 6/?Ti
+d ,lA,U 7(EK]d 6/?Ti
+d ,lA-o 7(EK]d 6/?S0
+d ,lA,\ 7(EKgb 6/?S0
+w PK#! highway#trunk lanes#2 maxspeed#70 oneway#yes
+d @e`9 7(EP!2 6/@4[
+d @e`: 7(EO+} 6/@6S
+d 5I6I 7(EN)T 6/@9b
+w @I4W highway#trunk lanes#3 maxspeed#70 oneway#yes
+d ?x8% 7(ELV= 6/@6p
+d ?x8& 6fJ~& 6/@9r
+w "!SGH addr:housenumber#8A addr:street#Silvergatan building#yes
+d ,lA)( 7(EK~< 6/?R*
+d ,lA*8 7(EK~N 6/?Sf
+d ,lA+S 7(EKu, 6/?Sj
+d ,lA/U 7(EKtx 6/?R.
+d ,lA)( 7(EK~< 6/?R*
+w "eq;' building#yes
+d 4#aKm 7(EO0; 6/?Qw
+d 4#aKx 7(EO7f 6/?Rp
+d 4#aKq 7(EO4$ 6/?St
+d 4#aKj 7(EO,X 6/?R|
+d 4#aKm 7(EO0; 6/?Qw
+w "eq;g building#yes
+d 4#aK@ 7(ENy3 6/?RK
+d 4#aKT 7(EN|c 6/?Rx
+d 4#aKA 7(ENyo 6/?S_
+d 4#aK8 7(ENv? 6/?S1
+d 4#aK@ 7(ENy3 6/?RK
+w kSm9 building#yes
+d *t&c# 7(EO(P 6/@Gv
+d *t&cN 7(EOt} 6/@Vs
+d *t&bH 7(EO}P 6/@UB
+d *t&c/ 7(EO1# 6/@FE
+d *t&c# 7(EO(P 6/@Gv
+w "?q\N bridge#yes highway#trunk lanes#2 maxspeed#70 oneway#yes
+d $N|-I 7(EM\. 6/@<(
+d 0Cv=d 7(EMt: 6/@<E
+d ?x8' 7(EN-\ 6/@<=
+w "?q\L highway#trunk_link lanes#1 oneway#yes
+d $T96p 6fK+g 6/@@Y
+d $T96q 7(ENC5 6/@@7
+d %&JU( 7(EN[Q 6/@?a
+w PK"~ bridge#yes highway#trunk_link lanes#1 layer#2 maxspeed#70 oneway#yes
+d @e`< 7(ELap 6/@.W
+d 0@ViC 7(ELSH 6/@.P
+d %*B_@ 7(ELDS 6/@.H
+d @e`= 7(EL5d 6/@/(
+d %*B_A 7(EL+p 6/@/r
+d @e`> 7(EL$' 6/@0i
+w "!SG~ addr:housenumber#12 addr:street#Silvergatan building#yes
+d ,lA(y 6fJyP 4.Lh
+d ,lA(A 7(ELGV 6/?Uv
+d ,lA)[ 7(EL=2 6/?Ul
+d ,lA/J 7(EL=Z 5"I^T
+d ,lA(y 6fJyP 4.Lh
+w "?bvQ building#yes
+d 0>q2| 7(ELI8 6/@DX
+d 0>q1Y 7(ELq8 5"Ifl
+d 0>q3? 7(ELh+ 6/@RV
+d 0>q3] 7(EL]d 6/@R1
+d 0>q3( 7(ELY[ 6/@SZ
+d 0>q3M 7(ELSI 6/@Ty
+d 0>q1y 7(ELZ% 6/@V#
+d 0>q2T 6fJz0 6/@XN
+d 0>q3; 7(EL5n 6/@Te
+d 0>q3T 7(EL2t 6/@S7
+d 0>q26 7(EL<] 6/@S!
+d 0>q2n 7(EL=b 6/@SZ
+d 0>q1v 7(ELBp 6/@TF
+d 0>q2N 7(ELJ) 6/@Rw
+d 0>q3k 6fJz1 6/@S\
+d 0>q1W 7(ELS] 6/@Rc
+d 0>q2P 7(ELRb 6/@Qa
+d 0>q3& 7(ELPl 6/@Q[
+d 0>q1X 7(ELO{ 6/@R<
+d 0>q1w 7(ELHQ 6/@R"
+d 0>q1C 7(ELIB 6/@Q:
+d 0>q1q 6fJwf 6/@P_
+d 0>q3K 7(EL<] 6/@J7
+d 0>q3` 7(ELI$ 6/@JZ
+d 0>q3G 7(ELHQ 6/@K=
+d 0>q3_ 7(ELJF 6/@KB
+d 0>q2J 7(ELIB 6/@LL
+d 0>q2~ 7(ELPb 6/@Lf
+d 0>q20 7(ELRv 6/@J;
+d 0>q2d 7(ELdT 6/@Jp
+d 0>q19 7(ELeE 6/@I}
+d 0>q1Z 7(ELCk 6/@F<
+d 0>q2| 7(ELI8 6/@DX
+w "!SH> addr:housenumber#23 addr:street#Långedragsvägen building#yes
+d ,lA)b 7(EK=t 4.Lo
+d ,lA*q 7(EKH[ 6/?[$
+d ,lA,, 6fJpo 5"I_M
+d ,lA(K 7(EKDV 6/?^\
+d ,lA)b 7(EK=t 4.Lo
+w kSj] building#yes
+d *t%kK 7(ENAX 6/@G9
+d *t%kD 7(EN0" 6/@L{
+d *t%kP 7(EN9> 6/@M{
+d *t%kI 7(ENJt 6/@H:
+d *t%kK 7(ENAX 6/@G9
+w "!SGL addr:housenumber#8 addr:street#Platinagatan building#yes
+d ,lA-U 7(EL2T 6/?_q
+d ,lA.M 7(EL8K 6/?aH
+d ,lA-A 6fJvz 6/?bf
+d ,lA)' 7(EL(V 6/?a1
+d ,lA-U 7(EL2T 6/?_q
+w "?n{@ building#yes
+d 0@.+0 7(EM(S 6/@Z-
+d 0@.+) 7(EL{] 3"A`
+d 0@.)E 6fJ}} 6/@PU
+d 0@.*m 7(ELz( 6/@K0
+d 0@.++ 7(EM$@ 6/@JO
+d 0@.*V 7(EM00 6/@L$
+d 0@.*q 7(EM/E 6/@L:
+d 0@.){ 7(EM7N 6/@MB
+d 0@.*( 7(EMFI 6/@P1
+d 0@.+1 7(EM>l 6/@QV
+d 0@.)^ 7(EM;a 4.M^
+d 0@.*x 7(EM5L 6/@R$
+d 0@.+5 7(EMC0 6/@X*
+d 0@.+0 7(EM(S 6/@Z-
+w &.P| highway#trunk_link lanes#1 maxspeed#70 name#Högsboleden oneway#yes
+d @e`> 7(EL$' 6/@0i
+d %*B_B 7(EKr] 6/@3g
+d ?x<b 7(EKhE 6/@6p
+d %*B_D 7(EK`$ 6/@:B
+d ?x<a 7(EKX$ 6/@Ay
+d ,qK1Y 7(EKOj 6/@KD
+d %!pJ* 7(EKH@ 5"Ih1
+w "eq;2 building#yes
+d 4#aK* 7(ENs} 6/?Vz
+d 4#aK- 7(ENur 6/?WH
+d 4#aK% 7(ENs! 6/?Wn
+d 4#aJz 7(ENq+ 6/?WA
+d 4#aK* 7(ENs} 6/?Vz
+w "!SH5 addr:housenumber#5 addr:street#Silvergatan building#yes
+d ,lA*5 7(EL%E 6/?Xw
+d ,lA+K 7(EL-s 6/?XK
+d ,lA,g 7(EL1z 6/?[$
+d ,lA)% 7(EL)L 6/?[P
+d ,lA*5 7(EL%E 6/?Xw
+w "!SGf addr:housenumber#18 addr:street#Silvergatan building#yes
+d ,lA*B 7(ELjZ 6/?Y$
+d ,lA)5 7(ELo< 6/?ZN
+d ,lA+) 7(ELh$ 6/?[=
+d ,lA)t 7(ELcB 4.Lm
+d ,lA*B 7(ELjZ 6/?Y$
+w C=EG highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d $T9<2 7(EK[w 6/@Gr
+d @e`( 6fJr^ 6/@BW
+d @e`- 7(EKh' 6/@?P
+d @e`) 7(EKtt 6/@<k
+d @e`* 7(EL)~ 6/@:q
+d @e`. 7(EL>= 5"Ie@
+d @e`+ 7(ELS/ 6/@:m
+d @e`, 6fJ}6 5"IeS
+d $N|<> 7(EM<| 6/@?!
+d 0@Vie 7(EMUE 6/@?_
+w "!SG^ addr:housenumber#4 addr:street#Platinagatan building#yes
+d ,lA+c 7(EL"r 6/?\E
+d ,lA*E 7(EL(i 6/?]s
+d ,lA,@ 7(EL!> 6/?^v
+d ,lA++ 7(EKyG 6/?]I
+d ,lA+c 7(EL"r 6/?\E
+w "!SG{ addr:housenumber#2 addr:street#Platinagatan building#yes
+d ,lA,w 7(EKpW 6/?Yo
+d ,lA(X 7(EKvN 6/?[0
+d ,lA/' 7(EKof 6/?\5
+d ,lA)6 7(EKio 6/?Zs
+d ,lA,w 7(EKpW 6/?Yo
+w "?q\H highway#trunk lanes#2 maxspeed#70 oneway#yes
+d ?x8' 7(EN-\ 6/@<=
+d ?x8( 7(EO@Q 6/@:T
+d ?x8) 7(EP2v 6/@:*
+d ?x8* 7(EPXB 5"IeG
+d ?x8+ 7(EQ.R 6/@>o
+d ?x8, 7(ER!` 6/@G=
+w "!SGo addr:housenumber#3 addr:street#Platinagatan building#yes
+d ,lA)u 7(EK`O 6/?\l
+d ,lA)> 7(EKgJ 6/?[n
+d ,lA*P 7(EKn} 5"I_M
+d ,lA(] 7(EKh# 6/?^`
+d ,lA)u 7(EK`O 6/?\l
+w ?.o` highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d ?x8& 6fJ~& 6/@9r
+d $N|-V 7(EM@T 5"IeY
+d $N|-W 7(EM`; 6/@>&
+w PK"{ highway#trunk_link lanes#2 maxspeed#70 oneway#yes
+d %&JU( 7(EN[Q 6/@?a
+d %&JU) 7(EO-: 6/@?b
+w "!SH, addr:housenumber#5 addr:street#Platinagatan building#yes
+d ,lA+u 7(EKka 6/?_B
+d ,lA/3 7(EKsE 5"I_S
+d ,lA.< 7(EKz* 6/?`(
+d ,lA/C 6fJtA 6/?a+
+d ,lA+u 7(EKka 6/?_B
+w "!SH% addr:housenumber#12 addr:street#Platinagatan building#yes
+d ,lA+X 7(ELMH 6/?cx
+d ,lA/Y 7(ELQc 6/?eg
+d ,lA.% 7(ELGR 6/?fX
+d ,lA.} 7(ELC7 6/?di
+d ,lA+X 7(ELMH 6/?cx
+w ?WA. highway#trunk_link lanes#1 oneway#yes
+d $T91` 7(EMl^ 5"Ig<
+d $T96a 7(EMar 6/@MG
+d $T96h 6fK&E 6/@LU
+d $T96i 7(EMMf 6/@K;
+d $T96k 7(EMHf 6/@IH
+d $T96l 7(EMHB 6/@GA
+d $T96m 7(EMJB 6/@E_
+d 0@.)x 7(EMOe 6/@C{
+d 0@.*X 6fK&) 6/@Bv
+w ;sHp highway#unclassified name#Varholmsgatan
+d $'zY3 6fJ~D 6/@HT
+d $'zY6 7(ELp> 6/@Q>
+d $'zY0 6fK![ 6/@[B
+d $'zXn 7(EMC* 6/@gD
+d $'zY_ 7(EMDW 6/@h\
+d "7|>C 6fK%l 6/@w8
+w ?WA8 highway#trunk_link oneway#yes
+d $T98F 7(ELcc 6/@>a
+d $T98[ 7(ELy# 6/@C.
+d $T98\ 7(EM4" 6/@H<
+d $T98] 7(EME< 6/@K~
+d $T98^ 7(EMSv 6/@Nn
+d $T93? 7(EMb3 6/@PJ
+w "!SGz addr:housenumber#7 addr:street#Silvergatan building#yes
+d ,lA,} 7(ELKr 6/?XH
+d ,lA(\ 7(ELOf 6/?Z*
+d ,lA/2 7(ELG1 6/?Zk
+d ,lA)9 7(ELC= 5"I_"
+d ,lA,} 7(ELKr 6/?XH
+w "?bvS addr:housenumber#8 addr:street#Fotögatan building#yes
+d 0>q3d 7(EL-, 5"Ig>
+d 0>q2g 7(EKuX 6/@MR
+d 0>q1; 7(EK~y 6/@CC
+d 0>q1[ 7(EL&n 6/@B@
+d 0>q2k 7(EL*O 6/@>k
+d 0>q39 7(EL)# 6/@>P
+d 0>q1] 7(EK|H 6/@?^
+d 0>q24 7(EKmn 6/@Nd
+d 0>q1I 7(EL+^ 6/@OP
+d 0>q3d 7(EL-, 5"Ig>
+w J7u_ highway#trunk_link layer#-1 oneway#yes
+d $T96d 7(EM\T 6/@J$
+d $T96e 7(EM^( 6/@Fb
+d $T96f 6fK&w 6/@Cp
+d @SB} 7(EMW: 6/@A'
+w "!SH7 addr:housenumber#10 addr:street#Silvergatan building#yes
+d ,lA*y 7(EL(7 5"I^T
+d ,lA.N 7(EL-f 6/?U}
+d ,lA-C 7(EL&$ 6/?Vx
+d ,lA.D 5'yk9 6/?UD
+d ,lA*y 7(EL(7 5"I^T
+w "?q\< highway#trunk_link lanes#2 layer#2 maxspeed#70 oneway#yes
+d 0@Vm) 7(EMR^ 6/@5>
+d @e`; 7(EM>Y 6/@3y
+d %*B_= 7(EM"n 6/@13
+d @e`< 7(ELap 6/@.W
+w "!SG? addr:housenumber#24 addr:street#Silvergatan building#yes
+d ,lA*' 7(EM'u 6/?lV
+d ,lA+: 7(EM&d 6/?mu
+d ,lA,V 7(ELzy 6/?mX
+d ,lA(l 7(EL|, 6/?l:
+d ,lA*' 7(EM'u 6/?lV
+w Cb=n highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d %&JU) 7(EO-: 6/@?b
+d %&JU* 7(EOrN 5"Iey
+d %&JU+ 7(EPlv 6/@BG
+d 0Cv>2 7(EQ3g 6/@D+
+d %&JU, 7(EQ_| 6/@G9
+d %&JU- 7(ESP5 6/@X$
+w "eq;W building#yes
+d 4#aKs 7(EO5; 6/?Ug
+d 4#aKo 7(EO1* 6/?U8
+d 4#aKt 7(EO5m 6/?Sq
+d 4#aKy 5'yn@ 6/?TB
+d 4#aKs 7(EO5; 6/?Ug
+w "eq;k building#yes
+d 4#aK\ 7(EN~V 6/?e&
+d 4#aKP 7(ENz~ 6/?eO
+d 4#aK? 7(ENy( 6/?dy
+d 4#aKS 6fK3V 6/?dP
+d 4#aK\ 7(EN~V 6/?e&
+w ?.n} highway#trunk_link lanes#1 maxspeed#70 oneway#yes
+d @e`9 7(EP!2 6/@4[
+d $N|&5 7(EO@! 6/@4N
+d $N|&6 7(ENs# 3"A]
+d $N|&7 7(ENDF 6/@6#

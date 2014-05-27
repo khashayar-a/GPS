@@ -1,0 +1,20 @@
+n #31@5 7(E~tG 6/BS\ traffic_calming#yes
+n #329~ 7(E|w8 6/C!X highway#turning_circle
+n $8[6^ 7(EwAR 6/Aw> highway#traffic_signals
+n %#o0+ 7(E|UG 6/Bl4 description#Folkpark name#Flunsåsparken
+n &#eNW 7(ExpQ 6/Bk% amenity#waste_basket
+n .cm2F 7(E{}. 6/C&" traffic_calming#yes
+n .cm5% 7(E{#B 6/BrE traffic_calming#yes
+n .cm5' 7(E{O# 6/Bzi traffic_calming#yes
+n .cm5R 7(E{|l 6/C7B traffic_calming#yes
+n .cm7[ 7(Exzx 6/Bdt traffic_calming#yes
+n .cm7] 7(Eyq& 6/BX= traffic_calming#yes
+n .cm7k 7(Ez<Z 6/Bce traffic_calming#yes
+n .cm7y 7(E{zY 5"J$M traffic_calming#yes
+n .cm~) 7(E{Y` 6/C"u amenity#fast_food cuisine#pizza
+n /+h]* 7(E{"3 6/BZ1 traffic_calming#yes
+n /+h`T 7(E|:1 6/BKM traffic_calming#yes
+n /+h`_ 7(E{3$ 6/BKT traffic_calming#yes
+n /+haw 7(E}kd 6/BLh traffic_calming#yes
+n /+hbO 7(F"UW 6/BPL traffic_calming#yes
+n 00z|D 7(E|,[ 6/C&3 amenity#parking capacity#8 capacity:disabled#no capacity:parent#no capacity:women#no fee#yes parking#surface

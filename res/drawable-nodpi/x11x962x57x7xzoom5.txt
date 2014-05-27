@@ -1,0 +1,77 @@
+w "ohUA bench#yes bus#yes name#Grönsakstorget public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+Gn1 7(EdU@ 6/G.#
+d 5+GnD 7(Edz9 4.Sp
+w "ohU< bench#yes bus#yes name#Grönsakstorget public_transport#platform ref#Läge_D shelter#yes tram#yes
+d 5+GnN 7(Ee'< 6/G"<
+d 5+GnA 7(EdtQ 6/Fyo
+w "ohU? bench#yes bus#yes name#Grönsakstorget public_transport#platform ref#Läge_A shelter#yes tram#yes
+d 5+Gn4 7(EdYh 6/G/;
+d 5+GnF 6fMFX 6/G*M
+w "oj]C bench#yes bus#yes name#Kungsportsplatsen public_transport#platform ref#Läge_D shelter#yes
+d 5+`h_ 7(EfBm 6/G^e
+d 5+`hg 7(EfXa 6/G[G
+w "ohU= bench#yes bus#yes name#Grönsakstorget public_transport#platform ref#Läge_C shelter#yes tram#yes
+d 5+GnE 7(Ed|k 6/G"f
+d 5+Gn? 7(Edl" 4.Sd
+w "oj]E bench#yes name#Kungsportsplatsen public_transport#platform ref#Läge_B shelter#yes tram#yes
+d 5+`hP 7(EfA$ 6/G`y
+d 5+`i" 7(Efg# 6/G[g
+n ?lnm 7(EbI3 6/GSf highway#traffic_signals
+n ?lno 7(Edn# 6/H,( highway#traffic_signals
+n ?lnq 7(Ee6q 5"JPD highway#traffic_signals
+n ?n0y 7(EfY> 6/F~H highway#crossing
+n ?}?2 7(Ec{v 6/Fu} amenity#school name#Pedagogen,_hus_B
+n ?}?3 7(Eda4 6/G!$ amenity#school name#Pedagogen,_hus_A
+n ""bv= 7(E]oY 6/FpG name#Handelshögskolan railway#tram_stop
+n $a.a" 6fMN} 6/G@+ amenity#cinema name#Biopalatset
+n %!p70 7(EbF| 6/GRf highway#traffic_signals
+n %#{,T 7(EggY 5"JE| highway#crossing
+n %#{,X 7(Egd! 6/FvO highway#crossing
+n %#{-? 7(Eg3k 6/F{t highway#crossing
+n %#{/& 7(EfUM 6/F{{ highway#crossing
+n %#{1X 7(EfZ% 6/F~z highway#crossing
+n %#{<K 7(Ef#o 6/G#P highway#crossing
+n %#{<Q 7(Ee~& 6/G!$ highway#crossing
+n %#{K) 7(EbLr 6/GT] highway#traffic_signals
+n %$=WF 6fMZr 6/Fx} highway#crossing
+n %*Rg7 6fMPT 6/G@v barrier#bollard
+n %+Lh1 7(Ei}{ 5"JV' bicycle#yes crossing#uncontrolled highway#crossing
+n &<lk% 7(EfNW 6/F|> amenity#restaurant cuisine#pizza name#Pizza_Hut wheelchair#limited
+n &j##R 7(EeKd 6/G[H amenity#ferry_terminal name#Paddan operator#Strömma_Skärgårdsbåtar tourism#attraction
+n &w8%: 7(Ef#V 6/GKR name#Saluhallen shop#convenience wheelchair#limited
+n (T.HP 7(Ee`N 6/Fp~ amenity#restaurant name#Soppdax wheelchair#no
+n +<nWO 5'z$b 6/GUJ amenity#bicycle_rental capacity#20 name#Kungstorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#17
+n +<nY9 7(Edlz 6/G/; amenity#bicycle_rental capacity#25 name#Grönsakstorget network#Styr_&amp;_Ställ_Göteborg operator#JCDecaux ref#12
+n +^,)s 7(Ef*L 6/G=8 amenity#cafe cuisine#coffee_shop name#Espressohouse
+n 1+eAI 7(EeqH 5"JH1 addr:street#Södra_larmgatan_14 amenity#cafe contact:phone#031_-_774_28_81 name#Da_Matteo_i_viktoriapassagen website#http://damatteo.se/
+n 1e*%u 7(Egw@ 6/HS% bicycle#yes crossing#uncontrolled highway#crossing
+n 1e*&d 7(Ei}V 6/HV' bicycle#yes crossing#uncontrolled highway#crossing
+n 2=E3! 7(EfL{ 6/Frq addr:housenumber#34-36 addr:street#Kungsgatan
+n 2gqAN 7(EeMp 6/G&W highway#crossing
+n 2gqAU 7(Ef!L 5"JFc railway#crossing
+n 2gqAX 7(Ef"G 6/G"\ railway#crossing
+n 5+GmD 7(Edh} 6/G*z bus#yes highway#bus_stop name#Grönsakstorget operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+GmM 7(EdlD 6/G-- bus#yes highway#bus_stop name#Grönsakstorget operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+GmZ 7(Edsv 6/F~. bus#yes highway#bus_stop name#Grönsakstorget operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+Gmb 7(EdzJ 6/F{Y bus#yes highway#bus_stop name#Grönsakstorget operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5+`g- 7(EfMB 6/G\a bus#yes highway#bus_stop name#Kungsportsplatsen operator#Västtrafik public_transport#stop_position shelter#yes
+n 5+`g6 6fMU" 6/G^' name#Kungsportsplatsen operator#Västtrafik public_transport#stop_position railway#tram_stop shelter#yes tram#yes
+n 5rNd7 7(Eb70 5"JK! amenity#pub name#Champagnerian
+n 5rNd8 7(Eb9F 6/GPd amenity#pub name#Charlies_Änglar phone#0317113833 website#http://www.charliesanglar.net/
+n 5rNd9 7(Eb>; 6/GY< amenity#pub fax#0317116871 name#Chez_Amis phone#0317114404 website#http://gastrogate.com/restaurang/chezamis
+n 5rNd: 7(Eb&# 6/GQD name#Clip_Avance shop#hairdresser
+n 5rNdV 7(Eb0\ 6/GJ& name#Svensk_Fastighetsförmedling office#estate_agent
+n 5uv0L 6fMPE 6/GEV amenity#restaurant name#Amanda_Boman wheelchair#yes
+n 5uv0M 6fMU2 6/GNP name#Avalon_Hotel tourism#hotel website#http://www.avalonhotel.se/
+n 5uv0O 7(Ef=m 6/GN> amenity#restaurant gay#welcome internet_access#yes internet_access:fee#no name#Bee_Kök_&amp;_Bar opening_hours#Mo-Th_11:30-23:00;_Fr_11:30-02:00;_Sa_11:30-03:00;_Su_13:00-23:00 website#http://www.beebar.se/
+n 5uv0Q 7(Ef;f 6/G\" amenity#pub name#Berså website#http://www.berså.se/
+n 5uv0i 7(Ee~B 6/GYj amenity#restaurant name#Grillhousee
+n 5uv0k 7(Eey" 6/GYL addr:city#Göteborg addr:housenumber#10A addr:interpolation#even addr:street#Basargatan
+n 5uv11 6fMTP 6/GKd amenity#restaurant cuisine#regional name#Kungstorget phone#031139290 website#http://gastrogate.com/restaurang/kungstorget
+n 5uv1? 7(Eev) 6/GM1 name#Ost-Anders shop#deli
+n 5uv1F 7(Ee~B 6/GW) amenity#restaurant cuisine#thai name#S.P.I.C.E website#http://www.spiceitrestaurang.com/
+n 5uv1L 7(Ef&m 6/GZ, amenity#restaurant cuisine#sushi name#Sushi_Yama
+n 5uv1] 7(Ef"8 6/GPR amenity#restaurant name#Till_Salu wheelchair#limited
+n 5uv1` 7(Ef). 6/GUl amenity#restaurant name#Tranquilo wheelchair#no
+n 5uv32 7(EfF9 6/GHy amenity#pub name#Ölhallen_7:an wikipedia#sv:Ölhallen_7:an
+n 5uv34 7(Eeo; 6/GJR amenity#restaurant name#14_m2_mat

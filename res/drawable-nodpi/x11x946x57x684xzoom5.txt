@@ -1,0 +1,15 @@
+n ?t:p 7(EIUz 6/D\B highway#motorway_junction name#Margretebergsmotet
+n ?tt- 7(EP{$ 6/EYl highway#traffic_signals
+n ?tt0 7(EW'~ 6/Ej0 highway#traffic_signals
+n ?tt3 7(ESoV 6/Ega highway#traffic_signals
+n @@#7 7(ENI, 6/E9u highway#motorway_junction name#Margretebergsmotet
+n imCK 6fJ~# 6/DxJ name#Botaniska_trädgården railway#tram_stop
+n "4K_, 7(EUVZ 6/EiC highway#traffic_signals
+n #?sVF 7(EW"G 6/Em) highway#traffic_signals
+n $}>Z* 7(EOvD 6/E\@ highway#turning_circle
+n %!;:y 7(EF'_ 6/D;j highway#traffic_signals
+n +<hkQ 7(EPw` 6/Ebn name#Änggårdens_Bed&amp;Breakfast tourism#guest_house website#http://www.anggardensbedandbreakfast.se/
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing
+n 1o)qP 7(ER)w 6/EA# amenity#place_of_worship building#no name#open_air opening_hours#24/7 religion#christian

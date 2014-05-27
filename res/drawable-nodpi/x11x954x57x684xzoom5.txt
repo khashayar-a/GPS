@@ -1,0 +1,50 @@
+n ?tt- 7(EP{$ 6/EYl highway#traffic_signals
+n ""cgQ 7(EQ3# 6/F}T highway#traffic_signals
+n ""cw* 7(EPo$ 6/F[- highway#turning_circle
+n "4K_, 7(EUVZ 6/EiC highway#traffic_signals
+n %+x73 7(EQ(k 6/G#T highway#traffic_signals
+n &.W@F 7(EQ4J 6/FB@ highway#turning_circle
+n &._W! 7(EPS+ 6/Fg< highway#turning_circle
+n &.zj| 7(EPXT 6/FEO addr:housenumber#12B addr:street#Medicinaregatan
+n &.zk$ 7(EP"@ 6/FF6 addr:housenumber#8A addr:street#Medicinaregatan
+n &.zk) 7(EP&3 6/F?v addr:housenumber#8B addr:street#Medicinaregatan
+n &.zk+ 7(EP&o 6/F;% addr:housenumber#10 addr:street#Medicinaregatan
+n &.zk. 6fKAU 6/FLf addr:housenumber#12C addr:street#Medicinaregatan
+n &.zk/ 7(EPd# 6/F>} addr:housenumber#12A addr:street#Medicinaregatan
+n &.zk1 5'yp+ 6/FBe addr:housenumber#12F addr:street#Medicinaregatan
+n &.zk3 7(EQAw 6/F?. addr:housenumber#12G addr:street#Medicinaregatan
+n &.|DO 6fKPc 5"J=R addr:housenumber#20 addr:street#Arvid_Wallgrens_backe
+n &.~[U 7(ES7F 6/F3: amenity#bicycle_parking
+n &/vdk 7(EPt2 6/FOB addr:housenumber#12D addr:street#Medicinaregatan
+n &/vdm 7(EQ!: 6/FH} addr:housenumber#12E addr:street#Medicinaregatan
+n &0#_i 7(ES?m 6/FS? barrier#gate bicycle#no foot#no
+n &0#_s 7(ET<i 6/FXQ addr:housenumber#20A addr:street#Medicinaregatan
+n &0#af 7(ETE2 6/FH& addr:housenumber#16A addr:street#Medicinaregatan
+n &0#ak 7(ET8d 6/FC^ addr:housenumber#16B addr:street#Medicinaregatan
+n &0#ao 7(ESwn 6/FDX addr:housenumber#16C addr:street#Medicinaregatan
+n &0#at 6fKZl 6/F7" amenity#bicycle_parking
+n &0#av 6fKSD 6/F<x amenity#bicycle_parking covered#yes
+n &0#az 7(ET@{ 6/FKn amenity#bicycle_parking covered#no
+n &0#b2 7(ES/~ 6/F?p addr:housenumber#13 addr:street#Medicinaregatan
+n &0#bD 7(ERwK 6/F?X addr:housenumber#13C addr:street#Medicinaregatan
+n &0#cI 6fK^# 6/FO' addr:housenumber#15E addr:street#Medicinaregatan
+n &0#cM 7(ES+@ 5"JAe addr:housenumber#15B addr:street#Medicinaregatan
+n &0#cU 7(ES@4 6/FIM addr:housenumber#15A addr:street#Medicinaregatan
+n &0#cb 7(ERYI 6/FDQ addr:housenumber#11 addr:street#Medicinaregatan
+n &0#cj 7(ER*p 6/FE$ addr:housenumber#9D addr:street#Medicinaregatan
+n &0#cq 7(ER.t 6/FGT addr:housenumber#9C addr:street#Medicinaregatan
+n &0#cw 7(ERF8 6/FH] addr:housenumber#9B addr:street#Medicinaregatan
+n &0#d! 7(ER.\ 6/FMG addr:housenumber#9A addr:street#Medicinaregatan
+n &0#d) 7(EQmJ 6/FSG addr:housenumber#7B addr:street#Medicinaregatan
+n &0#d: 7(EQV( 6/FWa addr:housenumber#7A addr:street#Medicinaregatan
+n &0#dS 7(EQA| 6/FZJ addr:housenumber#5B addr:street#Medicinaregatan
+n &0#dZ 7(EQ.! 6/F\: addr:housenumber#5A addr:street#Medicinaregatan
+n &0#dc 7(EPtv 4.SJ addr:housenumber#3B addr:street#Medicinaregatan
+n &0#dh 7(EP`` 6/F`[ addr:housenumber#3A addr:street#Medicinaregatan
+n &0#dp 7(EQ(w 5"JB` addr:housenumber#5C addr:street#Medicinaregatan
+n 0vR8| 7(ESJM 6/FGH amenity#bicycle_parking covered#yes
+n 0vR:{ 7(EP)3 6/Fc( amenity#bicycle_parking capacity#66 covered#no
+n 1Zqda 7(EU0~ 6/GSV crossing#uncontrolled highway#crossing
+n 1ZqfT 7(EU;J 6/GTc crossing#uncontrolled highway#crossing
+n 1c?&V 6fKap 6/G<r bicycle#yes highway#crossing
+n 5`RL1 7(EP"' 6/FFf amenity#restaurant name#Lunchen website#www.lunchen.nu

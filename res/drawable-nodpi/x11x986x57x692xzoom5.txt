@@ -1,0 +1,110 @@
+n j2kT 7(E\|2 6/I^/ bicycle#yes crossing#traffic_signals highway#crossing
+n j2kU 7(E]7y 6/IbX highway#traffic_signals
+n j2kW 7(E]c1 6/IWk crossing#uncontrolled highway#crossing
+n j2kX 7(E]&V 6/I`3 highway#traffic_signals
+n w5Z_ 7(E\}H 6/I_[ highway#traffic_signals
+n "XOqk 6fL0q 4.Vh name#Getebergsäng railway#tram_stop
+n "v+*4 6fL.q 6/J2H highway#traffic_signals
+n "v+*? 7(EX[r 6/J55 highway#traffic_signals
+n $r2*O 7(E[ZZ 5"J_M crossing#island highway#crossing
+n $r2,9 7(EZqH 6/Im% highway#turning_circle
+n 'MNr~ 6fLYl 6/I]7 bicycle#yes crossing#traffic_signals highway#crossing
+n 'MNs* 7(E]*7 6/IcU bicycle#yes crossing#traffic_signals highway#crossing
+n 'MNs, 7(E]%; 6/IbK bicycle#yes crossing#traffic_signals highway#crossing
+n 'MNs- 7(E\{_ 6/Ia/ bicycle#yes crossing#traffic_signals highway#crossing
+n (11e! 7(E]&G 6/IZk bicycle#yes crossing#traffic_signals highway#crossing
+n (rn"g 7(EY)M 5"JeE name#Liseberg tourism#theme_park website#http://liseberg.se wheelchair#yes
+n ))M=f 7(E[Kd 6/JE` amenity#fast_food name#Burger_King
+n ))M=m 7(E[~A 6/JDs amenity#restaurant name#Trebello
+n ))M=z 7(E\.b 6/J;+ amenity#restaurant name#Järnvägsrestaurangen
+n ))S8# 7(E[C2 6/JDB amenity#fast_food name#Lisebergs_äteri wheelchair#limited
+n ))S8) 7(E[we 6/J@y amenity#fast_food name#Comics
+n ))S8, 7(E\7x 6/JCk amenity#cafe name#Systrarna_Olsons_Våffelbageri
+n ))S8. 7(E]Br 6/J;\ amenity#cafe name#Café_Taube
+n ))S86 7(E\V@ 6/J&V amenity#fast_food name#Burger_King
+n )3+?J 7(EY&N 6/J:h barrier#gate
+n )3+?S 7(E^[o 6/J&s barrier#gate
+n *kRz8 7(EZe% 6/I^N bicycle#no crossing#island crossing_ref#zebra highway#traffic_signals horse#no
+n *kRz^ 7(E\LE 6/I\Y crossing#island highway#crossing
+n -N#]6 7(EYS5 6/Ir# building#entrance
+n .2+[E 6fLNC 6/Ik7 name#Elkjedjan_Cabela shop#vacuum_cleaner
+n .2+[F 7(EZt/ 6/ItP amenity#restaurant cuisine#regional name#EAT
+n .2+[o 7(E\'n 6/Ihd amenity#restaurant cuisine#sushi name#Hatsukoi_Sushi
+n .2+\9 7(EZo: 6/Iu( amenity#restaurant cuisine#chinese name#Restaurang_Kejsaren
+n .2+\> 7(E\%' 6/Iv~ amenity#restaurant cuisine#regional name#tabla
+n .2+\B 7(E\O9 6/Id3 name#Pretty_Home shop#interior_decoration
+n .2+\S 7(E\=m 6/IfP amenity#cafe cuisine#sandwich name#Cafe_Pequllas_Salladsbar
+n .:#jm 7(E\9: 6/I_~ amenity#restaurant cuisine#sushi name#Sushi_Sallad_Kaffe
+n .:#kQ 7(E\L" 6/I_q name#Salong_Elving shop#hairdresser
+n .:#kZ 7(E[-? 6/Ir0 amenity#restaurant cuisine#vegetarian name#Sattva
+n .:#kn 7(E[>6 5"J_5 amenity#cafe name#Kajsas_Kafé shop#coffe
+n .:#l5 7(EYfO 6/IX( name#Eklanda_salong shop#hairdresser
+n .:#m@ 7(E[&= 6/I`j amenity#cafe cuisine#sandwich name#Smörgåsnisse
+n .:#m[ 7(E\GD 6/IZH name#Klipparna shop#hairdresser
+n .:#o) 7(EY8q 6/IZp name#europadata.net shop#computer
+n .:#o- 7(E\=S 6/IZS amenity#restaurant cuisine#thai internet_access#no name#Bai_Kraprao smoking#no
+n .:#o@ 7(E\0P 6/I_y amenity#cafe name#Jerkstrands_Konditori
+n .:#oM 7(EYO: 6/IY; craft#shoemaker name#Skomakaren shop#dry_cleaning
+n .:#oa 7(E[Rb 5"J_5 name#Hundkojan phone#031-778_49_40 shop#pet
+n .:#o{ 7(E[g] 6/I`< amenity#restaurant cuisine#pizza name#La_Sultana
+n .:#pR 7(E[(4 6/Ir` amenity#fast_food cuisine#pizza name#Tugget
+n .:#pW 7(EYq: 6/IWE name#Eklanda_Livs shop#convenience
+n 1c?%} 7(EW7m 6/Ig5 bicycle#yes crossing#traffic_signals highway#crossing
+n 1cun/ 7(EY}t 6/IYH bicycle#yes crossing#island crossing_ref#zebra highway#crossing
+n 1cur* 7(E]\w 6/Ia0 crossing#uncontrolled highway#crossing
+n 1cyaj 7(EUT- 6/IaE crossing#island highway#crossing
+n 20GDt 7(E^%O 6/Ik* barrier#gate
+n 3#Z;D 7(E\gb 6/J$o name#AtmosFear tourism#attraction
+n 3$Vjg 7(E[|X 6/J4% name#Uppswinget tourism#attraction
+n 3$Vjj 7(E\fG 6/JE# name#Lilla_Lots tourism#attraction
+n 3$WCH 6fLUi 6/J>` name#Rabalder tourism#attraction
+n 3%ozj 7(E]?h 6/IhO building#entrance
+n 3]d-( 7(Efik 6/IDD bicycle#yes crossing#controlled highway#crossing
+n 3]d-: 7(Eg4s 6/ICv bicycle#yes crossing#controlled highway#crossing
+n 3]d-[ 7(EfQ- 6/IDi name#Ullevi_Södra railway#tram_stop
+n 3]}}a 7(Efu? 6/ID6 highway#traffic_signals
+n 3]}}f 7(Eg'P 6/ID! highway#traffic_signals
+n 3gT*} 7(EdC0 6/IIU highway#traffic_signals
+n 3gT*~ 7(Ed9[ 6/IIn highway#traffic_signals
+n 3gT+" 7(Ed*# 6/IJ8 highway#traffic_signals
+n 516:I 7(EZp, 6/I\9 addr:city#Göteborg addr:housenumber#17 addr:interpolation#odd addr:street#Eklandagatan building#entrance name#Acordia_Fotklinik
+n 516:U 7(EY,T 6/I[R name#BGA_Videoproduktion shop#photo
+n 516:] 7(EYf" 6/I[n highway#bus_stop name#Carlandersplatsen shelter#yes
+n 516:` 7(EZ?j 6/IZ9 highway#bus_stop name#Carlandersplatsen shelter#yes
+n 516:s 7(EZc1 6/ITj addr:city#Göteborg addr:housenumber#1 addr:interpolation#all addr:street#Carlandersplatsen
+n 516:w 7(E\B? 6/IYj addr:city#Göteborg addr:housenumber#1 addr:interpolation#odd addr:street#Eklandagatan
+n 516;# 7(E[O, 6/I`L addr:city#Göteborg addr:housenumber#10 addr:interpolation#even addr:street#Eklandagatan
+n 516;5 7(E[>_ 6/IZ( addr:city#Göteborg addr:housenumber#11 addr:interpolation#odd addr:street#Eklandagatan
+n 516;E 6fLIz 5"J_h addr:city#Göteborg addr:housenumber#12 addr:interpolation#even addr:street#Eklandagatan
+n 516;M 7(E[*m 6/IZ> addr:city#Göteborg addr:housenumber#13 addr:interpolation#odd addr:street#Eklandagatan
+n 516;U 7(E[,0 6/I`q addr:city#Göteborg addr:housenumber#14 addr:interpolation#even addr:street#Eklandagatan
+n 516;` 7(EZwz 3"BR addr:city#Göteborg addr:housenumber#15 addr:interpolation#odd addr:street#Eklandagatan
+n 516;t 7(EZxz 6/Ia' addr:city#Göteborg addr:housenumber#16 addr:interpolation#even addr:street#Eklandagatan
+n 516<k 7(EZc{ 6/IW^ addr:city#Göteborg addr:housenumber#2 addr:interpolation#all addr:street#Carlandersplatsen
+n 516<w 7(E\Hh 5"J_f addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Eklandagatan
+n 516=; 7(EY-o 6/IQ4 addr:city#Göteborg addr:housenumber#2 addr:interpolation#even addr:street#Volrat_Thamsgatan building#entrance
+n 516=c 7(EYqa 6/IV3 addr:city#Göteborg addr:housenumber#23A addr:interpolation#odd addr:street#Eklandagatan
+n 516=g 7(EYb\ 6/IX( addr:city#Göteborg addr:housenumber#23B addr:interpolation#odd addr:street#Eklandagatan
+n 516=i 7(EYNJ 6/IXB addr:city#Göteborg addr:housenumber#23C addr:interpolation#odd addr:street#Eklandagatan
+n 516=p 7(EY5* 6/IZy addr:city#Göteborg addr:housenumber#29A addr:interpolation#odd addr:street#Eklandagatan
+n 516=t 7(EY&P 6/I[^ addr:city#Göteborg addr:housenumber#29B addr:interpolation#odd addr:street#Eklandagatan
+n 516>- 7(EZdF 6/IZW addr:city#Göteborg addr:housenumber#3 addr:interpolation#all addr:street#Carlandersplatsen
+n 516>0 7(E\., 6/IYB addr:city#Göteborg addr:housenumber#3 addr:interpolation#odd addr:street#Eklandagatan
+n 516>q 7(EZgM 5"J_r addr:city#Göteborg addr:housenumber#4 addr:interpolation#all addr:street#Carlandersplatsen
+n 516>y 7(E\5| 6/I`c addr:city#Göteborg addr:housenumber#4 addr:interpolation#even addr:street#Eklandagatan
+n 516@Q 7(EZix 6/Ieg addr:city#Göteborg addr:housenumber#5 addr:interpolation#all addr:street#Carlandersplatsen
+n 516@U 7(E[I. 6/If% addr:city#Göteborg addr:housenumber#5 addr:interpolation#odd addr:street#Cederbourgsgatan
+n 516@] 7(E[x} 6/IY[ addr:city#Göteborg addr:housenumber#5 addr:interpolation#odd addr:street#Eklandagatan
+n 516BB 7(EZpR 6/IiV addr:city#Göteborg addr:housenumber#6 addr:interpolation#all addr:street#Carlandersplatsen
+n 516BH 7(E[g| 6/IeR addr:city#Göteborg addr:housenumber#6 addr:interpolation#even addr:street#Cederbourgsgatan
+n 516BL 7(E[}_ 6/I`y addr:city#Göteborg addr:housenumber#6 addr:interpolation#even addr:street#Eklandagatan
+n 516DK 7(E[Kb 6/Ii& addr:city#Göteborg addr:housenumber#7 addr:interpolation#odd addr:street#Cederbourgsgatan
+n 516DM 7(E[e= 6/IYj addr:city#Göteborg addr:housenumber#7 addr:interpolation#odd addr:street#Eklandagatan
+n 516ED 7(E[mP 6/Ii) addr:city#Göteborg addr:housenumber#8 addr:interpolation#even addr:street#Cederbourgsgatan
+n 516EG 7(E[dm 6/I`h addr:city#Göteborg addr:housenumber#8 addr:interpolation#even addr:street#Eklandagatan
+n 516F! 6fLKL 6/Il) addr:city#Göteborg addr:housenumber#9 addr:interpolation#odd addr:street#Cederbourgsgatan
+n 516F) 7(E[QL 6/IZ% addr:city#Göteborg addr:housenumber#9 addr:interpolation#odd addr:street#Eklandagatan
+n 516FG 7(EZrd 6/I`k name#HusmanHagberg office#estate_agent
+n 516Fl 7(E\)` 5"J_/ name#Skeppsholmen_Fastighetsmäkleri office#estate_agent
+n 516Fs 7(EZd, 6/I[z name#Stadshem_Fastighetsmäkleri office#estate_agent
+n 516G) 7(E[1J 6/I`[ name#bygglovsbutiken.se_Arkitektkonsult office#architect

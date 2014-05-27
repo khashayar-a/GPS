@@ -1,0 +1,24 @@
+n 1`x 7(ExJD 6/Iy= highway#motorway_junction name#Gullbergsmotet ref#75
+n ;#ZS 7(EvN3 6/J4u highway#motorway_junction name#Gullbergsmotet ref#75
+n B5XF 7(Ev5r 6/J1x highway#traffic_signals
+n $0i?* 7(Ey7? 6/Jb& barrier#gate designation#Open_dayhours odbl#clean
+n $QC}# 7(EsrO 6/J?2 highway#motorway_junction name#Olskroksmotet ref#74a
+n %(2zt 7(Exgm 6/K(E railway#switch
+n %/mU? 7(ErxL 6/IqU railway#switch
+n 0,5VI 7(Ex)E 6/Js: railway#switch
+n 0,5Vb 7(Er./ 6/IIF railway#switch
+n 0,5W% 7(EwsP 6/Jk. railway#switch
+n 0,5Z2 7(Ewk> 6/Jj0 railway#switch
+n 0,8^c 7(Eq0T 6/IY4 railway#switch
+n 0,8^o 7(Er&C 6/Ib3 railway#railway_crossing
+n 0,8_& 6fNa0 6/I_Q railway#switch
+n 0?W[U 6fN~l 6/JSV railway#switch
+n 4+)Y: 7(Ets0 6/IkX railway#railway_crossing
+n 4+)[Q 7(EuDh 6/I}K railway#switch
+n 4+)\( 7(EuQa 5"Jc@ railway#switch
+n 4+)\. 7(EuVi 6/I~' railway#switch
+n 4+)\R 7(Eua. 6/J"J railway#switch
+n 4+)\U 7(EubB 6/J+F railway#switch
+n 4+)\o 7(EunV 6/J/J railway#railway_crossing
+n 52pE: 7(Et*K 6/J7@ railway#level_crossing
+n 52pEL 7(Ete0 6/I(Q highway#traffic_signals

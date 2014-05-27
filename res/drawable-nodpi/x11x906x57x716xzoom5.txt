@@ -1,0 +1,163 @@
+w "i]3- foot#yes name#Eketrägatan_Läge_A public_transport#platform
+d 4J8f' 7(EtjD 6/@up
+d 1u%UG 7(Et]z 6/@t4
+d 4J8f$ 6fNzi 6/@r}
+w "i]3. name#Eketrägatan_Läge_B public_transport#platform
+d 1u%Tb 7(Etq+ 6/@t<
+d 4J8f) 7(Eu*} 6/@x~
+n @@:u 7(Ew%h 6/Ayz highway#crossing
+n "77NZ 7(EtyX 6/@vW name#Eketrägatan_Läge_B public_transport#stop_position tram#yes
+n $8[LU 7(Ew<3 6/At" highway#traffic_signals
+n $8[M| 7(ExKo 6/@v~ highway#mini_roundabout
+n $_pgn 7(Ex,. 6/A&= highway#mini_roundabout
+n $_pho 7(Ew+n 6/A/> highway#turning_circle
+n $_pry 7(Ex9/ 6/@eo barrier#cycle_barrier;bollard
+n $_qr. 7(Eue0 6/A#r highway#turning_circle
+n $kUZ- 7(EvY. 6/A|D highway#crossing
+n $pc;. 7(ExTC 6/@XX barrier#cycle_barrier
+n $|GcY 7(Ewje 6/@]n barrier#gate
+n $|GjO 7(Ew+t 6/@lV highway#mini_roundabout
+n $|Gkv 7(Exw$ 6/@js barrier#cycle_barrier;bollard
+n %A!I0 7(Eu8& 6/A4/ barrier#wall
+n &hAhr 7(EwhX 6/@Z' barrier#cycle_barrier
+n 'j^Bw 7(EvVT 6/Azo highway#traffic_signals
+n 'j^B} 7(Ew%+ 6/AyE highway#traffic_signals
+n 'j^C= 7(EvST 6/Aw| highway#traffic_signals
+n 'tl11 7(Ev|= 6/AuB highway#traffic_signals
+n )P%~c 5'z3, 6/@xP highway#bus_stop name#Eketrägatan
+n )P%~g 7(Et9P 6/@tl highway#bus_stop name#Eketrägatan
+n )P&4W 7(Et`z 6/@zC highway#bus_stop
+n /f_se 7(Ev}l 6/@z( addr:housenumber#8 addr:street#Marstrandsgatan
+n /f_vk 6fOAR 5"Iku addr:housenumber#33 addr:street#Arbogagatan
+n /f_|r 7(EwXU 6/@uJ addr:housenumber#14 addr:street#Putsegårdsgatan
+n /f_}4 7(Ew;N 6/@|* addr:housenumber#10B addr:street#Marstrandsgatan
+n /f_~/ 7(EwSW 6/@r= addr:housenumber#9 addr:street#Skanörsgatan
+n /f`&Y 7(EvxM 6/@h~ addr:housenumber#4 addr:street#Skanörsgatan
+n /f`(7 7(Ew;J 6/@pC addr:housenumber#5 addr:street#Skanörsgatan
+n /f`(_ 7(ExUd 6/@zP addr:housenumber#15 addr:street#Skanörsgatan
+n /f`*" 7(Ew-C 6/@qt addr:housenumber#31 addr:street#Köpingsgatan
+n /f`,< 7(Ev@Y 6/@rK addr:housenumber#11 addr:street#Örebrogatan
+n /f`.H 7(Evu( 6/@m= addr:housenumber#3 addr:street#Skanörsgatan
+n /f`/a 7(EwK/ 6/@zW addr:housenumber#10 addr:street#Putsegårdsgatan
+n /f`4' 7(EvP: 6/@lh addr:housenumber#15 addr:street#Örebrogatan
+n /f`40 7(Ewbi 5"Il4 addr:housenumber#12 addr:street#Marstrandsgatan
+n /f`4F 7(ExAe 6/A&6 addr:housenumber#18 addr:street#Marstrandsgatan
+n /f`5% 7(Ewn/ 6/@w, addr:housenumber#13 addr:street#Putsegårdsgatan
+n /f`5J 7(Ew(Q 6/@h7 addr:housenumber#64 addr:street#Köpingsgatan
+n /f`5a 7(Ev{\ 6/@wG addr:housenumber#27 addr:street#Köpingsgatan
+n /f`7? 7(Ex,L 3"Ad addr:housenumber#28 addr:street#Arbogagatan
+n /f`8> 7(Ex7D 6/@w_ addr:housenumber#13B addr:street#Skanörsgatan
+n /f`8` 7(Ev@W 6/@tq addr:housenumber#2 addr:street#Marstrandsgatan
+n /f`=: 7(Ex\[ 6/@tb addr:housenumber#35 addr:street#Arbogagatan
+n /f`=V 7(Ev\< 6/@w? addr:housenumber#6 addr:street#Marstrandsgatan
+n /f`=u 7(Ev\a 6/@kI addr:housenumber#1 addr:street#Skanörsgatan
+n /f`>( 7(Ex>S 6/A#j addr:housenumber#29 addr:street#Arbogagatan
+n /f`>C 7(Ew{< 6/@uM addr:housenumber#11 addr:street#Skanörsgatan
+n /f`@K 7(Ex;> 6/@zE addr:housenumber#32 addr:street#Arbogagatan
+n /f`BS 7(Ew]l 5"IjT addr:housenumber#8 addr:street#Skanörsgatan
+n /f`Bv 7(Ewj5 6/@mx addr:housenumber#16 addr:street#Putsegårdsgatan
+n /f`C. 7(ExK, 6/@s( addr:housenumber#34 addr:street#Arbogagatan
+n /f`D" 7(EwA7 6/@lF addr:housenumber#6 addr:street#Skanörsgatan
+n /f`D, 7(Exd_ 5"IkG addr:housenumber#14 addr:street#Skanörsgatan
+n /f`D@ 7(Evja 6/@u4 addr:housenumber#58 addr:street#Köpingsgatan
+n /f`E2 7(Ew_P 6/@|J addr:housenumber#9 addr:street#Putsegårdsgatan
+n /f`F% 7(Evp; 6/@ea addr:housenumber#66 addr:street#Köpingsgatan
+n /f`HD 5'z6X 6/A#) addr:housenumber#16 addr:street#Marstrandsgatan
+n /f`Ha 7(Ew|n 6/@oz addr:housenumber#15 addr:street#Putsegårdsgatan
+n /f`J! 6fO=I 6/@q{ addr:housenumber#10 addr:street#Skanörsgatan
+n /f`L" 7(EvvN 6/@o\ addr:housenumber#62 addr:street#Köpingsgatan
+n /f`M| 7(Ex=d 6/@s@ addr:housenumber#12 addr:street#Skanörsgatan
+n /f`NN 7(Evkp 6/@g% addr:housenumber#2 addr:street#Skanörsgatan
+n /f`Q9 7(Ew:V 6/@j3 addr:housenumber#33 addr:street#Köpingsgatan
+n /}]&\ 7(EvxA 6/@}R addr:housenumber#7 addr:street#Marstrandsgatan
+n /}]'z 7(Ev7N 6/A.' addr:housenumber#44 addr:street#Köpingsgatan
+n /}])8 6fO,Y 5"ImY addr:housenumber#42 addr:street#Köpingsgatan
+n /}])~ 6fO,Y 6/A2$ addr:housenumber#38 addr:street#Köpingsgatan
+n /}]*( 7(EvJ0 6/A<f addr:housenumber#26 addr:street#Köpingsgatan
+n /}]*E 7(EwK9 6/A&S addr:housenumber#7 addr:street#Putsegårdsgatan
+n /}]+A 7(Ev:| 5"Im< addr:housenumber#46 addr:street#Köpingsgatan
+n /}],C 7(EvOB 6/A?v addr:housenumber#22 addr:street#Köpingsgatan
+n /}],_ 7(EwVp 6/A%I addr:housenumber#11 addr:street#Marstrandsgatan
+n /}]15 7(EvR8 6/@zm addr:housenumber#5 addr:street#Marstrandsgatan
+n /}]2U 7(Ev8k 6/A4B addr:housenumber#36 addr:street#Köpingsgatan
+n /}]3} 7(EvW, 6/@}W addr:housenumber#56 addr:street#Köpingsgatan
+n /}]5g 7(Ev:0 6/A5/ addr:housenumber#34 addr:street#Köpingsgatan
+n /}]5} 7(EvN- 6/A>~ addr:housenumber#24 addr:street#Köpingsgatan
+n /}]6J 7(Ev=| 6/A7> addr:housenumber#32 addr:street#Köpingsgatan
+n /}]:z 7(EvC4 6/A9\ addr:housenumber#30 addr:street#Köpingsgatan
+n /}]@v 7(EvkB 6/@~i addr:housenumber#25 addr:street#Köpingsgatan
+n /}]A. 7(Ev8O 6/@xU addr:housenumber#1 addr:street#Marstrandsgatan
+n /}]Ar 6fO<B 6/A+B addr:housenumber#26 addr:street#Arbogagatan
+n /}]C, 7(EvR^ 6/AB( addr:housenumber#20 addr:street#Köpingsgatan
+n /}]D| 7(Ev*" 5"Ik^ addr:housenumber#9 addr:street#Örebrogatan
+n /}]E' 7(EvHI 6/A;h addr:housenumber#28 addr:street#Köpingsgatan
+n /}]E} 7(Ev6B 6/A17 addr:housenumber#40 addr:street#Köpingsgatan
+n /}]F; 7(Ewu< 6/A(O addr:housenumber#15 addr:street#Marstrandsgatan
+n 0B-h5 7(Evy" 6/@Dv amenity#fast_food cuisine#pizza name#Palermo_Pizzeria
+n 0JWA{ 7(Ew]z 6/A@0 addr:housenumber#13 addr:street#Arbogagatan
+n 0JWBW 7(Ex;D 6/A53 addr:housenumber#30B addr:street#Strömstadgatan
+n 0JWBj 7(Ex,% 6/A,( addr:housenumber#27 addr:street#Arbogagatan
+n 0JWDR 6fO:J 6/ABR addr:housenumber#2 addr:street#Rävsalsgatan
+n 0JWDX 7(Ex83 6/A6T addr:housenumber#30A addr:street#Strömstadgatan
+n 0JWF7 7(Ex5q 5"Im1 addr:housenumber#17 addr:street#Marstrandsgatan
+n 0g;&- 7(Ewdl 6/@Q: addr:housenumber#21C addr:street#Sunnerviksgatan
+n 0g;&? 7(Ev`m 6/@Oy addr:housenumber#7B addr:street#Jättestensgatan
+n 0g;&A 7(EtMR 6/@Hn addr:housenumber#10B addr:street#Baltzersgatan
+n 0g;&D 7(ExL" 6/@JZ addr:housenumber#19A addr:street#Sunnerviksgatan
+n 0g;&F 7(Ett" 6/@^. addr:housenumber#2A addr:street#Baltzersgatan
+n 0g;&O 7(EwRW 6/@Iz addr:housenumber#11B addr:street#Jättestensgatan
+n 0g;&S 6fNwT 6/@ZF addr:housenumber#6A addr:street#Baltzersgatan
+n 0g;&T 7(Evd8 6/@R* addr:housenumber#7C addr:street#Jättestensgatan
+n 0g;&U 7(EtHG 6/@Fa addr:housenumber#10C addr:street#Baltzersgatan
+n 0g;&X 7(EuD* 6/@_^ addr:housenumber#5C addr:street#Baltzersgatan
+n 0g;&Z 7(Etc] 6/@Qg addr:housenumber#4B addr:street#Baltzersgatan
+n 0g;&] 7(EwWp 6/@L* addr:housenumber#11A addr:street#Jättestensgatan
+n 0g;&_ 7(Ev]b 5"Ih< addr:housenumber#1A addr:street#Baltzersgatan
+n 0g;&q 7(Et*~ 6/@Y? addr:housenumber#6B addr:street#Baltzersgatan
+n 0g;&~ 7(EuA9 6/@OA addr:housenumber#1B addr:street#Jättestensgatan
+n 0g;'' 7(Eu3/ 6/@ZY addr:housenumber#7A addr:street#Baltzersgatan
+n 0g;'- 6fO)r 6/@_n addr:housenumber#3C addr:street#Baltzersgatan
+n 0g;'/ 7(ExA, 6/@K| addr:housenumber#19B addr:street#Sunnerviksgatan
+n 0g;'5 7(Eu-d 6/@WF addr:housenumber#7B addr:street#Baltzersgatan
+n 0g;'? 6fNz2 6/@\< addr:housenumber#2D addr:street#Baltzersgatan
+n 0g;'B 7(Ev&- 6/@Po addr:housenumber#3A addr:street#Jättestensgatan
+n 0g;'D 6fO?C 6/@M; addr:housenumber#19C addr:street#Sunnerviksgatan
+n 0g;'F 7(EvBa 6/@JE addr:housenumber#5B addr:street#Jättestensgatan
+n 0g;'I 7(Eu\m 6/@`3 addr:housenumber#5A addr:street#Baltzersgatan
+n 0g;'V 7(Ev5w 6/@K. addr:housenumber#5A addr:street#Jättestensgatan
+n 0g;'W 7(EvU3 6/@Yc addr:housenumber#1B addr:street#Baltzersgatan
+n 0g;'Y 6fO+: 6/@S/ addr:housenumber#3B addr:street#Jättestensgatan
+n 0g;'a 7(Es}A 6/@W~ addr:housenumber#6C addr:street#Baltzersgatan
+n 0g;'f 7(EvLa 6/@[S addr:housenumber#1C addr:street#Baltzersgatan
+n 0g;'w 7(EuO> 6/@NT addr:housenumber#1C addr:street#Jättestensgatan
+n 0g;'| 6fNtR 6/@Vz addr:housenumber#6D addr:street#Baltzersgatan
+n 0g;(. 7(Ew|e 6/@OG addr:housenumber#21A addr:street#Sunnerviksgatan
+n 0g;(A 7(Eu]B 6/@Mf addr:housenumber#1D addr:street#Jättestensgatan
+n 0g;(X 7(Eu(T 6/@TB addr:housenumber#7C addr:street#Baltzersgatan
+n 0g;([ 7(Et[2 6/@\v addr:housenumber#2C addr:street#Baltzersgatan
+n 0g;(^ 7(Ewp` 6/@PA addr:housenumber#21B addr:street#Sunnerviksgatan
+n 0g;(` 7(Ev]5 6/@Ma addr:housenumber#7A addr:street#Jättestensgatan
+n 0g;(c 7(EvI2 6/@I~ addr:housenumber#5C addr:street#Jättestensgatan
+n 0g;(h 7(EuP< 6/@_w addr:housenumber#5B addr:street#Baltzersgatan
+n 0g;(i 7(Eth' 6/@]T addr:housenumber#2B addr:street#Baltzersgatan
+n 0g;(k 7(EwO2 6/@HV addr:housenumber#11C addr:street#Jättestensgatan
+n 0g;(o 7(Ev-8 6/@UO addr:housenumber#3C addr:street#Jättestensgatan
+n 0g;({ 7(EtTg 5"Ig) addr:housenumber#10A addr:street#Baltzersgatan
+n 0g;(} 7(Ethz 6/@St addr:housenumber#4A addr:street#Baltzersgatan
+n 0g;)2 7(Ev0U 5"Ih: addr:housenumber#3D addr:street#Jättestensgatan
+n 0g;)7 7(Eu35 6/@P. addr:housenumber#1A addr:street#Jättestensgatan
+n 0g;)C 7(Ev3e 6/@^P addr:housenumber#3A addr:street#Baltzersgatan
+n 0g;)L 7(EukG 6/@Ly addr:housenumber#1E addr:street#Jättestensgatan
+n 0g;)e 7(Ev'2 6/@_2 addr:housenumber#3B addr:street#Baltzersgatan
+n 0hvjv 7(Eu+, 6/@\4 traffic_calming#hump
+n 0hvk: 7(Et2# 6/?yC traffic_calming#hump
+n 0hvl[ 7(Euiy 6/@I; traffic_calming#hump
+n 0hvls 7(Et33 5"Idn traffic_calming#hump
+n 1`KTX 7(Eu*: 6/A<| addr:housenumber#25 addr:street#Kohagsgatan
+n 1`KVZ 7(Eu3* 6/A=) addr:housenumber#32 addr:street#Institutsgatan
+n 1u%T[ 7(EwmG 6/Bj| bus#yes local_ref#C name#Rambergsvallen_Läge_C public_transport#stop_position
+n 1u%UY 7(Ex9e 5"I~< bus#yes local_ref#D name#Rambergsvallen_Läge_D public_transport#stop_position
+n 4J'2w 7(Etc0 6/@t2 name#Eketrägatan_Läge_A public_transport#stop_position tram#yes
+n 4J'2z 7(Etl> 6/@uC railway#crossing
+n 4J8f( 7(Etnc 6/@tj railway#crossing
+n 4vdKx 7(Ewj\ 6/@qq highway#mini_roundabout
